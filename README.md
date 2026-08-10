@@ -75,17 +75,31 @@ exactly what BeingDB's own tools expect.
 ```bash
 beingdb-clone https://github.com/<owner>/beingdb-rewind-interviews.git --git ./git_store
 beingdb-compile --git ./git_store --pack ./pack_store
-beingdb-serve --pack ./pack_store
-
-curl -X POST http://localhost:8080/query -d '{"query": "created_by(Work, kevin_atherton)"}'
-```
-
-Or query the compiled pack store directly, without running the HTTP server:
-
-```bash
 beingdb-repl --pack ./pack_store
-beingdb> created_by(Work, kevin_atherton)
 ```
+
+Some more interesting queries to try in the REPL:
+
+```prolog
+% Everything Kevin Atherton made, with the medium of each work
+created_by(Work, kevin_atherton), uses_medium(Work, Medium)
+
+% Where his work has been exhibited
+created_by(Work, kevin_atherton), exhibited_at(Work, Venue)
+
+% Who he collaborated with
+collaborated_with(kevin_atherton, Person)
+
+% Institutions he studied at or was employed by
+educated_at(kevin_atherton, Institution)
+employed_by(kevin_atherton, Institution)
+
+% Any work made using video, regardless of artist
+uses_medium(Work, "video")
+```
+
+As more interviews are added, the same predicates join across artists, e.g.
+`employed_by(Artist, slade)` for everyone who taught or studied at the Slade.
 
 ## Example
 
