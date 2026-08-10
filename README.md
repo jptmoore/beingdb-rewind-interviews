@@ -52,9 +52,11 @@ other generated code.
 │   ├── extract-text.ts        # PDF -> plain text (embedded text layer only)
 │   ├── generate-facts.ts      # chunking + OpenAI structured-output calls
 │   ├── prompts.ts             # the conservative extraction prompt
+│   ├── show-prompt.ts         # npm run show-prompt - print the prompt without calling the API
 │   ├── normalize.ts           # stable atom IDs, aliasing, collision handling
 │   ├── validate.ts            # structural validation, conservative filtering, dedup
 │   ├── serialize.ts           # typed literals -> BeingDB syntax, predicate-file merge
+│   ├── reconcile.ts           # npm run reconcile - offline atom-rename/merge tool
 │   ├── metadata.ts            # provenance + evidence sidecar files
 │   └── types.ts
 │
@@ -117,6 +119,14 @@ This fetches the source, extracts its text, calls OpenAI for structured
 candidate facts, validates and conservatively filters them, and merges the
 result into `predicates/*.pl`, plus updates `metadata/extraction.json` and
 `metadata/evidence/<id>.json`.
+
+To review the exact prompt sent to the model - e.g. before spending API
+budget, or when auditing why a fact was or wasn't extracted - without
+calling the API at all:
+
+```bash
+npm run show-prompt
+```
 
 **Review before committing.** Nothing is destructive - rerunning only adds or
 preserves lines - but always read the `git diff` on `predicates/` before
