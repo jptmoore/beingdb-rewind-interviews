@@ -80,6 +80,13 @@ beingdb-serve --pack ./pack_store
 curl -X POST http://localhost:8080/query -d '{"query": "created_by(Work, kevin_atherton)"}'
 ```
 
+Or query the compiled pack store directly, without running the HTTP server:
+
+```bash
+beingdb-repl --pack ./pack_store
+beingdb> created_by(Work, kevin_atherton)
+```
+
 ## Example
 
 Facts actually generated from Kevin Atherton's REWIND interview:
