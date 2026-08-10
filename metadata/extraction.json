@@ -15,6 +15,21 @@
         "entity id collision: \"Ikon Gallery\" and \"Ikon Gallery, Birmingham\" both normalize to \"ikon_gallery_birmingham\"; \"Ikon Gallery\" was assigned \"ikon_gallery_birmingham_2\" instead. Add an explicit override in config/entity-aliases.json or config/interviews.json if this is wrong.",
         "entity id collision: \"Ikon Gallery\" and \"Ikon Gallery, Birmingham\" both normalize to \"ikon_gallery_birmingham\"; \"Ikon Gallery\" was assigned \"ikon_gallery_birmingham_3\" instead. Add an explicit override in config/entity-aliases.json or config/interviews.json if this is wrong."
       ]
+    },
+    "madelon_hooykaas": {
+      "id": "madelon_hooykaas",
+      "documentId": "rewind_madelon_hooykaas_interview",
+      "sourceUrl": "https://rewind.ac.uk/rewind/wp-content/uploads/sites/146/2021/03/ESMH510.pdf",
+      "sourceChecksum": "317de6be5992056d5e410cfc755ebc9282511d82bae99fcb4fd1d9eec5f2d34e",
+      "extractedAt": "2026-08-10T14:16:07.915Z",
+      "model": "gpt-4.1",
+      "pipelineVersion": "1",
+      "chunkCount": 9,
+      "factCount": 314,
+      "droppedFactCount": 0,
+      "warnings": [
+        "entity id collision: \"Time Based Arts\" and \"Time-based Arts\" both normalize to \"time_based_arts\"; \"Time Based Arts\" was assigned \"time_based_arts_2\" instead. Add an explicit override in config/entity-aliases.json or config/interviews.json if this is wrong."
+      ]
     }
   }
 }

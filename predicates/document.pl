@@ -2,3 +2,4 @@
 % See metadata/extraction.json for source provenance and candidates/evidence for supporting quotes.
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 document(rewind_kevin_atherton_interview).
+document(rewind_madelon_hooykaas_interview).

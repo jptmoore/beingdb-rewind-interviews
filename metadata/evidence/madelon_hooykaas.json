@@ -1,0 +1,2200 @@
+[
+  {
+    "fact": "person(madelon_hooykaas).",
+    "source": "madelon_hooykaas",
+    "evidence": "Interview with Madelon Hooykaas",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(elsa_stansfield).",
+    "source": "madelon_hooykaas",
+    "evidence": "Elsa Stansfield and I made...",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "work(running_time).",
+    "source": "madelon_hooykaas",
+    "evidence": "a work that Elsa Stansfield and I made ... called Running Time.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "venue(maidstone_college).",
+    "source": "madelon_hooykaas",
+    "evidence": "video bursary at Maidstone College in 1979",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "organisation(glasgow_school_of_art).",
+    "source": "madelon_hooykaas",
+    "evidence": "She studied at the Glasgow School of Art",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "organisation(bbc).",
+    "source": "madelon_hooykaas",
+    "evidence": "It was a BBC documentary",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(eve_arnold).",
+    "source": "madelon_hooykaas",
+    "evidence": "There was a photographer named Eve Arnold, who also made films. One of the films she made is called Behind the Veil.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "work(behind_the_veil).",
+    "source": "madelon_hooykaas",
+    "evidence": "One of the films she made is called Behind the Veil.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "venue(ealing_school_of_art).",
+    "source": "madelon_hooykaas",
+    "evidence": "Elsa and I met in 1966 in London at the Ealing School of Art.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "venue(neils_yard_covent_garden).",
+    "source": "madelon_hooykaas",
+    "evidence": "At that time Elsa had a studio at Neil's Yard in Covent Garden called 8, 9 and 10.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(patricia_holland).",
+    "source": "madelon_hooykaas",
+    "evidence": "MH: Patricia Holland. Actually, the other one was not a filmmaker.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(delia_derbyshire).",
+    "source": "madelon_hooykaas",
+    "evidence": "The other person was Delia Derbyshire. She worked at the BBC in the Radiophonic Workshop.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "organisation(bbc_radiophonic_workshop).",
+    "source": "madelon_hooykaas",
+    "evidence": "She worked at the BBC in the Radiophonic Workshop.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(brian_hodgeson).",
+    "source": "madelon_hooykaas",
+    "evidence": "With Brian Hodgeson she left, and started their own studio in Neil's Yard.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "work(one_of_these_days).",
+    "source": "madelon_hooykaas",
+    "evidence": "The film’s title translates as One of These Days.",
+    "confidence": "explicit",
+    "page": 2
+  },
+  {
+    "fact": "organisation(british_film_institute).",
+    "source": "madelon_hooykaas",
+    "evidence": "The British Film Institute weren't interested in it",
+    "confidence": "explicit",
+    "page": 2
+  },
+  {
+    "fact": "venue(london_film_festival).",
+    "source": "madelon_hooykaas",
+    "evidence": "we wanted to show at The London Film Festival.",
+    "confidence": "explicit",
+    "page": 2
+  },
+  {
+    "fact": "person(david_curtis).",
+    "source": "madelon_hooykaas",
+    "evidence": "I think David Curtis was the Director of the London Film Festival at the time.",
+    "confidence": "supported",
+    "page": 2
+  },
+  {
+    "fact": "created_by(running_time, madelon_hooykaas).",
+    "source": "madelon_hooykaas",
+    "evidence": "a work that Elsa Stansfield and I made ... called Running Time.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "created_by(running_time, elsa_stansfield).",
+    "source": "madelon_hooykaas",
+    "evidence": "a work that Elsa Stansfield and I made ... called Running Time.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "year_created(running_time, @1979).",
+    "source": "madelon_hooykaas",
+    "evidence": "video bursary at Maidstone College in 1979",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "made_at(running_time, maidstone_college).",
+    "source": "madelon_hooykaas",
+    "evidence": "The work was actually shot in the North of England and was finished at Maidstone College, using their facilities.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "uses_medium(running_time, \"black-and-white video\").",
+    "source": "madelon_hooykaas",
+    "evidence": "We worked a lot during that period with the lines of the black-and-white video, meaning the structure of the video image.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "uses_medium(running_time, \"photographic images\").",
+    "source": "madelon_hooykaas",
+    "evidence": "Often our work is not just one single tape, but is also often photographic images, which are still images from the video.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "uses_medium(running_time, \"linen\").",
+    "source": "madelon_hooykaas",
+    "evidence": "They were sometimes printed on linen using the structure of the material of linen and the video image.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "length_minutes(running_time, 6).",
+    "source": "madelon_hooykaas",
+    "evidence": "This work is a 6-minute long piece of a figure running in the landscape.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "collaborated_with(madelon_hooykaas, elsa_stansfield).",
+    "source": "madelon_hooykaas",
+    "evidence": "a work that Elsa Stansfield and I made...",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "collaborated_with(elsa_stansfield, madelon_hooykaas).",
+    "source": "madelon_hooykaas",
+    "evidence": "a work that Elsa Stansfield and I made...",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "educated_at(elsa_stansfield, glasgow_school_of_art).",
+    "source": "madelon_hooykaas",
+    "evidence": "She studied at the Glasgow School of Art",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "collaborated_with(elsa_stansfield, delia_derbyshire).",
+    "source": "madelon_hooykaas",
+    "evidence": "We worked with Delia Derbyshire... on different soundtracks for films. Elsa made several soundtracks for films.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "collaborated_with(elsa_stansfield, brian_hodgeson).",
+    "source": "madelon_hooykaas",
+    "evidence": "She worked with Delia Derbyshire and Brian Hodgeson on different soundtracks for films.",
+    "confidence": "supported",
+    "page": 1
+  },
+  {
+    "fact": "collaborated_with(madelon_hooykaas, delia_derbyshire).",
+    "source": "madelon_hooykaas",
+    "evidence": "We worked with Delia Derbyshire... on different soundtracks for films.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "collaborated_with(madelon_hooykaas, brian_hodgeson).",
+    "source": "madelon_hooykaas",
+    "evidence": "We worked with Delia Derbyshire and Brian Hodgeson on different soundtracks for films.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "created_by(one_of_these_days, madelon_hooykaas).",
+    "source": "madelon_hooykaas",
+    "evidence": "I did production and camera and Elsa mainly did sound and editing.",
+    "confidence": "explicit",
+    "page": 2
+  },
+  {
+    "fact": "created_by(one_of_these_days, elsa_stansfield).",
+    "source": "madelon_hooykaas",
+    "evidence": "I did production and camera and Elsa mainly did sound and editing.",
+    "confidence": "explicit",
+    "page": 2
+  },
+  {
+    "fact": "music_by(one_of_these_days, delia_derbyshire).",
+    "source": "madelon_hooykaas",
+    "evidence": "with music by Delia Derbyshire. We gave her a composition possibility, to make a new soundtrack.",
+    "confidence": "explicit",
+    "page": 2
+  },
+  {
+    "fact": "edited_at(one_of_these_days, neils_yard_covent_garden).",
+    "source": "madelon_hooykaas",
+    "evidence": "We edited it all in Neil's Yard and mixed it all in Britain.",
+    "confidence": "explicit",
+    "page": 2
+  },
+  {
+    "fact": "exhibited_at(one_of_these_days, london_film_festival).",
+    "source": "madelon_hooykaas",
+    "evidence": "we wanted to show at The London Film Festival...he agreed to take it. That was very good for us, to have the film at such a high profile festival.",
+    "confidence": "explicit",
+    "page": 2
+  },
+  {
+    "fact": "educated_at(elsa_stansfield, ealing_school).",
+    "source": "madelon_hooykaas",
+    "evidence": "After studying at Ealing School, Elsa started to make her own films.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "educated_at(elsa_stansfield, slade_school_of_art).",
+    "source": "madelon_hooykaas",
+    "evidence": "Then she studied at the Slade. She did film studies, so her background was far more in film than mine.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "worked_as_assistant_in_city(madelon_hooykaas, \"Paris\").",
+    "source": "madelon_hooykaas",
+    "evidence": "I had just worked as an assistant in Paris working on a film crew, doing documentary work, just to learn the skills.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(madelon_hooykaas, photographers_gallery_london).",
+    "source": "madelon_hooykaas",
+    "evidence": "Yes, I was showing my work in Photographers’ Galleries in London and in Milan in 1971/'72 around the time I had started to work with Elsa.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(madelon_hooykaas, photographers_gallery_milan).",
+    "source": "madelon_hooykaas",
+    "evidence": "Yes, I was showing my work in Photographers’ Galleries in London and in Milan in 1971/'72 around the time I had started to work with Elsa.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(whats_it_to_you, third_eye_centre).",
+    "source": "madelon_hooykaas",
+    "evidence": "The first one was What's It To You? It was shown in the Third Eye Centre in 1975.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "year_created(whats_it_to_you, @1975).",
+    "source": "madelon_hooykaas",
+    "evidence": "The first one was What's It To You? It was shown in the Third Eye Centre in 1975.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "made_at(whats_it_to_you, third_eye_centre).",
+    "source": "madelon_hooykaas",
+    "evidence": "We made our first work with video in Scotland at what was then the Third Eye Centre, in 1975.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "uses_medium(madelon_hooykaas, \"video\").",
+    "source": "madelon_hooykaas",
+    "evidence": "Working with video was very different, and it was far more conceptual as well.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "uses_medium(madelon_hooykaas, \"Polaroid photography\").",
+    "source": "madelon_hooykaas",
+    "evidence": "I worked a lot in that period with Polaroids and sequences. I used the idea that you made your Polaroid and you immediately could react when you looked at it, then you could make the next work.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(horizontal_flow, lyc_museum_banks).",
+    "source": "madelon_hooykaas",
+    "evidence": "That work was also shown in the LYC Museum in Banks.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "made_at(horizontal_flow, teesside_college_of_art).",
+    "source": "madelon_hooykaas",
+    "evidence": "Another key work is called Horizontal Flow, which we made at Teesside College of Art.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "created_by(horizontal_flow, madelon_hooykaas).",
+    "source": "madelon_hooykaas",
+    "evidence": "Another key work is called Horizontal Flow, which we made at Teesside College of Art.",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "created_by(horizontal_flow, elsa_stansfield).",
+    "source": "madelon_hooykaas",
+    "evidence": "Another key work is called Horizontal Flow, which we made at Teesside College of Art.",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "created_by(whats_it_to_you, madelon_hooykaas).",
+    "source": "madelon_hooykaas",
+    "evidence": "The first one was What's It To You? It was shown in the Third Eye Centre in 1975. (Context indicates they were collaborating.)",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "created_by(whats_it_to_you, elsa_stansfield).",
+    "source": "madelon_hooykaas",
+    "evidence": "The first one was What's It To You? It was shown in the Third Eye Centre in 1975. (Context indicates they were collaborating.)",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "curated_by(whitechapel_art_gallery, jasia_reichardt).",
+    "source": "madelon_hooykaas",
+    "evidence": "We were also invited to make a piece by Jasia Reichardt, who was the director of the Whitechapel Art Gallery then.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(whitechapel_art_gallery, madelon_hooykaas).",
+    "source": "madelon_hooykaas",
+    "evidence": "we made a five-tape installation work for the Whitechapel Art Gallery.",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(de_appel_foundation, madelon_hooykaas).",
+    "source": "madelon_hooykaas",
+    "evidence": "because of that show in the Whitechapel Art Gallery, we got a show in the Netherlands, at De Appel Foundation.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(sea_of_light, chapter_art_centre).",
+    "source": "madelon_hooykaas",
+    "evidence": "It is called Sea of Light. We made it using the four galleries there, but also using the surroundings of Cardiff near the sea.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "made_at(sea_of_light, chapter_art_centre).",
+    "source": "madelon_hooykaas",
+    "evidence": "It is called Sea of Light. We made it using the four galleries there, but also using the surroundings of Cardiff near the sea.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "created_by(sea_of_light, madelon_hooykaas).",
+    "source": "madelon_hooykaas",
+    "evidence": "It is called Sea of Light. We made it using the four galleries there, but also using the surroundings of Cardiff near the sea. (Context indicates collaboration between Hooykaas and Stansfield.)",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "created_by(sea_of_light, elsa_stansfield).",
+    "source": "madelon_hooykaas",
+    "evidence": "It is called Sea of Light. We made it using the four galleries there, but also using the surroundings of Cardiff near the sea. (Context indicates collaboration between Hooykaas and Stansfield.)",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "person(jasia_reichardt).",
+    "source": "madelon_hooykaas",
+    "evidence": "Jasia Reichardt, who was the director of the Whitechapel Art Gallery then.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(ealing_school).",
+    "source": "madelon_hooykaas",
+    "evidence": "After studying at Ealing School, Elsa started to make her own films.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(slade_school_of_art).",
+    "source": "madelon_hooykaas",
+    "evidence": "Then she studied at the Slade. She did film studies, so her background was far more in film than mine.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(arts_council).",
+    "source": "madelon_hooykaas",
+    "evidence": "we were able to borrow a Portapak from the Arts Council. It was their first Portapak.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(fantasy_factory).",
+    "source": "madelon_hooykaas",
+    "evidence": "Then of course, what was also very good was Fantasy Factory. That's where we edited.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(third_eye_centre).",
+    "source": "madelon_hooykaas",
+    "evidence": "We made our first work with video in Scotland at what was then the Third Eye Centre, in 1975.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(photographers_gallery_london).",
+    "source": "madelon_hooykaas",
+    "evidence": "I was showing my work in Photographers’ Galleries in London",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(photographers_gallery_milan).",
+    "source": "madelon_hooykaas",
+    "evidence": "I was showing my work in Photographers’ Galleries... in Milan",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(lyc_museum_banks).",
+    "source": "madelon_hooykaas",
+    "evidence": "That work was also shown in the LYC Museum in Banks.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(teesside_college_of_art).",
+    "source": "madelon_hooykaas",
+    "evidence": "Another key work is called Horizontal Flow, which we made at Teesside College of Art.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(whitechapel_art_gallery).",
+    "source": "madelon_hooykaas",
+    "evidence": "Whitechapel Art Gallery",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(de_appel_foundation).",
+    "source": "madelon_hooykaas",
+    "evidence": "at De Appel Foundation",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(chapter_art_centre).",
+    "source": "madelon_hooykaas",
+    "evidence": "It is called Sea of Light. We made it using the four galleries there",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(greater_london_arts_association_glaa).",
+    "source": "madelon_hooykaas",
+    "evidence": "I think she also got a grant from the Greater London Arts Association, GLAA, to work on memory",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(whats_it_to_you).",
+    "source": "madelon_hooykaas",
+    "evidence": "The first one was What's It To You? It was shown in the Third Eye Centre in 1975.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(horizontal_flow).",
+    "source": "madelon_hooykaas",
+    "evidence": "Another key work is called Horizontal Flow, which we made at Teesside College of Art.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(sea_of_light).",
+    "source": "madelon_hooykaas",
+    "evidence": "It is called Sea of Light. We made it using the four galleries there, but also using the surroundings of Cardiff near the sea.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "created_by(the_wind_works, madelon_hooykaas).",
+    "source": "madelon_hooykaas",
+    "evidence": "I would say that The Wind works were key works ...",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "created_by(the_wind_works, elsa).",
+    "source": "madelon_hooykaas",
+    "evidence": "I would say that The Wind works were key works ...",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "uses_medium(the_wind_works, \"live video\").",
+    "source": "madelon_hooykaas",
+    "evidence": "The Wind works were key works through the combination of live video and pre-recorded tape.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "uses_medium(the_wind_works, \"pre-recorded tape\").",
+    "source": "madelon_hooykaas",
+    "evidence": "The Wind works were key works through the combination of live video and pre-recorded tape.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "created_by(inside_outside, madelon_hooykaas).",
+    "source": "madelon_hooykaas",
+    "evidence": "In 1982 we made a work Inside/Outside...",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "created_by(inside_outside, elsa).",
+    "source": "madelon_hooykaas",
+    "evidence": "In 1982 we made a work Inside/Outside...",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "year_created(inside_outside, @1982).",
+    "source": "madelon_hooykaas",
+    "evidence": "In 1982 we made a work Inside/Outside...",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "conserved_by(inside_outside, montevideo).",
+    "source": "madelon_hooykaas",
+    "evidence": "Inside/Outside, which is actually conserved by Montevideo.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "conserved_in_project(inside_outside, european_conservation_project).",
+    "source": "madelon_hooykaas",
+    "evidence": "It was in the European Conservation Project",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "collaborated_with(montevideo, institute_of_cultural_heritage_in_the_netherlands).",
+    "source": "madelon_hooykaas",
+    "evidence": "together with the Institute of Cultural Heritage in the Netherlands...",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "year_created(compass, @1984).",
+    "source": "madelon_hooykaas",
+    "evidence": "In 1984, we showed another version called Compass.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "created_by(compass, madelon_hooykaas).",
+    "source": "madelon_hooykaas",
+    "evidence": "In 1984, we showed another version called Compass.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "created_by(compass, elsa).",
+    "source": "madelon_hooykaas",
+    "evidence": "In 1984, we showed another version called Compass.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "exhibited_at(compass, luminous_image).",
+    "source": "madelon_hooykaas",
+    "evidence": "In 1984, we showed another version called Compass. It was... in a famous show called Luminous Image.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "exhibited_at(luminous_image, stedelijk_museum_of_modern_art_in_amsterdam).",
+    "source": "madelon_hooykaas",
+    "evidence": "in the Stedelijk Museum of Modern Art in Amsterdam.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "created_by(on_boundaries, madelon_hooykaas).",
+    "source": "madelon_hooykaas",
+    "evidence": "we made works like On Boundaries, using that line.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "created_by(on_boundaries, elsa).",
+    "source": "madelon_hooykaas",
+    "evidence": "we made works like On Boundaries, using that line.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "created_by(magnetic_north, madelon_hooykaas).",
+    "source": "madelon_hooykaas",
+    "evidence": "we made Magnetic North in Umeå, in the far North of Sweden, in 1982.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "created_by(magnetic_north, elsa).",
+    "source": "madelon_hooykaas",
+    "evidence": "we made Magnetic North in Umeå, in the far North of Sweden, in 1982.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "year_created(magnetic_north, @1982).",
+    "source": "madelon_hooykaas",
+    "evidence": "we made Magnetic North in Umeå, in the far North of Sweden, in 1982.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "made_at(magnetic_north, umea).",
+    "source": "madelon_hooykaas",
+    "evidence": "we made Magnetic North in Umeå, in the far North of Sweden, in 1982.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "made_at(magnetic_north, stockholm).",
+    "source": "madelon_hooykaas",
+    "evidence": "we made special works in Stockholm in Sweden, and Bergin in Norway. We were in Shetland and in Finland. We made a number of works on location.",
+    "confidence": "supported",
+    "page": 6
+  },
+  {
+    "fact": "made_at(magnetic_north, bergin).",
+    "source": "madelon_hooykaas",
+    "evidence": "we made special works in Stockholm in Sweden, and Bergin in Norway. We were in Shetland and in Finland. We made a number of works on location.",
+    "confidence": "supported",
+    "page": 6
+  },
+  {
+    "fact": "made_at(magnetic_north, shetland).",
+    "source": "madelon_hooykaas",
+    "evidence": "we made special works in Stockholm in Sweden, and Bergin in Norway. We were in Shetland and in Finland. We made a number of works on location.",
+    "confidence": "supported",
+    "page": 6
+  },
+  {
+    "fact": "made_at(magnetic_north, finland).",
+    "source": "madelon_hooykaas",
+    "evidence": "we made special works in Stockholm in Sweden, and Bergin in Norway. We were in Shetland and in Finland. We made a number of works on location.",
+    "confidence": "supported",
+    "page": 6
+  },
+  {
+    "fact": "created_by(video_void, madelon_hooykaas).",
+    "source": "madelon_hooykaas",
+    "evidence": "The work what was called Video Void. It was work that we actually made in Wapping when we had our studio there.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "created_by(video_void, elsa).",
+    "source": "madelon_hooykaas",
+    "evidence": "The work what was called Video Void. It was work that we actually made in Wapping when we had our studio there.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "performed_at(video_void, the_kitchen).",
+    "source": "madelon_hooykaas",
+    "evidence": "we went and made a piece in the Kitchen using our own breathing. That was also for one evening. The work what was called Video Void.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "made_at(video_void, wapping_rotherhithe_tunnel).",
+    "source": "madelon_hooykaas",
+    "evidence": "We used the Wapping-Rotherhithe Tunnel through the Themes. Actually, Elsa walked thought the tunnel and that made the soundtrack for the piece.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "collaborated_with(de_appel_foundation, franklin_furnace).",
+    "source": "madelon_hooykaas",
+    "evidence": "De Appel Foundation in Amsterdam had an exchange with Franklin Furnace in New York.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "person(elsa).",
+    "source": "madelon_hooykaas",
+    "evidence": "With being a duo at the time, we worked in a way where Elsa would concentrate on some things, and then I would concentrate on other projects. So she was very involved in the conservation of that work.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "work(the_wind_works).",
+    "source": "madelon_hooykaas",
+    "evidence": "The Wind works were key works through the combination of live video and pre-recorded tape.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "work(inside_outside).",
+    "source": "madelon_hooykaas",
+    "evidence": "In 1982 we made a work Inside/Outside...",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "organisation(montevideo).",
+    "source": "madelon_hooykaas",
+    "evidence": "actually conserved by Montevideo.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "organisation(institute_of_cultural_heritage_in_the_netherlands).",
+    "source": "madelon_hooykaas",
+    "evidence": "together with the Institute of Cultural Heritage in the Netherlands.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "organisation(european_conservation_project).",
+    "source": "madelon_hooykaas",
+    "evidence": "It was in the European Conservation Project",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "work(compass).",
+    "source": "madelon_hooykaas",
+    "evidence": "In 1984, we showed another version called Compass.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "exhibition(luminous_image).",
+    "source": "madelon_hooykaas",
+    "evidence": "in a famous show called Luminous Image.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "venue(stedelijk_museum_of_modern_art_in_amsterdam).",
+    "source": "madelon_hooykaas",
+    "evidence": "in the Stedelijk Museum of Modern Art in Amsterdam.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "work(on_boundaries).",
+    "source": "madelon_hooykaas",
+    "evidence": "we made works like On Boundaries, using that line.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "work(magnetic_north).",
+    "source": "madelon_hooykaas",
+    "evidence": "we made Magnetic North in Umeå, in the far North of Sweden, in 1982.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "venue(umea).",
+    "source": "madelon_hooykaas",
+    "evidence": "we made Magnetic North in Umeå, in the far North of Sweden, in 1982.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "organisation(franklin_furnace).",
+    "source": "madelon_hooykaas",
+    "evidence": "De Appel Foundation in Amsterdam had an exchange with Franklin Furnace in New York.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "venue(the_kitchen).",
+    "source": "madelon_hooykaas",
+    "evidence": "we went and made a piece in the Kitchen... The work what was called Video Void.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "work(video_void).",
+    "source": "madelon_hooykaas",
+    "evidence": "The work what was called Video Void. It was work that we actually made in Wapping when we had our studio there.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "venue(wapping_rotherhithe_tunnel).",
+    "source": "madelon_hooykaas",
+    "evidence": "We used the Wapping-Rotherhithe Tunnel through the Themes.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "venue(stockholm).",
+    "source": "madelon_hooykaas",
+    "evidence": "we made special works in Stockholm in Sweden",
+    "confidence": "supported",
+    "page": 6
+  },
+  {
+    "fact": "venue(bergin).",
+    "source": "madelon_hooykaas",
+    "evidence": "we made special works in Stockholm in Sweden, and Bergin in Norway.",
+    "confidence": "supported",
+    "page": 6
+  },
+  {
+    "fact": "venue(shetland).",
+    "source": "madelon_hooykaas",
+    "evidence": "We were in Shetland and in Finland.",
+    "confidence": "supported",
+    "page": 6
+  },
+  {
+    "fact": "venue(finland).",
+    "source": "madelon_hooykaas",
+    "evidence": "We were in Shetland and in Finland.",
+    "confidence": "supported",
+    "page": 6
+  },
+  {
+    "fact": "work(split_seconds).",
+    "source": "madelon_hooykaas",
+    "evidence": "In Split Seconds, from 1979, which is also an important work,...",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "person(agnes_martin).",
+    "source": "madelon_hooykaas",
+    "evidence": "I actually met Agnes Martin several times in New Mexico.",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "venue(new_mexico).",
+    "source": "madelon_hooykaas",
+    "evidence": "I actually met Agnes Martin several times in New Mexico.",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "person(bridget_riley).",
+    "source": "madelon_hooykaas",
+    "evidence": "Bridget Riley had a big show in the Hayward...",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "venue(hayward).",
+    "source": "madelon_hooykaas",
+    "evidence": "Bridget Riley had a big show in the Hayward...",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "person(john_latham).",
+    "source": "madelon_hooykaas",
+    "evidence": "Elsa had been an assistant to John Latham when she was very young before she even went to Ealing.",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "organisation(ealing).",
+    "source": "madelon_hooykaas",
+    "evidence": "Elsa had been an assistant to John Latham when she was very young before she even went to Ealing.",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "organisation(arts_lab).",
+    "source": "madelon_hooykaas",
+    "evidence": "Elsa was also part of Arts Lab. ... She programmed the cinema of the Arts Lab.",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "organisation(art_channel_in_the_netherlands).",
+    "source": "madelon_hooykaas",
+    "evidence": "So, we proposed at first, on art channel in the Netherlands...",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "work(flying_time).",
+    "source": "madelon_hooykaas",
+    "evidence": "The second work we made with colour was called Flying Time.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(flying_time, sidney_biennale).",
+    "source": "madelon_hooykaas",
+    "evidence": "The work was shown as part of the Sidney Biennale, a big exhibition in Australia.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibition(sidney_biennale).",
+    "source": "madelon_hooykaas",
+    "evidence": "The work was shown as part of the Sidney Biennale, a big exhibition in Australia.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(flying_time, tate).",
+    "source": "madelon_hooykaas",
+    "evidence": "It had been an installation and was later shown at the Tate as well.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(tate).",
+    "source": "madelon_hooykaas",
+    "evidence": "It had been an installation and was later shown at the Tate as well.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "used_in(flying_time, \"colour\").",
+    "source": "madelon_hooykaas",
+    "evidence": "We used colour particularly in Flying Time.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "uses_medium(flying_time, \"installation\").",
+    "source": "madelon_hooykaas",
+    "evidence": "It had been an installation and was later shown at the Tate as well.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "created_by(flying_time, madelon_hooykaas).",
+    "source": "madelon_hooykaas",
+    "evidence": "I was shooting the material. ... We made it so blue, that it wasn't then real.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "used_in(day_for_night, \"non-linear DVD works using the shuffle method\").",
+    "source": "madelon_hooykaas",
+    "evidence": "We made non-linear DVD works using the shuffle method on the DVD. The work was actually shown here at the Visual Research Centre in Dundee Contemporary Arts in 2004. It was the last show that Elsa and I had together.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(day_for_night, visual_research_centre_in_dundee_contemporary_arts).",
+    "source": "madelon_hooykaas",
+    "evidence": "The work was actually shown here at the Visual Research Centre in Dundee Contemporary Arts in 2004.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(day_for_night).",
+    "source": "madelon_hooykaas",
+    "evidence": "The work was called Day for Night.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(visual_research_centre_in_dundee_contemporary_arts).",
+    "source": "madelon_hooykaas",
+    "evidence": "The work was actually shown here at the Visual Research Centre in Dundee Contemporary Arts in 2004.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(fantasy_factory).",
+    "source": "madelon_hooykaas",
+    "evidence": "We worked at Fantasy Factory and the prices there were very reasonable.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(maidstone_college_of_art).",
+    "source": "madelon_hooykaas",
+    "evidence": "We had an opportunity when Elsa got a grant from Maidstone College of Art where David Hall was.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(david_hall).",
+    "source": "madelon_hooykaas",
+    "evidence": "Elsa got a grant from Maidstone College of Art where David Hall was.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organised_by(video_manifestation, elsa_stansfield).",
+    "source": "madelon_hooykaas",
+    "evidence": "In March 1981, she organised a show called Video Manifestation.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibition(video_manifestation).",
+    "source": "madelon_hooykaas",
+    "evidence": "In March 1981, she organised a show called Video Manifestation.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(jan_van_eyck_academy).",
+    "source": "madelon_hooykaas",
+    "evidence": "The Jan Van Eyck Academy, in Maastricht in the south of the Netherlands, wanted to start a post-graduate school and they wanted to use video and audio.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(maastricht).",
+    "source": "madelon_hooykaas",
+    "evidence": "The Jan Van Eyck Academy, in Maastricht in the south of the Netherlands...",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "organisation(time_based_art_department).",
+    "source": "madelon_hooykaas",
+    "evidence": "she had already called the department ‘Time-Based Art’.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(mick_hartney).",
+    "source": "madelon_hooykaas",
+    "evidence": "She invited several people from Britain to show including Mick Hartney and other people from Germany.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(antwerp).",
+    "source": "madelon_hooykaas",
+    "evidence": "We had an important show in Antwerp.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(london).",
+    "source": "madelon_hooykaas",
+    "evidence": "Generally, we were still commuting between the Netherlands and London.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(amsterdam).",
+    "source": "madelon_hooykaas",
+    "evidence": "I was living in Amsterdam, that established us more in the Netherlands.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(belgium).",
+    "source": "madelon_hooykaas",
+    "evidence": "Sometimes we had projects in the Netherlands or we were working in other countries like Belgium.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(madelon_hooykaas, trip_to_sydney_biennale).",
+    "source": "madelon_hooykaas",
+    "evidence": "we went to Sidney, Australia for nearly 3 weeks to make a new work.",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(madelon_hooykaas, trip_to_japan_1983).",
+    "source": "madelon_hooykaas",
+    "evidence": "They invited us to go to Japan the year after, in 1983. That was the start of another very important series of work called, From the Museum of Memory.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(from_the_museum_of_memory).",
+    "source": "madelon_hooykaas",
+    "evidence": "That was the start of another very important series of work called, From the Museum of Memory.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "created_by(from_the_museum_of_memory, madelon_hooykaas).",
+    "source": "madelon_hooykaas",
+    "evidence": "That was the start of another very important series of work called, From the Museum of Memory. We made seven important installations; two of those installations are in the collection of the Stedelijk Museum in Amsterdam.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "created_by(from_the_museum_of_memory, elsa_stansfield).",
+    "source": "madelon_hooykaas",
+    "evidence": "That was the start of another very important series of work called, From the Museum of Memory. We made seven important installations; two of those installations are in the collection of the Stedelijk Museum in Amsterdam.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(museum_of_memory_1).",
+    "source": "madelon_hooykaas",
+    "evidence": "Museum of Memory 1 was very much influenced by the visit to Hiroshima",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "created_by(museum_of_memory_1, madelon_hooykaas).",
+    "source": "madelon_hooykaas",
+    "evidence": "Museum of Memory 1 was very much influenced by the visit to Hiroshima",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "created_by(museum_of_memory_1, elsa_stansfield).",
+    "source": "madelon_hooykaas",
+    "evidence": "Museum of Memory 1 was very much influenced by the visit to Hiroshima",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(shadow_pictures).",
+    "source": "madelon_hooykaas",
+    "evidence": "We made another piece for that called Shadow Pictures. A shadow picture is another word for an ex-ray.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "created_by(shadow_pictures, madelon_hooykaas).",
+    "source": "madelon_hooykaas",
+    "evidence": "We made another piece for that called Shadow Pictures.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "created_by(shadow_pictures, elsa_stansfield).",
+    "source": "madelon_hooykaas",
+    "evidence": "We made another piece for that called Shadow Pictures.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(stedelijk_museum_amsterdam).",
+    "source": "madelon_hooykaas",
+    "evidence": "two of those installations are in the collection of the Stedelijk Museum in Amsterdam.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "in_collection_of(from_the_museum_of_memory, stedelijk_museum_amsterdam).",
+    "source": "madelon_hooykaas",
+    "evidence": "two of those installations are in the collection of the Stedelijk Museum in Amsterdam.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "influenced_by(museum_of_memory_1, \"visit to Hiroshima and the connection of the monitor sending out electro-magnetic radiation\").",
+    "source": "madelon_hooykaas",
+    "evidence": "Museum of Memory 1 was very much influenced by the visit to Hiroshima and the connection of the monitor sending out electro-magnetic radiation.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "uses_medium(museum_of_memory_1, \"monitor\").",
+    "source": "madelon_hooykaas",
+    "evidence": "With Museum of Memory, we took the monitor out of its case and put it in a vitrine. It was in a glass case like in a museum.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(association_of_video_artists_in_the_netherlands).",
+    "source": "madelon_hooykaas",
+    "evidence": "In 1982, in fact, Elsa and I were some of the founding members of the Association of Video Artists in the Netherlands.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "founding_member_of(madelon_hooykaas, association_of_video_artists_in_the_netherlands).",
+    "source": "madelon_hooykaas",
+    "evidence": "In 1982, in fact, Elsa and I were some of the founding members of the Association of Video Artists in the Netherlands.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "founding_member_of(elsa_stansfield, association_of_video_artists_in_the_netherlands).",
+    "source": "madelon_hooykaas",
+    "evidence": "In 1982, in fact, Elsa and I were some of the founding members of the Association of Video Artists in the Netherlands.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "president_of(madelon_hooykaas, association_of_video_artists_in_the_netherlands).",
+    "source": "madelon_hooykaas",
+    "evidence": "I was president of that for 4 years when it started.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(time_based_arts).",
+    "source": "madelon_hooykaas",
+    "evidence": "It later became Time-based Arts, which existed until 1993.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(montevideo_time_based_arts).",
+    "source": "madelon_hooykaas",
+    "evidence": "Then it became Montevideo Time-based Arts, when it and Montevideo merged together.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(air_gallery).",
+    "source": "madelon_hooykaas",
+    "evidence": "We did a piece in the AIR Gallery on Shaftsbury Avenue",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(biddick_farm).",
+    "source": "madelon_hooykaas",
+    "evidence": "we were part of some kind of group shows in Biddick Farm.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(david_critchley).",
+    "source": "madelon_hooykaas",
+    "evidence": "We knew several of the artists such as David Critchley, Mick Hartney, Steve Partridge and Tamara Kirkorian.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(steve_partridge).",
+    "source": "madelon_hooykaas",
+    "evidence": "We knew several of the artists such as David Critchley, Mick Hartney, Steve Partridge and Tamara Kirkorian.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(tamara_kirkorian).",
+    "source": "madelon_hooykaas",
+    "evidence": "We knew several of the artists such as David Critchley, Mick Hartney, Steve Partridge and Tamara Kirkorian.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(london_video_arts_lva).",
+    "source": "madelon_hooykaas",
+    "evidence": "So how did you get involved with LVA?",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "employed_by(madelon_hooykaas, fantasy_factory).",
+    "source": "madelon_hooykaas",
+    "evidence": "That was through Hoppy and Fantasy Factory. It was through people we knew in London that we got involved.",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "employed_by(madelon_hooykaas, london_video_arts_lva).",
+    "source": "madelon_hooykaas",
+    "evidence": "So how did you get involved with LVA?",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "organisation(museum_of_modern_art_moma).",
+    "source": "madelon_hooykaas",
+    "evidence": "it was a very important visit in the art context. It was important to go to New York with De Appel Foundation because that's where we met people from the Museum of Modern Art who invited us later in 1988 to do a piece there.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(madelon_hooykaas, museum_of_modern_art_moma).",
+    "source": "madelon_hooykaas",
+    "evidence": "...people from the Museum of Modern Art who invited us later in 1988 to do a piece there.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "country(canada).",
+    "source": "madelon_hooykaas",
+    "evidence": "we were asked to show in Canada, in Halifax.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(madelon_hooykaas, halifax).",
+    "source": "madelon_hooykaas",
+    "evidence": "we were asked to show in Canada, in Halifax.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibition(montreal_videotapes_retrospective_1988).",
+    "source": "madelon_hooykaas",
+    "evidence": "It is also a bit strange that we got our first retrospective of videotapes in Montreal. That was in 1988.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(madelon_hooykaas, montreal_videotapes_retrospective_1988).",
+    "source": "madelon_hooykaas",
+    "evidence": "It is also a bit strange that we got our first retrospective of videotapes in Montreal. That was in 1988.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "city(montreal).",
+    "source": "madelon_hooykaas",
+    "evidence": "It is also a bit strange that we got our first retrospective of videotapes in Montreal.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "city(maastricht).",
+    "source": "madelon_hooykaas",
+    "evidence": "She also invited John Latham for example. He would come to Maastricht and also show in Amsterdam at Time-based Art.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(joan_jonas).",
+    "source": "madelon_hooykaas",
+    "evidence": "she would invite people like Joan Jonas or Ulrike Rosenbach to Maastricht for a month.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(ulrike_rosenbach).",
+    "source": "madelon_hooykaas",
+    "evidence": "she would invite people like Joan Jonas or Ulrike Rosenbach to Maastricht for a month.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(tate_liverpool).",
+    "source": "madelon_hooykaas",
+    "evidence": "...we continued to do some other pieces in Liverpool at the Tate because we knew some people from there. We knew Eddie Berg.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(eddie_berg).",
+    "source": "madelon_hooykaas",
+    "evidence": "We knew Eddie Berg.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(intercom_island).",
+    "source": "madelon_hooykaas",
+    "evidence": "In 1989, we made a work here in Scotland, in Edinburgh called Intercom Island.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "created_by(intercom_island, madelon_hooykaas).",
+    "source": "madelon_hooykaas",
+    "evidence": "In 1989, we made a work here in Scotland, in Edinburgh called Intercom Island.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "created_by(intercom_island, elsa_stansfield).",
+    "source": "madelon_hooykaas",
+    "evidence": "In 1989, we made a work here in Scotland, in Edinburgh called Intercom Island.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "city(edinburgh).",
+    "source": "madelon_hooykaas",
+    "evidence": "In 1989, we made a work here in Scotland, in Edinburgh called Intercom Island.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(intercom_island, calton_hill).",
+    "source": "madelon_hooykaas",
+    "evidence": "We had a stone TV on top of Calton Hill in Edinburgh and we had another in the space in the Abbey.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(intercom_island, edinburgh_abbey).",
+    "source": "madelon_hooykaas",
+    "evidence": "We had a stone TV on top of Calton Hill in Edinburgh and we had another in the space in the Abbey.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(field_free_space).",
+    "source": "madelon_hooykaas",
+    "evidence": "We made a work called a Field Free Space. It is a huge Faraday Cage.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "created_by(field_free_space, madelon_hooykaas).",
+    "source": "madelon_hooykaas",
+    "evidence": "We made a work called a Field Free Space.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "created_by(field_free_space, elsa_stansfield).",
+    "source": "madelon_hooykaas",
+    "evidence": "We made a work called a Field Free Space.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(luminous_image).",
+    "source": "madelon_hooykaas",
+    "evidence": "I think what was of major importance was the Luminous Image show. Elsa got very involved in that because she organised a symposium in the Jan van Eyck Academy with all the artists who were there.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "contributed_text(josine_van_droffelaar, audio_video_installations_catalogue).",
+    "source": "madelon_hooykaas",
+    "evidence": "the text by Josine van Droffelaar in the Audio Video Installations catalogue",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "worked_at(josine_van_droffelaar, de_appel_foundation).",
+    "source": "madelon_hooykaas",
+    "evidence": "She was one of the people who worked also at De Appel Foundation.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(hooykaas_stansfield, whitechapel).",
+    "source": "madelon_hooykaas",
+    "evidence": "It was like when we had our first show in the Whitechapel or in the Museum of Modern Art",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(hooykaas_stansfield, museum_of_modern_art).",
+    "source": "madelon_hooykaas",
+    "evidence": "It was like when we had our first show in the Whitechapel or in the Museum of Modern Art",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(hooykaas_stansfield, de_appel).",
+    "source": "madelon_hooykaas",
+    "evidence": "That's when we got our first show in De Appel. It was because we showed somewhere else first.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "published_catalogues_of(gallery_in_bremen, hooykaas_stansfield).",
+    "source": "madelon_hooykaas",
+    "evidence": "There is also a gallery in Bremen in northern Germany, which has published three catalogues of our work.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(hooykaas_stansfield, gallery_in_bremen).",
+    "source": "madelon_hooykaas",
+    "evidence": "They gave us a big show in a very large old shirt factory.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "artist_in_residence(hooykaas_stansfield).",
+    "source": "madelon_hooykaas",
+    "evidence": "We were artists in residence quite early on.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "travelled_to(hooykaas_stansfield, \"Japan\").",
+    "source": "madelon_hooykaas",
+    "evidence": "it was our second trip in 1984 when we went to Japan again.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "year_travelled(hooykaas_stansfield, @1984).",
+    "source": "madelon_hooykaas",
+    "evidence": "it was our second trip in 1984 when we went to Japan again.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "sold_work_to(hooykaas_stansfield, \"a museum\").",
+    "source": "madelon_hooykaas",
+    "evidence": "We partly financed it because we had sold a piece to a museum.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "renamed_as(association_of_video_artists_in_the_netherlands, time_based_arts).",
+    "source": "madelon_hooykaas",
+    "evidence": "which later came to be known as Time Based Arts",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "original_name_of(association_of_video_artists_in_the_netherlands, foundation_time_based_arts).",
+    "source": "madelon_hooykaas",
+    "evidence": "At first, we wanted to create an association, which was the Association of Video Makers in the Netherlands. Then, because we wanted to get funding, we needed to become a Foundation. So, we called it, the Foundation Time-based Arts.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(hooykaas_stansfield, stedelijk_museum).",
+    "source": "madelon_hooykaas",
+    "evidence": "We had the first exhibition in the Stedelijk Museum when they started a video space.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibition_title(the_video_stairs, \"The Video Stairs\").",
+    "source": "madelon_hooykaas",
+    "evidence": "It was called “The Video Stairs”.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "first_exhibition_of(the_video_stairs, hooykaas_stansfield).",
+    "source": "madelon_hooykaas",
+    "evidence": "We had the first exhibition in the Stedelijk Museum when they started a video space. It was called “The Video Stairs”. We had the first exhibition.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "year_created(the_video_stairs, @1984).",
+    "source": "madelon_hooykaas",
+    "evidence": "It was in 1984.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "created_by(two_sides_of_a_story, hooykaas_stansfield).",
+    "source": "madelon_hooykaas",
+    "evidence": "We made Two Sides of a Story using also live video and monitors in there.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "used_medium(two_sides_of_a_story, \"live video\").",
+    "source": "madelon_hooykaas",
+    "evidence": "We made Two Sides of a Story using also live video and monitors in there.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "used_medium(two_sides_of_a_story, \"monitors\").",
+    "source": "madelon_hooykaas",
+    "evidence": "We made Two Sides of a Story using also live video and monitors in there.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(josine_van_droffelaar).",
+    "source": "madelon_hooykaas",
+    "evidence": "the text by Josine van Droffelaar in the Audio Video Installations catalogue",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(foundation_time_based_arts).",
+    "source": "madelon_hooykaas",
+    "evidence": "So, we called it, the Foundation Time-based Arts.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(time_based_arts).",
+    "source": "madelon_hooykaas",
+    "evidence": "which later came to be known as Time Based Arts",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(whitechapel).",
+    "source": "madelon_hooykaas",
+    "evidence": "It was like when we had our first show in the Whitechapel or in the Museum of Modern Art",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(museum_of_modern_art).",
+    "source": "madelon_hooykaas",
+    "evidence": "It was like when we had our first show in the Whitechapel or in the Museum of Modern Art",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(de_appel).",
+    "source": "madelon_hooykaas",
+    "evidence": "That's when we got our first show in De Appel",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(gallery_in_bremen).",
+    "source": "madelon_hooykaas",
+    "evidence": "a gallery in Bremen in northern Germany",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(stedelijk_museum).",
+    "source": "madelon_hooykaas",
+    "evidence": "We had the first exhibition in the Stedelijk Museum when they started a video space.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibition(the_video_stairs).",
+    "source": "madelon_hooykaas",
+    "evidence": "It was called 'The Video Stairs'",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(two_sides_of_a_story).",
+    "source": "madelon_hooykaas",
+    "evidence": "We made Two Sides of a Story using also live video and monitors in there.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(hooykaas_stansfield).",
+    "source": "madelon_hooykaas",
+    "evidence": "continue to use our name Hooykaas / Stansfield",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(nam_june_paik).",
+    "source": "madelon_hooykaas",
+    "evidence": "MH: Early on, we were quite good friends of Nam June Paik and his wife, Shigeko Kubota.",
+    "confidence": "explicit",
+    "page": 16
+  },
+  {
+    "fact": "person(shigeko_kubota).",
+    "source": "madelon_hooykaas",
+    "evidence": "MH: Early on, we were quite good friends of Nam June Paik and his wife, Shigeko Kubota.",
+    "confidence": "explicit",
+    "page": 16
+  },
+  {
+    "fact": "organisation(de_appel).",
+    "source": "madelon_hooykaas",
+    "evidence": "MH: We actually made a piece for De Appel, which was quite a different piece.",
+    "confidence": "explicit",
+    "page": 16
+  },
+  {
+    "fact": "work(vi_deo_volente).",
+    "source": "madelon_hooykaas",
+    "evidence": "MH: It was called Vi Deo Volente. We made it in 1985.",
+    "confidence": "explicit",
+    "page": 16
+  },
+  {
+    "fact": "year_created(vi_deo_volente, @1985).",
+    "source": "madelon_hooykaas",
+    "evidence": "MH: We made it in 1985.",
+    "confidence": "explicit",
+    "page": 16
+  },
+  {
+    "fact": "created_by(vi_deo_volente, madelon_hooykaas).",
+    "source": "madelon_hooykaas",
+    "evidence": "MH: We actually made a piece for De Appel, which was quite a different piece. It was called Vi Deo Volente. We made it in 1985.",
+    "confidence": "explicit",
+    "page": 16
+  },
+  {
+    "fact": "exhibited_at(vi_deo_volente, de_appel).",
+    "source": "madelon_hooykaas",
+    "evidence": "I showed it again last year in De Appel and I dedicated it to Elsa and to Nam June Paik who had also died.",
+    "confidence": "explicit",
+    "page": 16
+  },
+  {
+    "fact": "work(deep_looking).",
+    "source": "madelon_hooykaas",
+    "evidence": "The first piece is called Deep Looking. It's very much about perception but in a Buddhist way.",
+    "confidence": "explicit",
+    "page": 16
+  },
+  {
+    "fact": "created_by(deep_looking, madelon_hooykaas).",
+    "source": "madelon_hooykaas",
+    "evidence": "The first piece is called Deep Looking. It's very much about perception but in a Buddhist way.",
+    "confidence": "explicit",
+    "page": 16
+  },
+  {
+    "fact": "organisation(buddhist_broadcasting_foundation).",
+    "source": "madelon_hooykaas",
+    "evidence": "There is a Buddhist Broadcasting Foundation in the Netherlands, which is unique in the world and recently we made two, 30-minute television works for it.",
+    "confidence": "explicit",
+    "page": 16
+  },
+  {
+    "fact": "work(revision).",
+    "source": "madelon_hooykaas",
+    "evidence": "The second piece is called Revision and Elsa died when we were in the middle of making it. I finished the work and it's dedicated to her but they were both really art works made for television.",
+    "confidence": "explicit",
+    "page": 16
+  },
+  {
+    "fact": "created_by(revision, madelon_hooykaas).",
+    "source": "madelon_hooykaas",
+    "evidence": "The second piece is called Revision and Elsa died when we were in the middle of making it. I finished the work and it's dedicated to her but they were both really art works made for television.",
+    "confidence": "explicit",
+    "page": 16
+  },
+  {
+    "fact": "funded_by(vi_deo_volente, de_appel).",
+    "source": "madelon_hooykaas",
+    "evidence": "De Appel produced the tape, but it was not shown in their gallery.",
+    "confidence": "explicit",
+    "page": 16
+  },
+  {
+    "fact": "person(bill_viola).",
+    "source": "madelon_hooykaas",
+    "evidence": "We also had a lot of contact with Bill Viola.",
+    "confidence": "explicit",
+    "page": 16
+  },
+  {
+    "fact": "person(jan_dibbets).",
+    "source": "madelon_hooykaas",
+    "evidence": "...we made quite an interesting videotape referring to Paik and other video pieces like Jan Dibbets’ TV as a Fireplace.",
+    "confidence": "explicit",
+    "page": 16
+  },
+  {
+    "fact": "organisation(mondrian_foundation).",
+    "source": "madelon_hooykaas",
+    "evidence": "They had already asked the Mondrian Foundation to pay for our travel.",
+    "confidence": "explicit",
+    "page": 16
+  },
+  {
+    "fact": "work(the_force_behind_this_movement).",
+    "source": "madelon_hooykaas",
+    "evidence": "We made quite an important work called The Force Behind This Movement, which we dedicated to them.",
+    "confidence": "explicit",
+    "page": 17
+  },
+  {
+    "fact": "created_by(the_force_behind_this_movement, madelon_hooykaas).",
+    "source": "madelon_hooykaas",
+    "evidence": "We made quite an important work called The Force Behind This Movement, which we dedicated to them.",
+    "confidence": "explicit",
+    "page": 17
+  },
+  {
+    "fact": "person(dorine_mignot).",
+    "source": "madelon_hooykaas",
+    "evidence": "Another important curator for our work was Dorine Mignot, from the Stedelijk Museum who gave us our first show there in 1981.",
+    "confidence": "explicit",
+    "page": 17
+  },
+  {
+    "fact": "organisation(stedelijk_museum).",
+    "source": "madelon_hooykaas",
+    "evidence": "Another important curator for our work was Dorine Mignot, from the Stedelijk Museum who gave us our first show there in 1981.",
+    "confidence": "explicit",
+    "page": 17
+  },
+  {
+    "fact": "curated_by(stedelijk_museum, dorine_mignot).",
+    "source": "madelon_hooykaas",
+    "evidence": "Dorine Mignot, from the Stedelijk Museum who gave us our first show there in 1981.",
+    "confidence": "explicit",
+    "page": 17
+  },
+  {
+    "fact": "collaborated_with(madelon_hooykaas, elsa).",
+    "source": "madelon_hooykaas",
+    "evidence": "I finished the work and it's dedicated to her but they were both really art works made for television.",
+    "confidence": "supported",
+    "page": 16
+  },
+  {
+    "fact": "venue(chapter_arts_centre).",
+    "source": "madelon_hooykaas",
+    "evidence": "Because we were showing our work in places like Third Eye Centre, Chapter Arts Centre or at Biddick Farm, we felt part of that scene.",
+    "confidence": "explicit",
+    "page": 18
+  },
+  {
+    "fact": "venue(space_studios).",
+    "source": "madelon_hooykaas",
+    "evidence": "In London, we were  part  of  the  Space  Studios.  There  were  55  artists  in  that  building.",
+    "confidence": "explicit",
+    "page": 18
+  },
+  {
+    "fact": "person(terry_riley).",
+    "source": "madelon_hooykaas",
+    "evidence": "Regarding  music,  when  we  used  the  line  pattern  from  video,  meaning  the  structure  of  the  video  image,  we  were  very  much influenced by people like Terry Riley and Philip Glass.",
+    "confidence": "explicit",
+    "page": 18
+  },
+  {
+    "fact": "person(philip_glass).",
+    "source": "madelon_hooykaas",
+    "evidence": "Regarding  music,  when  we  used  the  line  pattern  from  video,  meaning  the  structure  of  the  video  image,  we  were  very  much influenced by people like Terry Riley and Philip Glass.",
+    "confidence": "explicit",
+    "page": 18
+  },
+  {
+    "fact": "person(luis_andrews).",
+    "source": "madelon_hooykaas",
+    "evidence": "We worked with several other composers, like ... Luis Andrews",
+    "confidence": "explicit",
+    "page": 18
+  },
+  {
+    "fact": "person(frances_marie_uitti).",
+    "source": "madelon_hooykaas",
+    "evidence": "We worked with several other composers, like ... Frances-Marie Uitti, who is somebody who plays the violoncello.",
+    "confidence": "explicit",
+    "page": 18
+  },
+  {
+    "fact": "person(chantal_dupont).",
+    "source": "madelon_hooykaas",
+    "evidence": "I finished later with another artist in Montreal called Chantal duPont.",
+    "confidence": "explicit",
+    "page": 18
+  },
+  {
+    "fact": "venue(montreal).",
+    "source": "madelon_hooykaas",
+    "evidence": "I finished later with another artist in Montreal called Chantal duPont.",
+    "confidence": "explicit",
+    "page": 18
+  },
+  {
+    "fact": "venue(maidstone).",
+    "source": "madelon_hooykaas",
+    "evidence": "Years before that though, you did a residency at Maidstone?",
+    "confidence": "explicit",
+    "page": 18
+  },
+  {
+    "fact": "venue(banff).",
+    "source": "madelon_hooykaas",
+    "evidence": "We’ve done them in Ireland and in Banff in Canada and all over the place including here in Dundee.",
+    "confidence": "explicit",
+    "page": 18
+  },
+  {
+    "fact": "venue(dundee).",
+    "source": "madelon_hooykaas",
+    "evidence": "We’ve done them in Ireland and in Banff in Canada and all over the place including here in Dundee.",
+    "confidence": "explicit",
+    "page": 18
+  },
+  {
+    "fact": "venue(maastricht).",
+    "source": "madelon_hooykaas",
+    "evidence": "She did one  year  while  she  was  still  living  in  London  and  then  she  moved  to Maastricht.",
+    "confidence": "explicit",
+    "page": 18
+  },
+  {
+    "fact": "venue(vondelpark).",
+    "source": "madelon_hooykaas",
+    "evidence": "We changed it and showed it at Vondelpark in Amsterdam next to the Film Museum.",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "venue(film_museum_amsterdam).",
+    "source": "madelon_hooykaas",
+    "evidence": "We changed it and showed it at Vondelpark in Amsterdam next to the Film Museum.",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "venue(wijk_aan_zee).",
+    "source": "madelon_hooykaas",
+    "evidence": "We made quite an important sculpture, which is on the seaside in Wijk aan Zee, in the Netherlands.",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "organisation(buddhist_broadcast_corporation).",
+    "source": "madelon_hooykaas",
+    "evidence": "With  the  film,  which  we  made  for  the Buddhist Broadcast Corporation, Elsa wanted to edit it in the hospital.",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "collaborated_with(madelon_hooykaas, nam_june_paik).",
+    "source": "madelon_hooykaas",
+    "evidence": "A video artist who certainly influenced us was Nam June Paik, who was a personal friend.",
+    "confidence": "supported",
+    "page": 18
+  },
+  {
+    "fact": "collaborated_with(madelon_hooykaas, david_hall).",
+    "source": "madelon_hooykaas",
+    "evidence": "Elsa was quite inspired by David Hall and so indirectly I was too.",
+    "confidence": "supported",
+    "page": 18
+  },
+  {
+    "fact": "collaborated_with(madelon_hooykaas, luis_andrews).",
+    "source": "madelon_hooykaas",
+    "evidence": "We worked with several  other  composers,  like ... Luis Andrews",
+    "confidence": "explicit",
+    "page": 18
+  },
+  {
+    "fact": "collaborated_with(madelon_hooykaas, frances_marie_uitti).",
+    "source": "madelon_hooykaas",
+    "evidence": "We worked with several  other  composers,  like ... Frances-Marie Uitti, who is somebody who plays the violoncello.",
+    "confidence": "explicit",
+    "page": 18
+  },
+  {
+    "fact": "collaborated_with(madelon_hooykaas, chantal_dupont).",
+    "source": "madelon_hooykaas",
+    "evidence": "We made  a  piece  recently,  which  Elsa  and  I  started,  but  I  finished  later  with another artist in Montreal called Chantal duPont.  We made a very large piece.",
+    "confidence": "explicit",
+    "page": 18
+  },
+  {
+    "fact": "year_created(madelon_hooykaas, @1989).",
+    "source": "madelon_hooykaas",
+    "evidence": "That was in 1989.",
+    "confidence": "explicit",
+    "page": 18
+  },
+  {
+    "fact": "affiliated_with(elsa, jan_van_eyck_academy).",
+    "source": "madelon_hooykaas",
+    "evidence": "When  Elsa  was  at  the  Jan  van  Eyck  Academy,  she  wasn’t  really  seen  as  a  teacher",
+    "confidence": "explicit",
+    "page": 18
+  },
+  {
+    "fact": "year_joined(elsa, @1980).",
+    "source": "madelon_hooykaas",
+    "evidence": "She started officially in December 1980 and she left in 1991-’92.",
+    "confidence": "explicit",
+    "page": 18
+  },
+  {
+    "fact": "year_left(elsa, @1991).",
+    "source": "madelon_hooykaas",
+    "evidence": "She started officially in December 1980 and she left in 1991-’92.",
+    "confidence": "explicit",
+    "page": 18
+  },
+  {
+    "fact": "exhibited_at(day_for_night, montreal).",
+    "source": "madelon_hooykaas",
+    "evidence": "The piece we made, which we started here in Dundee called Day for Night, we actually showed for the first time in a Botanical garden in Montreal.",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "exhibited_at(day_for_night, vondelpark).",
+    "source": "madelon_hooykaas",
+    "evidence": "We changed it and showed it at Vondelpark in Amsterdam next to the Film Museum.",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "exhibited_at(day_for_night, dundee).",
+    "source": "madelon_hooykaas",
+    "evidence": "Later on we showed it in Dundee, but this time  it was inside.",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "created_by(day_for_night, madelon_hooykaas).",
+    "source": "madelon_hooykaas",
+    "evidence": "The piece we made, which we started here in Dundee called Day for Night, we actually showed for the first time in a Botanical garden in Montreal.",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "created_by(day_for_night, elsa).",
+    "source": "madelon_hooykaas",
+    "evidence": "The piece we made, which we started here in Dundee called Day for Night, we actually showed for the first time in a Botanical garden in Montreal.",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "person(barbara_steveni).",
+    "source": "madelon_hooykaas",
+    "evidence": "She knows Barbara Steveni as well.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(marina_abramovich).",
+    "source": "madelon_hooykaas",
+    "evidence": "Marina Abramovich came and did a project as well.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(time_based_arts_in_amsterdam).",
+    "source": "madelon_hooykaas",
+    "evidence": "While I was president of Time-Based Arts in Amsterdam, I got him to a lecture there...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(glasgow_art_school).",
+    "source": "madelon_hooykaas",
+    "evidence": "I think she was 16 when she went to Glasgow Art School.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(ministry_of_cultural_affairs_and_education_netherlands).",
+    "source": "madelon_hooykaas",
+    "evidence": "The work was for the Ministry of Cultural Affairs and Education in the Netherlands. It’s the largest, highest building in The Hague and it has a wind sensor machine on that.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "studied_at(elsa_stansfield, glasgow_art_school).",
+    "source": "madelon_hooykaas",
+    "evidence": "I think she was 16 when she went to Glasgow Art School.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "employed_by(elsa_stansfield, jan_van_eyck_academy).",
+    "source": "madelon_hooykaas",
+    "evidence": "When Elsa got the job at the Jan van Eyck Academy...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "assistant_to(elsa_stansfield, john_latham).",
+    "source": "madelon_hooykaas",
+    "evidence": "she became an assistant to John Latham.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "invited_to(john_latham, jan_van_eyck_academy).",
+    "source": "madelon_hooykaas",
+    "evidence": "she got John Latham to come to Maastricht. At that time people had no idea about the Artist Placement Group.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "invited_to(bridget_riley, jan_van_eyck_academy).",
+    "source": "madelon_hooykaas",
+    "evidence": "We also got Bridget Riley to come over and other people like that.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "invited_to(joan_jonas, jan_van_eyck_academy).",
+    "source": "madelon_hooykaas",
+    "evidence": "So people like Joan Jonas or Ulrike Rosenbach would come.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "invited_to(ulrike_rosenbach, jan_van_eyck_academy).",
+    "source": "madelon_hooykaas",
+    "evidence": "So people like Joan Jonas or Ulrike Rosenbach would come.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "invited_to(marina_abramovich, jan_van_eyck_academy).",
+    "source": "madelon_hooykaas",
+    "evidence": "Marina Abramovich came and did a project as well.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "president_of(madelon_hooykaas, time_based_arts_in_amsterdam).",
+    "source": "madelon_hooykaas",
+    "evidence": "While I was president of Time-Based Arts in Amsterdam...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "ran(elsa_stansfield, \"cinema\").",
+    "source": "madelon_hooykaas",
+    "evidence": "She ran the cinema for a whole season and programmed all the films.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "programmed(elsa_stansfield, \"films\").",
+    "source": "madelon_hooykaas",
+    "evidence": "She ran the cinema for a whole season and programmed all the films.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "involved_in(elsa_stansfield, arts_lab).",
+    "source": "madelon_hooykaas",
+    "evidence": "She was involved with Arts Lab. She was there around 1967 or 1968.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "used_in_work(field_free_space, \"Faraday cage\").",
+    "source": "madelon_hooykaas",
+    "evidence": "That includes electro-magnetic radiation, which we use in the work, Field Free Space. By standing a Faraday cage placed in a landscape next to electric poles...",
+    "confidence": "explicit",
+    "page": null
+  }
+]

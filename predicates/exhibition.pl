@@ -4,5 +4,17 @@
 exhibition(british_art_show_ii).
 exhibition(british_art_show).
 exhibition(herbert_art_gallery_video_show_1970s).
+exhibition(london_film_festival).
+exhibition(luminous_image_show).
+exhibition(luminous_image).
+exhibition(montreal_videotapes_retrospective_1988).
+exhibition(netherlands_representation_in_south_korea_2005).
 exhibition(one_artist_one_day).
+exhibition(retrospective_festivals).
+exhibition(show_at_de_appel_foundation).
+exhibition(show_at_whitechapel_art_gallery).
+exhibition(sidney_biennale).
+exhibition(the_video_stairs).
 exhibition(un_certain_art_anglais).
+exhibition(video_manifestation).
+exhibition(video_sculpture_show_in_germany).

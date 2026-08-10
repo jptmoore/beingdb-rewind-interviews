@@ -2,6 +2,9 @@
 % See metadata/extraction.json for source provenance and candidates/evidence for supporting quotes.
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 uses_medium(double_vision, "video").
+uses_medium(flying_time, "colour video").
+uses_medium(flying_time, "installation").
+uses_medium(flying_time, "single tape video").
 uses_medium(gallery_guide, "performance").
 uses_medium(gallery_guide, "video projection").
 uses_medium(gallery_guide, "video").
@@ -11,7 +14,21 @@ uses_medium(kevin_atherton, "sound").
 uses_medium(kevin_atherton, "television commercial").
 uses_medium(kevin_atherton, "video").
 uses_medium(kevin_atherton, "voice").
+uses_medium(madelon_hooykaas, "Polaroid photography").
+uses_medium(madelon_hooykaas, "Polaroid").
+uses_medium(madelon_hooykaas, "video").
+uses_medium(museum_of_memory_1, "monitor").
+uses_medium(one_of_these_days, "Dutch language").
+uses_medium(running_time_1979, "black-and-white video").
+uses_medium(running_time_1979, "linen").
+uses_medium(running_time_1979, "photographic images").
+uses_medium(running_time_1979, "sound").
+uses_medium(running_time, "black-and-white video").
+uses_medium(running_time, "linen").
+uses_medium(running_time, "photographic images").
 uses_medium(sphere, "mirror polished-stainless steel").
 uses_medium(sphere, "video").
 uses_medium(tape_tape, "masking tape").
 uses_medium(tape_tape, "videotape").
+uses_medium(the_wind_works, "live video").
+uses_medium(the_wind_works, "pre-recorded tape").

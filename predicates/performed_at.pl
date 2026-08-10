@@ -8,3 +8,4 @@ performed_at(kevin_atherton, de_appel).
 performed_at(kevin_atherton, herbert_art_gallery_video_show_1970s).
 performed_at(kevin_atherton, musee_d_art_moderne).
 performed_at(kevin_atherton, rotterdam).
+performed_at(video_void, the_kitchen).

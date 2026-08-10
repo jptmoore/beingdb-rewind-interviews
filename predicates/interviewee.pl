@@ -2,3 +2,4 @@
 % See metadata/extraction.json for source provenance and candidates/evidence for supporting quotes.
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 interviewee(rewind_kevin_atherton_interview, kevin_atherton).
+interviewee(rewind_madelon_hooykaas_interview, madelon_hooykaas).
