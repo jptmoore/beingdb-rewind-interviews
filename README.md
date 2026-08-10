@@ -94,8 +94,15 @@ collaborated_with(kevin_atherton, Person)
 educated_at(kevin_atherton, Institution)
 employed_by(kevin_atherton, Institution)
 
-% Any work made using video, regardless of artist
+% Any work made using video, regardless of artist (string type)
 uses_medium(Work, "video")
+
+% Exact match on a typed year literal (@1975), not the integer 1975 or the string "1975"
+year_created(Work, @1975)
+
+% Comparison and range operators work on year literals directly
+began_in(Work, Year), Year >= 1970
+began_in(Work, Year), Year between @1960 and @1980
 ```
 
 As more interviews are added, the same predicates join across artists, e.g.
