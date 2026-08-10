@@ -1,0 +1,1731 @@
+[
+  {
+    "fact": "person(kevin_atherton).",
+    "source": "kevin_atherton",
+    "evidence": "Interview with Kevin Atherton",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "work(television_interview).",
+    "source": "kevin_atherton",
+    "evidence": "Television Interview, which is me interviewing Coronation Street, is a significant piece of work.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "work(the_eleventh_hour).",
+    "source": "kevin_atherton",
+    "evidence": "Would you say that The Eleventh Hour was an important piece?\n\nKA: Yes, I think that was important, because with that piece...",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "created_by(television_interview, kevin_atherton).",
+    "source": "kevin_atherton",
+    "evidence": "Television Interview, which is me interviewing Coronation Street, is a significant piece of work.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "created_by(the_eleventh_hour, kevin_atherton).",
+    "source": "kevin_atherton",
+    "evidence": "Would you say that The Eleventh Hour was an important piece?\n\nKA: Yes, I think that was important, because with that piece...",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "commissioned_by(television_interview, arts_council_of_great_britain).",
+    "source": "kevin_atherton",
+    "evidence": "It was commissioned by the Arts Council of Great Britain for the British Art Show II and it toured.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "exhibited_at(television_interview, british_art_show_ii).",
+    "source": "kevin_atherton",
+    "evidence": "It was commissioned by the Arts Council of Great Britain for the British Art Show II and it toured.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "exhibited_at(television_interview, ikon_gallery_birmingham).",
+    "source": "kevin_atherton",
+    "evidence": "It began at the Ikon Gallery in Birmingham and it went to Edinburgh, Southampton and somewhere else.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "exhibited_at(television_interview, edinburgh).",
+    "source": "kevin_atherton",
+    "evidence": "It began at the Ikon Gallery in Birmingham and it went to Edinburgh, Southampton and somewhere else.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "exhibited_at(television_interview, southampton).",
+    "source": "kevin_atherton",
+    "evidence": "It began at the Ikon Gallery in Birmingham and it went to Edinburgh, Southampton and somewhere else.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "organisation(arts_council_of_great_britain).",
+    "source": "kevin_atherton",
+    "evidence": "It was commissioned by the Arts Council of Great Britain for the British Art Show II and it toured.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "exhibition(british_art_show_ii).",
+    "source": "kevin_atherton",
+    "evidence": "It was commissioned by the Arts Council of Great Britain for the British Art Show II and it toured.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "venue(ikon_gallery_birmingham).",
+    "source": "kevin_atherton",
+    "evidence": "It began at the Ikon Gallery in Birmingham and it went to Edinburgh, Southampton and somewhere else.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "venue(edinburgh).",
+    "source": "kevin_atherton",
+    "evidence": "It began at the Ikon Gallery in Birmingham and it went to Edinburgh, Southampton and somewhere else.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "venue(southampton).",
+    "source": "kevin_atherton",
+    "evidence": "It began at the Ikon Gallery in Birmingham and it went to Edinburgh, Southampton and somewhere else.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "work(in_two_minds).",
+    "source": "kevin_atherton",
+    "evidence": "I think about the In Two Minds performance, which I began in the 70s",
+    "confidence": "explicit",
+    "page": 3
+  },
+  {
+    "fact": "work(three_minute_16_millimetre_film_of_kevin_atherton_as_a_boxer).",
+    "source": "kevin_atherton",
+    "evidence": "such as the film piece where I made a three-minute 16-millimetre film of myself as a boxer, wearing gloves and nice yellow shorts.",
+    "confidence": "explicit",
+    "page": 3
+  },
+  {
+    "fact": "work(any_questions).",
+    "source": "kevin_atherton",
+    "evidence": "it lead to a performance piece called Any Questions. I used to do this piece when I would be invited to art schools.",
+    "confidence": "explicit",
+    "page": 3
+  },
+  {
+    "fact": "work(brixton_pieces).",
+    "source": "kevin_atherton",
+    "evidence": "I said the same thing when I knew that you’d done the Brixton pieces. I would never have associated you with those pieces, until hearing the way that you think about them",
+    "confidence": "explicit",
+    "page": 3
+  },
+  {
+    "fact": "work(video_times).",
+    "source": "kevin_atherton",
+    "evidence": "for example, for the Video Times piece, the booklet and video was a major bloody production.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "venue(ikon_gallery_birmingham_2).",
+    "source": "kevin_atherton",
+    "evidence": "I worked at the Ikon Gallery with Vivian Lovell, when she worked there, I did that piece and it was at the Ikon Gallery for five weeks, as an installation every day.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "person(vivian_lovell).",
+    "source": "kevin_atherton",
+    "evidence": "I worked at the Ikon Gallery with Vivian Lovell, when she worked there, I did that piece",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "began_in(in_two_minds, @1970).",
+    "source": "kevin_atherton",
+    "evidence": "I think about the In Two Minds performance, which I began in the 70s,",
+    "confidence": "supported",
+    "page": 3
+  },
+  {
+    "fact": "created_by(in_two_minds, kevin_atherton).",
+    "source": "kevin_atherton",
+    "evidence": "I think about the In Two Minds performance, which I began in the 70s",
+    "confidence": "explicit",
+    "page": 3
+  },
+  {
+    "fact": "created_by(three_minute_16_millimetre_film_of_kevin_atherton_as_a_boxer, kevin_atherton).",
+    "source": "kevin_atherton",
+    "evidence": "such as the film piece where I made a three-minute 16-millimetre film of myself as a boxer",
+    "confidence": "explicit",
+    "page": 3
+  },
+  {
+    "fact": "created_by(any_questions, kevin_atherton).",
+    "source": "kevin_atherton",
+    "evidence": "it lead to a performance piece called Any Questions. I used to do this piece when I would be invited to art schools.",
+    "confidence": "explicit",
+    "page": 3
+  },
+  {
+    "fact": "created_by(brixton_pieces, kevin_atherton).",
+    "source": "kevin_atherton",
+    "evidence": "I said the same thing when I knew that you’d done the Brixton pieces.",
+    "confidence": "explicit",
+    "page": 3
+  },
+  {
+    "fact": "created_by(video_times, kevin_atherton).",
+    "source": "kevin_atherton",
+    "evidence": "for the Video Times piece, ... I think it was a good piece of work",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "exhibited_at(video_times, ikon_gallery_birmingham_2).",
+    "source": "kevin_atherton",
+    "evidence": "I did that piece and it was at the Ikon Gallery for five weeks, as an installation every day.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "collaborated_with(kevin_atherton, vivian_lovell).",
+    "source": "kevin_atherton",
+    "evidence": "I worked at the Ikon Gallery with Vivian Lovell, when she worked there, I did that piece",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "venue(kettles_yard).",
+    "source": "kevin_atherton",
+    "evidence": "Kettles Yard in Cambridge.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(arts_council).",
+    "source": "kevin_atherton",
+    "evidence": "I remember doing it, and getting some Arts Council funding to do it...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(ikon_gallery_birmingham_3).",
+    "source": "kevin_atherton",
+    "evidence": "...with work that was shown within galleries, for example with the Ikon Gallery and Kettles Yard...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(serpentine_gallery).",
+    "source": "kevin_atherton",
+    "evidence": "there is a piece that I did at the Serpentine, which was to build on the lawn a frame.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(british_rail).",
+    "source": "kevin_atherton",
+    "evidence": "There was no Arts Council money. It was British Rail.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(rowen_from_the_midlands).",
+    "source": "kevin_atherton",
+    "evidence": "It was a steel stockholder, Rowen from the Midlands who paid for all of that steel work.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(architects_journal).",
+    "source": "kevin_atherton",
+    "evidence": "There was a review of it in the Architects' Journal.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(tape_tape).",
+    "source": "kevin_atherton",
+    "evidence": "...the very first video tape that I made, which I have on a reel-to-reel tape, was called Tape Tape.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(battersea_arts_centre).",
+    "source": "kevin_atherton",
+    "evidence": "I made it at Battersea Arts Centre.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(dave_hanson).",
+    "source": "kevin_atherton",
+    "evidence": "The cameraperson was a guy called Dave Hanson, a friend of mine, that was at Leeds with me.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(leeds).",
+    "source": "kevin_atherton",
+    "evidence": "The cameraperson was a guy called Dave Hanson, a friend of mine, that was at Leeds with me.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "year_created(tape_tape, @1975).",
+    "source": "kevin_atherton",
+    "evidence": "I made it tape in 1975. I'd just moved to London. I made it at Battersea Arts Centre.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "made_at(tape_tape, battersea_arts_centre).",
+    "source": "kevin_atherton",
+    "evidence": "I made it at Battersea Arts Centre.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "created_by(tape_tape, kevin_atherton).",
+    "source": "kevin_atherton",
+    "evidence": "the very first video tape that I made, which I have on a reel-to-reel tape, was called Tape Tape.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(kevin_atherton, dave_hanson).",
+    "source": "kevin_atherton",
+    "evidence": "The cameraperson was a guy called Dave Hanson, a friend of mine, that was at Leeds with me.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "educated_at(dave_hanson, leeds).",
+    "source": "kevin_atherton",
+    "evidence": "The cameraperson was a guy called Dave Hanson, a friend of mine, that was at Leeds with me.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "uses_medium(tape_tape, \"masking tape\").",
+    "source": "kevin_atherton",
+    "evidence": "which was Tape Tape, literally made using masking tape recorded on to videotape.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "uses_medium(tape_tape, \"videotape\").",
+    "source": "kevin_atherton",
+    "evidence": "which was Tape Tape, literally made using masking tape recorded on to videotape.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "studied_at(kevin_atherton, leeds_college_of_art).",
+    "source": "kevin_atherton",
+    "evidence": "I worked with film at Leeds College of Art where I made films",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(leeds_college_of_art).",
+    "source": "kevin_atherton",
+    "evidence": "I worked with film at Leeds College of Art where I made films",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(flann_obrien).",
+    "source": "kevin_atherton",
+    "evidence": "A big influence, although it’s not visual, has been Flann O’Brien.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(picador).",
+    "source": "kevin_atherton",
+    "evidence": "They were all collected and published by Picador I think, but within the column...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(weis_smals).",
+    "source": "kevin_atherton",
+    "evidence": "I remember I did a project with Weis Smals and Josine van Drofelaar at the De Appel Gallery in Amsterdam.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(josine_van_drofelaar).",
+    "source": "kevin_atherton",
+    "evidence": "I remember I did a project with Weis Smals and Josine van Drofelaar at the De Appel Gallery in Amsterdam.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(de_appel_gallery).",
+    "source": "kevin_atherton",
+    "evidence": "I remember I did a project with Weis Smals and Josine van Drofelaar at the De Appel Gallery in Amsterdam.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(amsterdam).",
+    "source": "kevin_atherton",
+    "evidence": "We shot the first one in Amsterdam.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(netherland_1).",
+    "source": "kevin_atherton",
+    "evidence": "The project was to make five TV commercials for Netherland 1, a Dutch television channel.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(kevin_atherton, weis_smals).",
+    "source": "kevin_atherton",
+    "evidence": "I remember I did a project with Weis Smals and Josine van Drofelaar at the De Appel Gallery in Amsterdam.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(kevin_atherton, josine_van_drofelaar).",
+    "source": "kevin_atherton",
+    "evidence": "I remember I did a project with Weis Smals and Josine van Drofelaar at the De Appel Gallery in Amsterdam.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "made_at(kevin_atherton, de_appel_gallery).",
+    "source": "kevin_atherton",
+    "evidence": "I remember I did a project with Weis Smals and Josine van Drofelaar at the De Appel Gallery in Amsterdam.",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "uses_medium(kevin_atherton, \"television commercial\").",
+    "source": "kevin_atherton",
+    "evidence": "The project was to make five TV commercials for Netherland 1, a Dutch television channel.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "project_for(kevin_atherton, netherland_1).",
+    "source": "kevin_atherton",
+    "evidence": "The project was to make five TV commercials for Netherland 1, a Dutch television channel.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "made_at(kevin_atherton, amsterdam).",
+    "source": "kevin_atherton",
+    "evidence": "We shot the first one in Amsterdam.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(audio_arts).",
+    "source": "kevin_atherton",
+    "evidence": "I did works with Audio Arts in the 70s and 80s, which were auditions.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(the_tape).",
+    "source": "kevin_atherton",
+    "evidence": "I was asked by Bill Furlong if I wanted to be one of the artist on The Tape",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(bill_furlong).",
+    "source": "kevin_atherton",
+    "evidence": "I was asked by Bill Furlong if I wanted to be one of the artist on The Tape",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(chelsea).",
+    "source": "kevin_atherton",
+    "evidence": "I established a research team when I taught at Chelsea, called Virtual Realities as Fine Art Medium.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(virtual_realities_as_fine_art_medium).",
+    "source": "kevin_atherton",
+    "evidence": "I established a research team when I taught at Chelsea, called Virtual Realities as Fine Art Medium.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(dublin).",
+    "source": "kevin_atherton",
+    "evidence": "When I came to Dublin, I was the first head of the Fine Art Media Department and established an MA course called MA Virtual Realities.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(fine_art_media_department).",
+    "source": "kevin_atherton",
+    "evidence": "When I came to Dublin, I was the first head of the Fine Art Media Department and established an MA course called MA Virtual Realities.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(ma_virtual_realities).",
+    "source": "kevin_atherton",
+    "evidence": "I was the first head of the Fine Art Media Department and established an MA course called MA Virtual Realities.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(another_sphere).",
+    "source": "kevin_atherton",
+    "evidence": "like the piece Another Sphere. It recognises in the title ‘Jesus, I’m doing another sphere’ but because it’s two hemispheres, and the work only comes together through video surveillance space, it takes it into another sphere, another realm.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "created_by(the_tape, kevin_atherton).",
+    "source": "kevin_atherton",
+    "evidence": "I was asked by Bill Furlong if I wanted to be one of the artist on The Tape... I said, 'Yes, but rather than do a piece on it, what I'll do is an audio ad for it and put that on it.'",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(kevin_atherton, audio_arts).",
+    "source": "kevin_atherton",
+    "evidence": "I did works with Audio Arts in the 70s and 80s, which were auditions.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(kevin_atherton, bill_furlong).",
+    "source": "kevin_atherton",
+    "evidence": "I was asked by Bill Furlong if I wanted to be one of the artist on The Tape",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "worked_with_sound(kevin_atherton).",
+    "source": "kevin_atherton",
+    "evidence": "I’ve worked with sound and mainly with voice.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "uses_medium(kevin_atherton, \"bronze\").",
+    "source": "kevin_atherton",
+    "evidence": "There is the very traditional sculpture in the bronze making and video.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "uses_medium(kevin_atherton, \"video\").",
+    "source": "kevin_atherton",
+    "evidence": "There is the very traditional sculpture in the bronze making and video.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "uses_medium(kevin_atherton, \"sound\").",
+    "source": "kevin_atherton",
+    "evidence": "I’ve worked with sound and mainly with voice. I did works with Audio Arts in the 70s and 80s, which were auditions.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "uses_medium(kevin_atherton, \"voice\").",
+    "source": "kevin_atherton",
+    "evidence": "I’ve worked with sound and mainly with voice.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "employed_by(kevin_atherton, chelsea).",
+    "source": "kevin_atherton",
+    "evidence": "I established a research team when I taught at Chelsea, called Virtual Realities as Fine Art Medium.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "head_of_department(kevin_atherton, fine_art_media_department).",
+    "source": "kevin_atherton",
+    "evidence": "When I came to Dublin, I was the first head of the Fine Art Media Department",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "established(kevin_atherton, virtual_realities_as_fine_art_medium).",
+    "source": "kevin_atherton",
+    "evidence": "I established a research team when I taught at Chelsea, called Virtual Realities as Fine Art Medium.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "established(kevin_atherton, ma_virtual_realities).",
+    "source": "kevin_atherton",
+    "evidence": "I was the first head of the Fine Art Media Department and established an MA course called MA Virtual Realities.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "created_by(another_sphere, kevin_atherton).",
+    "source": "kevin_atherton",
+    "evidence": "like the piece Another Sphere. It recognises in the title ‘Jesus, I’m doing another sphere’ but because it’s two hemispheres, and the work only comes together through video surveillance space, it takes it into another sphere, another realm.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(gallery_guide).",
+    "source": "kevin_atherton",
+    "evidence": "this ongoing virtual reality performance piece I do called Gallery Guide.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "uses_medium(gallery_guide, \"virtual reality\").",
+    "source": "kevin_atherton",
+    "evidence": "this ongoing virtual reality performance piece I do called Gallery Guide.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "uses_medium(gallery_guide, \"video projection\").",
+    "source": "kevin_atherton",
+    "evidence": "I stand in front of a video projection which itself is a computer walkthrough of a computer model of a gallery",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "created_by(gallery_guide, kevin_atherton).",
+    "source": "kevin_atherton",
+    "evidence": "this ongoing virtual reality performance piece I do called Gallery Guide.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "edited_by(gallery_guide, sally_williams).",
+    "source": "kevin_atherton",
+    "evidence": "I was indebted to Sally Williams editing the text.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "person(sally_williams).",
+    "source": "kevin_atherton",
+    "evidence": "I was indebted to Sally Williams editing the text.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "person(cleveland_connell).",
+    "source": "kevin_atherton",
+    "evidence": "but bottled in by Cleveland Connell. Why have I called him Cleveland Connell? Because my father’s side of the family were Connells.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "person(john_sale).",
+    "source": "kevin_atherton",
+    "evidence": "You don’t need to know this, but you might pick up John Sale, my grandmother was Sale.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "person(frank_cumani).",
+    "source": "kevin_atherton",
+    "evidence": "The introduction was written by Frank Cumani. That is a combination of Frankie Dettori, the jockey, and Luca Cumani, his trainer.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "person(frankie_dettori).",
+    "source": "kevin_atherton",
+    "evidence": "That is a combination of Frankie Dettori, the jockey, and Luca Cumani, his trainer.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "person(luca_cumani).",
+    "source": "kevin_atherton",
+    "evidence": "That is a combination of Frankie Dettori, the jockey, and Luca Cumani, his trainer.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "person(alison_winkle).",
+    "source": "kevin_atherton",
+    "evidence": "It was pointed out to me by Alison Winkle when I was talking with her",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "person(tracey_emin).",
+    "source": "kevin_atherton",
+    "evidence": "Tracey Emin has to be a joke, but not everyone is allowed to enter it",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "person(gillian_wearing).",
+    "source": "kevin_atherton",
+    "evidence": "it as though Gillian Wearing invented video art.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "organisation(goldsmiths).",
+    "source": "kevin_atherton",
+    "evidence": "Goldsmiths never had a strong time base media element in the 70s.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "person(michael_craig_martin).",
+    "source": "kevin_atherton",
+    "evidence": "It was very object based with Michael Craig-Martin etc.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "person(john_thompson).",
+    "source": "kevin_atherton",
+    "evidence": "there were artists there like John Thompson, who selected me for the British Art Show, with the Coronation Street piece,",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "exhibition(british_art_show).",
+    "source": "kevin_atherton",
+    "evidence": "who selected me for the British Art Show, with the Coronation Street piece,",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "work(coronation_street_piece).",
+    "source": "kevin_atherton",
+    "evidence": "who selected me for the British Art Show, with the Coronation Street piece,",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "selected_for(kevin_atherton, british_art_show).",
+    "source": "kevin_atherton",
+    "evidence": "who selected me for the British Art Show, with the Coronation Street piece,",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "organisation(maidstone).",
+    "source": "kevin_atherton",
+    "evidence": "I think when she came she mixed with David Hall’s students in time based media at Maidstone.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "person(david_hall).",
+    "source": "kevin_atherton",
+    "evidence": "I think when she came she mixed with David Hall’s students in time based media at Maidstone.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "organisation(royal_college).",
+    "source": "kevin_atherton",
+    "evidence": "then she went to the Royal College and like all these fuckers who go to the Royal College, hated it.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "educated_at(kevin_atherton, leeds_college_of_art).",
+    "source": "kevin_atherton",
+    "evidence": "I went to Leeds College of Art and it was fantastic. It changed my life.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "person(nam_june_paik).",
+    "source": "kevin_atherton",
+    "evidence": "Nam June Paik’s optimism about this as the way of distributing work",
+    "confidence": "explicit",
+    "page": 14
+  },
+  {
+    "fact": "venue(manx_museum).",
+    "source": "kevin_atherton",
+    "evidence": "It then went to the Manx Museum.",
+    "confidence": "explicit",
+    "page": 14
+  },
+  {
+    "fact": "person(stephen_partridge).",
+    "source": "kevin_atherton",
+    "evidence": "for instance, Stephen Partridge was in.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "venue(herbert_art_gallery).",
+    "source": "kevin_atherton",
+    "evidence": "I was in the Herbert Art Gallery Video Show that Stephen Partridge organised in the 70s and I did a performance.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "exhibition(herbert_art_gallery_video_show_1970s).",
+    "source": "kevin_atherton",
+    "evidence": "I was in the Herbert Art Gallery Video Show that Stephen Partridge organised in the 70s and I did a performance.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "organisation(video_artists_on_tour).",
+    "source": "kevin_atherton",
+    "evidence": "There were good schemes like Video Artists’ on Tour. I was on that.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "venue(butlers_wharf).",
+    "source": "kevin_atherton",
+    "evidence": "I was committed to do 4 performances at venues like Battersea Arts Centre, Butlers Wharf, Ayton Basement in Newcastle, those kinds of places.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "venue(ayton_basement).",
+    "source": "kevin_atherton",
+    "evidence": "I was committed to do 4 performances at venues like Battersea Arts Centre, Butlers Wharf, Ayton Basement in Newcastle, those kinds of places.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "venue(de_appel).",
+    "source": "kevin_atherton",
+    "evidence": "I did quite a bit of stuff in Holland, looking back, with De Appel and Rotterdam and places like that, was because of trouble with the Arts Council of Great Britain, as it was then.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "venue(rotterdam).",
+    "source": "kevin_atherton",
+    "evidence": "I did quite a bit of stuff in Holland, looking back, with De Appel and Rotterdam and places like that, was because of trouble with the Arts Council of Great Britain, as it was then.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "organisation(channel_4).",
+    "source": "kevin_atherton",
+    "evidence": "I got wind that somebody at Channel 4, a commissioning editor, really could not abide my work, so that stopped me.",
+    "confidence": "explicit",
+    "page": 16
+  },
+  {
+    "fact": "work(the_big_breakfast_show).",
+    "source": "kevin_atherton",
+    "evidence": "I was invited on to the Big Breakfast show once to read out a recipe.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "person(richard_hamilton).",
+    "source": "kevin_atherton",
+    "evidence": "I remember going up to Richard Hamilton’s up in Hampstead on the Tube with this",
+    "confidence": "explicit",
+    "page": 16
+  },
+  {
+    "fact": "performed_at(kevin_atherton, herbert_art_gallery_video_show_1970s).",
+    "source": "kevin_atherton",
+    "evidence": "I was in the Herbert Art Gallery Video Show that Stephen Partridge organised in the 70s and I did a performance.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "performed_at(kevin_atherton, battersea_arts_centre).",
+    "source": "kevin_atherton",
+    "evidence": "I was committed to do 4 performances at venues like Battersea Arts Centre, Butlers Wharf, Ayton Basement in Newcastle, those kinds of places.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "performed_at(kevin_atherton, butlers_wharf).",
+    "source": "kevin_atherton",
+    "evidence": "I was committed to do 4 performances at venues like Battersea Arts Centre, Butlers Wharf, Ayton Basement in Newcastle, those kinds of places.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "performed_at(kevin_atherton, ayton_basement).",
+    "source": "kevin_atherton",
+    "evidence": "I was committed to do 4 performances at venues like Battersea Arts Centre, Butlers Wharf, Ayton Basement in Newcastle, those kinds of places.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "performed_at(kevin_atherton, de_appel).",
+    "source": "kevin_atherton",
+    "evidence": "I did quite a bit of stuff in Holland, looking back, with De Appel and Rotterdam and places like that, was because of trouble with the Arts Council of Great Britain, as it was then.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "performed_at(kevin_atherton, rotterdam).",
+    "source": "kevin_atherton",
+    "evidence": "I did quite a bit of stuff in Holland, looking back, with De Appel and Rotterdam and places like that, was because of trouble with the Arts Council of Great Britain, as it was then.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "funded_by(kevin_atherton, arts_council_of_great_britain).",
+    "source": "kevin_atherton",
+    "evidence": "The Arts Council funding funded me.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "exhibited_at(coronation_street_piece, british_art_show).",
+    "source": "kevin_atherton",
+    "evidence": "I was in the British Art Show, where I got a budget to make the Coronation Street piece.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "got_funding_for(kevin_atherton, \"performance\").",
+    "source": "kevin_atherton",
+    "evidence": "Then I got funding for performance as well. I’d get say £600. I was committed to do 4 performances at venues like Battersea Arts Centre, Butlers Wharf, Ayton Basement in Newcastle, those kinds of places.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "participated_in(kevin_atherton, video_artists_on_tour).",
+    "source": "kevin_atherton",
+    "evidence": "There were good schemes like Video Artists’ on Tour. I was on that.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "venue(ica_theatre).",
+    "source": "kevin_atherton",
+    "evidence": "There wasn’t a venue committed to it but in my head I saw it in the theatre space at the ICA.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "worked_as(kevin_atherton, \"attendant\").",
+    "source": "kevin_atherton",
+    "evidence": "I worked as an attendant.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "worked_as(kevin_atherton, \"technician invigilator\").",
+    "source": "kevin_atherton",
+    "evidence": "It was a job as a kind of technician invigilator. So for about five years, shortly after I got married in 1977, that’s what I did.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "employed_by(kevin_atherton, whitechapel).",
+    "source": "kevin_atherton",
+    "evidence": "It was a job as a kind of technician invigilator... I worked in the gallery... I got a week off to go Paris... a week later I was back behind the desk at the Whitechapel.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(kevin_atherton, un_certain_art_anglais).",
+    "source": "kevin_atherton",
+    "evidence": "That was the exhibition where I did a performance on a set of steps in the old Musee d’Art Moderne. I stripped down... The piece was called An Audience’s New Clothes",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "performed_at(kevin_atherton, musee_d_art_moderne).",
+    "source": "kevin_atherton",
+    "evidence": "That was the exhibition where I did a performance on a set of steps in the old Musee d’Art Moderne.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "created_by(an_audience_s_new_clothes, kevin_atherton).",
+    "source": "kevin_atherton",
+    "evidence": "The piece was called An Audience’s New Clothes",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "performed_work(kevin_atherton, an_audience_s_new_clothes).",
+    "source": "kevin_atherton",
+    "evidence": "The piece was called An Audience’s New Clothes",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(an_audience_s_new_clothes, un_certain_art_anglais).",
+    "source": "kevin_atherton",
+    "evidence": "That was the exhibition where I did a performance... The piece was called An Audience’s New Clothes",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(an_audience_s_new_clothes, musee_d_art_moderne).",
+    "source": "kevin_atherton",
+    "evidence": "That was the exhibition where I did a performance on a set of steps in the old Musee d’Art Moderne. The piece was called An Audience’s New Clothes",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "employed_by(kevin_atherton, slade).",
+    "source": "kevin_atherton",
+    "evidence": "I taught part-time, full-time... at the Slade",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "employed_by(kevin_atherton, royal_college_of_art).",
+    "source": "kevin_atherton",
+    "evidence": "I had regular part-time teaching at the Slade, the Royal College of Art in the Environmental Media department",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "employed_by(kevin_atherton, maidstone).",
+    "source": "kevin_atherton",
+    "evidence": "I had regular part-time teaching at the Slade, the Royal College of Art... and at Maidstone in the Time Based Media department, Middlesex, then Chelsea, Cardiff at one time.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "employed_by(kevin_atherton, middlesex).",
+    "source": "kevin_atherton",
+    "evidence": "...Maidstone in the Time Based Media department, Middlesex, then Chelsea, Cardiff at one time.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "employed_by(kevin_atherton, cardiff).",
+    "source": "kevin_atherton",
+    "evidence": "Middlesex, then Chelsea, Cardiff at one time.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "employed_by(kevin_atherton, national_college_of_art_and_design_dublin).",
+    "source": "kevin_atherton",
+    "evidence": "now I’m a Head of Department here at the National College of Art and Design in Dublin.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "held_position(kevin_atherton, \"Head of Department\").",
+    "source": "kevin_atherton",
+    "evidence": "now I’m a Head of Department here at the National College of Art and Design in Dublin.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "employed_by(kevin_atherton, museum_of_modern_art_oxford).",
+    "source": "kevin_atherton",
+    "evidence": "I’d done video performances at the Museum of Modern Art, Oxford when Nick Serota was the director there",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "director_of(nick_serota, museum_of_modern_art_oxford).",
+    "source": "kevin_atherton",
+    "evidence": "Nick Serota was the director there",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "director_of(nick_serota, whitechapel).",
+    "source": "kevin_atherton",
+    "evidence": "then he moved to the Whitechapel",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "curated_by(one_artist_one_day, richard_hamilton).",
+    "source": "kevin_atherton",
+    "evidence": "Hamilton selected me for one or two shows I’m sure through Rita’s prompting. I was in the One Artist One Day show at The Angela Flowers Gallery",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(one_artist_one_day, angela_flowers_gallery).",
+    "source": "kevin_atherton",
+    "evidence": "I was in the One Artist One Day show at The Angela Flowers Gallery",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "supported_by(kevin_atherton, rita_donagh).",
+    "source": "kevin_atherton",
+    "evidence": "There was an individual, Rita Donagh, who was extremely helpful to my career. Rita taught at the Slade so did I. She has an identity of her own, but happens to be the partner of Richard Hamilton.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "partner_of(rita_donagh, richard_hamilton).",
+    "source": "kevin_atherton",
+    "evidence": "She has an identity of her own, but happens to be the partner of Richard Hamilton.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "supported_by(kevin_atherton, lesley_greene).",
+    "source": "kevin_atherton",
+    "evidence": "Lesley Greene at Public Art Department Trust.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "affiliated_with(lesley_greene, public_art_department_trust).",
+    "source": "kevin_atherton",
+    "evidence": "Lesley Greene at Public Art Department Trust.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "supported_by(kevin_atherton, vivian_lovell).",
+    "source": "kevin_atherton",
+    "evidence": "Vivian Lovell at the Ikon and then later PACA – Public Art Commissions’ Agency.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "affiliated_with(vivian_lovell, ikon).",
+    "source": "kevin_atherton",
+    "evidence": "Vivian Lovell at the Ikon ",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "affiliated_with(vivian_lovell, public_art_commissions_agency_paca).",
+    "source": "kevin_atherton",
+    "evidence": "Vivian Lovell at the Ikon and then later PACA – Public Art Commissions’ Agency.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "supported_by(kevin_atherton, weis_smals).",
+    "source": "kevin_atherton",
+    "evidence": "In Holland, Weis Smals who along with Josine van Droffelaar were very supportive of me",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "supported_by(kevin_atherton, josine_van_droffelaar).",
+    "source": "kevin_atherton",
+    "evidence": "In Holland, Weis Smals who along with Josine van Droffelaar were very supportive of me",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "supported_by(kevin_atherton, anna_ridley).",
+    "source": "kevin_atherton",
+    "evidence": "Anna Ridley at Analogue was somebody else who was supportive and did the video documentation of Video Document.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "affiliated_with(anna_ridley, analogue).",
+    "source": "kevin_atherton",
+    "evidence": "Anna Ridley at Analogue was somebody else who was supportive and did the video documentation of Video Document.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "documented_by(video_document, anna_ridley).",
+    "source": "kevin_atherton",
+    "evidence": "Anna Ridley at Analogue was somebody else who was supportive and did the video documentation of Video Document.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "idea_for(video_document, iron_horses).",
+    "source": "kevin_atherton",
+    "evidence": "That is also a piece or was the idea for the Iron Horses piece.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(kevin_atherton, acme_gallery).",
+    "source": "kevin_atherton",
+    "evidence": "going to one another’s performances, and videos and stuff, in and around Covent Garden, Earlham Street, ACME Gallery, AIR Gallery on Shaftsbury Avenue and then later Rosemary Gallery.",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(kevin_atherton, air_gallery).",
+    "source": "kevin_atherton",
+    "evidence": "going to one another’s performances, and videos and stuff, in and around Covent Garden, Earlham Street, ACME Gallery, AIR Gallery on Shaftsbury Avenue and then later Rosemary Gallery.",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(kevin_atherton, rosemary_gallery).",
+    "source": "kevin_atherton",
+    "evidence": "going to one another’s performances, and videos and stuff, in and around Covent Garden, Earlham Street, ACME Gallery, AIR Gallery on Shaftsbury Avenue and then later Rosemary Gallery.",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "venue_in_area(covent_garden, acme_gallery).",
+    "source": "kevin_atherton",
+    "evidence": "in and around Covent Garden, Earlham Street, ACME Gallery...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue_in_area(covent_garden, air_gallery).",
+    "source": "kevin_atherton",
+    "evidence": "in and around Covent Garden, Earlham Street, ACME Gallery, AIR Gallery on Shaftsbury Avenue",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue_in_area(covent_garden, pmj_self).",
+    "source": "kevin_atherton",
+    "evidence": "there were loads of little galleries, and not so little galleries, Robert Self at PMJ Self, Tony Stokes at Garage Gallery, ACME",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "venue_in_area(covent_garden, garage_gallery).",
+    "source": "kevin_atherton",
+    "evidence": "there were loads of little galleries, and not so little galleries, Robert Self at PMJ Self, Tony Stokes at Garage Gallery, ACME",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "person(nick_serota).",
+    "source": "kevin_atherton",
+    "evidence": "Nick Serota",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(museum_of_modern_art_oxford).",
+    "source": "kevin_atherton",
+    "evidence": "video performances at the Museum of Modern Art, Oxford",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(whitechapel).",
+    "source": "kevin_atherton",
+    "evidence": "Whitechapel",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibition(un_certain_art_anglais).",
+    "source": "kevin_atherton",
+    "evidence": "British Council show called Un Certain Art Anglais",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(british_council).",
+    "source": "kevin_atherton",
+    "evidence": "the Director of the British Council and his wife walked down the stairs next to me",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(an_audience_s_new_clothes).",
+    "source": "kevin_atherton",
+    "evidence": "The piece was called An Audience’s New Clothes",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(musee_d_art_moderne).",
+    "source": "kevin_atherton",
+    "evidence": "old Musee d’Art Moderne",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(slade).",
+    "source": "kevin_atherton",
+    "evidence": "I taught part-time, full-time and there were weeks where I had regular part-time teaching at the Slade",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(royal_college_of_art).",
+    "source": "kevin_atherton",
+    "evidence": "Royal College of Art in the Environmental Media department",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(middlesex).",
+    "source": "kevin_atherton",
+    "evidence": "Middlesex",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(cardiff).",
+    "source": "kevin_atherton",
+    "evidence": "Cardiff at one time",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(stuart_marshall).",
+    "source": "kevin_atherton",
+    "evidence": "because Stuart Marshall had died. He’d done the job before and I did that job.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(national_college_of_art_and_design_dublin).",
+    "source": "kevin_atherton",
+    "evidence": "now I’m a Head of Department here at the National College of Art and Design in Dublin.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(rita_donagh).",
+    "source": "kevin_atherton",
+    "evidence": "Rita Donagh, who was extremely helpful to my career. Rita taught at the Slade",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibition(one_artist_one_day).",
+    "source": "kevin_atherton",
+    "evidence": "I was in the One Artist One Day show at The Angela Flowers Gallery",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(angela_flowers_gallery).",
+    "source": "kevin_atherton",
+    "evidence": "Angela Flowers Gallery",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(lesley_greene).",
+    "source": "kevin_atherton",
+    "evidence": "Lesley Greene at Public Art Department Trust.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(public_art_department_trust).",
+    "source": "kevin_atherton",
+    "evidence": "Lesley Greene at Public Art Department Trust.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(ikon).",
+    "source": "kevin_atherton",
+    "evidence": "Vivian Lovell at the Ikon",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(public_art_commissions_agency_paca).",
+    "source": "kevin_atherton",
+    "evidence": "and then later PACA – Public Art Commissions’ Agency.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(josine_van_droffelaar).",
+    "source": "kevin_atherton",
+    "evidence": "Weis Smals who along with Josine van Droffelaar were very supportive of me",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(anna_ridley).",
+    "source": "kevin_atherton",
+    "evidence": "Anna Ridley at Analogue was somebody else who was supportive and did the video documentation of Video Document.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(analogue).",
+    "source": "kevin_atherton",
+    "evidence": "Anna Ridley at Analogue",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(video_document).",
+    "source": "kevin_atherton",
+    "evidence": "the video documentation of Video Document",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(iron_horses).",
+    "source": "kevin_atherton",
+    "evidence": "the idea for the Iron Horses piece",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(covent_garden).",
+    "source": "kevin_atherton",
+    "evidence": "in and around Covent Garden",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(earlham_street).",
+    "source": "kevin_atherton",
+    "evidence": "in and around Covent Garden, Earlham Street",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(acme_gallery).",
+    "source": "kevin_atherton",
+    "evidence": "in and around Covent Garden, Earlham Street, ACME Gallery",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(air_gallery).",
+    "source": "kevin_atherton",
+    "evidence": "ACME Gallery, AIR Gallery on Shaftsbury Avenue",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(rosemary_gallery).",
+    "source": "kevin_atherton",
+    "evidence": "and then later Rosemary Gallery.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(robert_self).",
+    "source": "kevin_atherton",
+    "evidence": "Robert Self at PMJ Self",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(pmj_self).",
+    "source": "kevin_atherton",
+    "evidence": "Robert Self at PMJ Self",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(tony_stokes).",
+    "source": "kevin_atherton",
+    "evidence": "Tony Stokes at Garage Gallery",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(garage_gallery).",
+    "source": "kevin_atherton",
+    "evidence": "Tony Stokes at Garage Gallery",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(kevin_atherton, alison_winckle).",
+    "source": "kevin_atherton",
+    "evidence": "That was myself, Alison Winckle, Dave Critchley, Martin Hearne and Mick Duckworth, three of whom came from the Isle of Man...",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(kevin_atherton, dave_critchley).",
+    "source": "kevin_atherton",
+    "evidence": "That was myself, Alison Winckle, Dave Critchley, Martin Hearne and Mick Duckworth, three of whom came from the Isle of Man...",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(kevin_atherton, martin_hearne).",
+    "source": "kevin_atherton",
+    "evidence": "That was myself, Alison Winckle, Dave Critchley, Martin Hearne and Mick Duckworth, three of whom came from the Isle of Man...",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(kevin_atherton, mick_duckworth).",
+    "source": "kevin_atherton",
+    "evidence": "That was myself, Alison Winckle, Dave Critchley, Martin Hearne and Mick Duckworth, three of whom came from the Isle of Man...",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "work(double_vision).",
+    "source": "kevin_atherton",
+    "evidence": "I was reviewed in that for the Double Vision piece, which was a video performance.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "uses_medium(double_vision, \"video\").",
+    "source": "kevin_atherton",
+    "evidence": "I was reviewed in that for the Double Vision piece, which was a video performance.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(studio_international).",
+    "source": "kevin_atherton",
+    "evidence": "Marc Chaimowicz, it was a review of a performance for Studio International.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(art_monthly).",
+    "source": "kevin_atherton",
+    "evidence": "and in Art Monthly, Michael Archer used write about me.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(roselee_goldberg_s_first_edition_of_performance_art).",
+    "source": "kevin_atherton",
+    "evidence": "I was in Roselee Goldberg’s first edition of Performance Art, but not now. I’ve been removed. But, I was in the first edition.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(cate_elwes_s_book_video_art_a_guided_tour).",
+    "source": "kevin_atherton",
+    "evidence": "or more latterly in Cate Elwes’s book Video Art, A Guided Tour: belligerent Manx artist my arse.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(deanna_petherbridge_s_book_art_within_reach).",
+    "source": "kevin_atherton",
+    "evidence": "then to being in the Deanna Petherbridge’s book, Art Within Reach.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(forest_of_dean_window).",
+    "source": "kevin_atherton",
+    "evidence": "the Forest of Dean Window is a fridge magnet. It’s also a make-it-yourself tapestry.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(sphere).",
+    "source": "kevin_atherton",
+    "evidence": "There’s the Sphere piece, which brings together two strands of work: the sculptural strand, the public sculpture work and the video work. It’s a public sculpture made for a park in Ballymun in Dublin.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "made_at(sphere, ballymun_park_in_dublin).",
+    "source": "kevin_atherton",
+    "evidence": "It’s a public sculpture made for a park in Ballymun in Dublin.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(ballymun_park_in_dublin).",
+    "source": "kevin_atherton",
+    "evidence": "It’s a public sculpture made for a park in Ballymun in Dublin.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "uses_medium(sphere, \"mirror polished-stainless steel\").",
+    "source": "kevin_atherton",
+    "evidence": "It consists of two, three-meter diameter mirror polished-stainless steel hemispheres, positioned at either end of a park.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "uses_medium(sphere, \"video\").",
+    "source": "kevin_atherton",
+    "evidence": "the video work. ... The image will come together on a video screen in a pavilion.",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "uses_medium(gallery_guide, \"video\").",
+    "source": "kevin_atherton",
+    "evidence": "Gallery Guide where I as a performer stand in front of a video projection of a computer walk-through model...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "uses_medium(gallery_guide, \"performance\").",
+    "source": "kevin_atherton",
+    "evidence": "I as a performer stand in front of a video projection... and do the commentary about the works live.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(chelsea_college_of_art).",
+    "source": "kevin_atherton",
+    "evidence": "before I worked full-time at Chelsea, I worked there part-time and I knew Stuart.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(kevin_atherton, peter_kardia).",
+    "source": "kevin_atherton",
+    "evidence": "Likewise at the Royal College of Art, I would be in debates with Peter Kardia and David Hall.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(kevin_atherton, david_hall).",
+    "source": "kevin_atherton",
+    "evidence": "Likewise at the Royal College of Art, I would be in debates with Peter Kardia and David Hall. I would be in debates and fights with David Hall and with Stephen Partridge.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(kevin_atherton, stephen_partridge).",
+    "source": "kevin_atherton",
+    "evidence": "I would be in debates and fights with David Hall and with Stephen Partridge.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(alison_winckle).",
+    "source": "kevin_atherton",
+    "evidence": "That was myself, Alison Winckle, Dave Critchley, Martin Hearne and Mick Duckworth...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(dave_critchley).",
+    "source": "kevin_atherton",
+    "evidence": "That was myself, Alison Winckle, Dave Critchley, Martin Hearne and Mick Duckworth...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(martin_hearne).",
+    "source": "kevin_atherton",
+    "evidence": "That was myself, Alison Winckle, Dave Critchley, Martin Hearne and Mick Duckworth...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(mick_duckworth).",
+    "source": "kevin_atherton",
+    "evidence": "That was myself, Alison Winckle, Dave Critchley, Martin Hearne and Mick Duckworth...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(marc_chaimowicz).",
+    "source": "kevin_atherton",
+    "evidence": "Marc Chaimowicz, it was a review of a performance for Studio International.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(michael_archer).",
+    "source": "kevin_atherton",
+    "evidence": "in Art Monthly, Michael Archer used write about me.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(peter_kardia).",
+    "source": "kevin_atherton",
+    "evidence": "Likewise at the Royal College of Art, I would be in debates with Peter Kardia and David Hall.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(bruce_lacey).",
+    "source": "kevin_atherton",
+    "evidence": "I remember as a student Bruce Lacey doing a talk on his own work...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(robin_page).",
+    "source": "kevin_atherton",
+    "evidence": "There were some very good people who taught at Leeds, primarily Robin Page who was a Canadian, who came to Leeds. He was a member of Fluxus and did five years at Leeds.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "member_of(robin_page, \"Fluxus\").",
+    "source": "kevin_atherton",
+    "evidence": "He was a member of Fluxus and did five years at Leeds.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(george_brecht).",
+    "source": "kevin_atherton",
+    "evidence": "George Brecht, the artist, had also been at Leeds.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(harry_thubron).",
+    "source": "kevin_atherton",
+    "evidence": "there was this Harry Thubron type truth to the materials and basic design element",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(anthony_earnshaw).",
+    "source": "kevin_atherton",
+    "evidence": "Anthony Earnshaw was a craftsman-engraver",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(hornsey_or_middlesex).",
+    "source": "kevin_atherton",
+    "evidence": "I taught at Hornsey or Middlesex",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(national_college_of_art_and_design_in_dublin).",
+    "source": "kevin_atherton",
+    "evidence": "The National College of Art and Design in Dublin",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(jeff_edwards).",
+    "source": "kevin_atherton",
+    "evidence": "I worked there with Jeff Edwards who was a painter...",
+    "confidence": "explicit",
+    "page": null
+  }
+]

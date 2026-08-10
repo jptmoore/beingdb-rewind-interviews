@@ -114,6 +114,16 @@ async function processInterview(interview: InterviewConfig, aliases: AliasMap, c
     model,
     interviewName: interview.name,
     fullText: extracted.text,
+    onProgress: (progress) => {
+      if (progress.phase === "start") {
+        console.log(`  chunk ${progress.chunkIndex + 1}/${progress.chunkCount}: calling ${model}...`);
+      } else {
+        const seconds = ((progress.elapsedMs ?? 0) / 1000).toFixed(1);
+        console.log(
+          `  chunk ${progress.chunkIndex + 1}/${progress.chunkCount}: done in ${seconds}s (${progress.factCount} facts)`,
+        );
+      }
+    },
   });
   console.log(`model returned ${chunkResults.length} chunk result(s)`);
 

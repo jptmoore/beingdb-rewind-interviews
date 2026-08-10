@@ -1,3 +1,20 @@
 {
-  "entries": {}
+  "entries": {
+    "kevin_atherton": {
+      "id": "kevin_atherton",
+      "documentId": "rewind_kevin_atherton_interview",
+      "sourceUrl": "https://rewind.ac.uk/rewind/wp-content/uploads/sites/146/2021/03/KAT510.pdf",
+      "sourceChecksum": "435aa46ed015ca9f86cca1f34bca122e62930520a97055446796d6954df6ee8b",
+      "extractedAt": "2026-08-10T12:49:27.500Z",
+      "model": "gpt-4.1",
+      "pipelineVersion": "1",
+      "chunkCount": 10,
+      "factCount": 247,
+      "droppedFactCount": 0,
+      "warnings": [
+        "entity id collision: \"Ikon Gallery\" and \"Ikon Gallery, Birmingham\" both normalize to \"ikon_gallery_birmingham\"; \"Ikon Gallery\" was assigned \"ikon_gallery_birmingham_2\" instead. Add an explicit override in config/entity-aliases.json or config/interviews.json if this is wrong.",
+        "entity id collision: \"Ikon Gallery\" and \"Ikon Gallery, Birmingham\" both normalize to \"ikon_gallery_birmingham\"; \"Ikon Gallery\" was assigned \"ikon_gallery_birmingham_3\" instead. Add an explicit override in config/entity-aliases.json or config/interviews.json if this is wrong."
+      ]
+    }
+  }
 }

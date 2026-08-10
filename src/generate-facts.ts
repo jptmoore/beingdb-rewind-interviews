@@ -101,6 +101,17 @@ const EXTRACTION_RESULT_SCHEMA = {
   additionalProperties: false,
 } as const;
 
+/** Reported before/after each chunk's model call, so a caller can show progress during a slow multi-chunk run. */
+export interface ExtractFactsProgress {
+  chunkIndex: number;
+  chunkCount: number;
+  phase: "start" | "done";
+  /** Only set when phase is "done". */
+  factCount?: number;
+  /** Only set when phase is "done". */
+  elapsedMs?: number;
+}
+
 export interface ExtractFactsOptions {
   client: OpenAI;
   model: string;
@@ -108,16 +119,21 @@ export interface ExtractFactsOptions {
   fullText: string;
   /** Overrides MAX_CHUNK_CHARS; primarily for tests. */
   maxChunkChars?: number;
+  /** Called before and after each chunk's model call, so long extractions don't look hung. */
+  onProgress?: (progress: ExtractFactsProgress) => void;
 }
 
 /** Runs structured extraction over every chunk of an interview's text, returning one result per chunk. */
 export async function extractFacts(options: ExtractFactsOptions): Promise<ExtractionResult[]> {
-  const { client, model, interviewName, fullText } = options;
+  const { client, model, interviewName, fullText, onProgress } = options;
   const chunks = chunkText(fullText, options.maxChunkChars);
   const results: ExtractionResult[] = [];
 
   for (let i = 0; i < chunks.length; i++) {
     const chunkText = chunks[i]!;
+    onProgress?.({ chunkIndex: i, chunkCount: chunks.length, phase: "start" });
+    const startedAt = Date.now();
+
     const completion = await client.chat.completions.create({
       model,
       messages: [
@@ -137,7 +153,15 @@ export async function extractFacts(options: ExtractFactsOptions): Promise<Extrac
     if (!content) {
       throw new Error(`generate-facts: chunk ${i + 1}/${chunks.length} returned no content from the model`);
     }
-    results.push(JSON.parse(content) as ExtractionResult);
+    const result = JSON.parse(content) as ExtractionResult;
+    results.push(result);
+    onProgress?.({
+      chunkIndex: i,
+      chunkCount: chunks.length,
+      phase: "done",
+      factCount: result.facts.length,
+      elapsedMs: Date.now() - startedAt,
+    });
   }
 
   return results;
