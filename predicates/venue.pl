@@ -17,8 +17,6 @@ venue(edinburgh).
 venue(garage_gallery).
 venue(herbert_art_gallery).
 venue(ica_theatre).
-venue(ikon_gallery_birmingham_2).
-venue(ikon_gallery_birmingham_3).
 venue(ikon_gallery_birmingham).
 venue(kettles_yard).
 venue(manx_museum).

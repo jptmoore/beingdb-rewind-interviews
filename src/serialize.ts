@@ -56,6 +56,15 @@ export interface MergeResult {
   totalCount: number;
 }
 
+/** Writes a predicate's complete, already-deduplicated proposition set, sorted, with the standard header. */
+export function writePropositions(predicatesDir: string, predicate: string, lines: Iterable<string>): string {
+  const filePath = path.join(predicatesDir, `${predicate}.pl`);
+  const sorted = Array.from(new Set(lines)).sort((a, b) => a.localeCompare(b));
+  fs.mkdirSync(predicatesDir, { recursive: true });
+  fs.writeFileSync(filePath, GENERATED_HEADER(predicate) + sorted.join("\n") + "\n", "utf8");
+  return filePath;
+}
+
 /**
  * Merges newly generated proposition lines for one predicate into its
  * `predicates/<name>.pl` file: existing facts (from other artists/runs) are
@@ -70,16 +79,14 @@ export function mergePredicateFile(
 ): MergeResult {
   const filePath = path.join(predicatesDir, `${predicate}.pl`);
   const existing = readExistingPropositions(filePath);
-  const merged = Array.from(new Set([...existing, ...newPropositionLines])).sort((a, b) => a.localeCompare(b));
-
-  fs.mkdirSync(predicatesDir, { recursive: true });
-  fs.writeFileSync(filePath, GENERATED_HEADER(predicate) + merged.join("\n") + "\n", "utf8");
+  const merged = new Set([...existing, ...newPropositionLines]);
+  writePropositions(predicatesDir, predicate, merged);
 
   return {
     predicate,
     file: filePath,
-    addedCount: merged.length - existing.length,
-    totalCount: merged.length,
+    addedCount: merged.size - existing.length,
+    totalCount: merged.size,
   };
 }
 

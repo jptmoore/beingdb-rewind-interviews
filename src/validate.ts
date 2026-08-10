@@ -9,6 +9,10 @@ export function isValidPredicateName(name: string): boolean {
   return PREDICATE_NAME_RE.test(name);
 }
 
+export function isValidAtom(value: string): boolean {
+  return ATOM_RE.test(value);
+}
+
 /** Structural validation of one typed argument. Returns an error message, or null if valid. */
 export function validateArgument(arg: FactArgument): string | null {
   switch (arg.kind) {

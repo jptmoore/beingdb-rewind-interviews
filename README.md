@@ -148,6 +148,30 @@ different atom from another interview. Cross-interview entity aliases
 `config/entity-aliases.json`; per-interview one-off overrides go in that
 interview's own `idOverrides`.
 
+### Fixing an entity-id collision without re-running the AI pipeline
+
+If `metadata/extraction.json` shows an `entity id collision` warning (e.g.
+"Ikon Gallery" and "Ikon Gallery, Birmingham" got assigned
+`ikon_gallery_birmingham` and `ikon_gallery_birmingham_2`), it usually means
+one label is missing from `config/entity-aliases.json`. Fixing it doesn't
+require another (paid) extraction run:
+
+1. Add the missing alias so *future* runs resolve correctly:
+   ```json
+   "Ikon Gallery, Birmingham": "ikon_gallery_birmingham"
+   ```
+2. Rewrite the *already-generated* files in place with `npm run reconcile`,
+   which only renames atoms already on disk (`predicates/*.pl` and
+   `metadata/evidence/*.json`) and merges any facts that become duplicates -
+   no OpenAI calls involved:
+   ```bash
+   npm run reconcile -- ikon_gallery_birmingham_2=ikon_gallery_birmingham
+   ```
+3. Review the resulting `git diff` as usual before committing.
+
+`metadata/extraction.json`'s `warnings` field is left as-is by `reconcile` -
+it's a historical log of what a specific run produced, not a live index.
+
 ## How to use with BeingDB
 
 This repository *is* a BeingDB facts repository. Using the real
@@ -283,7 +307,8 @@ Unit tests cover: atom-ID normalization (incl. accents, punctuation,
 apostrophes), shared entity aliasing and per-interview overrides, collision
 disambiguation, BeingDB literal serialization (incl. quoted-string escaping),
 deterministic sorting, malformed model output rejection, duplicate removal,
-and extraction-metadata generation. See `test/unit/`.
+extraction-metadata generation, and the offline atom-rename/reconcile tool.
+See `test/unit/`.
 
 ## Limitations and assumptions
 

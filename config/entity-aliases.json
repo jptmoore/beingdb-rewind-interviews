@@ -2,6 +2,7 @@
   "_comment": "Curated entity-name -> stable atom ID overrides, shared across all interviews. Keys are matched case-insensitively against entity labels suggested by the model before falling back to automatic normalization (see src/normalize.ts). Add an entry here whenever the same real-world entity is likely to be referred to differently across interviews, so cross-artist joins in BeingDB stay meaningful.",
 
   "Ikon Gallery": "ikon_gallery_birmingham",
+  "Ikon Gallery, Birmingham": "ikon_gallery_birmingham",
   "Institute of Contemporary Arts": "ica_london",
   "ICA": "ica_london",
   "Arts Council of Great Britain": "arts_council_of_great_britain",

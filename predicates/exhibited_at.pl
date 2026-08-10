@@ -13,4 +13,4 @@ exhibited_at(television_interview, british_art_show_ii).
 exhibited_at(television_interview, edinburgh).
 exhibited_at(television_interview, ikon_gallery_birmingham).
 exhibited_at(television_interview, southampton).
-exhibited_at(video_times, ikon_gallery_birmingham_2).
+exhibited_at(video_times, ikon_gallery_birmingham).

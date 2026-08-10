@@ -140,7 +140,7 @@
     "page": 4
   },
   {
-    "fact": "venue(ikon_gallery_birmingham_2).",
+    "fact": "venue(ikon_gallery_birmingham).",
     "source": "kevin_atherton",
     "evidence": "I worked at the Ikon Gallery with Vivian Lovell, when she worked there, I did that piece and it was at the Ikon Gallery for five weeks, as an installation every day.",
     "confidence": "explicit",
@@ -196,7 +196,7 @@
     "page": 4
   },
   {
-    "fact": "exhibited_at(video_times, ikon_gallery_birmingham_2).",
+    "fact": "exhibited_at(video_times, ikon_gallery_birmingham).",
     "source": "kevin_atherton",
     "evidence": "I did that piece and it was at the Ikon Gallery for five weeks, as an installation every day.",
     "confidence": "explicit",
@@ -224,7 +224,7 @@
     "page": null
   },
   {
-    "fact": "venue(ikon_gallery_birmingham_3).",
+    "fact": "venue(ikon_gallery_birmingham).",
     "source": "kevin_atherton",
     "evidence": "...with work that was shown within galleries, for example with the Ikon Gallery and Kettles Yard...",
     "confidence": "explicit",

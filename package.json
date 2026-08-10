@@ -11,6 +11,7 @@
   "scripts": {
     "build": "tsc -p .",
     "extract": "tsx src/index.ts",
+    "reconcile": "tsx src/reconcile.ts",
     "test": "node --import tsx --test 'test/unit/**/*.test.ts'",
     "test:integration": "node --import tsx --test 'test/integration/**/*.test.ts'",
     "validate:beingdb": "node scripts/validate-beingdb.mjs"
