@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment
+.env
+
+# Cached source documents (PDFs/extracted text). Not committed: interview
+# transcripts are copyrighted source material, not pipeline output. Provenance
+# (URL + checksum) is recorded in metadata/extraction.json so the exact same
+# content can be re-fetched and re-verified instead of redistributing it here.
+source/*
+!source/.gitkeep
+
+# Transient BeingDB validation stores (see npm run validate:beingdb)
+.beingdb/
+
+# OS/editor
+.DS_Store
+*.log
