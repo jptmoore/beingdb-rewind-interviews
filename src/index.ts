@@ -1,10 +1,14 @@
 #!/usr/bin/env node
 /**
  * CLI entrypoint: extracts BeingDB facts for one or all configured
- * interviews.
+ * interviews. Without --artist, already-extracted interviews (those with an
+ * entry in metadata/extraction.json) are skipped, so adding one new
+ * interview to config/interviews.json and running this again does not
+ * re-run the AI over every previously extracted interview.
  *
- *   npm run extract                       -- all configured interviews
- *   npm run extract -- --artist kevin_atherton   -- a single interview
+ *   npm run extract                       -- only interviews not yet extracted
+ *   npm run extract -- --artist kevin_atherton   -- (re)process one interview
+ *   npm run extract -- --force            -- re-run the AI on every configured interview
  */
 import * as fs from "node:fs";
 import * as path from "node:path";
@@ -25,7 +29,7 @@ import { extractFacts } from "./generate-facts.js";
 import { AliasMap, EntityResolver, normalizeId } from "./normalize.js";
 import { dedupeFacts, filterConservative, validateFactShape } from "./validate.js";
 import { factToProposition, writeFactsToPredicates } from "./serialize.js";
-import { upsertExtractionMetadata, writeEvidenceSidecar } from "./metadata.js";
+import { loadExtractionMetadata, upsertExtractionMetadata, writeEvidenceSidecar } from "./metadata.js";
 
 const PIPELINE_VERSION = "1";
 
@@ -59,8 +63,9 @@ function loadDotEnv(envPath: string): void {
   }
 }
 
-function parseArgs(argv: string[]): { artist: string | null } {
+function parseArgs(argv: string[]): { artist: string | null; force: boolean } {
   let artist: string | null = null;
+  let force = false;
   for (let i = 0; i < argv.length; i++) {
     const arg = argv[i];
     if (arg === "--artist") {
@@ -68,9 +73,11 @@ function parseArgs(argv: string[]): { artist: string | null } {
       i++;
     } else if (arg?.startsWith("--artist=")) {
       artist = arg.slice("--artist=".length);
+    } else if (arg === "--force") {
+      force = true;
     }
   }
-  return { artist };
+  return { artist, force };
 }
 
 function loadInterviews(): InterviewConfig[] {
@@ -208,7 +215,7 @@ async function processInterview(interview: InterviewConfig, aliases: AliasMap, c
 
 async function main() {
   loadDotEnv(path.join(ROOT, ".env"));
-  const { artist } = parseArgs(process.argv.slice(2));
+  const { artist, force } = parseArgs(process.argv.slice(2));
 
   const apiKey = process.env.OPENAI_API_KEY;
   if (!apiKey) {
@@ -224,10 +231,30 @@ async function main() {
   }
 
   const interviews = loadInterviews();
-  const selected = artist ? interviews.filter((i) => i.id === artist) : interviews;
-  if (artist && selected.length === 0) {
+  const candidates = artist ? interviews.filter((i) => i.id === artist) : interviews;
+  if (artist && candidates.length === 0) {
     console.error(`extract: no interview configured with id "${artist}" in config/interviews.json`);
     process.exitCode = 1;
+    return;
+  }
+
+  // In batch mode (no --artist), never silently re-run the AI on interviews
+  // that were already extracted - only new ones. An explicit --artist or
+  // --force always (re)processes what was asked for.
+  const metadata = loadExtractionMetadata(METADATA_FILE);
+  const alreadyExtracted = (id: string) => id in metadata.entries;
+  const selected = artist || force ? candidates : candidates.filter((i) => !alreadyExtracted(i.id));
+  const skipped = artist || force ? [] : candidates.filter((i) => alreadyExtracted(i.id));
+
+  if (skipped.length > 0) {
+    console.log(`Skipping ${skipped.length} already-extracted interview(s) (use --force to regenerate):`);
+    for (const s of skipped) console.log(`  - ${s.id}`);
+  }
+  if (selected.length === 0) {
+    console.log(
+      "Nothing to extract: every configured interview already has a metadata/extraction.json entry. " +
+        "Use --force to regenerate everything, or --artist <id> to regenerate one.",
+    );
     return;
   }
 

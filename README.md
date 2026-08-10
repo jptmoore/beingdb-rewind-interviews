@@ -42,14 +42,20 @@ truth.
 npm install
 cp .env.example .env        # set OPENAI_API_KEY and OPENAI_MODEL
 
-npm run extract                              # all interviews in config/interviews.json
-npm run extract -- --artist kevin_atherton   # a single interview
+npm run extract                              # only interviews not yet extracted
+npm run extract -- --artist kevin_atherton   # (re)process a single interview
+npm run extract -- --force                   # re-run every configured interview
 ```
 
 This downloads the configured PDF, extracts its text, sends it to the model
 in chunks, validates and filters the result, and merges the resulting facts
 into `predicates/*.pl`. Regeneration is non-destructive - review the `git
 diff` before committing, the same as any other generated code.
+
+Without `--artist` or `--force`, interviews that already have an entry in
+`metadata/extraction.json` are skipped, so adding one new interview to
+`config/interviews.json` and running `npm run extract` only calls the model
+for that new interview - it never re-processes ones you've already run.
 
 To add an interview, add an entry to `config/interviews.json`:
 
