@@ -1,0 +1,134 @@
+#!/usr/bin/env node
+/**
+ * Retroactively fixes argument-type inconsistencies already written to
+ * predicates/*.pl (see src/type-consistency.ts for why this matters) -
+ * without calling the OpenAI API. Coerces a string argument to an atom
+ * wherever that predicate/position already has atom-typed facts elsewhere
+ * in the same file, using config/entity-aliases.json for known relabelings.
+ *
+ *   npm run fix-types
+ */
+import * as fs from "node:fs";
+import * as path from "node:path";
+import { fileURLToPath } from "node:url";
+
+import { AliasMap, EntityResolver } from "./normalize.js";
+import { classifyLiteral, parseProposition, unquoteStringLiteral } from "./type-consistency.js";
+import { readExistingPropositions, writePropositions } from "./serialize.js";
+import type { EvidenceEntry } from "./types.js";
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const ROOT = path.resolve(__dirname, "..");
+const PREDICATES_DIR = path.join(ROOT, "predicates");
+const EVIDENCE_DIR = path.join(ROOT, "metadata", "evidence");
+
+const MAX_COERCIBLE_LENGTH = 60;
+
+function loadAliasMap(): AliasMap {
+  const raw = fs.readFileSync(path.join(ROOT, "config", "entity-aliases.json"), "utf8");
+  return new AliasMap(JSON.parse(raw) as Record<string, string>);
+}
+
+interface FixResult {
+  file: string;
+  renamedLines: Array<[oldLine: string, newLine: string]>;
+}
+
+/** Fixes one predicate file in place, returning the exact old->new line renames applied (for the evidence sidecar). */
+function fixPredicateFile(filePath: string, predicate: string, resolveLabel: (label: string) => string): FixResult | null {
+  const lines = readExistingPropositions(filePath);
+  const parsedLines = lines.map((line) => ({ line, parsed: parseProposition(line) }));
+
+  // Established kinds observed anywhere in the file, before any fix in this pass.
+  const established = new Map<number, Set<string>>();
+  for (const { parsed } of parsedLines) {
+    if (!parsed) continue;
+    parsed.args.forEach((arg, position) => {
+      const kinds = established.get(position) ?? new Set<string>();
+      kinds.add(classifyLiteral(arg));
+      established.set(position, kinds);
+    });
+  }
+
+  const renamedLines: Array<[string, string]> = [];
+  const fixedLines = parsedLines.map(({ line, parsed }) => {
+    if (!parsed) return line;
+    let changed = false;
+    const newArgs = parsed.args.map((arg, position) => {
+      if (classifyLiteral(arg) !== "string" || !established.get(position)?.has("atom")) return arg;
+      const value = unquoteStringLiteral(arg);
+      if (value.length > MAX_COERCIBLE_LENGTH) return arg;
+      changed = true;
+      return resolveLabel(value);
+    });
+    if (!changed) return line;
+    const newLine = `${predicate}(${newArgs.join(", ")}).`;
+    renamedLines.push([line, newLine]);
+    return newLine;
+  });
+
+  if (renamedLines.length === 0) return null;
+  writePropositions(PREDICATES_DIR, predicate, fixedLines);
+  return { file: filePath, renamedLines };
+}
+
+function updateEvidence(renames: Array<[string, string]>): string[] {
+  const changedFiles: string[] = [];
+  if (!fs.existsSync(EVIDENCE_DIR) || renames.length === 0) return changedFiles;
+
+  for (const entry of fs.readdirSync(EVIDENCE_DIR)) {
+    if (!entry.endsWith(".json")) continue;
+    const filePath = path.join(EVIDENCE_DIR, entry);
+    const entries = JSON.parse(fs.readFileSync(filePath, "utf8")) as EvidenceEntry[];
+    let changed = false;
+    const updated = entries.map((e) => {
+      const rename = renames.find(([oldLine]) => oldLine === e.fact);
+      if (!rename) return e;
+      changed = true;
+      return { ...e, fact: rename[1] };
+    });
+    if (changed) {
+      fs.writeFileSync(filePath, JSON.stringify(updated, null, 2) + "\n", "utf8");
+      changedFiles.push(filePath);
+    }
+  }
+  return changedFiles;
+}
+
+function main() {
+  const aliases = loadAliasMap();
+  const resolver = new EntityResolver({ aliases });
+
+  if (!fs.existsSync(PREDICATES_DIR)) {
+    console.log("fix-types: predicates/ does not exist yet - nothing to do.");
+    return;
+  }
+
+  const allRenames: Array<[string, string]> = [];
+  let filesChanged = 0;
+
+  for (const entry of fs.readdirSync(PREDICATES_DIR)) {
+    if (!entry.endsWith(".pl")) continue;
+    const predicate = entry.slice(0, -".pl".length);
+    const result = fixPredicateFile(path.join(PREDICATES_DIR, entry), predicate, (label) => resolver.resolve(label));
+    if (!result) continue;
+    filesChanged++;
+    console.log(`  ${path.relative(ROOT, result.file)}:`);
+    for (const [oldLine, newLine] of result.renamedLines) {
+      console.log(`    ${oldLine}\n    -> ${newLine}`);
+    }
+    allRenames.push(...result.renamedLines);
+  }
+
+  const evidenceFilesChanged = updateEvidence(allRenames);
+
+  console.log(`\npredicates/: ${filesChanged} file(s) fixed, ${allRenames.length} fact(s) coerced`);
+  console.log(`metadata/evidence/: ${evidenceFilesChanged.length} file(s) updated`);
+  if (filesChanged === 0) {
+    console.log("No mixed-type positions found.");
+  }
+}
+
+if (path.resolve(process.argv[1] ?? "") === path.resolve(fileURLToPath(import.meta.url))) {
+  main();
+}

@@ -4,7 +4,7 @@
 affiliated_with(anna_ridley, analogue).
 affiliated_with(de_appel_foundation, franklin_furnace).
 affiliated_with(elsa, jan_van_eyck_academy).
-affiliated_with(jan_van_eyck_academy, "Maastricht, Netherlands").
+affiliated_with(jan_van_eyck_academy, maastricht).
 affiliated_with(lesley_greene, public_art_department_trust).
 affiliated_with(vivian_lovell, ikon).
 affiliated_with(vivian_lovell, public_art_commissions_agency_paca).

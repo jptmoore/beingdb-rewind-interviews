@@ -2191,7 +2191,7 @@
     "page": null
   },
   {
-    "fact": "used_in_work(field_free_space, \"Faraday cage\").",
+    "fact": "used_in_work(field_free_space, faraday_cage).",
     "source": "madelon_hooykaas",
     "evidence": "That includes electro-magnetic radiation, which we use in the work, Field Free Space. By standing a Faraday cage placed in a landscape next to electric poles...",
     "confidence": "explicit",

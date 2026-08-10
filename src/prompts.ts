@@ -35,6 +35,13 @@ near-duplicate. You are not restricted to a fixed ontology, however: if the
 text supports a genuinely different kind of relationship, propose a new,
 clear, lowercase snake_case predicate name for it.
 
+Be consistent about argument types within a predicate: if an argument
+position of a predicate is used elsewhere for an entity reference (atom),
+use an atom there too - register the value as an entity rather than
+inlining it as a free-text string for one fact and an atom for another. Use
+"string" only for values that are genuinely free text (titles, descriptions,
+quotes), not for names of people, places, works, or organisations.
+
 Entities you mention in "entities" should get a short id/slug and a label;
 the pipeline - not you - assigns final stable identifiers, so your ids are
 only used to link facts to entities within your own response.

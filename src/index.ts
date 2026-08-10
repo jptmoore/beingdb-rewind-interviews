@@ -30,6 +30,7 @@ import { AliasMap, EntityResolver, normalizeId } from "./normalize.js";
 import { dedupeFacts, filterConservative, validateFactShape } from "./validate.js";
 import { factToProposition, writeFactsToPredicates } from "./serialize.js";
 import { loadExtractionMetadata, upsertExtractionMetadata, writeEvidenceSidecar } from "./metadata.js";
+import { establishedKinds, reconcileArgumentKinds } from "./type-consistency.js";
 
 const PIPELINE_VERSION = "1";
 
@@ -169,16 +170,46 @@ async function processInterview(interview: InterviewConfig, aliases: AliasMap, c
 
   const { kept, dropped } = filterConservative(resolved);
   const deduped = dedupeFacts(kept);
+
+  // Coerce any string argument that conflicts with an already-established
+  // atom-typed position for the same predicate (on disk, or earlier in this
+  // same batch), so predicates/*.pl doesn't end up with a silently mixed
+  // type at that position (see BeingDB compile's own "mixed types" note).
+  const establishedByPredicate = new Map<string, Map<number, Set<FactArgument["kind"]>>>();
+  const typeWarnings: string[] = [];
+  const reconciled = deduped.map((fact) => {
+    let established = establishedByPredicate.get(fact.predicate);
+    if (!established) {
+      established = establishedKinds(PREDICATES_DIR, fact.predicate);
+      establishedByPredicate.set(fact.predicate, established);
+    }
+    const { arguments: coercedArgs, warnings } = reconcileArgumentKinds(
+      fact.predicate,
+      fact.arguments,
+      established,
+      (label) => resolver.resolve(label),
+    );
+    typeWarnings.push(...warnings);
+    coercedArgs.forEach((arg, position) => {
+      const kinds = established!.get(position) ?? new Set();
+      kinds.add(arg.kind);
+      established!.set(position, kinds);
+    });
+    return { ...fact, arguments: coercedArgs };
+  });
+  const finalFacts = dedupeFacts(reconciled); // coercion can turn two previously-distinct facts into duplicates
+
   const warnings = [
     ...resolver.warnings,
     ...shapeWarnings,
+    ...typeWarnings,
     ...dropped.map((d) => `dropped ${factToProposition(d.fact.predicate, d.fact.arguments)}: ${d.reason}`),
   ];
 
-  const allFacts = [...provenanceFacts(interview, documentId, personId), ...deduped];
+  const allFacts = [...provenanceFacts(interview, documentId, personId), ...finalFacts];
   const mergeResults = writeFactsToPredicates(PREDICATES_DIR, allFacts);
 
-  const evidenceEntries: EvidenceEntry[] = deduped.map((f) => ({
+  const evidenceEntries: EvidenceEntry[] = finalFacts.map((f) => ({
     fact: factToProposition(f.predicate, f.arguments),
     source: interview.id,
     evidence: f.evidence,
@@ -196,13 +227,13 @@ async function processInterview(interview: InterviewConfig, aliases: AliasMap, c
     model,
     pipelineVersion: PIPELINE_VERSION,
     chunkCount: chunkResults.length,
-    factCount: deduped.length,
+    factCount: finalFacts.length,
     droppedFactCount: dropped.length + shapeWarnings.length,
     warnings,
   };
   upsertExtractionMetadata(METADATA_FILE, metadataEntry);
 
-  console.log(`kept ${deduped.length} facts (${dropped.length + shapeWarnings.length} dropped)`);
+  console.log(`kept ${finalFacts.length} facts (${dropped.length + shapeWarnings.length} dropped)`);
   for (const result of mergeResults) {
     console.log(`  ${path.relative(ROOT, result.file)}: +${result.addedCount} (total ${result.totalCount})`);
   }
