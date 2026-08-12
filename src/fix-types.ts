@@ -13,8 +13,7 @@ import * as path from "node:path";
 import { fileURLToPath } from "node:url";
 
 import { AliasMap, EntityResolver } from "./normalize.js";
-import { classifyLiteral, parseProposition, unquoteStringLiteral } from "./type-consistency.js";
-import { readExistingPropositions, writePropositions } from "./serialize.js";
+import { fixPredicateFileTypes } from "./type-consistency.js";
 import type { EvidenceEntry } from "./types.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -22,54 +21,9 @@ const ROOT = path.resolve(__dirname, "..");
 const PREDICATES_DIR = path.join(ROOT, "predicates");
 const EVIDENCE_DIR = path.join(ROOT, "metadata", "evidence");
 
-const MAX_COERCIBLE_LENGTH = 60;
-
 function loadAliasMap(): AliasMap {
   const raw = fs.readFileSync(path.join(ROOT, "config", "entity-aliases.json"), "utf8");
   return new AliasMap(JSON.parse(raw) as Record<string, string>);
-}
-
-interface FixResult {
-  file: string;
-  renamedLines: Array<[oldLine: string, newLine: string]>;
-}
-
-/** Fixes one predicate file in place, returning the exact old->new line renames applied (for the evidence sidecar). */
-function fixPredicateFile(filePath: string, predicate: string, resolveLabel: (label: string) => string): FixResult | null {
-  const lines = readExistingPropositions(filePath);
-  const parsedLines = lines.map((line) => ({ line, parsed: parseProposition(line) }));
-
-  // Established kinds observed anywhere in the file, before any fix in this pass.
-  const established = new Map<number, Set<string>>();
-  for (const { parsed } of parsedLines) {
-    if (!parsed) continue;
-    parsed.args.forEach((arg, position) => {
-      const kinds = established.get(position) ?? new Set<string>();
-      kinds.add(classifyLiteral(arg));
-      established.set(position, kinds);
-    });
-  }
-
-  const renamedLines: Array<[string, string]> = [];
-  const fixedLines = parsedLines.map(({ line, parsed }) => {
-    if (!parsed) return line;
-    let changed = false;
-    const newArgs = parsed.args.map((arg, position) => {
-      if (classifyLiteral(arg) !== "string" || !established.get(position)?.has("atom")) return arg;
-      const value = unquoteStringLiteral(arg);
-      if (value.length > MAX_COERCIBLE_LENGTH) return arg;
-      changed = true;
-      return resolveLabel(value);
-    });
-    if (!changed) return line;
-    const newLine = `${predicate}(${newArgs.join(", ")}).`;
-    renamedLines.push([line, newLine]);
-    return newLine;
-  });
-
-  if (renamedLines.length === 0) return null;
-  writePropositions(PREDICATES_DIR, predicate, fixedLines);
-  return { file: filePath, renamedLines };
 }
 
 function updateEvidence(renames: Array<[string, string]>): string[] {
@@ -110,7 +64,7 @@ function main() {
   for (const entry of fs.readdirSync(PREDICATES_DIR)) {
     if (!entry.endsWith(".pl")) continue;
     const predicate = entry.slice(0, -".pl".length);
-    const result = fixPredicateFile(path.join(PREDICATES_DIR, entry), predicate, (label) => resolver.resolve(label));
+    const result = fixPredicateFileTypes(PREDICATES_DIR, predicate, (label) => resolver.resolve(label));
     if (!result) continue;
     filesChanged++;
     console.log(`  ${path.relative(ROOT, result.file)}:`);

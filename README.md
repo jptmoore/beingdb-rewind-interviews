@@ -67,10 +67,30 @@ Other useful commands:
 
 ```bash
 npm run show-prompt        # print the exact prompt sent to the model
+npm run consolidate        # merge semantically-duplicate predicates (see below)
 npm test                   # unit tests (no network/API calls)
 npm run test:integration   # tests that call the live OpenAI API
 npm run validate:beingdb   # compile this repo with a real BeingDB install, if present
 ```
+
+### Consolidating duplicate predicates
+
+Different interviews' extractions can independently invent different names
+for the same relationship (e.g. `employed_by` vs `worked_for`). `npm run
+consolidate` sends the current predicate catalog (names, arity, argument
+types, sample facts) to the model, merges any predicates it's confident
+represent the same relationship into one canonical name, and deletes the
+others. Merges are validated first (same arity required, canonical name
+must be one of the group, no predicate merged twice in one run), and any
+new argument-type mismatch introduced by a merge is reconciled the same way
+`npm run fix-types` does.
+
+This deletes files, but only in the working tree - review `git diff` before
+committing like any other generated change, and revert or `git checkout --
+predicates/` to undo. Every run also appends a record of what was merged
+and why to `metadata/consolidation.json`, so a past diff can be understood
+without re-deriving the model's reasoning; restoring one removed predicate
+file on its own is `git show <commit>^:predicates/<name>.pl > predicates/<name>.pl`.
 
 ## Using the dataset with BeingDB
 
@@ -169,6 +189,7 @@ predicates/               BeingDB compile root: one file per predicate, shared a
 metadata/
   extraction.json         per-interview provenance: URL, checksum, model, timestamp
   evidence/<id>.json      per-fact supporting quotes
+  consolidation.json      log of predicate merges from npm run consolidate
 test/
   unit/                   no network/API calls
   integration/            live OpenAI calls (npm run test:integration)

@@ -94,3 +94,51 @@ export interface EvidenceEntry {
   confidence: FactConfidence;
   page: number | null;
 }
+
+/** One predicate's shape as it currently exists in predicates/, used to ask the model about semantic duplicates. */
+export interface PredicateCatalogEntry {
+  name: string;
+  arity: number;
+  /** Per-position kinds observed (e.g. ["atom"], ["atom", "string"]). */
+  argumentKinds: string[][];
+  factCount: number;
+  samples: string[];
+}
+
+/** One proposed merge of two or more predicates into a single canonical name. */
+export interface ConsolidationGroup {
+  canonical: string;
+  members: string[];
+  rationale: string;
+}
+
+export interface ConsolidationProposal {
+  groups: ConsolidationGroup[];
+}
+
+export interface AppliedConsolidation {
+  canonical: string;
+  mergedFrom: string[];
+  rationale: string;
+  factsBefore: Record<string, number>;
+  factsAfter: number;
+}
+
+export interface SkippedConsolidation {
+  canonical: string;
+  members: string[];
+  reason: string;
+}
+
+/** One `npm run consolidate` run, appended to metadata/consolidation.json for provenance (git history is the actual restore mechanism). */
+export interface ConsolidationRun {
+  timestamp: string;
+  model: string;
+  pipelineVersion: string;
+  applied: AppliedConsolidation[];
+  skipped: SkippedConsolidation[];
+}
+
+export interface ConsolidationLogFile {
+  runs: ConsolidationRun[];
+}

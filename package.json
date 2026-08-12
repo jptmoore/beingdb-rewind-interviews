@@ -13,6 +13,7 @@
     "extract": "tsx src/index.ts",
     "reconcile": "tsx src/reconcile.ts",
     "fix-types": "tsx src/fix-types.ts",
+    "consolidate": "tsx src/consolidate.ts",
     "show-prompt": "tsx src/show-prompt.ts",
     "test": "node --import tsx --test 'test/unit/**/*.test.ts'",
     "test:integration": "node --import tsx --test 'test/integration/**/*.test.ts'",

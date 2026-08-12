@@ -31,8 +31,8 @@ import { dedupeFacts, filterConservative, validateFactShape } from "./validate.j
 import { factToProposition, writeFactsToPredicates } from "./serialize.js";
 import { loadExtractionMetadata, upsertExtractionMetadata, writeEvidenceSidecar } from "./metadata.js";
 import { establishedKinds, reconcileArgumentKinds } from "./type-consistency.js";
-
-const PIPELINE_VERSION = "1";
+import { loadDotEnv } from "./env.js";
+import { PIPELINE_VERSION } from "./version.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
@@ -42,27 +42,6 @@ const PREDICATES_DIR = path.join(ROOT, "predicates");
 const METADATA_DIR = path.join(ROOT, "metadata");
 const METADATA_FILE = path.join(METADATA_DIR, "extraction.json");
 const EVIDENCE_DIR = path.join(METADATA_DIR, "evidence");
-
-/**
- * Minimal .env loader (no extra dependency): sets process.env.KEY=VALUE for
- * each uncommented `KEY=VALUE` line, without overriding variables already
- * set in the real environment.
- */
-function loadDotEnv(envPath: string): void {
-  if (!fs.existsSync(envPath)) return;
-  for (const line of fs.readFileSync(envPath, "utf8").split("\n")) {
-    const trimmed = line.trim();
-    if (!trimmed || trimmed.startsWith("#")) continue;
-    const eq = trimmed.indexOf("=");
-    if (eq === -1) continue;
-    const key = trimmed.slice(0, eq).trim();
-    let value = trimmed.slice(eq + 1).trim();
-    if ((value.startsWith('"') && value.endsWith('"')) || (value.startsWith("'") && value.endsWith("'"))) {
-      value = value.slice(1, -1);
-    }
-    if (!(key in process.env)) process.env[key] = value;
-  }
-}
 
 function parseArgs(argv: string[]): { artist: string | null; force: boolean } {
   let artist: string | null = null;

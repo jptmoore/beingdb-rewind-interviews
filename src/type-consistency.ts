@@ -10,6 +10,7 @@
 import * as fs from "node:fs";
 import * as path from "node:path";
 import type { FactArgument } from "./types.js";
+import { readExistingPropositions, writePropositions } from "./serialize.js";
 
 export type LiteralKind = FactArgument["kind"];
 
@@ -113,3 +114,59 @@ export function reconcileArgumentKinds(
   });
   return { arguments: result, warnings };
 }
+
+export interface FixFileResult {
+  file: string;
+  renamedLines: Array<[oldLine: string, newLine: string]>;
+}
+
+/**
+ * Text-level equivalent of {@link reconcileArgumentKinds}, applied directly
+ * to an on-disk predicates/<name>.pl file rather than in-memory facts -
+ * used both to retroactively fix already-generated files (npm run
+ * fix-types) and to clean up a predicate immediately after merging two
+ * predicates together (npm run consolidate), where the merge itself can
+ * introduce a new type mismatch.
+ */
+export function fixPredicateFileTypes(
+  predicatesDir: string,
+  predicate: string,
+  resolveLabel: (label: string) => string,
+): FixFileResult | null {
+  const filePath = path.join(predicatesDir, `${predicate}.pl`);
+  const lines = readExistingPropositions(filePath);
+  const parsedLines = lines.map((line) => ({ line, parsed: parseProposition(line) }));
+
+  // Established kinds observed anywhere in the file, before any fix in this pass.
+  const established = new Map<number, Set<LiteralKind>>();
+  for (const { parsed } of parsedLines) {
+    if (!parsed) continue;
+    parsed.args.forEach((arg, position) => {
+      const kinds = established.get(position) ?? new Set<LiteralKind>();
+      kinds.add(classifyLiteral(arg));
+      established.set(position, kinds);
+    });
+  }
+
+  const renamedLines: Array<[string, string]> = [];
+  const fixedLines = parsedLines.map(({ line, parsed }) => {
+    if (!parsed) return line;
+    let changed = false;
+    const newArgs = parsed.args.map((arg, position) => {
+      if (classifyLiteral(arg) !== "string" || !established.get(position)?.has("atom")) return arg;
+      const value = unquoteStringLiteral(arg);
+      if (value.length > MAX_COERCIBLE_LENGTH) return arg;
+      changed = true;
+      return resolveLabel(value);
+    });
+    if (!changed) return line;
+    const newLine = `${predicate}(${newArgs.join(", ")}).`;
+    renamedLines.push([line, newLine]);
+    return newLine;
+  });
+
+  if (renamedLines.length === 0) return null;
+  writePropositions(predicatesDir, predicate, fixedLines);
+  return { file: filePath, renamedLines };
+}
+
