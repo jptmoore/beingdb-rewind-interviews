@@ -8,6 +8,7 @@ employed_by(david_hall, saint_martins).
 employed_by(delia_derbyshire, bbc).
 employed_by(dorine_mignot, stedelijk_museum).
 employed_by(elsa_stansfield, jan_van_eyck_academy).
+employed_by(george_barber, ucca_at_farnham).
 employed_by(kevin_atherton, cardiff).
 employed_by(kevin_atherton, chelsea).
 employed_by(kevin_atherton, maidstone).
@@ -22,6 +23,7 @@ employed_by(madelon_hooykaas, london_video_arts_lva).
 employed_by(madelon_hooykaas, paris).
 employed_by(malcolm_le_grice, saint_martins).
 employed_by(mike_stubbs, australian_centre_for_the_moving_image).
+employed_by(pascal_gabriel, s_express).
 employed_by(rose_garrard, corydon_college_of_art).
 employed_by(rose_garrard, dartington).
 employed_by(rose_garrard, reading_university).

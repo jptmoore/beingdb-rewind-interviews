@@ -38,6 +38,22 @@
         "dropped exhibited_at(window_water_baby_moving, new_york_2).: confidence=uncertain"
       ]
     },
+    "george_barber": {
+      "id": "george_barber",
+      "documentId": "rewind_george_barber_interview",
+      "sourceUrl": "https://rewind.ac.uk/rewind/wp-content/uploads/sites/146/2021/03/GB510.pdf",
+      "sourceChecksum": "9c28047056514a8c554977ec6e5a8a69934f532279870d22663f10811c6dda5b",
+      "extractedAt": "2026-08-12T10:04:34.526Z",
+      "model": "gpt-4.1",
+      "pipelineVersion": "1",
+      "chunkCount": 7,
+      "factCount": 145,
+      "droppedFactCount": 2,
+      "warnings": [
+        "dropped malformed fact {\"predicate\":\"work\",\"arguments\":[{\"kind\":\"atom\",\"value\":\"1001_colours_andy_never_thought_of\"}],\"evidence\":\"I did 1001 Colours Andy Never Thought Of with the Marilyn Monroe image.\",\"confidence\":\"explicit\",\"page\":10}: invalid atom \"1001_colours_andy_never_thought_of\"",
+        "dropped malformed fact {\"predicate\":\"created_by\",\"arguments\":[{\"kind\":\"atom\",\"value\":\"1001_colours_andy_never_thought_of\"},{\"kind\":\"atom\",\"value\":\"george_barber\"}],\"evidence\":\"I did 1001 Colours Andy Never Thought Of with the Marilyn Monroe image.\",\"confidence\":\"explicit\",\"page\":10}: invalid atom \"1001_colours_andy_never_thought_of\""
+      ]
+    },
     "kevin_atherton": {
       "id": "kevin_atherton",
       "documentId": "rewind_kevin_atherton_interview",

@@ -3,5 +3,6 @@
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 used_equipment(flying_time, "first colour camera").
 used_equipment(flying_time, "Portapak").
+used_equipment(george_barber, "new editing equipment").
 used_equipment(video_void, "live camera on a stick").
 used_equipment(video_void, "two huge, industrial ventilators").

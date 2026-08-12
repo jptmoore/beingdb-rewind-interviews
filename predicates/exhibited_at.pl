@@ -4,6 +4,7 @@
 exhibited_at(about_time_at_the_ica_1980, ica_london).
 exhibited_at(an_audience_s_new_clothes, musee_d_art_moderne).
 exhibited_at(an_audience_s_new_clothes, un_certain_art_anglais).
+exhibited_at(automotive_action_painting, tate).
 exhibited_at(between_the_lines, japanese_video_festival).
 exhibited_at(between_the_lines, whitechapel_gallery).
 exhibited_at(body_box_exhibition, v_a).
@@ -22,6 +23,10 @@ exhibited_at(de_appel_foundation, madelon_hooykaas).
 exhibited_at(deep_looking, netherlands_representation_in_south_korea_2005).
 exhibited_at(flying_time, sidney_biennale).
 exhibited_at(flying_time, tate).
+exhibited_at(george_barber, berlin_events).
+exhibited_at(george_barber, miami_basel).
+exhibited_at(george_barber, the_open_eye).
+exhibited_at(george_barber, westminster).
 exhibited_at(homing, british_tv).
 exhibited_at(homing, tate).
 exhibited_at(hooykaas_stansfield, de_appel).
@@ -71,11 +76,16 @@ exhibited_at(rose_garrard, south_london_gallery).
 exhibited_at(rose_garrard, tate).
 exhibited_at(rose_garrard, vancouver_art_gallery).
 exhibited_at(running_time_1979, retrospective_festivals).
+exhibited_at(scratch_video_volume_1, edinburgh_television_festival).
+exhibited_at(scratch_video_volume_2, edinburgh_television_festival).
 exhibited_at(sea_of_light, chapter_art_centre).
+exhibited_at(shouting_match, open_eye_gallery_liverpool).
 exhibited_at(television_interview, british_art_show_ii).
 exhibited_at(television_interview, edinburgh).
 exhibited_at(television_interview, ikon_gallery_birmingham).
 exhibited_at(television_interview, southampton).
+exhibited_at(the_car_piece, tate).
+exhibited_at(the_signs_of_la, westminster_london_west_gallery).
 exhibited_at(this_is_a_television_receiver, bbc_2).
 exhibited_at(tumbled_frame, channel_4).
 exhibited_at(tv_interruptions, hayward_gallery).

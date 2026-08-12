@@ -20,6 +20,7 @@ year_created(motion_parallax, @1968).
 year_created(not_just_another_art_show, @1981).
 year_created(running_time_1979, @1979).
 year_created(running_time, @1979).
+year_created(scratch_video_volume_1, @1985).
 year_created(special_video_art_issue_may_1976, @1976).
 year_created(split_seconds, @1979).
 year_created(tape_tape, @1975).

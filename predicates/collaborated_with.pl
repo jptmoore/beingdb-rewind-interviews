@@ -15,6 +15,13 @@ collaborated_with(de_appel_foundation, franklin_furnace).
 collaborated_with(elsa_stansfield, brian_hodgeson).
 collaborated_with(elsa_stansfield, delia_derbyshire).
 collaborated_with(elsa_stansfield, madelon_hooykaas).
+collaborated_with(george_barber, duvet_brothers).
+collaborated_with(george_barber, gorilla_people).
+collaborated_with(george_barber, jeffrey_hinton).
+collaborated_with(george_barber, john_scarlet_davis).
+collaborated_with(george_barber, kim_flitcroft).
+collaborated_with(george_barber, pascal_gabriel).
+collaborated_with(george_barber, sarah_goldbacher).
 collaborated_with(jan_van_eyck_academy, bridget_riley).
 collaborated_with(jan_van_eyck_academy, joan_jonas).
 collaborated_with(jan_van_eyck_academy, marina_abramovich).

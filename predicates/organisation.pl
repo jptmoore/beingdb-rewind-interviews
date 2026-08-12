@@ -59,9 +59,12 @@ organisation(ealing).
 organisation(education_department).
 organisation(european_conservation_project).
 organisation(fantasy_factory).
+organisation(film_and_video_umbrella).
 organisation(film_co_op).
 organisation(filmmakers_co_op).
+organisation(filmwaves).
 organisation(fine_art_media_department).
+organisation(flextech).
 organisation(foundation_time_based_arts).
 organisation(franklin_furnace).
 organisation(gallery_in_bremen).
@@ -130,6 +133,7 @@ organisation(rowen_from_the_midlands).
 organisation(royal_ballet_school).
 organisation(royal_college_of_art).
 organisation(royal_college).
+organisation(s_express).
 organisation(saint_martins).
 organisation(sankofa).
 organisation(scottish_arts_council).
@@ -139,6 +143,7 @@ organisation(slade_school_of_art).
 organisation(slade_school_of_fine_art).
 organisation(slade).
 organisation(sony).
+organisation(st_martins).
 organisation(stedelijk_museum_amsterdam).
 organisation(stedelijk_museum).
 organisation(stourbridge_college).
@@ -150,7 +155,11 @@ organisation(time_based_art_department).
 organisation(time_based_arts_in_amsterdam).
 organisation(time_based_arts).
 organisation(timeout).
+organisation(tower_records).
 organisation(tv_south_west).
+organisation(ucca_at_canterbury).
+organisation(ucca_at_epsom).
+organisation(ucca_at_farnham).
 organisation(v2).
 organisation(victoria_miro).
 organisation(video_artists_on_tour).
@@ -160,4 +169,5 @@ organisation(werkleitz_gesellschaft).
 organisation(whitechapel_gallery).
 organisation(wolverhampton).
 organisation(worcestershire).
+organisation(zg_magazine).
 organisation(zg).

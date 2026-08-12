@@ -4,4 +4,5 @@
 commissioned_by(homing, bbc).
 commissioned_by(rose_garrard, great_malvern).
 commissioned_by(television_interview, arts_council_of_great_britain).
+commissioned_by(the_car_piece, film_and_video_umbrella).
 commissioned_by(this_is_a_television_receiver, bbc_2).

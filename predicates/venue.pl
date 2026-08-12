@@ -41,6 +41,7 @@ venue(edinburgh_airport).
 venue(edinburgh).
 venue(fantasy_factory).
 venue(film_museum_amsterdam).
+venue(finchley_road).
 venue(finland).
 venue(gallery_house).
 venue(gallery_in_bremen).
@@ -78,6 +79,7 @@ venue(new_mexico).
 venue(new_york).
 venue(newcastle).
 venue(oberhausen).
+venue(open_eye_gallery_liverpool).
 venue(paris).
 venue(photographers_galleries_london).
 venue(photographers_gallery_london).
@@ -106,6 +108,7 @@ venue(tate).
 venue(teesside_college_of_art).
 venue(the_kitchen_new_york).
 venue(the_kitchen).
+venue(the_open_eye).
 venue(the_tramway_glasgow).
 venue(third_eye_centre).
 venue(three_county_showground).
@@ -120,6 +123,8 @@ venue(vondelpark).
 venue(wapping_rotherhithe_tunnel).
 venue(wapping).
 venue(watermans).
+venue(westminster_london_west_gallery).
+venue(westminster).
 venue(whitechapel_art_gallery).
 venue(whitechapel_gallery).
 venue(whitechapel).

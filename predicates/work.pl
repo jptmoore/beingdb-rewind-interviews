@@ -2,11 +2,13 @@
 % See metadata/extraction.json for source provenance and candidates/evidence for supporting quotes.
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 work(about_time_at_the_ica_1980).
+work(absence_of_satan).
 work(an_audience_s_new_clothes).
 work(another_sphere).
 work(anthem).
 work(any_questions).
 work(audio_video_installations_catalogue).
+work(automotive_action_painting).
 work(back_and_forth).
 work(behind_the_veil).
 work(between_the_lines).
@@ -48,6 +50,9 @@ work(luminous_image).
 work(magnetic_north).
 work(malvina_sculpture).
 work(miners_campaign_tapes).
+work(minutiae).
+work(monologue_pieces).
+work(monologues).
 work(motion_parallax).
 work(municipal_fountain_the_enigma_fountain).
 work(museum_of_memory_1).
@@ -56,15 +61,22 @@ work(on_boundaries).
 work(one_of_these_days).
 work(pandora_marble_sculpture).
 work(pandora_the_bringer_of_gifts).
+work(passing_ship).
 work(pieces_i_never_did).
 work(progressive_recession).
+work(refusing_potatoes).
 work(revision).
+work(river_sky).
 work(roselee_goldberg_s_first_edition_of_performance_art).
 work(running_time_1979).
 work(running_time).
+work(scratch_pieces).
+work(scratch_video_volume_1).
+work(scratch_video_volume_2).
 work(sea_of_light).
 work(serpentine_1975_show).
 work(shadow_pictures).
+work(shouting_match).
 work(soapless).
 work(special_video_art_issue_may_1976).
 work(sphere).
@@ -73,12 +85,16 @@ work(spout_sculpture).
 work(stooky_bill_tv).
 work(sweatlodge).
 work(tape_tape).
+work(taxi_driver_ii).
 work(television_interview).
 work(territories).
 work(the_big_breakfast_show).
+work(the_car_piece).
 work(the_catalogue).
 work(the_eleventh_hour).
 work(the_force_behind_this_movement).
+work(the_greatest_hits_of_scratch_video).
+work(the_signs_of_la).
 work(the_starless_cast).
 work(the_tape).
 work(the_video_stairs).
@@ -93,6 +109,9 @@ work(tumbled_frame).
 work(tv_interruptions).
 work(two_sides_of_a_story).
 work(universal_man_in_forty_five_tasks).
+work(upside_down_minutiae).
+work(upside_down).
+work(venetian_ghost).
 work(vertical_roll).
 work(vertical).
 work(vi_deo_volente).
@@ -102,8 +121,10 @@ work(video_void).
 work(videvent).
 work(vidicon_inscriptions).
 work(waiter_there_is_a_fly_on_my_wall).
+work(walking_off_court).
 work(wavelength).
 work(what_the_eye_doesn_t_see_post_industrial_studies_number_1).
 work(whats_it_to_you).
 work(window_water_baby_moving).
+work(yes_frank_no_smoke).
 work(zg_presents).

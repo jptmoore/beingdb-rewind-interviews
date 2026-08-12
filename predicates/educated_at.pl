@@ -8,6 +8,8 @@ educated_at(elsa_stansfield, ealing_school).
 educated_at(elsa_stansfield, glasgow_art_school).
 educated_at(elsa_stansfield, glasgow_school_of_art).
 educated_at(elsa_stansfield, slade_school_of_art).
+educated_at(george_barber, slade).
+educated_at(george_barber, st_martins).
 educated_at(kevin_atherton, leeds_college_of_art).
 educated_at(mike_stubbs, cardiff_art_college).
 educated_at(mike_stubbs, royal_college_of_art).

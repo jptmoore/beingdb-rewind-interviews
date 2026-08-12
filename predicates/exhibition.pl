@@ -5,6 +5,7 @@ exhibition(about_time_at_the_ica_1980).
 exhibition(about_time).
 exhibition(ave_festival_in_holland).
 exhibition(baltic).
+exhibition(berlin_events).
 exhibition(body_box_exhibition).
 exhibition(british_art_show_ii).
 exhibition(british_art_show).
@@ -19,6 +20,7 @@ exhibition(london_film_festival).
 exhibition(luminous_image_show).
 exhibition(luminous_image).
 exhibition(malvern_well_dressing_festival).
+exhibition(miami_basel).
 exhibition(montreal_videotapes_retrospective_1988).
 exhibition(netherlands_representation_in_south_korea_2005).
 exhibition(not_just_another_art_show).

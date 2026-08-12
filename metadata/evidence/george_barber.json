@@ -1,0 +1,1017 @@
+[
+  {
+    "fact": "person(george_barber).",
+    "source": "george_barber",
+    "evidence": "Interview with George Barber",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "work(absence_of_satan).",
+    "source": "george_barber",
+    "evidence": "The works would be Absence of Satan and Yes Frank No Smoke.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "work(yes_frank_no_smoke).",
+    "source": "george_barber",
+    "evidence": "The works would be Absence of Satan and Yes Frank No Smoke.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "created_by(absence_of_satan, george_barber).",
+    "source": "george_barber",
+    "evidence": "Absence of Satan and Yes Frank No Smoke are probably the best examples.",
+    "confidence": "supported",
+    "page": 1
+  },
+  {
+    "fact": "created_by(yes_frank_no_smoke, george_barber).",
+    "source": "george_barber",
+    "evidence": "Absence of Satan and Yes Frank No Smoke are probably the best examples.",
+    "confidence": "supported",
+    "page": 1
+  },
+  {
+    "fact": "educated_at(george_barber, slade).",
+    "source": "george_barber",
+    "evidence": "At the time, I was at the Slade. I’d left St Martin’s and found it quite hard.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "educated_at(george_barber, st_martins).",
+    "source": "george_barber",
+    "evidence": "I’d left St Martin’s and found it quite hard.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "organisation(slade).",
+    "source": "george_barber",
+    "evidence": "At the time, I was at the Slade.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "organisation(st_martins).",
+    "source": "george_barber",
+    "evidence": "I’d left St Martin’s.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "organisation(zg_magazine).",
+    "source": "george_barber",
+    "evidence": "There was ZG Magazine and various other ways...",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(peter_anderson).",
+    "source": "george_barber",
+    "evidence": "I was in one day at the Slade and this bloke called Peter Anderson had got some new editing equipment.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "used_equipment(george_barber, \"new editing equipment\").",
+    "source": "george_barber",
+    "evidence": "this bloke called Peter Anderson had got some new editing equipment and in a very boyish way I liked the look of it. I wanted to know how it worked.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(jack_goldstein).",
+    "source": "george_barber",
+    "evidence": "I remember artists like Jack Goldstein was beginning to play with these ideas...",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(richard_prince).",
+    "source": "george_barber",
+    "evidence": "...and then there was Richard Prince, but he came a bit later with those Marlboro type adverts.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(candice_breitz).",
+    "source": "george_barber",
+    "evidence": "But to carry on, lots of people have re-edited people’s footage - Candice Breitz, for example.",
+    "confidence": "explicit",
+    "page": 2
+  },
+  {
+    "fact": "person(stephen_willats).",
+    "source": "george_barber",
+    "evidence": "...artists like Stephen Willats and Victor Burgin.",
+    "confidence": "explicit",
+    "page": 2
+  },
+  {
+    "fact": "person(victor_burgin).",
+    "source": "george_barber",
+    "evidence": "...artists like Stephen Willats and Victor Burgin.",
+    "confidence": "explicit",
+    "page": 2
+  },
+  {
+    "fact": "collaborated_with(george_barber, pascal_gabriel).",
+    "source": "george_barber",
+    "evidence": "they were constructed in big studios using my friend Pascal Gabriel.",
+    "confidence": "explicit",
+    "page": 2
+  },
+  {
+    "fact": "person(pascal_gabriel).",
+    "source": "george_barber",
+    "evidence": "they were constructed in big studios using my friend Pascal Gabriel.",
+    "confidence": "explicit",
+    "page": 2
+  },
+  {
+    "fact": "organisation(s_express).",
+    "source": "george_barber",
+    "evidence": "He is a big producer now who came to fame with S EXPRESS.",
+    "confidence": "explicit",
+    "page": 2
+  },
+  {
+    "fact": "employed_by(pascal_gabriel, s_express).",
+    "source": "george_barber",
+    "evidence": "He is a big producer now who came to fame with S EXPRESS.",
+    "confidence": "explicit",
+    "page": 2
+  },
+  {
+    "fact": "funded_by(george_barber, royal_college_of_art).",
+    "source": "george_barber",
+    "evidence": "I actually managed to persuade RCA to pay for it.",
+    "confidence": "explicit",
+    "page": 2
+  },
+  {
+    "fact": "organisation(royal_college_of_art).",
+    "source": "george_barber",
+    "evidence": "I actually managed to persuade RCA to pay for it.",
+    "confidence": "explicit",
+    "page": 2
+  },
+  {
+    "fact": "work(monologue_pieces).",
+    "source": "george_barber",
+    "evidence": "I think some of my Monologue pieces are very good but they are difficult, unless you are English you don’t really pick up on the English whimsy that they are about.",
+    "confidence": "explicit",
+    "page": 2
+  },
+  {
+    "fact": "work(passing_ship).",
+    "source": "george_barber",
+    "evidence": "The Dutch are very good English speakers. They’ve been quite fond of some of them and got them, but I think things like Passing Ship, there’s a number of Monologues that I think are quite good but they do quiet trade because there’s a lot of language in the end.",
+    "confidence": "explicit",
+    "page": 2
+  },
+  {
+    "fact": "work(shouting_match).",
+    "source": "george_barber",
+    "evidence": "That was actually one of the reasons why I made Shouting Match.",
+    "confidence": "explicit",
+    "page": 2
+  },
+  {
+    "fact": "created_by(shouting_match, george_barber).",
+    "source": "george_barber",
+    "evidence": "That was actually one of the reasons why I made Shouting Match.",
+    "confidence": "explicit",
+    "page": 2
+  },
+  {
+    "fact": "work(taxi_driver_ii).",
+    "source": "george_barber",
+    "evidence": "I did one called Taxi Driver II, which I think is very good...",
+    "confidence": "explicit",
+    "page": 2
+  },
+  {
+    "fact": "work(venetian_ghost).",
+    "source": "george_barber",
+    "evidence": "There was another one called Venetian Ghost...",
+    "confidence": "explicit",
+    "page": 2
+  },
+  {
+    "fact": "organisation(arts_council).",
+    "source": "george_barber",
+    "evidence": "...you could only get so much off the Arts Council or the BFI.",
+    "confidence": "explicit",
+    "page": 3
+  },
+  {
+    "fact": "organisation(bfi).",
+    "source": "george_barber",
+    "evidence": "...you could only get so much off the Arts Council or the BFI.",
+    "confidence": "explicit",
+    "page": 3
+  },
+  {
+    "fact": "work(scratch_pieces).",
+    "source": "george_barber",
+    "evidence": "GB:  In the beginning, I  put a  lot of those scratch pieces together in something called The Greatest Hits of Scratch Video.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "work(the_greatest_hits_of_scratch_video).",
+    "source": "george_barber",
+    "evidence": "GB:  In the beginning, I  put a  lot of those scratch pieces together in something called The Greatest Hits of Scratch Video.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "organisation(tower_records).",
+    "source": "george_barber",
+    "evidence": "I managed to persuade people in Tower Records, all  round the place to stock it  and they did sell.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "organisation(channel_4).",
+    "source": "george_barber",
+    "evidence": "Taxi Driver II and Venetian Ghost had Channel 4 money. Also Channel 4 to their credit, used to have a  few brilliant strands.   I  was on one for 4  minutes with Upside Down Minutiae.",
+    "confidence": "explicit",
+    "page": 5
+  },
+  {
+    "fact": "work(upside_down_minutiae).",
+    "source": "george_barber",
+    "evidence": "I  was on one for 4  minutes with Upside Down Minutiae.",
+    "confidence": "explicit",
+    "page": 5
+  },
+  {
+    "fact": "created_by(the_greatest_hits_of_scratch_video, george_barber).",
+    "source": "george_barber",
+    "evidence": "GB:  In the beginning, I  put a  lot of those scratch pieces together in something called The Greatest Hits of Scratch Video.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "created_by(scratch_pieces, george_barber).",
+    "source": "george_barber",
+    "evidence": "GB:  In the beginning, I  put a  lot of those scratch pieces together in something called The Greatest Hits of Scratch Video.",
+    "confidence": "supported",
+    "page": 4
+  },
+  {
+    "fact": "sold_at(the_greatest_hits_of_scratch_video, tower_records).",
+    "source": "george_barber",
+    "evidence": "I managed to persuade people in Tower Records, all round the place to stock it and they did sell.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "funded_by(taxi_driver_ii, channel_4).",
+    "source": "george_barber",
+    "evidence": "Taxi Driver II and Venetian Ghost had Channel 4 money.",
+    "confidence": "explicit",
+    "page": 5
+  },
+  {
+    "fact": "funded_by(venetian_ghost, channel_4).",
+    "source": "george_barber",
+    "evidence": "Taxi Driver II and Venetian Ghost had Channel 4 money.",
+    "confidence": "explicit",
+    "page": 5
+  },
+  {
+    "fact": "broadcast_on(upside_down_minutiae, channel_4).",
+    "source": "george_barber",
+    "evidence": "I was on one for 4 minutes with Upside Down Minutiae.",
+    "confidence": "explicit",
+    "page": 5
+  },
+  {
+    "fact": "applied_to(george_barber, arts_council).",
+    "source": "george_barber",
+    "evidence": "I  carried on making work, but the moment passed and like everyone else, I  ended up applying to the Arts Council, the BFI, and it seemed to be really only those, I can’t really remember anyone else.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "applied_to(george_barber, bfi).",
+    "source": "george_barber",
+    "evidence": "I  carried on making work, but the moment passed and like everyone else, I  ended up applying to the Arts Council, the BFI, and it seemed to be really only those, I can’t really remember anyone else.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "exhibited_at(george_barber, the_open_eye).",
+    "source": "george_barber",
+    "evidence": "but I’ve had The Open Eye, Westminster did a good show of mine and I’ve had things at Miami Basel and a  few events in Berlin.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "exhibited_at(george_barber, westminster).",
+    "source": "george_barber",
+    "evidence": "The Open Eye, Westminster did a good show of mine",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "exhibited_at(george_barber, miami_basel).",
+    "source": "george_barber",
+    "evidence": "I’ve had things at Miami Basel and a few events in Berlin.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "exhibited_at(george_barber, berlin_events).",
+    "source": "george_barber",
+    "evidence": "I’ve had things at Miami Basel and a few events in Berlin.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "created_by(passing_ship, george_barber).",
+    "source": "george_barber",
+    "evidence": "I  made Passing Ship  there and those things",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "created_by(monologues, george_barber).",
+    "source": "george_barber",
+    "evidence": "When I  started doing Monologues,  I think at that point I probably did have my own camera",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "used_editing_equipment_at(george_barber, flextech).",
+    "source": "george_barber",
+    "evidence": "I  used to go into the basement of what’s now Flextech.  There was a guy there.  I could give him a few bob and we used to have all the best stuff available. I  made Passing Ship  there and those things so I  was never keen on having equipment",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "used_editing_equipment_at(george_barber, terry_flaxton).",
+    "source": "george_barber",
+    "evidence": "there was a company that Terry Flaxton had.  He was very nice. I had to pay though.  He never gave me anything free.  For £100 I used to have three machines for a whole day",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "became_cameraman(terry_flaxton).",
+    "source": "george_barber",
+    "evidence": "He became a cameraman.  He did that famous interview with Madonna. Apparently, he is doing quite well.",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "interviewed(terry_flaxton, madonna).",
+    "source": "george_barber",
+    "evidence": "He did that famous interview with Madonna.",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "interviewed(terry_flaxton, annie_lennox).",
+    "source": "george_barber",
+    "evidence": "He did a  fantastic interview with Annie Lennox as well.",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "organisation(lva).",
+    "source": "george_barber",
+    "evidence": "did you distribute work through LVA and the usual channels?",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "organisation(flextech).",
+    "source": "george_barber",
+    "evidence": "I  used to go into the basement of what’s now Flextech.",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "person(jez_welsh).",
+    "source": "george_barber",
+    "evidence": "Jez was always OK but it was the earlier crowd.  I think I’d been around to see them in 1980 or so... I think when Jez Welsh was in charge, which would have been the early 80’s, he was much more open and keen to have anyone",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "person(terry_flaxton).",
+    "source": "george_barber",
+    "evidence": "there was a company that Terry Flaxton had.",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "person(madonna).",
+    "source": "george_barber",
+    "evidence": "He did that famous interview with Madonna.",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "person(annie_lennox).",
+    "source": "george_barber",
+    "evidence": "He did a  fantastic interview with Annie Lennox as well.",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "work(monologues).",
+    "source": "george_barber",
+    "evidence": "When I  started doing Monologues...",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "venue(the_open_eye).",
+    "source": "george_barber",
+    "evidence": "I’ve had The Open Eye, Westminster did a good show of mine",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "venue(westminster).",
+    "source": "george_barber",
+    "evidence": "I’ve had The Open Eye, Westminster did a good show of mine",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "exhibition(miami_basel).",
+    "source": "george_barber",
+    "evidence": "I’ve had things at Miami Basel and a  few events in Berlin.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "exhibition(berlin_events).",
+    "source": "george_barber",
+    "evidence": "I’ve had things at Miami Basel and a  few events in Berlin.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "work(scratch_video_volume_1).",
+    "source": "george_barber",
+    "evidence": "We put this one out called Scratch Video Volume 1.",
+    "confidence": "explicit",
+    "page": 9
+  },
+  {
+    "fact": "work(scratch_video_volume_2).",
+    "source": "george_barber",
+    "evidence": "Volume 2 is actually very good.",
+    "confidence": "explicit",
+    "page": 9
+  },
+  {
+    "fact": "person(john_scarlet_davis).",
+    "source": "george_barber",
+    "evidence": "Volume 1 included John Scarlet Davis.",
+    "confidence": "explicit",
+    "page": 9
+  },
+  {
+    "fact": "person(kim_flitcroft).",
+    "source": "george_barber",
+    "evidence": "There was Kim Flitcroft and Sarah Goldbacher.",
+    "confidence": "explicit",
+    "page": 9
+  },
+  {
+    "fact": "person(sarah_goldbacher).",
+    "source": "george_barber",
+    "evidence": "There was Kim Flitcroft and Sarah Goldbacher.",
+    "confidence": "explicit",
+    "page": 9
+  },
+  {
+    "fact": "person(duvet_brothers).",
+    "source": "george_barber",
+    "evidence": "There was the Duvet Brothers.",
+    "confidence": "explicit",
+    "page": 9
+  },
+  {
+    "fact": "person(jeffrey_hinton).",
+    "source": "george_barber",
+    "evidence": "There was also a guy, Jeffrey Hinton, who I only met him once to pick up the tape.",
+    "confidence": "explicit",
+    "page": 9
+  },
+  {
+    "fact": "person(gorilla_people).",
+    "source": "george_barber",
+    "evidence": "The Gorilla people came on the next one, Volume 2.",
+    "confidence": "explicit",
+    "page": 9
+  },
+  {
+    "fact": "event(edinburgh_television_festival).",
+    "source": "george_barber",
+    "evidence": "In 1985 I was even on the Edinburgh Television Festival. They put Scratch on...",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "person(robert_plant).",
+    "source": "george_barber",
+    "evidence": "I went on to do some stage shows for Robert Plant and The Who.",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "person(the_who).",
+    "source": "george_barber",
+    "evidence": "I went on to do some stage shows for Robert Plant and The Who.",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "person(u2).",
+    "source": "george_barber",
+    "evidence": "And then U2 used me. I did 1001 Colours Andy Never Thought Of with the Marilyn Monroe image.",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "event(pop_tour).",
+    "source": "george_barber",
+    "evidence": "it was a mix for they’re Pop Tour. Pop Art was the theme.",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "organisation(ucca_at_farnham).",
+    "source": "george_barber",
+    "evidence": "It’s called UCCA now, University College for the Creative Arts. You need to be very clear when you say it, UCCA at Farnham.",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "organisation(ucca_at_epsom).",
+    "source": "george_barber",
+    "evidence": "It’s UCCA at Epsom as well.",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "organisation(ucca_at_canterbury).",
+    "source": "george_barber",
+    "evidence": "There’s UCCA at Canterbury.",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "work(automotive_action_painting).",
+    "source": "george_barber",
+    "evidence": "I’ve had a piece made on high definition: Automotive Action Painting, which is done very well actually. It’s been all round the place. It was at the Tate for a month just behind the shop.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "venue(tate).",
+    "source": "george_barber",
+    "evidence": "It was at the Tate for a month just behind the shop.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "person(michael_o_pray).",
+    "source": "george_barber",
+    "evidence": "The most important person I think was Michael O’Pray. He took me under his wing when I first started making Scratch, and wrote about it in Art Monthly.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "organisation(art_monthly).",
+    "source": "george_barber",
+    "evidence": "He took me under his wing when I first started making Scratch, and wrote about it in Art Monthly.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "person(david_hall).",
+    "source": "george_barber",
+    "evidence": "I think David Hall was unusual. I remember I once showed some work and you’d have thought he would have hated it, but actually of all the Scratch stuff, someone told me that he thought mine was best.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "collaborated_with(george_barber, john_scarlet_davis).",
+    "source": "george_barber",
+    "evidence": "Volume 1 included John Scarlet Davis.",
+    "confidence": "supported",
+    "page": 9
+  },
+  {
+    "fact": "collaborated_with(george_barber, kim_flitcroft).",
+    "source": "george_barber",
+    "evidence": "Volume 1 included... Kim Flitcroft.",
+    "confidence": "supported",
+    "page": 9
+  },
+  {
+    "fact": "collaborated_with(george_barber, sarah_goldbacher).",
+    "source": "george_barber",
+    "evidence": "Volume 1 included... Sarah Goldbacher.",
+    "confidence": "supported",
+    "page": 9
+  },
+  {
+    "fact": "collaborated_with(george_barber, duvet_brothers).",
+    "source": "george_barber",
+    "evidence": "Volume 1 included... Duvet Brothers.",
+    "confidence": "supported",
+    "page": 9
+  },
+  {
+    "fact": "collaborated_with(george_barber, jeffrey_hinton).",
+    "source": "george_barber",
+    "evidence": "There was also a guy, Jeffrey Hinton, who I only met him once to pick up the tape. He’d done something... which got on.",
+    "confidence": "supported",
+    "page": 9
+  },
+  {
+    "fact": "collaborated_with(george_barber, gorilla_people).",
+    "source": "george_barber",
+    "evidence": "The Gorilla people came on the next one, Volume 2.",
+    "confidence": "supported",
+    "page": 9
+  },
+  {
+    "fact": "exhibited_at(automotive_action_painting, tate).",
+    "source": "george_barber",
+    "evidence": "Automotive Action Painting... It’s been all round the place. It was at the Tate for a month just behind the shop.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "created_by(scratch_video_volume_1, george_barber).",
+    "source": "george_barber",
+    "evidence": "I said, \"We put this one out called Scratch Video Volume 1\".",
+    "confidence": "explicit",
+    "page": 9
+  },
+  {
+    "fact": "created_by(scratch_video_volume_2, george_barber).",
+    "source": "george_barber",
+    "evidence": "Volume 2 is actually very good. It’s a lot better than Volume One... the work we made was better because... we set up the rules.",
+    "confidence": "supported",
+    "page": 9
+  },
+  {
+    "fact": "created_by(automotive_action_painting, george_barber).",
+    "source": "george_barber",
+    "evidence": "I’ve had a piece made on high definition: Automotive Action Painting, which is done very well actually.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "exhibited_at(scratch_video_volume_1, edinburgh_television_festival).",
+    "source": "george_barber",
+    "evidence": "In 1985 I was even on the Edinburgh Television Festival. They put Scratch on...",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "exhibited_at(scratch_video_volume_2, edinburgh_television_festival).",
+    "source": "george_barber",
+    "evidence": "In 1985 I was even on the Edinburgh Television Festival. They put Scratch on...",
+    "confidence": "supported",
+    "page": 10
+  },
+  {
+    "fact": "employed_by(george_barber, ucca_at_farnham).",
+    "source": "george_barber",
+    "evidence": "I suppose the last five years I’m pretty much settled into working for a college for a few days a week... It’s called UCCA now, University College for the Creative Arts. You need to be very clear when you say it, UCCA at Farnham.",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "year_created(scratch_video_volume_1, @1985).",
+    "source": "george_barber",
+    "evidence": "In 1985 I was even on the Edinburgh Television Festival. They put Scratch on...",
+    "confidence": "supported",
+    "page": 10
+  },
+  {
+    "fact": "curated_by(scratch_video_volume_1, george_barber).",
+    "source": "george_barber",
+    "evidence": "I think I made it happen because I put a focus to it. I said, \"We put this one out called Scratch Video Volume 1\".",
+    "confidence": "supported",
+    "page": 9
+  },
+  {
+    "fact": "curated_by(scratch_video_volume_2, george_barber).",
+    "source": "george_barber",
+    "evidence": "when I produced this first one... when we got the name Scratch Video, we were more inspired to make work. The work we made was better because... we would set up the rules.",
+    "confidence": "supported",
+    "page": 9
+  },
+  {
+    "fact": "wrote_about(michael_o_pray, scratch_video_volume_1).",
+    "source": "george_barber",
+    "evidence": "He took me under his wing when I first started making Scratch, and wrote about it in Art Monthly.",
+    "confidence": "supported",
+    "page": 11
+  },
+  {
+    "fact": "published_in(scratch_video_volume_1, art_monthly).",
+    "source": "george_barber",
+    "evidence": "He took me under his wing when I first started making Scratch, and wrote about it in Art Monthly.",
+    "confidence": "supported",
+    "page": 11
+  },
+  {
+    "fact": "organisation(slade_school_of_fine_art).",
+    "source": "george_barber",
+    "evidence": "...when I was at the Slade...",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "person(john_stezaker).",
+    "source": "george_barber",
+    "evidence": "...under the spell of John Stezaker at St Martin’s. He used to do collage.",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "person(mark_boyle).",
+    "source": "george_barber",
+    "evidence": "Mark Boyle had written a lovely little note saying that he really enjoyed the show and thought that it was the best thing at the Slade.",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "person(john_wyver).",
+    "source": "george_barber",
+    "evidence": "I think another person who’d be very important to mention would be John Wyver ... he wrote about these things and he organised some early TV shows about art.",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "person(mike_o_pray).",
+    "source": "george_barber",
+    "evidence": "the important critical figures were Mike O’Pray, and John Wyver who was part of the scene in bringing some attention to British video art",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "person(julian_petley).",
+    "source": "george_barber",
+    "evidence": "Julian Petley wrote about me a couple of times. He did some profiles.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "organisation(filmwaves).",
+    "source": "george_barber",
+    "evidence": "in recent times I’ve contributed to Filmwaves. I was the guest editor not so long ago",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "work(the_signs_of_la).",
+    "source": "george_barber",
+    "evidence": "I wrote a thing called The Signs of LA, which is about some photographic work I did taking large format pictures.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "venue(westminster_london_west_gallery).",
+    "source": "george_barber",
+    "evidence": "I did have an exhibition at Westminster, London West Gallery, where I drove around LA looking out for signs.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "person(paul_morley).",
+    "source": "george_barber",
+    "evidence": "Paul Morley and Gareth Evans have written something about your work.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "person(gareth_evans).",
+    "source": "george_barber",
+    "evidence": "Paul Morley and Gareth Evans have written something about your work.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "organisation(film_and_video_umbrella).",
+    "source": "george_barber",
+    "evidence": "It was for Film and Video Umbrella. It came quite soon after I had an exhibition called Shouting Match at the Open Eye Gallery in Liverpool...",
+    "confidence": "explicit",
+    "page": 14
+  },
+  {
+    "fact": "venue(open_eye_gallery_liverpool).",
+    "source": "george_barber",
+    "evidence": "I had an exhibition called Shouting Match at the Open Eye Gallery in Liverpool",
+    "confidence": "explicit",
+    "page": 14
+  },
+  {
+    "fact": "work(refusing_potatoes).",
+    "source": "george_barber",
+    "evidence": "Refusing Potatoes is another monologue that I like and that one is slightly about the death of my father but it’s also got a passing theme of Alan Rickman.",
+    "confidence": "explicit",
+    "page": 14
+  },
+  {
+    "fact": "created_by(the_signs_of_la, george_barber).",
+    "source": "george_barber",
+    "evidence": "I wrote a thing called The Signs of LA, which is about some photographic work I did taking large format pictures.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "exhibited_at(the_signs_of_la, westminster_london_west_gallery).",
+    "source": "george_barber",
+    "evidence": "I did have an exhibition at Westminster, London West Gallery, where I drove around LA looking out for signs.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "exhibited_at(shouting_match, open_eye_gallery_liverpool).",
+    "source": "george_barber",
+    "evidence": "I had an exhibition called Shouting Match at the Open Eye Gallery in Liverpool",
+    "confidence": "explicit",
+    "page": 14
+  },
+  {
+    "fact": "funded_by(film_and_video_umbrella, arts_council).",
+    "source": "george_barber",
+    "evidence": "Yes, although I think that it was Arts Council money in the end. Everything goes back to them.",
+    "confidence": "explicit",
+    "page": 14
+  },
+  {
+    "fact": "created_by(refusing_potatoes, george_barber).",
+    "source": "george_barber",
+    "evidence": "Refusing Potatoes is another monologue that I like...",
+    "confidence": "supported",
+    "page": 14
+  },
+  {
+    "fact": "born_in(george_barber, \"West Indies\").",
+    "source": "george_barber",
+    "evidence": "I was born in the West Indies so I’ve always got that slightly unusual past that people don’t realise.",
+    "confidence": "explicit",
+    "page": 14
+  },
+  {
+    "fact": "work(upside_down).",
+    "source": "george_barber",
+    "evidence": "The things about hanging people upside \ndown, like Upside Down, Minutiae or River Sky, are quite elegant",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "work(minutiae).",
+    "source": "george_barber",
+    "evidence": "The things about hanging people upside \ndown, like Upside Down, Minutiae or River Sky, are quite elegant",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "work(river_sky).",
+    "source": "george_barber",
+    "evidence": "The things about hanging people upside \ndown, like Upside Down, Minutiae or River Sky, are quite elegant",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "work(walking_off_court).",
+    "source": "george_barber",
+    "evidence": "I think Walking Off Court is a very good work. I don’t think any people have \npicked up on it.",
+    "confidence": "explicit",
+    "page": 16
+  },
+  {
+    "fact": "person(john_maybury).",
+    "source": "george_barber",
+    "evidence": "There is no reason why.  It doesn’t really matter if it’s 12 minutes or 15 minutes, \nno  one’s going to object.   So you get a  waffle going on with a  lot of pieces. It’s a  bit \nbitchy but I  remember John Maybury could never seem to understand when to cut, \neven though he was a lovely guy, and hopefully he will never see this.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "created_by(upside_down, george_barber).",
+    "source": "george_barber",
+    "evidence": "The things about hanging people upside \ndown, like Upside Down, Minutiae or River Sky, are quite elegant",
+    "confidence": "supported",
+    "page": 15
+  },
+  {
+    "fact": "created_by(minutiae, george_barber).",
+    "source": "george_barber",
+    "evidence": "The things about hanging people upside \ndown, like Upside Down, Minutiae or River Sky, are quite elegant",
+    "confidence": "supported",
+    "page": 15
+  },
+  {
+    "fact": "created_by(river_sky, george_barber).",
+    "source": "george_barber",
+    "evidence": "The things about hanging people upside \ndown, like Upside Down, Minutiae or River Sky, are quite elegant",
+    "confidence": "supported",
+    "page": 15
+  },
+  {
+    "fact": "created_by(walking_off_court, george_barber).",
+    "source": "george_barber",
+    "evidence": "I think Walking Off Court is a very good work.",
+    "confidence": "supported",
+    "page": 16
+  },
+  {
+    "fact": "created_by(taxi_driver_ii, george_barber).",
+    "source": "george_barber",
+    "evidence": "I have worked with actors.  Taxi Driver II and Venetian Ghost were with actors.",
+    "confidence": "supported",
+    "page": 17
+  },
+  {
+    "fact": "created_by(venetian_ghost, george_barber).",
+    "source": "george_barber",
+    "evidence": "I have worked with actors.  Taxi Driver II and Venetian Ghost were with actors.",
+    "confidence": "supported",
+    "page": 17
+  },
+  {
+    "fact": "uses_actors(taxi_driver_ii).",
+    "source": "george_barber",
+    "evidence": "I have worked with actors.  Taxi Driver II and Venetian Ghost were with actors.",
+    "confidence": "explicit",
+    "page": 17
+  },
+  {
+    "fact": "uses_actors(venetian_ghost).",
+    "source": "george_barber",
+    "evidence": "I have worked with actors.  Taxi Driver II and Venetian Ghost were with actors.",
+    "confidence": "explicit",
+    "page": 17
+  },
+  {
+    "fact": "uses_nonactors(shouting_match).",
+    "source": "george_barber",
+    "evidence": "No, I  just put up adverts and I  got to know various people, people I  know who’d be\ngood at something like that.",
+    "confidence": "explicit",
+    "page": 17
+  },
+  {
+    "fact": "received_funding_from(george_barber, arts_council).",
+    "source": "george_barber",
+    "evidence": "we couldn’t because of Arts Council funding and the threat of\nbeing sued.",
+    "confidence": "explicit",
+    "page": 17
+  },
+  {
+    "fact": "person(mike_jennings).",
+    "source": "george_barber",
+    "evidence": "it was Mike Jennings who I \nhave to thank for that, because we found an airfield and we found a  scrap guy with \nsome cars that worked.",
+    "confidence": "explicit",
+    "page": 17
+  },
+  {
+    "fact": "venue(finchley_road).",
+    "source": "george_barber",
+    "evidence": "Left to my own devices I would have just chucked a lot of paint early in the morning on the Finchley Road",
+    "confidence": "explicit",
+    "page": 17
+  },
+  {
+    "fact": "work(the_car_piece).",
+    "source": "george_barber",
+    "evidence": "I think that car piece is going to about 40 different venues across Britain.",
+    "confidence": "supported",
+    "page": 18
+  },
+  {
+    "fact": "commissioned_by(the_car_piece, film_and_video_umbrella).",
+    "source": "george_barber",
+    "evidence": "They not only commission work, but then they know where it’s going to be exhibited. ... I think that car piece is going ...",
+    "confidence": "supported",
+    "page": 18
+  },
+  {
+    "fact": "exhibited_at(the_car_piece, tate).",
+    "source": "george_barber",
+    "evidence": "They put it in the Tate for a month.",
+    "confidence": "explicit",
+    "page": 18
+  }
+]

@@ -2,6 +2,7 @@
 % See metadata/extraction.json for source provenance and candidates/evidence for supporting quotes.
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 interviewee(rewind_david_hall_interview, david_hall).
+interviewee(rewind_george_barber_interview, george_barber).
 interviewee(rewind_kevin_atherton_interview, kevin_atherton).
 interviewee(rewind_madelon_hooykaas_interview, madelon_hooykaas).
 interviewee(rewind_mike_stubbs_interview, mike_stubbs).

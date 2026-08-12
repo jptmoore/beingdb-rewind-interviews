@@ -5,6 +5,8 @@ funded_by(between_the_lines, girls_school_in_bow).
 funded_by(david_hall, arts_council).
 funded_by(david_hall, british_council).
 funded_by(deep_looking, buddhist_broadcasting_foundation).
+funded_by(film_and_video_umbrella, arts_council).
+funded_by(george_barber, royal_college_of_art).
 funded_by(kevin_atherton, arts_council_of_great_britain).
 funded_by(lva_london_video_arts, arts_council).
 funded_by(malvern_well_dressing_festival, arts_council).
@@ -13,6 +15,8 @@ funded_by(mike_stubbs, bbc).
 funded_by(mike_stubbs, channel_4).
 funded_by(mike_stubbs, s4c).
 funded_by(revision, buddhist_broadcasting_foundation).
+funded_by(taxi_driver_ii, channel_4).
 funded_by(the_starless_cast, chapter_art_centre).
+funded_by(venetian_ghost, channel_4).
 funded_by(vertical, arts_council).
 funded_by(vi_deo_volente, de_appel).
