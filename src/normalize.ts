@@ -22,7 +22,11 @@ export function normalizeId(label: string): string {
     .replace(/^_+|_+$/g, "")
     .replace(/_+/g, "_");
 
-  return slug.length > 0 ? slug : "unknown";
+  if (slug.length === 0) return "unknown";
+  // BeingDB atoms must start with a letter (e.g. "16mm film" -> "16mm_film" is
+  // not a valid atom) - prepend a fixed marker rather than reordering text,
+  // so the result stays deterministic and predictable.
+  return /^[0-9]/.test(slug) ? `n${slug}` : slug;
 }
 
 /** Case-insensitive lookup over a curated label -> atom-ID alias map. */

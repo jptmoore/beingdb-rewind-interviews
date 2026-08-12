@@ -49,7 +49,7 @@
     "page": 1
   },
   {
-    "fact": "uses_medium(contortions, 16mm_film).",
+    "fact": "uses_medium(contortions, n16mm_film).",
     "source": "mike_stubbs",
     "evidence": "I made Contortions, in 1983, which is a 16mm drama ...",
     "confidence": "explicit",
@@ -198,49 +198,49 @@
   {
     "fact": "work(anthem).",
     "source": "mike_stubbs",
-    "evidence": "I have to say that Bill Voila’s Anthem was a massively significant piece in terms of a group of works...",
+    "evidence": "I have to say that Bill Voila\u2019s Anthem was a massively significant piece in terms of a group of works...",
     "confidence": "explicit",
     "page": 3
   },
   {
     "fact": "person(bill_viola).",
     "source": "mike_stubbs",
-    "evidence": "I have to say that Bill Voila’s Anthem was a massively significant piece in terms of a group of works...",
+    "evidence": "I have to say that Bill Voila\u2019s Anthem was a massively significant piece in terms of a group of works...",
     "confidence": "explicit",
     "page": 3
   },
   {
     "fact": "created_by(anthem, bill_viola).",
     "source": "mike_stubbs",
-    "evidence": "I have to say that Bill Voila’s Anthem was a massively significant piece...",
+    "evidence": "I have to say that Bill Voila\u2019s Anthem was a massively significant piece...",
     "confidence": "explicit",
     "page": 3
   },
   {
     "fact": "work(pieces_i_never_did).",
     "source": "mike_stubbs",
-    "evidence": "There was also David Critchley’s Pieces I Never Did...",
+    "evidence": "There was also David Critchley\u2019s Pieces I Never Did...",
     "confidence": "explicit",
     "page": 3
   },
   {
     "fact": "person(david_critchley).",
     "source": "mike_stubbs",
-    "evidence": "There was also David Critchley’s Pieces I Never Did...",
+    "evidence": "There was also David Critchley\u2019s Pieces I Never Did...",
     "confidence": "explicit",
     "page": 3
   },
   {
     "fact": "created_by(pieces_i_never_did, david_critchley).",
     "source": "mike_stubbs",
-    "evidence": "There was also David Critchley’s Pieces I Never Did...",
+    "evidence": "There was also David Critchley\u2019s Pieces I Never Did...",
     "confidence": "explicit",
     "page": 3
   },
   {
     "fact": "person(ian_bourn).",
     "source": "mike_stubbs",
-    "evidence": "and Ian Bourn’s work. There were other people who were effectively my contemporaries but a few years older.",
+    "evidence": "and Ian Bourn\u2019s work. There were other people who were effectively my contemporaries but a few years older.",
     "confidence": "explicit",
     "page": 3
   },
@@ -303,7 +303,7 @@
   {
     "fact": "venue(chapter_art_centre).",
     "source": "mike_stubbs",
-    "evidence": "I’d be coming to the Chapter Art Centre, who had a film workshop and also a video workshop.",
+    "evidence": "I\u2019d be coming to the Chapter Art Centre, who had a film workshop and also a video workshop.",
     "confidence": "explicit",
     "page": 4
   },
@@ -331,7 +331,7 @@
   {
     "fact": "person(don_pennebaker).",
     "source": "mike_stubbs",
-    "evidence": "I did actually do a week’s workshop with Don Pennebaker who of course invented the first fully mobile ENG film camera...",
+    "evidence": "I did actually do a week\u2019s workshop with Don Pennebaker who of course invented the first fully mobile ENG film camera...",
     "confidence": "explicit",
     "page": 5
   },
@@ -345,7 +345,7 @@
   {
     "fact": "work(miners_campaign_tapes).",
     "source": "mike_stubbs",
-    "evidence": "One  of  the  works  that  you  were  instrumental  in  getting  produced  was  the  Miners’\nCampaign Tapes in 1984?",
+    "evidence": "One  of  the  works  that  you  were  instrumental  in  getting  produced  was  the  Miners\u2019\nCampaign Tapes in 1984?",
     "confidence": "explicit",
     "page": 6
   },
@@ -366,21 +366,21 @@
   {
     "fact": "organisation(platform).",
     "source": "mike_stubbs",
-    "evidence": "There were 6 key workshops throughout: Platform and Chapter were two, and I can’t remember the rest.",
+    "evidence": "There were 6 key workshops throughout: Platform and Chapter were two, and I can\u2019t remember the rest.",
     "confidence": "explicit",
     "page": 6
   },
   {
     "fact": "organisation(chapter).",
     "source": "mike_stubbs",
-    "evidence": "There were 6 key workshops throughout: Platform and Chapter were two, and I can’t remember the rest.",
+    "evidence": "There were 6 key workshops throughout: Platform and Chapter were two, and I can\u2019t remember the rest.",
     "confidence": "explicit",
     "page": 6
   },
   {
     "fact": "exhibition(not_just_another_art_show).",
     "source": "mike_stubbs",
-    "evidence": "In 1981 we did a show called ‘Not  Just  Another  Art Show’.",
+    "evidence": "In 1981 we did a show called \u2018Not  Just  Another  Art Show\u2019.",
     "confidence": "explicit",
     "page": 7
   },
@@ -394,7 +394,7 @@
   {
     "fact": "year_created(not_just_another_art_show, @1981).",
     "source": "mike_stubbs",
-    "evidence": "In 1981 we did a show called ‘Not  Just  Another  Art Show’.",
+    "evidence": "In 1981 we did a show called \u2018Not  Just  Another  Art Show\u2019.",
     "confidence": "explicit",
     "page": 7
   },
@@ -415,7 +415,7 @@
   {
     "fact": "active_in(mike_stubbs, miners_campaign_tapes).",
     "source": "mike_stubbs",
-    "evidence": "Certainly, I was active and I encouraged it and I shot some and edited some and went to the miners’ meetings and documented.",
+    "evidence": "Certainly, I was active and I encouraged it and I shot some and edited some and went to the miners\u2019 meetings and documented.",
     "confidence": "explicit",
     "page": 6
   },
@@ -450,7 +450,7 @@
   {
     "fact": "organisation(video_artists_on_tour).",
     "source": "mike_stubbs",
-    "evidence": "I was one of the members of ‘Video Artists on Tour’",
+    "evidence": "I was one of the members of \u2018Video Artists on Tour\u2019",
     "confidence": "explicit",
     "page": 9
   },
@@ -541,7 +541,7 @@
   {
     "fact": "used_venue(hull_time_based_arts, ye_olde_black_boy).",
     "source": "mike_stubbs",
-    "evidence": "was meeting in the pub once a month – Ye Olde Black Boy on the High Street",
+    "evidence": "was meeting in the pub once a month \u2013 Ye Olde Black Boy on the High Street",
     "confidence": "supported",
     "page": 8
   },
@@ -569,14 +569,14 @@
   {
     "fact": "funded_by(mike_stubbs, channel_4).",
     "source": "mike_stubbs",
-    "evidence": "I got into some early Channel 4 money... very early on when I was in my mid 20’s",
+    "evidence": "I got into some early Channel 4 money... very early on when I was in my mid 20\u2019s",
     "confidence": "explicit",
     "page": 8
   },
   {
     "fact": "funded_by(mike_stubbs, s4c).",
     "source": "mike_stubbs",
-    "evidence": "I got into some early Channel 4 money and a bit of S4C money very early on when I was in my mid 20’s",
+    "evidence": "I got into some early Channel 4 money and a bit of S4C money very early on when I was in my mid 20\u2019s",
     "confidence": "explicit",
     "page": 8
   },
@@ -604,7 +604,7 @@
   {
     "fact": "exhibition(root_festival).",
     "source": "mike_stubbs",
-    "evidence": "having done the Root Festival for 10 years – a national arts festival which Hull no longer has",
+    "evidence": "having done the Root Festival for 10 years \u2013 a national arts festival which Hull no longer has",
     "confidence": "explicit",
     "page": 8
   },
@@ -639,7 +639,7 @@
   {
     "fact": "work(sweatlodge).",
     "source": "mike_stubbs",
-    "evidence": "called ‘Sweatlodge’ and I got a call saying, “We are doing the show at the tramway in Glasgow, Mike, can you come up and document it?”",
+    "evidence": "called \u2018Sweatlodge\u2019 and I got a call saying, \u201cWe are doing the show at the tramway in Glasgow, Mike, can you come up and document it?\u201d",
     "confidence": "explicit",
     "page": 10
   },
@@ -702,7 +702,7 @@
   {
     "fact": "exhibition(burning_bush).",
     "source": "mike_stubbs",
-    "evidence": "in the period in Dundee, for 2 years in a row, I set up a small time based arts festival called ‘Burning Bush’",
+    "evidence": "in the period in Dundee, for 2 years in a row, I set up a small time based arts festival called \u2018Burning Bush\u2019",
     "confidence": "explicit",
     "page": 10
   },
@@ -716,14 +716,14 @@
   {
     "fact": "taught_at(mike_stubbs, dundee).",
     "source": "mike_stubbs",
-    "evidence": "I taught there. I regularly taught at Dundee. Pretty much from about 1990, I’d go up there.",
+    "evidence": "I taught there. I regularly taught at Dundee. Pretty much from about 1990, I\u2019d go up there.",
     "confidence": "explicit",
     "page": 10
   },
   {
     "fact": "person(gina_czarnecki).",
     "source": "mike_stubbs",
-    "evidence": "Steve Partridge was appreciative of Gina Czarnecki’s skills.",
+    "evidence": "Steve Partridge was appreciative of Gina Czarnecki\u2019s skills.",
     "confidence": "explicit",
     "page": 10
   },
@@ -765,14 +765,14 @@
   {
     "fact": "work(the_starless_cast).",
     "source": "mike_stubbs",
-    "evidence": "had an idea to do a mixed media theatre performance called The Starless Cast. He said, 'This looks interesting, yeah you can have some money'. So he gave us the theatre for a three-week rehearsal period, a week’s run in the theatre and a budget to make it.",
+    "evidence": "had an idea to do a mixed media theatre performance called The Starless Cast. He said, 'This looks interesting, yeah you can have some money'. So he gave us the theatre for a three-week rehearsal period, a week\u2019s run in the theatre and a budget to make it.",
     "confidence": "explicit",
     "page": 10
   },
   {
     "fact": "funded_by(the_starless_cast, chapter_art_centre).",
     "source": "mike_stubbs",
-    "evidence": "Mik Flood...gave us the theatre for a three-week rehearsal period, a week’s run in the theatre and a budget to make it.",
+    "evidence": "Mik Flood...gave us the theatre for a three-week rehearsal period, a week\u2019s run in the theatre and a budget to make it.",
     "confidence": "explicit",
     "page": 10
   },
@@ -842,7 +842,7 @@
   {
     "fact": "work(territories).",
     "source": "mike_stubbs",
-    "evidence": "He’d just finished making Territories, which I was very interested in.",
+    "evidence": "He\u2019d just finished making Territories, which I was very interested in.",
     "confidence": "explicit",
     "page": 11
   },
@@ -856,14 +856,14 @@
   {
     "fact": "person(heath_bunting).",
     "source": "mike_stubbs",
-    "evidence": "Heath Bunting has just made a new documentary film...he starts his 40 minute documentary by thanking me for giving him £50 to do his first paid artwork.",
+    "evidence": "Heath Bunting has just made a new documentary film...he starts his 40 minute documentary by thanking me for giving him \u00a350 to do his first paid artwork.",
     "confidence": "explicit",
     "page": 11
   },
   {
     "fact": "collaborated_with(mike_stubbs, heath_bunting).",
     "source": "mike_stubbs",
-    "evidence": "he starts his 40 minute documentary by thanking me for giving him £50 to do his first paid artwork.",
+    "evidence": "he starts his 40 minute documentary by thanking me for giving him \u00a350 to do his first paid artwork.",
     "confidence": "explicit",
     "page": 11
   },
@@ -926,7 +926,7 @@
   {
     "fact": "person(goddard).",
     "source": "mike_stubbs",
-    "evidence": "my interest in the New Wave largely came through Roland’s interest in Goddard",
+    "evidence": "my interest in the New Wave largely came through Roland\u2019s interest in Goddard",
     "confidence": "explicit",
     "page": 11
   },
@@ -961,14 +961,14 @@
   {
     "fact": "work(what_the_eye_doesn_t_see_post_industrial_studies_number_1).",
     "source": "mike_stubbs",
-    "evidence": "We did the What The Eye Doesn’t See: Post Industrial Studies Number 1 piece.",
+    "evidence": "We did the What The Eye Doesn\u2019t See: Post Industrial Studies Number 1 piece.",
     "confidence": "explicit",
     "page": 12
   },
   {
     "fact": "exhibition(river_crossings_with_camerawork).",
     "source": "mike_stubbs",
-    "evidence": "It was part of ‘River Crossings with Camerawork’, which involved...",
+    "evidence": "It was part of \u2018River Crossings with Camerawork\u2019, which involved...",
     "confidence": "explicit",
     "page": 12
   },
@@ -1045,42 +1045,42 @@
   {
     "fact": "person(franco_b).",
     "source": "mike_stubbs",
-    "evidence": "I’ve also worked with Franco B on performance work, video and performance work.",
+    "evidence": "I\u2019ve also worked with Franco B on performance work, video and performance work.",
     "confidence": "explicit",
     "page": 12
   },
   {
     "fact": "person(bhindu_boys).",
     "source": "mike_stubbs",
-    "evidence": "I did Bhindu Boys, Remmy Onglala, Ali Farka Toure, Anne Whitehurst, Dudu Pakwana – a number of people who are now dead.",
+    "evidence": "I did Bhindu Boys, Remmy Onglala, Ali Farka Toure, Anne Whitehurst, Dudu Pakwana \u2013 a number of people who are now dead.",
     "confidence": "explicit",
     "page": 12
   },
   {
     "fact": "person(remmy_onglala).",
     "source": "mike_stubbs",
-    "evidence": "I did Bhindu Boys, Remmy Onglala, Ali Farka Toure, Anne Whitehurst, Dudu Pakwana – a number of people who are now dead.",
+    "evidence": "I did Bhindu Boys, Remmy Onglala, Ali Farka Toure, Anne Whitehurst, Dudu Pakwana \u2013 a number of people who are now dead.",
     "confidence": "explicit",
     "page": 12
   },
   {
     "fact": "person(ali_farka_toure).",
     "source": "mike_stubbs",
-    "evidence": "I did Bhindu Boys, Remmy Onglala, Ali Farka Toure, Anne Whitehurst, Dudu Pakwana – a number of people who are now dead.",
+    "evidence": "I did Bhindu Boys, Remmy Onglala, Ali Farka Toure, Anne Whitehurst, Dudu Pakwana \u2013 a number of people who are now dead.",
     "confidence": "explicit",
     "page": 12
   },
   {
     "fact": "person(anne_whitehurst).",
     "source": "mike_stubbs",
-    "evidence": "I did Bhindu Boys, Remmy Onglala, Ali Farka Toure, Anne Whitehurst, Dudu Pakwana – a number of people who are now dead.",
+    "evidence": "I did Bhindu Boys, Remmy Onglala, Ali Farka Toure, Anne Whitehurst, Dudu Pakwana \u2013 a number of people who are now dead.",
     "confidence": "explicit",
     "page": 12
   },
   {
     "fact": "person(dudu_pakwana).",
     "source": "mike_stubbs",
-    "evidence": "I did Bhindu Boys, Remmy Onglala, Ali Farka Toure, Anne Whitehurst, Dudu Pakwana – a number of people who are now dead.",
+    "evidence": "I did Bhindu Boys, Remmy Onglala, Ali Farka Toure, Anne Whitehurst, Dudu Pakwana \u2013 a number of people who are now dead.",
     "confidence": "explicit",
     "page": 12
   },
@@ -1115,7 +1115,7 @@
   {
     "fact": "organisation(i_dream_of_tall_buildings).",
     "source": "mike_stubbs",
-    "evidence": "a group called ‘I Dream of Tall Buildings’ which is a Birmingham collective",
+    "evidence": "a group called \u2018I Dream of Tall Buildings\u2019 which is a Birmingham collective",
     "confidence": "explicit",
     "page": 13
   },
@@ -1171,14 +1171,14 @@
   {
     "fact": "person(janek_alexander).",
     "source": "mike_stubbs",
-    "evidence": "The connection came through Janek Alexander. I think he’d met them in New York.",
+    "evidence": "The connection came through Janek Alexander. I think he\u2019d met them in New York.",
     "confidence": "explicit",
     "page": 13
   },
   {
     "fact": "venue(new_york).",
     "source": "mike_stubbs",
-    "evidence": "Janek Alexander. I think he’d met them in New York.",
+    "evidence": "Janek Alexander. I think he\u2019d met them in New York.",
     "confidence": "explicit",
     "page": 13
   },
@@ -1304,21 +1304,21 @@
   {
     "fact": "created_by(what_the_eye_doesn_t_see_post_industrial_studies_number_1, mike_stubbs).",
     "source": "mike_stubbs",
-    "evidence": "We did the What The Eye Doesn’t See: Post Industrial Studies Number 1 piece.",
+    "evidence": "We did the What The Eye Doesn\u2019t See: Post Industrial Studies Number 1 piece.",
     "confidence": "explicit",
     "page": 12
   },
   {
     "fact": "created_by(what_the_eye_doesn_t_see_post_industrial_studies_number_1, joanna_millet).",
     "source": "mike_stubbs",
-    "evidence": "We did the What The Eye Doesn’t See: Post Industrial Studies Number 1 piece.",
+    "evidence": "We did the What The Eye Doesn\u2019t See: Post Industrial Studies Number 1 piece.",
     "confidence": "explicit",
     "page": 12
   },
   {
     "fact": "exhibited_at(what_the_eye_doesn_t_see_post_industrial_studies_number_1, river_crossings_with_camerawork).",
     "source": "mike_stubbs",
-    "evidence": "It was part of ‘River Crossings with Camerawork’",
+    "evidence": "It was part of \u2018River Crossings with Camerawork\u2019",
     "confidence": "explicit",
     "page": 12
   },
@@ -1367,21 +1367,21 @@
   {
     "fact": "collaborated_with(mike_stubbs, roberto_de_jonge).",
     "source": "mike_stubbs",
-    "evidence": "I’ve done lots of collaborations with dancers and performers, for example, Roberto De Jonge and Maria Voortman from Rotterdam, who had an MPI/BBC co-commission for a dance film.",
+    "evidence": "I\u2019ve done lots of collaborations with dancers and performers, for example, Roberto De Jonge and Maria Voortman from Rotterdam, who had an MPI/BBC co-commission for a dance film.",
     "confidence": "explicit",
     "page": 12
   },
   {
     "fact": "collaborated_with(mike_stubbs, maria_voortman).",
     "source": "mike_stubbs",
-    "evidence": "I’ve done lots of collaborations with dancers and performers, for example, Roberto De Jonge and Maria Voortman from Rotterdam, who had an MPI/BBC co-commission for a dance film.",
+    "evidence": "I\u2019ve done lots of collaborations with dancers and performers, for example, Roberto De Jonge and Maria Voortman from Rotterdam, who had an MPI/BBC co-commission for a dance film.",
     "confidence": "explicit",
     "page": 12
   },
   {
     "fact": "collaborated_with(mike_stubbs, franco_b).",
     "source": "mike_stubbs",
-    "evidence": "I’ve also worked with Franco B on performance work, video and performance work.",
+    "evidence": "I\u2019ve also worked with Franco B on performance work, video and performance work.",
     "confidence": "explicit",
     "page": 12
   },
@@ -1444,7 +1444,7 @@
   {
     "fact": "soundtrack_by(cultural_quarter, i_dream_of_tall_buildings).",
     "source": "mike_stubbs",
-    "evidence": "The soundtrack for Cultural Quarter for example, was made by a group called ‘I Dream of Tall Buildings’",
+    "evidence": "The soundtrack for Cultural Quarter for example, was made by a group called \u2018I Dream of Tall Buildings\u2019",
     "confidence": "explicit",
     "page": 13
   },

@@ -70,7 +70,7 @@ npm run show-prompt        # print the exact prompt sent to the model
 npm run consolidate        # merge semantically-duplicate predicates (see below)
 npm test                   # unit tests (no network/API calls)
 npm run test:integration   # tests that call the live OpenAI API
-npm run validate:beingdb   # compile this repo with a real BeingDB install, if present
+npm run validate           # compile predicates/ with a real BeingDB install, if present
 ```
 
 ### Consolidating duplicate predicates

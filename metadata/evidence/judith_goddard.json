@@ -37,14 +37,14 @@
   {
     "fact": "work(the_garden_of_earthly_delights).",
     "source": "judith_goddard",
-    "evidence": "Then I’d say The Garden of Earthly Delights, which was a collage work, predated by Luminous Portrait, which was a commission for BBC.",
+    "evidence": "Then I\u2019d say The Garden of Earthly Delights, which was a collage work, predated by Luminous Portrait, which was a commission for BBC.",
     "confidence": "explicit",
     "page": 1
   },
   {
     "fact": "created_by(the_garden_of_earthly_delights, judith_goddard).",
     "source": "judith_goddard",
-    "evidence": "Then I’d say The Garden of Earthly Delights, which was a collage work... That was an important work for me.",
+    "evidence": "Then I\u2019d say The Garden of Earthly Delights, which was a collage work... That was an important work for me.",
     "confidence": "explicit",
     "page": 1
   },
@@ -317,14 +317,14 @@
   {
     "fact": "venue(first_gallery_in_plymouth).",
     "source": "judith_goddard",
-    "evidence": "I’d already shown a work with him or one of my works down in Plymouth, which was the first gallery he ever worked at.",
+    "evidence": "I\u2019d already shown a work with him or one of my works down in Plymouth, which was the first gallery he ever worked at.",
     "confidence": "supported",
     "page": null
   },
   {
     "fact": "organisation(arts_council).",
     "source": "judith_goddard",
-    "evidence": "I’ve had funding from the Arts Council 2 or 3 times",
+    "evidence": "I\u2019ve had funding from the Arts Council 2 or 3 times",
     "confidence": "explicit",
     "page": null
   },
@@ -352,7 +352,7 @@
   {
     "fact": "venue(video_residency_in_maidstone).",
     "source": "judith_goddard",
-    "evidence": "I made one of the works when I did a video residency in Maidstone back in the 80’s.",
+    "evidence": "I made one of the works when I did a video residency in Maidstone back in the 80\u2019s.",
     "confidence": "explicit",
     "page": null
   },
@@ -443,7 +443,7 @@
   {
     "fact": "funded_by(judith_goddard, arts_council).",
     "source": "judith_goddard",
-    "evidence": "I’ve had funding from the Arts Council 2 or 3 times",
+    "evidence": "I\u2019ve had funding from the Arts Council 2 or 3 times",
     "confidence": "explicit",
     "page": null
   },
@@ -471,7 +471,7 @@
   {
     "fact": "edited_at(judith_goddard, video_residency_in_maidstone).",
     "source": "judith_goddard",
-    "evidence": "I made one of the works when I did a video residency in Maidstone back in the 80’s.",
+    "evidence": "I made one of the works when I did a video residency in Maidstone back in the 80\u2019s.",
     "confidence": "explicit",
     "page": null
   },
@@ -562,7 +562,7 @@
   {
     "fact": "distributed_by(judith_goddard, london_video_arts_lva).",
     "source": "judith_goddard",
-    "evidence": "Yes, LVA distributed my single screen work from the early 80’s onwards.",
+    "evidence": "Yes, LVA distributed my single screen work from the early 80\u2019s onwards.",
     "confidence": "explicit",
     "page": null
   },
@@ -590,19 +590,33 @@
   {
     "fact": "inspired_by(judith_goddard, t_s_eliot).",
     "source": "judith_goddard",
-    "evidence": "Later, I read The Wasteland. I could probably still recite The Burial of the Dead by T.S. Eliot because I learnt it when I was 15 or 16. So, T.S. Eliot’s London became part of my kind of imagined landscape before I ever lived here.",
+    "evidence": "Later, I read The Wasteland. I could probably still recite The Burial of the Dead by T.S. Eliot because I learnt it when I was 15 or 16. So, T.S. Eliot\u2019s London became part of my kind of imagined landscape before I ever lived here.",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "uses_medium(judith_goddard, single_screen, \"multi screen\", \"installation\").",
+    "fact": "uses_medium(judith_goddard, single_screen).",
     "source": "judith_goddard",
-    "evidence": "I’ve done single screen, multi screen and installation or installed work.",
+    "evidence": "I\u2019ve done single screen, multi screen and installation or installed work.",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "uses_medium(television_circle_electron, 7_monitors).",
+    "fact": "uses_medium(judith_goddard, multi_screen).",
+    "source": "judith_goddard",
+    "evidence": "I\u2019ve done single screen, multi screen and installation or installed work.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "uses_medium(judith_goddard, installation).",
+    "source": "judith_goddard",
+    "evidence": "I\u2019ve done single screen, multi screen and installation or installed work.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "uses_medium(television_circle_electron, n7_monitors).",
     "source": "judith_goddard",
     "evidence": "In Television Circle/Electron it actually is a circle of 7 monitors but you are actually seeing a sequence repeated.",
     "confidence": "explicit",
@@ -674,7 +688,7 @@
   {
     "fact": "organisation(london_video_arts_lva).",
     "source": "judith_goddard",
-    "evidence": "LVA distributed my single screen work from the early 80’s onwards.",
+    "evidence": "LVA distributed my single screen work from the early 80\u2019s onwards.",
     "confidence": "explicit",
     "page": null
   },
@@ -912,21 +926,21 @@
   {
     "fact": "organisation(lva).",
     "source": "judith_goddard",
-    "evidence": "Yes, the 80’s work, they distributed.",
+    "evidence": "Yes, the 80\u2019s work, they distributed.",
     "confidence": "explicit",
     "page": null
   },
   {
     "fact": "distributed_by(time_spent, lva).",
     "source": "judith_goddard",
-    "evidence": "Yes, the 80’s work, they distributed.",
+    "evidence": "Yes, the 80\u2019s work, they distributed.",
     "confidence": "supported",
     "page": null
   },
   {
     "fact": "organisation(hong_kong_festival).",
     "source": "judith_goddard",
-    "evidence": "the old festival would send a certificate saying that I’d won a prize in the Hong Kong Festival",
+    "evidence": "the old festival would send a certificate saying that I\u2019d won a prize in the Hong Kong Festival",
     "confidence": "explicit",
     "page": null
   },
@@ -940,7 +954,7 @@
   {
     "fact": "person(michael_opray).",
     "source": "judith_goddard",
-    "evidence": "JG: ...the essay that Michael O’Pray wrote for the catalogue for the Reservoir...",
+    "evidence": "JG: ...the essay that Michael O\u2019Pray wrote for the catalogue for the Reservoir...",
     "confidence": "explicit",
     "page": null
   },
@@ -961,14 +975,14 @@
   {
     "fact": "person(kev_fraser).",
     "source": "judith_goddard",
-    "evidence": "JG: I’ve worked collaboratively with a musician called Kev Fraser. I worked with him for a period of about 6 or 7 years.",
+    "evidence": "JG: I\u2019ve worked collaboratively with a musician called Kev Fraser. I worked with him for a period of about 6 or 7 years.",
     "confidence": "explicit",
     "page": null
   },
   {
     "fact": "collaborated_with(judith_goddard, kev_fraser).",
     "source": "judith_goddard",
-    "evidence": "JG: I’ve worked collaboratively with a musician called Kev Fraser. I worked with him for a period of about 6 or 7 years.",
+    "evidence": "JG: I\u2019ve worked collaboratively with a musician called Kev Fraser. I worked with him for a period of about 6 or 7 years.",
     "confidence": "explicit",
     "page": null
   },
@@ -989,14 +1003,14 @@
   {
     "fact": "collaborated_with(kev_fraser, judith_goddard).",
     "source": "judith_goddard",
-    "evidence": "JG: I’ve worked collaboratively with a musician called Kev Fraser.",
+    "evidence": "JG: I\u2019ve worked collaboratively with a musician called Kev Fraser.",
     "confidence": "explicit",
     "page": null
   },
   {
     "fact": "curated_by(reservoir, michael_opray).",
     "source": "judith_goddard",
-    "evidence": "JG: ...the essay that Michael O’Pray wrote for the catalogue for the Reservoir, which was an overview of the work to that date...",
+    "evidence": "JG: ...the essay that Michael O\u2019Pray wrote for the catalogue for the Reservoir, which was an overview of the work to that date...",
     "confidence": "explicit",
     "page": null
   },
@@ -1017,21 +1031,21 @@
   {
     "fact": "uses_medium(judith_goddard, print).",
     "source": "judith_goddard",
-    "evidence": "JG: I’ve been working with print, digital print.",
+    "evidence": "JG: I\u2019ve been working with print, digital print.",
     "confidence": "explicit",
     "page": null
   },
   {
     "fact": "uses_medium(judith_goddard, digital_print).",
     "source": "judith_goddard",
-    "evidence": "JG: I’ve been working with print, digital print. I’ve worked in namely large-scale, digital print.",
+    "evidence": "JG: I\u2019ve been working with print, digital print. I\u2019ve worked in namely large-scale, digital print.",
     "confidence": "explicit",
     "page": null
   },
   {
     "fact": "uses_medium(judith_goddard, etching).",
     "source": "judith_goddard",
-    "evidence": "JG: I’ve also recently been doing some etching and have a series of etchings planned.",
+    "evidence": "JG: I\u2019ve also recently been doing some etching and have a series of etchings planned.",
     "confidence": "explicit",
     "page": null
   },

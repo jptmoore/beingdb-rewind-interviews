@@ -17,7 +17,7 @@
     "show-prompt": "tsx src/show-prompt.ts",
     "test": "node --import tsx --test 'test/unit/**/*.test.ts'",
     "test:integration": "node --import tsx --test 'test/integration/**/*.test.ts'",
-    "validate:beingdb": "node scripts/validate-beingdb.mjs"
+    "validate": "node scripts/validate.mjs"
   },
   "dependencies": {
     "openai": "^4.77.0",

@@ -14,7 +14,7 @@ dist/
 source/*
 !source/.gitkeep
 
-# Transient BeingDB validation stores (see npm run validate:beingdb)
+# Transient BeingDB validation stores (see npm run validate)
 .beingdb/
 
 # OS/editor

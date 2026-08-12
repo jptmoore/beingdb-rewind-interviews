@@ -18,6 +18,11 @@ test("normalizeId collapses punctuation and repeated separators", () => {
   assert.equal(normalizeId("Ikon  Gallery, Birmingham"), "ikon_gallery_birmingham");
 });
 
+test("normalizeId prefixes a leading digit so the result is a valid BeingDB atom", () => {
+  assert.equal(normalizeId("16mm film"), "n16mm_film");
+  assert.equal(normalizeId("7 monitors"), "n7_monitors");
+});
+
 test("normalizeId is deterministic", () => {
   assert.equal(normalizeId("Tape Piece"), normalizeId("Tape Piece"));
 });

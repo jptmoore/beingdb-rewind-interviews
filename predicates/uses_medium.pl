@@ -4,7 +4,7 @@
 uses_medium(brewing, digital_sound_sampling).
 uses_medium(brewing, documentary_footage).
 uses_medium(butlers_wharf_24_minute_retrospective, sound).
-uses_medium(contortions, 16mm_film).
+uses_medium(contortions, n16mm_film).
 uses_medium(david_hall, film).
 uses_medium(david_hall, sculpture).
 uses_medium(david_hall, video).
@@ -23,8 +23,10 @@ uses_medium(incidents_in_a_garden, video).
 uses_medium(judith_goddard, digital_print).
 uses_medium(judith_goddard, electricity).
 uses_medium(judith_goddard, etching).
+uses_medium(judith_goddard, installation).
+uses_medium(judith_goddard, multi_screen).
 uses_medium(judith_goddard, print).
-uses_medium(judith_goddard, single_screen, "multi screen", "installation").
+uses_medium(judith_goddard, single_screen).
 uses_medium(judith_goddard, video).
 uses_medium(kevin_atherton, bronze).
 uses_medium(kevin_atherton, sound).
@@ -54,7 +56,7 @@ uses_medium(sweatlodge, super_8_film_camera).
 uses_medium(sweatlodge, video_camera).
 uses_medium(tape_tape, masking_tape).
 uses_medium(tape_tape, videotape).
-uses_medium(television_circle_electron, 7_monitors).
+uses_medium(television_circle_electron, n7_monitors).
 uses_medium(the_wind_works, live_video).
 uses_medium(the_wind_works, pre_recorded_tape).
 uses_medium(vertical, film).
