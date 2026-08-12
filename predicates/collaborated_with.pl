@@ -105,6 +105,17 @@ collaborated_with(mike_stubbs, v2).
 collaborated_with(mike_stubbs, werkleitz_gesellschaft).
 collaborated_with(montevideo, institute_of_cultural_heritage_in_the_netherlands).
 collaborated_with(move_towards_the_verticality_of_the_horizon, alison_winkle).
+collaborated_with(peter_donebauer, barry_guy).
+collaborated_with(peter_donebauer, brian_hoey).
+collaborated_with(peter_donebauer, carl_jenkins).
+collaborated_with(peter_donebauer, lawrence_cassley).
+collaborated_with(peter_donebauer, mike_ratlidge).
+collaborated_with(peter_donebauer, mike_ray).
+collaborated_with(peter_donebauer, reg_clough).
+collaborated_with(peter_donebauer, richard_monkhouse).
+collaborated_with(peter_donebauer, simon_desorger).
+collaborated_with(peter_donebauer, simon_monkhouse).
+collaborated_with(peter_donebauer, simon).
 collaborated_with(rose_garrard, anna_ridley).
 collaborated_with(rose_garrard, annalogue_production_company).
 collaborated_with(rose_garrard, bruce_mclean).

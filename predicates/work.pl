@@ -14,6 +14,7 @@ work(automotive_action_painting).
 work(back_and_forth).
 work(behind_the_veil).
 work(between_the_lines).
+work(brewing).
 work(brixton_pieces).
 work(butlers_wharf_24_minute_retrospective).
 work(camera_sick).
@@ -40,6 +41,8 @@ work(edge).
 work(electron).
 work(elgar_figure_in_sculpture).
 work(elsas_article_on_memory).
+work(emerging).
+work(entering).
 work(field_free_space).
 work(flying_time).
 work(forest_of_dean_window).
@@ -49,6 +52,7 @@ work(gallery_guide).
 work(gift).
 work(homing).
 work(horizontal_flow).
+work(in_earnest).
 work(in_two_minds).
 work(incidents_in_a_garden).
 work(inside_outside).
@@ -62,8 +66,10 @@ work(luminous_portrait).
 work(lyrical_doubt).
 work(magnetic_north).
 work(malvina_sculpture).
+work(mandala).
 work(memory_1_and_2).
 work(memory_1).
+work(merging).
 work(miners_campaign_tapes).
 work(minutiae).
 work(mirror).
@@ -140,6 +146,7 @@ work(two_sides_of_a_story).
 work(universal_man_in_forty_five_tasks).
 work(upside_down_minutiae).
 work(upside_down).
+work(vamp).
 work(venetian_ghost).
 work(vertical_roll).
 work(vertical).
@@ -147,10 +154,12 @@ work(vi_deo_volente).
 work(video_document).
 work(video_times).
 work(video_void).
+work(videokalos).
 work(videvent).
 work(vidicon_inscriptions).
 work(waiter_there_is_a_fly_on_my_wall).
 work(walking_off_court).
+work(water_cycle).
 work(wavelength).
 work(what_the_eye_doesn_t_see_post_industrial_studies_number_1).
 work(whats_it_to_you).

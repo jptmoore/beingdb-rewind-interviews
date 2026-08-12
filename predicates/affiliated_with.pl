@@ -21,6 +21,9 @@ affiliated_with(mike_stubbs, granular_synthesis).
 affiliated_with(mike_stubbs, hull_time_based_arts).
 affiliated_with(mike_stubbs, man_act).
 affiliated_with(mike_stubbs, werkleitz_gesellschaft).
+affiliated_with(peter_donebauer, diverse).
+affiliated_with(peter_donebauer, royal_college_of_art).
+affiliated_with(richard_monkhouse, ems).
 affiliated_with(rose_garrard, girls_school_in_bow).
 affiliated_with(vivian_lovell, ikon).
 affiliated_with(vivian_lovell, public_art_commissions_agency_paca).

@@ -108,9 +108,11 @@ exhibited_at(this_is_a_television_receiver, bbc_2).
 exhibited_at(tumbled_frame, channel_4).
 exhibited_at(tv_interruptions, hayward_gallery).
 exhibited_at(tv_interruptions, ino_seventy).
+exhibited_at(vamp_video_and_music_performers, musica).
 exhibited_at(vi_deo_volente, de_appel).
 exhibited_at(video_times, ikon_gallery_birmingham).
 exhibited_at(video_void, the_kitchen).
+exhibited_at(videokalos, second_house_bbc).
 exhibited_at(wavelength, arts_lab).
 exhibited_at(what_the_eye_doesn_t_see_post_industrial_studies_number_1, river_crossings_with_camerawork).
 exhibited_at(whats_it_to_you, third_eye_centre).

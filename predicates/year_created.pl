@@ -2,6 +2,7 @@
 % See metadata/extraction.json for source provenance and candidates/evidence for supporting quotes.
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 year_created(about_time_at_the_ica_1980, @1980).
+year_created(brewing, @1984).
 year_created(celtic_in_mind, @1989).
 year_created(changing, @1973).
 year_created(compass, @1984).
@@ -34,6 +35,7 @@ year_created(time_check, @1971).
 year_created(time_spent, "while Judith Goddard was at Royal College").
 year_created(vertical_roll, @1973).
 year_created(vi_deo_volente, @1985).
+year_created(videokalos, @1975).
 year_created(visual_research_centre_in_dundee_contemporary_arts, @2004).
 year_created(whats_it_to_you, @1975).
 year_created(zero_reaches_zeno, @1975).

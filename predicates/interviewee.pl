@@ -8,4 +8,5 @@ interviewee(rewind_judith_goddard_interview, judith_goddard).
 interviewee(rewind_kevin_atherton_interview, kevin_atherton).
 interviewee(rewind_madelon_hooykaas_interview, madelon_hooykaas).
 interviewee(rewind_mike_stubbs_interview, mike_stubbs).
+interviewee(rewind_peter_donebauer_interview, peter_donebauer).
 interviewee(rewind_rose_garrard_interview, rose_garrard).

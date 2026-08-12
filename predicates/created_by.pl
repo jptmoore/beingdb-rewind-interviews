@@ -12,6 +12,7 @@ created_by(audio_video_installations_catalogue, josine_van_droffelaar).
 created_by(automotive_action_painting, george_barber).
 created_by(behind_the_veil, eve_arnold).
 created_by(between_the_lines, rose_garrard).
+created_by(brewing, peter_donebauer).
 created_by(brixton_pieces, kevin_atherton).
 created_by(celtic_in_mind, rose_garrard).
 created_by(changing, david_critchley).
@@ -28,6 +29,7 @@ created_by(deep_looking, madelon_hooykaas).
 created_by(descry, judith_goddard).
 created_by(electron, judith_goddard).
 created_by(elsas_article_on_memory, elsa_stansfield).
+created_by(entering, peter_donebauer).
 created_by(field_free_space, elsa_stansfield).
 created_by(field_free_space, madelon_hooykaas).
 created_by(flying_time, elsa_stansfield).
@@ -53,6 +55,7 @@ created_by(lva_london_video_arts, david_hall).
 created_by(lyrical_doubt, judith_goddard).
 created_by(magnetic_north, elsa).
 created_by(magnetic_north, madelon_hooykaas).
+created_by(mandala, peter_donebauer).
 created_by(minutiae, george_barber).
 created_by(mirror, judith_goddard).
 created_by(monologues, george_barber).
@@ -122,6 +125,7 @@ created_by(vi_deo_volente, madelon_hooykaas).
 created_by(video_times, kevin_atherton).
 created_by(video_void, elsa).
 created_by(video_void, madelon_hooykaas).
+created_by(videokalos, peter_donebauer).
 created_by(waiter_there_is_a_fly_on_my_wall, mike_stubbs).
 created_by(walking_off_court, george_barber).
 created_by(what_the_eye_doesn_t_see_post_industrial_studies_number_1, joanna_millet).

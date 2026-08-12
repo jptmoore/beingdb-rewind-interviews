@@ -2,3 +2,6 @@
 % See metadata/extraction.json for source provenance and candidates/evidence for supporting quotes.
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 influenced_by(museum_of_memory_1, "visit to Hiroshima and the connection of the monitor sending out electro-magnetic radiation").
+influenced_by(peter_donebauer, hans_jenning).
+influenced_by(peter_donebauer, kandinsky).
+influenced_by(peter_donebauer, turner).

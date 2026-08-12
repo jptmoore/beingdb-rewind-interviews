@@ -147,6 +147,32 @@
       "droppedFactCount": 0,
       "warnings": []
     },
+    "peter_donebauer": {
+      "id": "peter_donebauer",
+      "documentId": "rewind_peter_donebauer_interview",
+      "sourceUrl": "https://rewind.ac.uk/rewind/wp-content/uploads/sites/146/2021/03/PD504.pdf",
+      "sourceChecksum": "5ece116bbae5e3d4161e6eb3705f79ff75939ab21a5500667c409f90d0c6b42b",
+      "extractedAt": "2026-08-12T11:43:34.694Z",
+      "model": "gpt-4.1",
+      "pipelineVersion": "1",
+      "chunkCount": 4,
+      "factCount": 114,
+      "droppedFactCount": 4,
+      "warnings": [
+        "uses_medium argument 1: coerced string \"colour video\" to atom colour_video to match existing atom-typed facts for this predicate/position",
+        "uses_medium argument 1: coerced string \"vision mixer\" to atom vision_mixer to match existing atom-typed facts for this predicate/position",
+        "uses_medium argument 1: coerced string \"digital sound sampling\" to atom digital_sound_sampling to match existing atom-typed facts for this predicate/position",
+        "uses_medium argument 1: coerced string \"documentary footage\" to atom documentary_footage to match existing atom-typed facts for this predicate/position",
+        "uses_medium argument 1: coerced string \"digital processing\" to atom digital_processing to match existing atom-typed facts for this predicate/position",
+        "uses_medium argument 1: coerced string \"analogue feedback\" to atom analogue_feedback to match existing atom-typed facts for this predicate/position",
+        "uses_medium argument 1: coerced string \"digital feedback\" to atom digital_feedback to match existing atom-typed facts for this predicate/position",
+        "employed_by argument 1: coerced string \"colleges\" to atom colleges to match existing atom-typed facts for this predicate/position",
+        "dropped affiliated_with(peter_donebauer, goldsmiths).: confidence=uncertain",
+        "dropped exhibited_at(struggling, arena).: confidence=uncertain",
+        "dropped organisation(goldsmiths).: confidence=uncertain",
+        "dropped work(struggling).: confidence=uncertain"
+      ]
+    },
     "rose_garrard": {
       "id": "rose_garrard",
       "documentId": "rewind_rose_garrard_interview",

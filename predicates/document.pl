@@ -8,4 +8,5 @@ document(rewind_judith_goddard_interview).
 document(rewind_kevin_atherton_interview).
 document(rewind_madelon_hooykaas_interview).
 document(rewind_mike_stubbs_interview).
+document(rewind_peter_donebauer_interview).
 document(rewind_rose_garrard_interview).

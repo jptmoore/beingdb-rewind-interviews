@@ -3,6 +3,7 @@
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 exhibition(about_time_at_the_ica_1980).
 exhibition(about_time).
+exhibition(arena).
 exhibition(ave_festival_in_holland).
 exhibition(baltic).
 exhibition(berlin_events).
@@ -23,6 +24,7 @@ exhibition(luminous_image).
 exhibition(malvern_well_dressing_festival).
 exhibition(miami_basel).
 exhibition(montreal_videotapes_retrospective_1988).
+exhibition(musica).
 exhibition(netherlands_representation_in_south_korea_2005).
 exhibition(not_just_another_art_show).
 exhibition(one_artist_one_day).
@@ -31,6 +33,7 @@ exhibition(primary_structures_1966).
 exhibition(retrospective_festivals).
 exhibition(river_crossings_with_camerawork).
 exhibition(root_festival).
+exhibition(second_house_bbc).
 exhibition(serpentine_show_1975).
 exhibition(show_at_de_appel_foundation).
 exhibition(show_at_whitechapel_art_gallery).

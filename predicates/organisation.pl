@@ -19,6 +19,7 @@ organisation(arts_council).
 organisation(arts_lab).
 organisation(association_of_cinematographic_and_television_technicians).
 organisation(association_of_video_artists_in_the_netherlands).
+organisation(atv).
 organisation(audio_arts).
 organisation(avid_express_dv).
 organisation(avid).
@@ -33,6 +34,7 @@ organisation(birmingham_film_coop).
 organisation(brighton).
 organisation(british_airways).
 organisation(british_council).
+organisation(british_film_institute_bfi).
 organisation(british_film_institute).
 organisation(british_rail).
 organisation(buddhist_broadcast_corporation).
@@ -56,6 +58,7 @@ organisation(coventry).
 organisation(dartington).
 organisation(de_appel_foundation).
 organisation(de_appel).
+organisation(diverse).
 organisation(dublin).
 organisation(duncan_of_jordanstone_college_of_art_and_design).
 organisation(duncan_of_jordanstone_college_of_art).
@@ -65,6 +68,8 @@ organisation(ealing_school_of_art).
 organisation(ealing_school).
 organisation(ealing).
 organisation(education_department).
+organisation(emi).
+organisation(ems).
 organisation(european_conservation_project).
 organisation(fact).
 organisation(fantasy_factory).
@@ -165,6 +170,7 @@ organisation(sheffield).
 organisation(slade_school_of_art).
 organisation(slade_school_of_fine_art).
 organisation(slade).
+organisation(soft_machine).
 organisation(sony).
 organisation(st_martins).
 organisation(stedelijk_museum_amsterdam).
@@ -189,6 +195,7 @@ organisation(ucca_at_canterbury).
 organisation(ucca_at_epsom).
 organisation(ucca_at_farnham).
 organisation(v2).
+organisation(vamp_video_and_music_performers).
 organisation(victoria_miro).
 organisation(video_artists_on_tour).
 organisation(video_positive).

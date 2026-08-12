@@ -19,6 +19,7 @@ person(anthony_earnshaw).
 person(barbara_gladstone).
 person(barbara_steveni).
 person(barry_flanagan).
+person(barry_guy).
 person(belinda_williams).
 person(bev).
 person(beverly_bytheway).
@@ -34,6 +35,7 @@ person(bruce_lacey).
 person(bruce_mclean).
 person(candice_breitz).
 person(carl_craig).
+person(carl_jenkins).
 person(chantal_dupont).
 person(charles_asher).
 person(charlie_hooker).
@@ -54,6 +56,7 @@ person(david_cunningham).
 person(david_curtis).
 person(david_dye).
 person(david_garcia).
+person(david_graham).
 person(david_hall).
 person(david_larcher).
 person(david_shea).
@@ -108,6 +111,7 @@ person(jasia_reichardt).
 person(jeff_edwards).
 person(jeffrey_hinton).
 person(jeffrey_shaw).
+person(jeremy_isaacs).
 person(jez_welsh).
 person(joan_jonas).
 person(joanna_millet).
@@ -130,6 +134,7 @@ person(josine_van_drofelaar).
 person(josine_van_droffelaar).
 person(judith_goddard).
 person(julian_petley).
+person(kandinsky).
 person(keith_frake).
 person(kerry_trengove).
 person(kev_fraser).
@@ -137,7 +142,9 @@ person(kevin_atherton).
 person(kim_flitcroft).
 person(kipper_kids).
 person(lar_lubovitch).
+person(lawrence_cassley).
 person(lesley_greene).
+person(lew_grade).
 person(liz_leigh).
 person(luca_cumani).
 person(luis_andrews).
@@ -165,10 +172,13 @@ person(mick_hartney).
 person(mik_flood).
 person(mike_jennings).
 person(mike_o_pray).
+person(mike_ratlidge).
+person(mike_ray).
 person(mike_snow_michael_snow).
 person(mike_stubbs).
 person(nam_june_paik).
 person(nick_serota).
+person(parish_chakraborti).
 person(pascal_gabriel).
 person(patricia_holland).
 person(paul_burwell).
@@ -178,13 +188,17 @@ person(pete_livingstone).
 person(peter_anderson).
 person(peter_boyd_mclean).
 person(peter_cardier).
+person(peter_donebauer).
+person(peter_gidal).
 person(peter_kardia).
 person(phil_cosca).
 person(philip_glass).
+person(reg_clough).
 person(remmy_onglala).
 person(richard_baker).
 person(richard_cork).
 person(richard_hamilton).
+person(richard_monkhouse).
 person(richard_prince).
 person(richard_serra).
 person(rita_donagh).
@@ -212,9 +226,14 @@ person(sarah_kent).
 person(sean_cubitt).
 person(shigeko_kubota).
 person(sian_edwards).
+person(simon_desorger).
+person(simon_monkhouse).
+person(simon_stool).
 person(simon_thorne).
+person(simon).
 person(stephen_partridge).
 person(stephen_willats).
+person(steve_dwoskin).
 person(steve_foster).
 person(steve_littman).
 person(steve_partridge).
@@ -238,6 +257,7 @@ person(tony_kirkhope).
 person(tony_sinden).
 person(tony_stokes).
 person(tracey_emin).
+person(turner).
 person(u2).
 person(ulf_langheinrich).
 person(ulrike_rosenbach).

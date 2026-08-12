@@ -1,0 +1,800 @@
+[
+  {
+    "fact": "person(peter_donebauer).",
+    "source": "peter_donebauer",
+    "evidence": "Interview with Peter Donebauer",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(emerging).",
+    "source": "peter_donebauer",
+    "evidence": "the beginning and end of the first period was probably Entering and Merging Emerging",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(entering).",
+    "source": "peter_donebauer",
+    "evidence": "the beginning and end of the first period was probably Entering and Merging Emerging",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(merging).",
+    "source": "peter_donebauer",
+    "evidence": "the beginning and end of the first period was probably Entering and Merging Emerging",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(water_cycle).",
+    "source": "peter_donebauer",
+    "evidence": "...something I did for EMI called Water Cycle.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(emi).",
+    "source": "peter_donebauer",
+    "evidence": "...something I did for EMI called Water Cycle.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(brewing).",
+    "source": "peter_donebauer",
+    "evidence": "...something when I was first at Diverse called Brewing which was important...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(diverse).",
+    "source": "peter_donebauer",
+    "evidence": "...something when I was first at Diverse called Brewing which was important...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(mandala).",
+    "source": "peter_donebauer",
+    "evidence": "and then Mandala which was probably very important because it’s the latest...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(in_earnest).",
+    "source": "peter_donebauer",
+    "evidence": "...it was done very spontaneously called In Earnest",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(royal_college_of_art).",
+    "source": "peter_donebauer",
+    "evidence": "...I was at the RCA there was no video there was just film...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(atv).",
+    "source": "peter_donebauer",
+    "evidence": "they’d just been given a colour studio from Lew Grade at ATV in Birmingham",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(birmingham).",
+    "source": "peter_donebauer",
+    "evidence": "they’d just been given a colour studio from Lew Grade at ATV in Birmingham",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(simon_desorger).",
+    "source": "peter_donebauer",
+    "evidence": "my fellow performer Simon Desorger who I worked with for many years",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(lew_grade).",
+    "source": "peter_donebauer",
+    "evidence": "they’d just been given a colour studio from Lew Grade at ATV in Birmingham",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(steve_dwoskin).",
+    "source": "peter_donebauer",
+    "evidence": "It wasn’t until my last year until Steve Dwoskin and Peter Gidal joined,",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(peter_gidal).",
+    "source": "peter_donebauer",
+    "evidence": "It wasn’t until my last year until Steve Dwoskin and Peter Gidal joined,",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "educated_at(peter_donebauer, royal_college_of_art).",
+    "source": "peter_donebauer",
+    "evidence": "I was at the Royal College from the autumn of ‘70 until the summer of ’73",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(peter_donebauer, simon_desorger).",
+    "source": "peter_donebauer",
+    "evidence": "my fellow performer Simon Desorger who I worked with for many years",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "used_institutional_resource(peter_donebauer, royal_college_of_art).",
+    "source": "peter_donebauer",
+    "evidence": "I was at the Royal College from the autumn of ‘70 until the summer of ’73, so portapaks came into the college in the summer of ’71...I would have used the colour studio from the autumn of that year through to the next year, ’72 to ’73...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "used_technology(peter_donebauer, \"monochrome portapak\").",
+    "source": "peter_donebauer",
+    "evidence": "The very first thing I did which wasn’t a finished piece was I experimented with a monochrome portapak",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "used_technology(peter_donebauer, \"black and white portapak\").",
+    "source": "peter_donebauer",
+    "evidence": "did quite a lot of experiments with a black and white portapak during my second year at the Royal College",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "used_technology(peter_donebauer, \"colour studio\").",
+    "source": "peter_donebauer",
+    "evidence": "the Royal College was given it ...That was the start of it really I got my devices and my fellow performer Simon Desorger ... very quickly turned into what some journalists dubbed ‘electronic painting’ because I was able partly with the mechanical device the transducer device, and partly by manipulating the controls of the colour studio I was able to paint and create different effects patterns, shapes colours hues",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "used_technology(peter_donebauer, \"mechanical transducer device\").",
+    "source": "peter_donebauer",
+    "evidence": "I was able partly with the mechanical device the transducer device, and partly by manipulating the controls of the colour studio I was able to paint and create different effects patterns, shapes colours hues",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "influenced_by(peter_donebauer, hans_jenning).",
+    "source": "peter_donebauer",
+    "evidence": "it was influenced by a man called Hans Jenning, who experimented with vibrating water films",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "year_started_using_technology(peter_donebauer, \"portapaks\").",
+    "source": "peter_donebauer",
+    "evidence": "portapaks came into the college in the summer of ’71, so I first started using those in the autumn of ’71 through ’72",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "year_started_using_technology(peter_donebauer, \"colour studio\").",
+    "source": "peter_donebauer",
+    "evidence": "...I would have used the colour studio from the autumn of that year through to the next year, ’72 to ’73...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(reg_clough).",
+    "source": "peter_donebauer",
+    "evidence": "lovely man called Reg Clough who died many years ago... he loved it I think he’d come from Marconi or somewhere, he’d come from an engineering background to run this television studio",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(bbc).",
+    "source": "peter_donebauer",
+    "evidence": "the Degree show was picked up by a producer from the BBC",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(arts_council).",
+    "source": "peter_donebauer",
+    "evidence": "I was being funded by the Arts Council at that point",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(british_film_institute_bfi).",
+    "source": "peter_donebauer",
+    "evidence": "then the next year ’75, the BFI funded me for two years and it was definitely the first time they’d funded video",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(gulbenkian_foundation).",
+    "source": "peter_donebauer",
+    "evidence": "I was the first person to be Gulbenkian Foundation funded",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibition(second_house_bbc).",
+    "source": "peter_donebauer",
+    "evidence": "it was called Second House, it had Alan Yentob he was the main executive, Melvyn Bragg who was the presenter on it",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(videokalos).",
+    "source": "peter_donebauer",
+    "evidence": "And this would be the Videokalos? PD: Which I’m sitting next to....this is the only version that’s surviving to my knowledge.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(ems).",
+    "source": "peter_donebauer",
+    "evidence": "he worked for a company called EMS who built sound synthesisers, they’re the British equivalent of Moog.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(richard_monkhouse).",
+    "source": "peter_donebauer",
+    "evidence": "it was the combination of that and bumping into an electronic engineer called Richard Monkhouse, he worked for a company called EMS who built sound synthesisers",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(parish_chakraborti).",
+    "source": "peter_donebauer",
+    "evidence": "My Indian mentor who I should mention, Parish Chakraborti he spent many years in his youth in a seminary in the Himalayas, steeped in Hindu Buddist Tantric practices, he just loved it",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "employed_by(reg_clough, royal_college_of_art).",
+    "source": "peter_donebauer",
+    "evidence": "he’d come from an engineering background to run this television studio",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "funded_by(peter_donebauer, arts_council).",
+    "source": "peter_donebauer",
+    "evidence": "I was being funded by the Arts Council at that point",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "funded_by(peter_donebauer, bbc).",
+    "source": "peter_donebauer",
+    "evidence": "’74 I had the BBC commission",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "funded_by(peter_donebauer, british_film_institute_bfi).",
+    "source": "peter_donebauer",
+    "evidence": "the next year ’75, the BFI funded me for two years",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "funded_by(peter_donebauer, gulbenkian_foundation).",
+    "source": "peter_donebauer",
+    "evidence": "I was the first person to be Gulbenkian Foundation funded",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "funded_by(peter_donebauer, emi).",
+    "source": "peter_donebauer",
+    "evidence": "I was commissioned by EMI after that",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "year_created(videokalos, @1975).",
+    "source": "peter_donebauer",
+    "evidence": "then the next year ’75, the BFI funded me for two years and it was definitely the first time they’d funded video...it came out of these various threads that I decided I would try and build something that would liberated me from colour studio...",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "uses_medium(videokalos, colour_video).",
+    "source": "peter_donebauer",
+    "evidence": "it synthesises colour essentially...and then its got a very complex keying panel in the middle with multi channel keying",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "uses_medium(videokalos, vision_mixer).",
+    "source": "peter_donebauer",
+    "evidence": "at the back end it’s a vision mixer fairly like a standard vision mixer as well",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "created_by(videokalos, peter_donebauer).",
+    "source": "peter_donebauer",
+    "evidence": "I would try and build something that would liberated me from colour studio and brought all the elements of what I found to be important to image making into a device",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(peter_donebauer, richard_monkhouse).",
+    "source": "peter_donebauer",
+    "evidence": "it was the combination of that and bumping into an electronic engineer called Richard Monkhouse, he worked for a company called EMS who built sound synthesisers",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "affiliated_with(richard_monkhouse, ems).",
+    "source": "peter_donebauer",
+    "evidence": "he worked for a company called EMS who built sound synthesisers",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(videokalos, second_house_bbc).",
+    "source": "peter_donebauer",
+    "evidence": "So he was thinking of broadcasting it as an artwork? PD: Yes ... it was called Second House",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "mentor_of(parish_chakraborti, peter_donebauer).",
+    "source": "peter_donebauer",
+    "evidence": "My Indian mentor who I should mention, Parish Chakraborti...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(vamp_video_and_music_performers).",
+    "source": "peter_donebauer",
+    "evidence": "I decided to form a live band, group, called VAMP (video and music performers), an acronym.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(simon_monkhouse).",
+    "source": "peter_donebauer",
+    "evidence": "Simon (Monkhouse) as a performer was always interested in doing that...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(simon_stool).",
+    "source": "peter_donebauer",
+    "evidence": "with good musicians, Simon Stool, works with Lawrence Cassley...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(lawrence_cassley).",
+    "source": "peter_donebauer",
+    "evidence": "Simon Stool, works with Lawrence Cassley...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(barry_guy).",
+    "source": "peter_donebauer",
+    "evidence": "people like Barry Guy who is well known on double bass a well known jazz improviser.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(ica_institute_of_contemporary_arts).",
+    "source": "peter_donebauer",
+    "evidence": "We sold out we did things at the ICA and the Ikon in Birmingham...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(ikon_gallery_birmingham).",
+    "source": "peter_donebauer",
+    "evidence": "We sold out we did things at the ICA and the Ikon in Birmingham...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibition(musica).",
+    "source": "peter_donebauer",
+    "evidence": "it was interesting you see because it was the music director who put it on, it was part of MusICA ...within a music context.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(royal_college).",
+    "source": "peter_donebauer",
+    "evidence": "Brewing, which I did at the Royal college...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(hook_norton_brewery).",
+    "source": "peter_donebauer",
+    "evidence": "we visited this wonderful amazing brewery called Hook Norton brewery in Oxfordshire...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(channel_4).",
+    "source": "peter_donebauer",
+    "evidence": "I did try quite hard and should have been in a position to persuade someone like Channel 4 to fund me but I couldn’t get funding.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "created_by(brewing, peter_donebauer).",
+    "source": "peter_donebauer",
+    "evidence": "one that I’ve said was important Brewing, which I did at the Royal college...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "created_by(mandala, peter_donebauer).",
+    "source": "peter_donebauer",
+    "evidence": "My only real use of digital was with Mandala...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "created_by(entering, peter_donebauer).",
+    "source": "peter_donebauer",
+    "evidence": "classically Entering is about birth...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(peter_donebauer, simon_monkhouse).",
+    "source": "peter_donebauer",
+    "evidence": "Simon (Monkhouse) as a performer was always interested in doing that...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(peter_donebauer, lawrence_cassley).",
+    "source": "peter_donebauer",
+    "evidence": "works with Lawrence Cassley people like Barry Guy...",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(peter_donebauer, barry_guy).",
+    "source": "peter_donebauer",
+    "evidence": "works with Lawrence Cassley people like Barry Guy...",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "performed_at(vamp_video_and_music_performers, ica_institute_of_contemporary_arts).",
+    "source": "peter_donebauer",
+    "evidence": "we did things at the ICA...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "performed_at(vamp_video_and_music_performers, ikon_gallery_birmingham).",
+    "source": "peter_donebauer",
+    "evidence": "we did things at the ICA and the Ikon in Birmingham...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(vamp_video_and_music_performers, musica).",
+    "source": "peter_donebauer",
+    "evidence": "it was the music director who put it on, it was part of MusICA ...within a music context.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "performed_at(brewing, royal_college).",
+    "source": "peter_donebauer",
+    "evidence": "Brewing, which I did at the Royal college...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "filmed_at(brewing, hook_norton_brewery).",
+    "source": "peter_donebauer",
+    "evidence": "Hook Norton brewery in Oxfordshire,...I thought it would be great to document that process...I shot the material in a documentary fashion...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "year_created(brewing, @1984).",
+    "source": "peter_donebauer",
+    "evidence": "We were then mid eighties, eighty four, the way we did that...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "uses_medium(brewing, digital_sound_sampling).",
+    "source": "peter_donebauer",
+    "evidence": "the sound was recorded digitally which was very unusual those days, it was '84 and even more unusually we sampled it, it was very early sampling...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "uses_medium(brewing, documentary_footage).",
+    "source": "peter_donebauer",
+    "evidence": "the way we did that we normal documentary footage...visual elements...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "uses_medium(mandala, digital_processing).",
+    "source": "peter_donebauer",
+    "evidence": "My only real use of digital was with Mandala, which was over 10 years ago now, where I used digital processing to produce base images...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "uses_medium(mandala, analogue_feedback).",
+    "source": "peter_donebauer",
+    "evidence": "but most things beyond that were done with analogue, there’s a mixture of analogue, and digital feedback...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "uses_medium(mandala, digital_feedback).",
+    "source": "peter_donebauer",
+    "evidence": "there’s a mixture of analogue, and digital feedback...I was using digital processing in the post production suite...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "employed_by(peter_donebauer, colleges).",
+    "source": "peter_donebauer",
+    "evidence": "VAMP came along later after Videokalos, once I got that and had been working in colleges and doing demonstrations...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "funded_by(peter_donebauer, bfi).",
+    "source": "peter_donebauer",
+    "evidence": "I got funded then immediately for two years by the BFI",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "funded_by(peter_donebauer, diverse).",
+    "source": "peter_donebauer",
+    "evidence": "I got funded when I was at Diverse, to do a Holography bursary",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "affiliated_with(peter_donebauer, royal_college_of_art).",
+    "source": "peter_donebauer",
+    "evidence": "the Royal College of art were very supportive",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "affiliated_with(peter_donebauer, diverse).",
+    "source": "peter_donebauer",
+    "evidence": "I got funded when I was at Diverse, to do a Holography bursary",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "commissioned_by(peter_donebauer, emi).",
+    "source": "peter_donebauer",
+    "evidence": "I came up with a concept that EMI liked and they commissioned me.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(peter_donebauer, carl_jenkins).",
+    "source": "peter_donebauer",
+    "evidence": "they partnered me with Carl Jenkins and Mike Ratlidge who were remnants of a band called Soft Machine",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(peter_donebauer, mike_ratlidge).",
+    "source": "peter_donebauer",
+    "evidence": "they partnered me with Carl Jenkins and Mike Ratlidge who were remnants of a band called Soft Machine",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(peter_donebauer, simon).",
+    "source": "peter_donebauer",
+    "evidence": "Absolutely with Simon as I say because it was performed",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "performed_at(peter_donebauer, biddick_farm).",
+    "source": "peter_donebauer",
+    "evidence": "Brian Hoey who I’ve mentioned performed with me up at Biddick Farm with one of the early VAMP performances but he played the guitar",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(peter_donebauer, brian_hoey).",
+    "source": "peter_donebauer",
+    "evidence": "Brian Hoey who I’ve mentioned performed with me up at Biddick Farm with one of the early VAMP performances but he played the guitar",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(peter_donebauer, reg_clough).",
+    "source": "peter_donebauer",
+    "evidence": "Reg Clough I’ve mentioned",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(peter_donebauer, mike_ray).",
+    "source": "peter_donebauer",
+    "evidence": "Mike Ray who was a later engineer at the Royal College, briefly was an engineer at Diverse and who edited and did the music on Mandala.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "edited_by(mandala, mike_ray).",
+    "source": "peter_donebauer",
+    "evidence": "Mike Ray...who edited and did the music on Mandala.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "music_by(mandala, mike_ray).",
+    "source": "peter_donebauer",
+    "evidence": "Mike Ray...who edited and did the music on Mandala.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "curated_by(arena, mark_kidel).",
+    "source": "peter_donebauer",
+    "evidence": "Mark Kidel was absolutely crucial at that point, my work was broadcast along with some other artists by Mark Kidel and Anna Ridley. An Arena programme it was ’75 or ’76",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "curated_by(arena, anna_ridley).",
+    "source": "peter_donebauer",
+    "evidence": "my work was broadcast along with some other artists by Mark Kidel and Anna Ridley. An Arena programme it was ’75 or ’76",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "influenced_by(peter_donebauer, kandinsky).",
+    "source": "peter_donebauer",
+    "evidence": "Kandinsky was incredibly important. I always liked Turner he was trying to paint light, by the end of his days he wasn’t painting subjects he was painting light.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "influenced_by(peter_donebauer, turner).",
+    "source": "peter_donebauer",
+    "evidence": "I always liked Turner he was trying to paint light, by the end of his days he wasn’t painting subjects he was painting light.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(bfi).",
+    "source": "peter_donebauer",
+    "evidence": "I got funded then immediately for two years by the BFI",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(soft_machine).",
+    "source": "peter_donebauer",
+    "evidence": "they partnered me with Carl Jenkins and Mike Ratlidge who were remnants of a band called Soft Machine",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(carl_jenkins).",
+    "source": "peter_donebauer",
+    "evidence": "they partnered me with Carl Jenkins and Mike Ratlidge",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(mike_ratlidge).",
+    "source": "peter_donebauer",
+    "evidence": "they partnered me with Carl Jenkins and Mike Ratlidge",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(david_graham).",
+    "source": "peter_donebauer",
+    "evidence": "A BBC producer called David Graham had taken time out from Panorama",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(jeremy_isaacs).",
+    "source": "peter_donebauer",
+    "evidence": "Jeremy Isaacs who ran Channel 4 rang David up and said “we’ve been looking for someone to make an alternative news programme...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(mark_kidel).",
+    "source": "peter_donebauer",
+    "evidence": "Mark Kidel was absolutely crucial at that point, my work was broadcast along with some other artists by Mark Kidel and Anna Ridley.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(anna_ridley).",
+    "source": "peter_donebauer",
+    "evidence": "my work was broadcast along with some other artists by Mark Kidel and Anna Ridley.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(kandinsky).",
+    "source": "peter_donebauer",
+    "evidence": "I was very struck by Kandinsky, because he was the first person to really paint abstract pictures in the world.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(turner).",
+    "source": "peter_donebauer",
+    "evidence": "I always liked Turner he was trying to paint light, by the end of his days he wasn’t painting subjects he was painting light.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(simon).",
+    "source": "peter_donebauer",
+    "evidence": "Absolutely with Simon as I say because it was performed, not really with visual artists, Brian Hoey who I’ve mentioned performed with me up at Biddick Farm",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(brian_hoey).",
+    "source": "peter_donebauer",
+    "evidence": "Brian Hoey who I’ve mentioned performed with me up at Biddick Farm",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(mike_ray).",
+    "source": "peter_donebauer",
+    "evidence": "Mike Ray who was a later engineer at the Royal College, briefly was an engineer at Diverse and who edited and did the music on Mandala.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(vamp).",
+    "source": "peter_donebauer",
+    "evidence": "one of the early VAMP performances",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibition(arena).",
+    "source": "peter_donebauer",
+    "evidence": "An Arena programme it was ’75 or ’76 about two years after my broadcast, it was an Arena programme",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(biddick_farm).",
+    "source": "peter_donebauer",
+    "evidence": "Brian Hoey who I’ve mentioned performed with me up at Biddick Farm",
+    "confidence": "explicit",
+    "page": null
+  }
+]

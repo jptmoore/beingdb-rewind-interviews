@@ -22,6 +22,7 @@ venue(bergin).
 venue(berlin).
 venue(berwick_street_office).
 venue(biddick_farm).
+venue(birmingham).
 venue(blue_coat_gallery).
 venue(botanical_garden_in_montreal).
 venue(bricklayers_arms).
@@ -59,6 +60,8 @@ venue(great_malvern).
 venue(hayward_gallery).
 venue(hayward).
 venue(herbert_art_gallery).
+venue(hook_norton_brewery).
+venue(ica_institute_of_contemporary_arts).
 venue(ica_london).
 venue(ica_the_mall).
 venue(ica_theatre).
@@ -102,6 +105,7 @@ venue(richmond_park).
 venue(rosebery_avenue).
 venue(rosemary_gallery).
 venue(rotterdam).
+venue(royal_college).
 venue(sauchiehall_street).
 venue(serpentine_gallery).
 venue(shepherds_bush).

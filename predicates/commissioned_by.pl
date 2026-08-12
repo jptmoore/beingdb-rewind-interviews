@@ -4,6 +4,7 @@
 commissioned_by(homing, bbc).
 commissioned_by(luminous_portrait, bbc).
 commissioned_by(luminous_portrait, late_show).
+commissioned_by(peter_donebauer, emi).
 commissioned_by(reservoir, john_hansard_gallery).
 commissioned_by(rose_garrard, great_malvern).
 commissioned_by(television_interview, arts_council_of_great_britain).

@@ -26,6 +26,8 @@ employed_by(malcolm_le_grice, saint_martins).
 employed_by(mike_stubbs, australian_centre_for_the_moving_image).
 employed_by(pascal_gabriel, s_express).
 employed_by(peter_cardier, royal_college).
+employed_by(peter_donebauer, colleges).
+employed_by(reg_clough, royal_college_of_art).
 employed_by(rose_garrard, corydon_college_of_art).
 employed_by(rose_garrard, dartington).
 employed_by(rose_garrard, reading_university).

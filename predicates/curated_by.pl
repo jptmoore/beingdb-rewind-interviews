@@ -2,6 +2,8 @@
 % See metadata/extraction.json for source provenance and candidates/evidence for supporting quotes.
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 curated_by(about_time_at_the_ica_1980, rose_garrard).
+curated_by(arena, anna_ridley).
+curated_by(arena, mark_kidel).
 curated_by(great_malvern, rose_garrard).
 curated_by(locations_edinburgh, alistair_macintosh).
 curated_by(luminous_image_show, elsa_stansfield).

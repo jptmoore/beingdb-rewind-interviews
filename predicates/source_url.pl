@@ -8,4 +8,5 @@ source_url(rewind_judith_goddard_interview, "https://rewind.ac.uk/rewind/wp-cont
 source_url(rewind_kevin_atherton_interview, "https://rewind.ac.uk/rewind/wp-content/uploads/sites/146/2021/03/KAT510.pdf").
 source_url(rewind_madelon_hooykaas_interview, "https://rewind.ac.uk/rewind/wp-content/uploads/sites/146/2021/03/ESMH510.pdf").
 source_url(rewind_mike_stubbs_interview, "https://rewind.ac.uk/rewind/wp-content/uploads/sites/146/2021/03/MS510.pdf").
+source_url(rewind_peter_donebauer_interview, "https://rewind.ac.uk/rewind/wp-content/uploads/sites/146/2021/03/PD504.pdf").
 source_url(rewind_rose_garrard_interview, "https://rewind.ac.uk/rewind/wp-content/uploads/sites/146/2021/03/RG510.pdf").

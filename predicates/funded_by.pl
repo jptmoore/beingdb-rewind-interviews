@@ -21,6 +21,13 @@ funded_by(mike_stubbs, arts_council).
 funded_by(mike_stubbs, bbc).
 funded_by(mike_stubbs, channel_4).
 funded_by(mike_stubbs, s4c).
+funded_by(peter_donebauer, arts_council).
+funded_by(peter_donebauer, bbc).
+funded_by(peter_donebauer, bfi).
+funded_by(peter_donebauer, british_film_institute_bfi).
+funded_by(peter_donebauer, diverse).
+funded_by(peter_donebauer, emi).
+funded_by(peter_donebauer, gulbenkian_foundation).
 funded_by(pharmacopoeia, wellcome_foundation).
 funded_by(revision, buddhist_broadcasting_foundation).
 funded_by(taxi_driver_ii, channel_4).
