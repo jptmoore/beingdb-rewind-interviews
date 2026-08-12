@@ -26,5 +26,12 @@
     "url": "https://rewind.ac.uk/rewind/wp-content/uploads/sites/146/2021/03/DH510.pdf",
     "documentId": "rewind_david_hall_interview",
     "personId": "david_hall"
+  },
+  {
+    "id": "rose_garrard",
+    "name": "Rose Garrard",
+    "url": "https://rewind.ac.uk/rewind/wp-content/uploads/sites/146/2021/03/RG510.pdf",
+    "documentId": "rewind_rose_garrard_interview",
+    "personId": "rose_garrard"
   }
 ]
