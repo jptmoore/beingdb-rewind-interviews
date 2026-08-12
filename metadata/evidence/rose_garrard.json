@@ -1,0 +1,1276 @@
+[
+  {
+    "fact": "person(rose_garrard).",
+    "source": "rose_garrard",
+    "evidence": "Interview with Rose Garrard",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "venue(acme_gallery).",
+    "source": "rose_garrard",
+    "evidence": "My first one-person show was at the ACME Gallery in 1977",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "work(incidents_in_a_garden).",
+    "source": "rose_garrard",
+    "evidence": "Was that Incidents in a Garden? RG: Yes. I worked a deliberately tedious performance.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "work(tumble_frame).",
+    "source": "rose_garrard",
+    "evidence": "Some of the work that I did with Anna Ridley, Tumble Frame for instance was a very ambitious work for television.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(anna_ridley).",
+    "source": "rose_garrard",
+    "evidence": "Some of the work that I did with Anna Ridley, Tumble Frame for instance was a very ambitious work for television.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "exhibited_at(incidents_in_a_garden, acme_gallery).",
+    "source": "rose_garrard",
+    "evidence": "My first one-person show was at the ACME Gallery in 1977, and the first black-and-white reel-to-reel that I ever made was for that show...MW: Was that Incidents in a Garden? RG: Yes.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "year_created(incidents_in_a_garden, @1977).",
+    "source": "rose_garrard",
+    "evidence": "My first one-person show was at the ACME Gallery in 1977...Was that Incidents in a Garden? RG: Yes.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "uses_medium(incidents_in_a_garden, black_and_white_reel_to_reel_tape).",
+    "source": "rose_garrard",
+    "evidence": "the first black-and-white reel-to-reel that I ever made was for that show.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "uses_medium(incidents_in_a_garden, performance).",
+    "source": "rose_garrard",
+    "evidence": "Was that Incidents in a Garden? RG: Yes. I worked a deliberately tedious performance.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "uses_medium(incidents_in_a_garden, ventriloquist_dummies).",
+    "source": "rose_garrard",
+    "evidence": "So, I had a Hitler and Churchill ventriloquist dummy on each of them and I’d explore their characters and personalities as artists or as would be artists.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "created_by(incidents_in_a_garden, rose_garrard).",
+    "source": "rose_garrard",
+    "evidence": "Was that Incidents in a Garden? RG: Yes.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "created_by(tumble_frame, rose_garrard).",
+    "source": "rose_garrard",
+    "evidence": "Some of the work that I did with Anna Ridley, Tumble Frame for instance was a very ambitious work for television.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "created_by(tumble_frame, anna_ridley).",
+    "source": "rose_garrard",
+    "evidence": "Tumble Frame for instance was a very ambitious work for television...and Anna produced.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "work(about_time_at_the_ica_1980).",
+    "source": "rose_garrard",
+    "evidence": "...looking at the show of time-based work, which eventually became About Time at the ICA, which I curated. That was 1980 when it actually went on show...",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "curated_by(about_time_at_the_ica_1980, rose_garrard).",
+    "source": "rose_garrard",
+    "evidence": "About Time at the ICA, which I curated. That was 1980 when it actually went on show...",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "exhibition(about_time_at_the_ica_1980).",
+    "source": "rose_garrard",
+    "evidence": "About Time at the ICA, which I curated. That was 1980 when it actually went on show...",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "venue(ica_london).",
+    "source": "rose_garrard",
+    "evidence": "About Time at the ICA, which I curated.",
+    "confidence": "supported",
+    "page": 1
+  },
+  {
+    "fact": "year_created(about_time_at_the_ica_1980, @1980).",
+    "source": "rose_garrard",
+    "evidence": "About Time at the ICA, which I curated. That was 1980 when it actually went on show...",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "exhibited_at(about_time_at_the_ica_1980, ica_london).",
+    "source": "rose_garrard",
+    "evidence": "About Time at the ICA, which I curated. That was 1980 when it actually went on show...",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "venue(museum_of_the_20th_century_vienna).",
+    "source": "rose_garrard",
+    "evidence": "There was a show in the Museum of the 20th Century in Vienna. I curated the British end, which was work by 14 women.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "curated_by(museum_of_the_20th_century_vienna, rose_garrard).",
+    "source": "rose_garrard",
+    "evidence": "There was a show in the Museum of the 20th Century in Vienna. I curated the British end...",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(tina_keane).",
+    "source": "rose_garrard",
+    "evidence": "There was Tina Keane, and there was Rose Finn-Kelsey. Hanna O’Shea was sort of there... Ann Bean was fantastic.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(rose_finn_kelsey).",
+    "source": "rose_garrard",
+    "evidence": "There was Tina Keane, and there was Rose Finn-Kelsey.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(hanna_oshea).",
+    "source": "rose_garrard",
+    "evidence": "Hanna O’Shea was sort of there, she was not really into performance but she was about.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(ann_bean).",
+    "source": "rose_garrard",
+    "evidence": "Ann Bean was fantastic.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "venue(tate_gallery_london).",
+    "source": "rose_garrard",
+    "evidence": "I went along and was browsing in the bookshop and lo and behold there was a colour picture of this Pandora...discovered that she was in their basement. So I made an appointment to go and meet her, and she was a full, absolutely immaculate, life-size, kneeling figure.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "venue(whitechapel_gallery).",
+    "source": "rose_garrard",
+    "evidence": "With the help of the Whitechapel Gallery, we negotiated her release and she became one of the objects within one of my installations at the Whitechapel.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "work(pandora_marble_sculpture).",
+    "source": "rose_garrard",
+    "evidence": "she was a full, absolutely immaculate, life-size, kneeling figure. It was in marble with this beautiful ivory and bronze casket held suspended in her arms.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "organisation(audio_arts).",
+    "source": "rose_garrard",
+    "evidence": "One day when I was doing a tape for Audio Arts, which was about artists work in audio, they had the launch at the Tate Gallery.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "organisation(cornerhouse).",
+    "source": "rose_garrard",
+    "evidence": "Looking at my catalogue, which was produced after my accident, in 1994 with Beverly Bytheway for Cornerhouse; my whole idea was to have not one view of my work, but all these different views.",
+    "confidence": "explicit",
+    "page": 5
+  },
+  {
+    "fact": "person(beverly_bytheway).",
+    "source": "rose_garrard",
+    "evidence": "Looking at my catalogue, which was produced after my accident, in 1994 with Beverly Bytheway for Cornerhouse; my whole idea was to have not one view of my work, but all these different views.",
+    "confidence": "explicit",
+    "page": 5
+  },
+  {
+    "fact": "organisation(stourbridge_college).",
+    "source": "rose_garrard",
+    "evidence": "Stourbridge first of all for Foundation, and then on to Birmingham.",
+    "confidence": "explicit",
+    "page": 5
+  },
+  {
+    "fact": "organisation(birmingham_college_of_art).",
+    "source": "rose_garrard",
+    "evidence": "Stourbridge first of all for Foundation, and then on to Birmingham. ... He sat down and listened to the story and then just said, “Right I am going to ring up Birmingham College of Art” And he rang up and got me an interview.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "organisation(chelsea).",
+    "source": "rose_garrard",
+    "evidence": "And then you went to Chelsea to do post-grad? RG:  Yes, by which time I’d started to do things that were Incidents in the Street.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "exhibited_at(pandora_marble_sculpture, whitechapel_gallery).",
+    "source": "rose_garrard",
+    "evidence": "she became one of the objects within one of my installations at the Whitechapel.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "exhibited_at(pandora_marble_sculpture, tate_gallery_london).",
+    "source": "rose_garrard",
+    "evidence": "Then she went back to the Tate and went on display. So they actually put her on display...",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "educated_at(rose_garrard, stourbridge_college).",
+    "source": "rose_garrard",
+    "evidence": "Stourbridge first of all for Foundation, and then on to Birmingham.",
+    "confidence": "explicit",
+    "page": 5
+  },
+  {
+    "fact": "educated_at(rose_garrard, birmingham_college_of_art).",
+    "source": "rose_garrard",
+    "evidence": "Stourbridge first of all for Foundation, and then on to Birmingham.",
+    "confidence": "explicit",
+    "page": 5
+  },
+  {
+    "fact": "educated_at(rose_garrard, chelsea).",
+    "source": "rose_garrard",
+    "evidence": "And then you went to Chelsea to do post-grad? RG:  Yes",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "year_created(incidents_in_a_garden, @1976).",
+    "source": "rose_garrard",
+    "evidence": "1976 was the first time I used video and that was for the ACME show, Incidents in a Garden.",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "made_at(incidents_in_a_garden, acme_gallery).",
+    "source": "rose_garrard",
+    "evidence": "1976 was the first time I used video and that was for the ACME show, Incidents in a Garden.",
+    "confidence": "supported",
+    "page": 7
+  },
+  {
+    "fact": "uses_medium(incidents_in_a_garden, video).",
+    "source": "rose_garrard",
+    "evidence": "1976 was the first time I used video and that was for the ACME show, Incidents in a Garden.",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "organisation(royal_ballet_school).",
+    "source": "rose_garrard",
+    "evidence": "Then on the final night, the Royal Ballet School came and they performed a ballet...",
+    "confidence": "explicit",
+    "page": 8
+  },
+  {
+    "fact": "organisation(bbc).",
+    "source": "rose_garrard",
+    "evidence": "I must have looked very depressed one day at the BBC when I was prop making...",
+    "confidence": "explicit",
+    "page": 8
+  },
+  {
+    "fact": "person(kipper_kids).",
+    "source": "rose_garrard",
+    "evidence": "So, one of the Kipper Kids came and he did a performance with a trumpet on the top of a ladder.",
+    "confidence": "explicit",
+    "page": 8
+  },
+  {
+    "fact": "person(jonathan_miller).",
+    "source": "rose_garrard",
+    "evidence": "Jonathan Miller was the Director, and “would I like to work on it and do some of the set?”",
+    "confidence": "explicit",
+    "page": 8
+  },
+  {
+    "fact": "person(jonathan_harvey).",
+    "source": "rose_garrard",
+    "evidence": "With Jonathan Harvey’s consent, they painted the walls to look like high brick walls.",
+    "confidence": "explicit",
+    "page": 8
+  },
+  {
+    "fact": "collaborated_with(rose_garrard, royal_ballet_school).",
+    "source": "rose_garrard",
+    "evidence": "Then on the final night, the Royal Ballet School came and they performed a ballet, which went from the ground floor to the top floor and then on both floors simultaneously. ... They used me in my clown persona within it almost like a rag-doll throughout.",
+    "confidence": "explicit",
+    "page": 8
+  },
+  {
+    "fact": "collaborated_with(rose_garrard, kipper_kids).",
+    "source": "rose_garrard",
+    "evidence": "one of the Kipper Kids came and he did a performance with a trumpet on the top of a ladder.",
+    "confidence": "supported",
+    "page": 8
+  },
+  {
+    "fact": "venue(acme).",
+    "source": "rose_garrard",
+    "evidence": "MW: So after the show at ACME, where else did you show around that time?",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "venue(hayward).",
+    "source": "rose_garrard",
+    "evidence": "I showed at the Hayward and various other places in the next few years.",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "person(helen_chadwick).",
+    "source": "rose_garrard",
+    "evidence": "Now I remember turning to Helen Chadwick, who was curating one of the shows...",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "organisation(slade_school_of_fine_art).",
+    "source": "rose_garrard",
+    "evidence": "It was all over: The Slade, The Royal College, Belfast, Newcastle. I can’t remember them all but it big, long list.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "organisation(the_royal_college).",
+    "source": "rose_garrard",
+    "evidence": "It was all over: The Slade, The Royal College, Belfast, Newcastle.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "organisation(belfast).",
+    "source": "rose_garrard",
+    "evidence": "It was all over: The Slade, The Royal College, Belfast, Newcastle.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "organisation(newcastle).",
+    "source": "rose_garrard",
+    "evidence": "It was all over: The Slade, The Royal College, Belfast, Newcastle.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "organisation(reading_university).",
+    "source": "rose_garrard",
+    "evidence": "I taught regularly for two days a week at Reading University first of all, in Time Based Media.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "organisation(corydon).",
+    "source": "rose_garrard",
+    "evidence": "For a time at Corydon, I ran the video department, which had been set up about 10 or 15 years before, so it was very out of date when I got there.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "person(bruce_mclean).",
+    "source": "rose_garrard",
+    "evidence": "Bruce McLean was teaching in the painting department so it was interesting because he was moving from painting into performance, which is another link.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "organisation(sheffield).",
+    "source": "rose_garrard",
+    "evidence": "I taught in Sheffield for a long time. I commuted 2 days a week.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "person(ron_hazelden).",
+    "source": "rose_garrard",
+    "evidence": "Ron Hazelden, Stuart Brisley and Kerry Trengove, all taught at Reading with me, or I taught with them.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "person(stuart_brisley).",
+    "source": "rose_garrard",
+    "evidence": "Ron Hazelden, Stuart Brisley and Kerry Trengove, all taught at Reading with me, or I taught with them.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "person(kerry_trengove).",
+    "source": "rose_garrard",
+    "evidence": "Ron Hazelden, Stuart Brisley and Kerry Trengove, all taught at Reading with me, or I taught with them.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "organisation(dartington).",
+    "source": "rose_garrard",
+    "evidence": "I think my best year ever was the year that I was invited to Dartington for the first time.",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "venue(manchester_cornerhouse).",
+    "source": "rose_garrard",
+    "evidence": "I did 4 listening pieces at Manchester Cornerhouse, South London Gallery, Calgary Art Gallery and Vancouver Art Gallery.",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "venue(south_london_gallery).",
+    "source": "rose_garrard",
+    "evidence": "I did 4 listening pieces at Manchester Cornerhouse, South London Gallery, Calgary Art Gallery and Vancouver Art Gallery.",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "venue(calgary_art_gallery).",
+    "source": "rose_garrard",
+    "evidence": "I did 4 listening pieces at Manchester Cornerhouse, South London Gallery, Calgary Art Gallery and Vancouver Art Gallery.",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "venue(vancouver_art_gallery).",
+    "source": "rose_garrard",
+    "evidence": "I did 4 listening pieces at Manchester Cornerhouse, South London Gallery, Calgary Art Gallery and Vancouver Art Gallery.",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "employed_by(rose_garrard, reading_university).",
+    "source": "rose_garrard",
+    "evidence": "I taught regularly for two days a week at Reading University first of all, in Time Based Media.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "teaching_at(rose_garrard, corydon).",
+    "source": "rose_garrard",
+    "evidence": "For a time at Corydon, I ran the video department, which had been set up about 10 or 15 years before, so it was very out of date when I got there.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "employed_by(rose_garrard, sheffield).",
+    "source": "rose_garrard",
+    "evidence": "I taught in Sheffield for a long time. I commuted 2 days a week.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "collaborated_with(rose_garrard, ron_hazelden).",
+    "source": "rose_garrard",
+    "evidence": "Ron Hazelden, Stuart Brisley and Kerry Trengove, all taught at Reading with me, or I taught with them.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "collaborated_with(rose_garrard, stuart_brisley).",
+    "source": "rose_garrard",
+    "evidence": "Ron Hazelden, Stuart Brisley and Kerry Trengove, all taught at Reading with me, or I taught with them.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "collaborated_with(rose_garrard, kerry_trengove).",
+    "source": "rose_garrard",
+    "evidence": "Ron Hazelden, Stuart Brisley and Kerry Trengove, all taught at Reading with me, or I taught with them.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "teaching_at(rose_garrard, dartington).",
+    "source": "rose_garrard",
+    "evidence": "I think my best year ever was the year that I was invited to Dartington for the first time.",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "year(@1988).",
+    "source": "rose_garrard",
+    "evidence": "It was 1988 when I had my motorbike accident, February 1988.",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "exhibited_at(rose_garrard, manchester_cornerhouse).",
+    "source": "rose_garrard",
+    "evidence": "I did 4 listening pieces at Manchester Cornerhouse, South London Gallery, Calgary Art Gallery and Vancouver Art Gallery.",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "exhibited_at(rose_garrard, south_london_gallery).",
+    "source": "rose_garrard",
+    "evidence": "I did 4 listening pieces at Manchester Cornerhouse, South London Gallery, Calgary Art Gallery and Vancouver Art Gallery.",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "exhibited_at(rose_garrard, calgary_art_gallery).",
+    "source": "rose_garrard",
+    "evidence": "I did 4 listening pieces at Manchester Cornerhouse, South London Gallery, Calgary Art Gallery and Vancouver Art Gallery.",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "exhibited_at(rose_garrard, vancouver_art_gallery).",
+    "source": "rose_garrard",
+    "evidence": "I did 4 listening pieces at Manchester Cornerhouse, South London Gallery, Calgary Art Gallery and Vancouver Art Gallery.",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "curated_by(rose_garrard, helen_chadwick).",
+    "source": "rose_garrard",
+    "evidence": "Helen Chadwick, who was curating one of the shows",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "external_examiner_at(rose_garrard, slade_school_of_fine_art).",
+    "source": "rose_garrard",
+    "evidence": "I think I was one of the first women external examiners. MW: Where at? RG: It was all over: The Slade, The Royal College, Belfast, Newcastle.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "external_examiner_at(rose_garrard, the_royal_college).",
+    "source": "rose_garrard",
+    "evidence": "I think I was one of the first women external examiners. MW: Where at? RG: It was all over: The Slade, The Royal College, Belfast, Newcastle.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "external_examiner_at(rose_garrard, belfast).",
+    "source": "rose_garrard",
+    "evidence": "I think I was one of the first women external examiners. MW: Where at? RG: It was all over: The Slade, The Royal College, Belfast, Newcastle.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "external_examiner_at(rose_garrard, newcastle).",
+    "source": "rose_garrard",
+    "evidence": "I think I was one of the first women external examiners. MW: Where at? RG: It was all over: The Slade, The Royal College, Belfast, Newcastle.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "organisation(malvern_town_council).",
+    "source": "rose_garrard",
+    "evidence": "I made a proposal to Malvern Town Council in response to an appeal in the paper from them for ideas to regenerate Malvern, which had been my hometown.",
+    "confidence": "explicit",
+    "page": 14
+  },
+  {
+    "fact": "made_proposal_to(rose_garrard, malvern_town_council).",
+    "source": "rose_garrard",
+    "evidence": "I made a proposal to Malvern Town Council in response to an appeal in the paper from them for ideas to regenerate Malvern, which had been my hometown.",
+    "confidence": "explicit",
+    "page": 14
+  },
+  {
+    "fact": "venue(great_malvern).",
+    "source": "rose_garrard",
+    "evidence": "I created a mini version in a vacant shop in Great Malvern Town Centre.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "venue(malvern).",
+    "source": "rose_garrard",
+    "evidence": "I told her about Malvern. I said, 'my home town had 100s of springs'.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "organisation(malvern_spa_association).",
+    "source": "rose_garrard",
+    "evidence": "a group of us formed the Malvern Spa Association with the specific aim of raising enough money to restore up to 20 springs.",
+    "confidence": "explicit",
+    "page": 16
+  },
+  {
+    "fact": "work(malvina_sculpture).",
+    "source": "rose_garrard",
+    "evidence": "they named it. I had 60 names suggested and I selected Malvina, which was a Gaelic Princess.",
+    "confidence": "explicit",
+    "page": 16
+  },
+  {
+    "fact": "work(spout_sculpture).",
+    "source": "rose_garrard",
+    "evidence": "for the residency money I made the Spout, which is bronze and stone.",
+    "confidence": "explicit",
+    "page": 16
+  },
+  {
+    "fact": "work(municipal_fountain_the_enigma_fountain).",
+    "source": "rose_garrard",
+    "evidence": "That was the Municipal Fountain, (The Enigma Fountain). The fountain part I love and it has a figure of Elgar.",
+    "confidence": "explicit",
+    "page": 16
+  },
+  {
+    "fact": "venue(belle_vue_island).",
+    "source": "rose_garrard",
+    "evidence": "they want it fitted on Belle Vue Island. Now, unless you can design something quickly and make it, there will be a Victorian pump on Belle Vue Island, which is the town centre.",
+    "confidence": "explicit",
+    "page": 16
+  },
+  {
+    "fact": "work(elgar_figure_in_sculpture).",
+    "source": "rose_garrard",
+    "evidence": "The fountain part I love and it has a figure of Elgar. They had 4 things to choose from and they chose the most conventional, which was Elgar. So I did the live-size figure of Elgar.",
+    "confidence": "explicit",
+    "page": 16
+  },
+  {
+    "fact": "venue(vancouver).",
+    "source": "rose_garrard",
+    "evidence": "I did the same installation virtually as Vancouver.",
+    "confidence": "explicit",
+    "page": 16
+  },
+  {
+    "fact": "person(therese_jeffries).",
+    "source": "rose_garrard",
+    "evidence": "I was invited over there by this woman elder called Therese Jeffries whose grandfather had been Scottish.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "venue(shishalh_island_near_vancouver).",
+    "source": "rose_garrard",
+    "evidence": "Yes, outside, on one of the islands, Shishalh.",
+    "confidence": "explicit",
+    "page": 16
+  },
+  {
+    "fact": "curated_by(great_malvern, rose_garrard).",
+    "source": "rose_garrard",
+    "evidence": "Would you consider doing a sculpture trail that I would curate and commission other artists to make sculptures as we recover each spring, make a contemporary work?",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "commissioned_by(rose_garrard, great_malvern).",
+    "source": "rose_garrard",
+    "evidence": "after about a year they commissioned me to come here to do 2 months residency to identify the lost springs",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "residency_at(rose_garrard, great_malvern).",
+    "source": "rose_garrard",
+    "evidence": "they commissioned me to come here to do 2 months residency to identify the lost springs",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "used_material(spout_sculpture, \"bronze\").",
+    "source": "rose_garrard",
+    "evidence": "I made the Spout, which is bronze and stone.",
+    "confidence": "explicit",
+    "page": 16
+  },
+  {
+    "fact": "used_material(spout_sculpture, \"stone\").",
+    "source": "rose_garrard",
+    "evidence": "I made the Spout, which is bronze and stone.",
+    "confidence": "explicit",
+    "page": 16
+  },
+  {
+    "fact": "installed_at(spout_sculpture, belle_vue_island).",
+    "source": "rose_garrard",
+    "evidence": "I made the Spout, which is bronze and stone... Now, unless you can design something quickly and make it, there will be a Victorian pump on Belle Vue Island, which is the town centre.",
+    "confidence": "supported",
+    "page": 16
+  },
+  {
+    "fact": "named_by_competition(malvina_sculpture).",
+    "source": "rose_garrard",
+    "evidence": "Through a competition in the town, through the local newspaper, they named it... I selected Malvina",
+    "confidence": "explicit",
+    "page": 16
+  },
+  {
+    "fact": "year_created(malvina_sculpture, @1998).",
+    "source": "rose_garrard",
+    "evidence": "In the following year, 1998 Malvina went in",
+    "confidence": "explicit",
+    "page": 16
+  },
+  {
+    "fact": "founded_by(malvern_spa_association, rose_garrard).",
+    "source": "rose_garrard",
+    "evidence": "a group of us formed the Malvern Spa Association with the specific aim of raising enough money to restore up to 20 springs.",
+    "confidence": "supported",
+    "page": 16
+  },
+  {
+    "fact": "chairman_of(rose_garrard, malvern_spa_association).",
+    "source": "rose_garrard",
+    "evidence": "By which time I’d become chairman.",
+    "confidence": "explicit",
+    "page": 17
+  },
+  {
+    "fact": "organised_by(malvern_spa_association, rose_garrard).",
+    "source": "rose_garrard",
+    "evidence": "I became the organiser of the annual well dressing.",
+    "confidence": "explicit",
+    "page": 17
+  },
+  {
+    "fact": "work(tumbled_frame).",
+    "source": "rose_garrard",
+    "evidence": "Then Tumbled Frame, your video piece, which you made with Anna Ridley and her production company Annalogue...",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "created_by(tumbled_frame, rose_garrard).",
+    "source": "rose_garrard",
+    "evidence": "your video piece, which you made with Anna Ridley and her production company Annalogue",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "collaborated_with(rose_garrard, anna_ridley).",
+    "source": "rose_garrard",
+    "evidence": "...which you made with Anna Ridley and her production company Annalogue...",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "organisation(annalogue_production_company).",
+    "source": "rose_garrard",
+    "evidence": "...which you made with Anna Ridley and her production company Annalogue...",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "collaborated_with(rose_garrard, annalogue_production_company).",
+    "source": "rose_garrard",
+    "evidence": "...which you made with Anna Ridley and her production company Annalogue...",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "work(pandora_the_bringer_of_gifts).",
+    "source": "rose_garrard",
+    "evidence": "It was Pandora The Bringer of Gifts. It was the same theme, but very different. That was done I think, in about 1983/'84 and was not long after I'd left my husband...",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "created_by(pandora_the_bringer_of_gifts, rose_garrard).",
+    "source": "rose_garrard",
+    "evidence": "It was Pandora The Bringer of Gifts. It was the same theme, but very different. That was done I think, in about 1983/'84 and was not long after I'd left my husband...",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "exhibited_at(tumbled_frame, channel_4).",
+    "source": "rose_garrard",
+    "evidence": "Then I was given this wonderful opportunity to create a ½ hour work for television but with a professional crew.\nMW: Was that for Channel 4?\nRG: Yes.",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "work(celtic_in_mind).",
+    "source": "rose_garrard",
+    "evidence": "RG: Yes, in 1989 I made that. It was for Glasgow 1990. It was made with Steve Partridge at Duncan of Jordanstone College of Art in Dundee.",
+    "confidence": "explicit",
+    "page": 18
+  },
+  {
+    "fact": "created_by(celtic_in_mind, rose_garrard).",
+    "source": "rose_garrard",
+    "evidence": "RG: Yes, in 1989 I made that. It was for Glasgow 1990. It was made with Steve Partridge at Duncan of Jordanstone College of Art in Dundee.",
+    "confidence": "explicit",
+    "page": 18
+  },
+  {
+    "fact": "year_created(celtic_in_mind, @1989).",
+    "source": "rose_garrard",
+    "evidence": "Yes, in 1989 I made that.",
+    "confidence": "explicit",
+    "page": 18
+  },
+  {
+    "fact": "collaborated_with(rose_garrard, steve_partridge).",
+    "source": "rose_garrard",
+    "evidence": "It was made with Steve Partridge at Duncan of Jordanstone College of Art in Dundee.",
+    "confidence": "explicit",
+    "page": 18
+  },
+  {
+    "fact": "organisation(duncan_of_jordanstone_college_of_art).",
+    "source": "rose_garrard",
+    "evidence": "It was made with Steve Partridge at Duncan of Jordanstone College of Art in Dundee.",
+    "confidence": "explicit",
+    "page": 18
+  },
+  {
+    "fact": "collaborated_with(rose_garrard, duncan_of_jordanstone_college_of_art).",
+    "source": "rose_garrard",
+    "evidence": "It was made with Steve Partridge at Duncan of Jordanstone College of Art in Dundee.",
+    "confidence": "explicit",
+    "page": 18
+  },
+  {
+    "fact": "exhibition(glasgow_1990).",
+    "source": "rose_garrard",
+    "evidence": "It was for Glasgow 1990.",
+    "confidence": "explicit",
+    "page": 18
+  },
+  {
+    "fact": "exhibited_at(celtic_in_mind, glasgow_1990).",
+    "source": "rose_garrard",
+    "evidence": "Yes, in 1989 I made that. It was for Glasgow 1990.",
+    "confidence": "explicit",
+    "page": 18
+  },
+  {
+    "fact": "organisation(channel_4).",
+    "source": "rose_garrard",
+    "evidence": "Was that for Channel 4? RG: Yes.",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "organisation(tv_south_west).",
+    "source": "rose_garrard",
+    "evidence": "Yes. I'd previously done a ½ hour work for TV South West.",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "exhibited_at(pandora_the_bringer_of_gifts, tv_south_west).",
+    "source": "rose_garrard",
+    "evidence": "Yes. I'd previously done a ½ hour work for TV South West, so I knew that the drawbacks as well as the benefits of it.\nMW: What was the work for TV South West? RG: It was Pandora The Bringer of Gifts.",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "person(steve_partridge).",
+    "source": "rose_garrard",
+    "evidence": "It was made with Steve Partridge at Duncan of Jordanstone College of Art in Dundee.",
+    "confidence": "explicit",
+    "page": 18
+  },
+  {
+    "fact": "person(anna).",
+    "source": "rose_garrard",
+    "evidence": "Anna did all of that. It was a completely professional Channel 4 crew. She was working within the industry at the time and I’d known her for quite a time.",
+    "confidence": "explicit",
+    "page": 21
+  },
+  {
+    "fact": "organisation(channel_4_crew).",
+    "source": "rose_garrard",
+    "evidence": "It was a completely professional Channel 4 crew.",
+    "confidence": "explicit",
+    "page": 21
+  },
+  {
+    "fact": "work(between_the_lines).",
+    "source": "rose_garrard",
+    "evidence": "You did another piece called Between the Lines, where you worked within a girl’s school.",
+    "confidence": "explicit",
+    "page": 21
+  },
+  {
+    "fact": "organisation(girls_school_in_bow).",
+    "source": "rose_garrard",
+    "evidence": "I was in the middle of a residency at a local girl's school in Bow.",
+    "confidence": "explicit",
+    "page": 21
+  },
+  {
+    "fact": "organisation(whitechapel_gallery).",
+    "source": "rose_garrard",
+    "evidence": "The show at the Whitechapel Gallery came from that.",
+    "confidence": "explicit",
+    "page": 22
+  },
+  {
+    "fact": "organisation(london_video_arts).",
+    "source": "rose_garrard",
+    "evidence": "So was it distributed through London Video Arts? RG: Sometimes, yes.",
+    "confidence": "explicit",
+    "page": 23
+  },
+  {
+    "fact": "exhibition(japanese_video_festival).",
+    "source": "rose_garrard",
+    "evidence": "Somewhere I’ve got a certificate from a Japanese Video Festival. It was from some sort of prize that I had won.",
+    "confidence": "explicit",
+    "page": 23
+  },
+  {
+    "fact": "venue(australia).",
+    "source": "rose_garrard",
+    "evidence": "The works went around Australia and all over, probably with LVA.",
+    "confidence": "explicit",
+    "page": 23
+  },
+  {
+    "fact": "venue(calgary).",
+    "source": "rose_garrard",
+    "evidence": "They had a good airing and I think that was why Calgary got in touch with me.",
+    "confidence": "explicit",
+    "page": 23
+  },
+  {
+    "fact": "organisation(art_monthly).",
+    "source": "rose_garrard",
+    "evidence": "Yes Art Monthly and things like that. You weren’t reviewed in that?",
+    "confidence": "explicit",
+    "page": 23
+  },
+  {
+    "fact": "organisation(the_sunday_times).",
+    "source": "rose_garrard",
+    "evidence": "It was mainly in The Sunday Times.",
+    "confidence": "explicit",
+    "page": 23
+  },
+  {
+    "fact": "person(sarah_kent).",
+    "source": "rose_garrard",
+    "evidence": "Sarah Kent used to pick up on my work very often.",
+    "confidence": "explicit",
+    "page": 23
+  },
+  {
+    "fact": "person(john_roberts).",
+    "source": "rose_garrard",
+    "evidence": "John Roberts was another.",
+    "confidence": "explicit",
+    "page": 23
+  },
+  {
+    "fact": "person(waldemar_januszczak).",
+    "source": "rose_garrard",
+    "evidence": "Waldemar Januszczak was a great friend and supporter.",
+    "confidence": "explicit",
+    "page": 23
+  },
+  {
+    "fact": "affiliated_with(rose_garrard, girls_school_in_bow).",
+    "source": "rose_garrard",
+    "evidence": "I was in the middle of a residency at a local girl's school in Bow.",
+    "confidence": "explicit",
+    "page": 21
+  },
+  {
+    "fact": "created_by(between_the_lines, rose_garrard).",
+    "source": "rose_garrard",
+    "evidence": "You did another piece called Between the Lines... RG: Yes. Literally in the middle of leaving my husband, I was in the middle of a residency at a local girl's school in Bow.",
+    "confidence": "explicit",
+    "page": 21
+  },
+  {
+    "fact": "exhibited_at(between_the_lines, whitechapel_gallery).",
+    "source": "rose_garrard",
+    "evidence": "The show at the Whitechapel Gallery came from that.",
+    "confidence": "explicit",
+    "page": 22
+  },
+  {
+    "fact": "funded_by(between_the_lines, girls_school_in_bow).",
+    "source": "rose_garrard",
+    "evidence": "MW: And that was paid for by the residency? RG: Yes it came as part of the residency.",
+    "confidence": "explicit",
+    "page": 22
+  },
+  {
+    "fact": "exhibited_at(between_the_lines, japanese_video_festival).",
+    "source": "rose_garrard",
+    "evidence": "Somewhere I’ve got a certificate from a Japanese Video Festival. It was from some sort of prize that I had won.",
+    "confidence": "supported",
+    "page": 23
+  },
+  {
+    "fact": "distributed_by(between_the_lines, london_video_arts).",
+    "source": "rose_garrard",
+    "evidence": "So was it distributed through London Video Arts? RG: Sometimes, yes.",
+    "confidence": "explicit",
+    "page": 23
+  },
+  {
+    "fact": "reviewed_in(between_the_lines, the_sunday_times).",
+    "source": "rose_garrard",
+    "evidence": "It was mainly in The Sunday Times.",
+    "confidence": "explicit",
+    "page": 23
+  },
+  {
+    "fact": "reviewed_by(rose_garrard, sarah_kent).",
+    "source": "rose_garrard",
+    "evidence": "Sarah Kent used to pick up on my work very often.",
+    "confidence": "supported",
+    "page": 23
+  },
+  {
+    "fact": "reviewed_by(rose_garrard, john_roberts).",
+    "source": "rose_garrard",
+    "evidence": "John Roberts was another.",
+    "confidence": "supported",
+    "page": 23
+  },
+  {
+    "fact": "reviewed_by(rose_garrard, waldemar_januszczak).",
+    "source": "rose_garrard",
+    "evidence": "Waldemar Januszczak was a great friend and supporter.",
+    "confidence": "supported",
+    "page": 23
+  },
+  {
+    "fact": "venue(cornerhouse).",
+    "source": "rose_garrard",
+    "evidence": "But then Cornerhouse was fantastic. They were immensely helpful and supportive. That was the first major show after my accident and Bev had waited and she’d been in touch with me without pressurising me.",
+    "confidence": "explicit",
+    "page": 25
+  },
+  {
+    "fact": "person(bev).",
+    "source": "rose_garrard",
+    "evidence": "That was the first major show after my accident and Bev had waited and she’d been in touch with me without pressurising me.",
+    "confidence": "explicit",
+    "page": 25
+  },
+  {
+    "fact": "work(the_catalogue).",
+    "source": "rose_garrard",
+    "evidence": "That Catalogue at least won’t disappear ... my work is now down how I want it to be recorded. Just as each year and what I’d done. There is none of my public artwork in it, but all my gallery work is in it.",
+    "confidence": "explicit",
+    "page": 25
+  },
+  {
+    "fact": "exhibition(womens_images_of_men).",
+    "source": "rose_garrard",
+    "evidence": "Equally, in Women’s Images of Men and About Time. It was about time that women appeared in major galleries in London. They’d not been shown.",
+    "confidence": "explicit",
+    "page": 24
+  },
+  {
+    "fact": "exhibition(about_time).",
+    "source": "rose_garrard",
+    "evidence": "Equally, in Women’s Images of Men and About Time. It was about time that women appeared in major galleries in London. They’d not been shown.",
+    "confidence": "explicit",
+    "page": 24
+  },
+  {
+    "fact": "organisation(corydon_college_of_art).",
+    "source": "rose_garrard",
+    "evidence": "in 1983, I was working in Corydon College of Art. I was in charge 2 days a week of the video department, which I inherited.",
+    "confidence": "explicit",
+    "page": 25
+  },
+  {
+    "fact": "employed_by(rose_garrard, corydon_college_of_art).",
+    "source": "rose_garrard",
+    "evidence": "in 1983, I was working in Corydon College of Art. I was in charge 2 days a week of the video department, which I inherited.",
+    "confidence": "explicit",
+    "page": 25
+  },
+  {
+    "fact": "employed_by(rose_garrard, dartington).",
+    "source": "rose_garrard",
+    "evidence": "Then I went to Dartington and I was there for about 6 years.",
+    "confidence": "explicit",
+    "page": 26
+  },
+  {
+    "fact": "collaborated_with(rose_garrard, bruce_mclean).",
+    "source": "rose_garrard",
+    "evidence": "there were collaborations between my students and him on performances and things",
+    "confidence": "explicit",
+    "page": 25
+  },
+  {
+    "fact": "organisation(worcestershire).",
+    "source": "rose_garrard",
+    "evidence": "I had done one year of teaching Worcestershire as well.",
+    "confidence": "explicit",
+    "page": 26
+  },
+  {
+    "fact": "employed_by(rose_garrard, worcestershire).",
+    "source": "rose_garrard",
+    "evidence": "I had done one year of teaching Worcestershire as well.",
+    "confidence": "explicit",
+    "page": 26
+  },
+  {
+    "fact": "curated_by(rose_garrard, three_county_showground).",
+    "source": "rose_garrard",
+    "evidence": "I also curated a sculpture trail at the Three County Showground with 14 nationally known sculptors, one or two of  them were locals but most of them were nationally known.",
+    "confidence": "explicit",
+    "page": 26
+  },
+  {
+    "fact": "venue(three_county_showground).",
+    "source": "rose_garrard",
+    "evidence": "I also curated a sculpture trail at the Three County Showground with 14 nationally known sculptors, one or two of  them were locals but most of them were nationally known.",
+    "confidence": "explicit",
+    "page": 26
+  },
+  {
+    "fact": "funded_by(malvern_well_dressing_festival, arts_council).",
+    "source": "rose_garrard",
+    "evidence": "It was properly funded by the Arts Council, which I’d applied for the funding from",
+    "confidence": "explicit",
+    "page": 27
+  },
+  {
+    "fact": "exhibited_at(malvern_well_dressing_festival, malvern).",
+    "source": "rose_garrard",
+    "evidence": "the show all mapped and leafleted and everything... Some were aimed at the blind from the blind colleges near here.",
+    "confidence": "supported",
+    "page": 27
+  },
+  {
+    "fact": "year_created(malvern_well_dressing_festival, @2003).",
+    "source": "rose_garrard",
+    "evidence": "It was the year after the Foot and Mouth Crisis, so 2003. It was supposed to happen in 2002, but because of Foot and Mouth, the site was closed down.",
+    "confidence": "explicit",
+    "page": 27
+  },
+  {
+    "fact": "organisation(arts_council).",
+    "source": "rose_garrard",
+    "evidence": "It was properly funded by the Arts Council",
+    "confidence": "explicit",
+    "page": 27
+  },
+  {
+    "fact": "exhibition(malvern_well_dressing_festival).",
+    "source": "rose_garrard",
+    "evidence": "I used to organise it but I resigned last year, we’ve now got a really community-based festival of well-dressing that happens every year. I got it up to 28 sites.",
+    "confidence": "explicit",
+    "page": 28
+  },
+  {
+    "fact": "exhibited_at(rose_garrard, tate).",
+    "source": "rose_garrard",
+    "evidence": "When I was showing in the Tate...",
+    "confidence": "explicit",
+    "page": 29
+  },
+  {
+    "fact": "venue(tate).",
+    "source": "rose_garrard",
+    "evidence": "When I was showing in the Tate...",
+    "confidence": "explicit",
+    "page": 29
+  },
+  {
+    "fact": "exhibited_at(body_box_exhibition, v_a).",
+    "source": "rose_garrard",
+    "evidence": "Didn’t you have a show at the V&A that was censored?... It was called the Body Box Exhibition... Roy Strong was the Director at the time.",
+    "confidence": "explicit",
+    "page": 29
+  },
+  {
+    "fact": "exhibition(body_box_exhibition).",
+    "source": "rose_garrard",
+    "evidence": "It was called the Body Box Exhibition and it was about the human body.",
+    "confidence": "explicit",
+    "page": 29
+  },
+  {
+    "fact": "venue(v_a).",
+    "source": "rose_garrard",
+    "evidence": "Didn’t you have a show at the V&A that was censored?",
+    "confidence": "explicit",
+    "page": 29
+  },
+  {
+    "fact": "person(roy_strong).",
+    "source": "rose_garrard",
+    "evidence": "Roy Strong was the Director at the time.",
+    "confidence": "explicit",
+    "page": 29
+  },
+  {
+    "fact": "person(genesis_p_orridge).",
+    "source": "rose_garrard",
+    "evidence": "I knew a very strange man called Genesis P-Orridge.",
+    "confidence": "explicit",
+    "page": 29
+  },
+  {
+    "fact": "work(universal_man_in_forty_five_tasks).",
+    "source": "rose_garrard",
+    "evidence": "Universal Man in Forty-Five Tasks was the title and it was to take place in the middle of the Private View.",
+    "confidence": "explicit",
+    "page": 29
+  },
+  {
+    "fact": "created_by(universal_man_in_forty_five_tasks, rose_garrard).",
+    "source": "rose_garrard",
+    "evidence": "the piece was a task. Universal Man in Forty-Five Tasks was the title and it was to take place in the middle of the Private View.",
+    "confidence": "explicit",
+    "page": 29
+  },
+  {
+    "fact": "person(rory_strong).",
+    "source": "rose_garrard",
+    "evidence": "this had gone all the way up to Rory Strong and then it came all the way back down again as a message the night before the Private View.",
+    "confidence": "explicit",
+    "page": 30
+  },
+  {
+    "fact": "organisation(education_department).",
+    "source": "rose_garrard",
+    "evidence": "There was documentation of that done by the Education Department.",
+    "confidence": "explicit",
+    "page": 30
+  }
+]
