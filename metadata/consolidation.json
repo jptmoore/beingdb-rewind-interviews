@@ -1,3 +1,36 @@
 {
-  "runs": []
+  "runs": [
+    {
+      "timestamp": "2026-08-12T12:24:58.117Z",
+      "model": "gpt-4.1",
+      "pipelineVersion": "1",
+      "applied": [
+        {
+          "canonical": "published_catalogues_of",
+          "mergedFrom": [
+            "published_catalogues_of_work_by"
+          ],
+          "factsBefore": {
+            "published_catalogues_of": 1,
+            "published_catalogues_of_work_by": 1
+          },
+          "factsAfter": 1,
+          "rationale": "Both 'published_catalogues_of' and 'published_catalogues_of_work_by' are arity 2 predicates and have identical argument types and observed example ('gallery_in_bremen, hooykaas_stansfield'), indicating their intent is to represent the same relationship, possibly created from different interview extractions but semantically duplicative."
+        },
+        {
+          "canonical": "in_collection",
+          "mergedFrom": [
+            "in_collection_of"
+          ],
+          "factsBefore": {
+            "in_collection": 2,
+            "in_collection_of": 1
+          },
+          "factsAfter": 3,
+          "rationale": "Both predicates are arity 2 and used for describing a work being present in a collection, as shown in the samples: 'in_collection(museum_of_memory_1, stedelijk_museum_amsterdam).' and 'in_collection_of(from_the_museum_of_memory, stedelijk_museum_amsterdam).'. The argument order and types match, and their meaning is clearly the same; they can be collapsed without ambiguity."
+        }
+      ],
+      "skipped": []
+    }
+  ]
 }

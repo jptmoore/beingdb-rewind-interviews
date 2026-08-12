@@ -1218,7 +1218,7 @@
     "page": null
   },
   {
-    "fact": "in_collection_of(from_the_museum_of_memory, stedelijk_museum_amsterdam).",
+    "fact": "in_collection(from_the_museum_of_memory, stedelijk_museum_amsterdam).",
     "source": "madelon_hooykaas",
     "evidence": "two of those installations are in the collection of the Stedelijk Museum in Amsterdam.",
     "confidence": "explicit",
