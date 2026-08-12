@@ -33,5 +33,12 @@
     "url": "https://rewind.ac.uk/rewind/wp-content/uploads/sites/146/2021/03/RG510.pdf",
     "documentId": "rewind_rose_garrard_interview",
     "personId": "rose_garrard"
+  },
+  {
+    "id": "george_barber",
+    "name": "George Barber",
+    "url": "https://rewind.ac.uk/rewind/wp-content/uploads/sites/146/2021/03/GB510.pdf",
+    "documentId": "rewind_george_barber_interview",
+    "personId": "george_barber"
   }
 ]
