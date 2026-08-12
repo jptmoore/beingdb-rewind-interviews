@@ -2,3 +2,5 @@
 % See metadata/extraction.json for source provenance and candidates/evidence for supporting quotes.
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 distributed_by(between_the_lines, london_video_arts).
+distributed_by(judith_goddard, london_video_arts_lva).
+distributed_by(time_spent, lva).

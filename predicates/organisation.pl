@@ -20,6 +20,8 @@ organisation(arts_lab).
 organisation(association_of_cinematographic_and_television_technicians).
 organisation(association_of_video_artists_in_the_netherlands).
 organisation(audio_arts).
+organisation(avid_express_dv).
+organisation(avid).
 organisation(bbc_2).
 organisation(bbc_radiophonic_workshop).
 organisation(bbc).
@@ -55,13 +57,16 @@ organisation(dartington).
 organisation(de_appel_foundation).
 organisation(de_appel).
 organisation(dublin).
+organisation(duncan_of_jordanstone_college_of_art_and_design).
 organisation(duncan_of_jordanstone_college_of_art).
 organisation(dutch_television).
+organisation(duvet_brothers).
 organisation(ealing_school_of_art).
 organisation(ealing_school).
 organisation(ealing).
 organisation(education_department).
 organisation(european_conservation_project).
+organisation(fact).
 organisation(fantasy_factory).
 organisation(film_and_video_umbrella).
 organisation(film_co_op).
@@ -82,6 +87,7 @@ organisation(granular_synthesis).
 organisation(greater_london_arts_association_glaa).
 organisation(greater_london_council_glc).
 organisation(gulbenkian_foundation).
+organisation(hong_kong_festival).
 organisation(hooykaas_stansfield).
 organisation(hornsey_or_middlesex).
 organisation(hull_time_based_arts).
@@ -96,6 +102,7 @@ organisation(kays_laboratory_soho).
 organisation(kingston_college).
 organisation(kingston_communications).
 organisation(lanchester_polytechnic).
+organisation(late_show).
 organisation(lcp).
 organisation(leeds_college_of_art).
 organisation(leeds).
@@ -114,6 +121,7 @@ organisation(maidstone).
 organisation(malvern_spa_association).
 organisation(malvern_town_council).
 organisation(man_act).
+organisation(merseyside_movieola).
 organisation(metamedia_productions).
 organisation(middlesex).
 organisation(ministry_of_cultural_affairs_and_education_in_the_netherlands).
@@ -128,6 +136,7 @@ organisation(museum_of_modern_art_new_york).
 organisation(national_college_of_art_and_design_dublin).
 organisation(national_college_of_art_and_design_in_dublin).
 organisation(national_union_of_mineworkers).
+organisation(natural_history_museum).
 organisation(netherland_1).
 organisation(newcastle_gateshead_initiative).
 organisation(newcastle_likely_newcastle_university).
@@ -163,6 +172,7 @@ organisation(stedelijk_museum).
 organisation(stourbridge_college).
 organisation(studio_international).
 organisation(teesside_college_of_art).
+organisation(television_south_west).
 organisation(the_kitchen).
 organisation(the_other_cinema).
 organisation(the_royal_college).
@@ -172,6 +182,8 @@ organisation(time_based_arts_in_amsterdam).
 organisation(time_based_arts).
 organisation(timeout).
 organisation(tower_records).
+organisation(tswa3d_project).
+organisation(tswa3d).
 organisation(tv_south_west).
 organisation(ucca_at_canterbury).
 organisation(ucca_at_epsom).
@@ -179,6 +191,7 @@ organisation(ucca_at_farnham).
 organisation(v2).
 organisation(victoria_miro).
 organisation(video_artists_on_tour).
+organisation(video_positive).
 organisation(virtual_realities_as_fine_art_medium).
 organisation(wellcome_foundation).
 organisation(welsh_arts_council).

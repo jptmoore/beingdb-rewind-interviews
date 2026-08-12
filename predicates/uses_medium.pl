@@ -18,6 +18,12 @@ uses_medium(incidents_in_a_garden, black_and_white_reel_to_reel_tape).
 uses_medium(incidents_in_a_garden, performance).
 uses_medium(incidents_in_a_garden, ventriloquist_dummies).
 uses_medium(incidents_in_a_garden, video).
+uses_medium(judith_goddard, digital_print).
+uses_medium(judith_goddard, electricity).
+uses_medium(judith_goddard, etching).
+uses_medium(judith_goddard, print).
+uses_medium(judith_goddard, single_screen, "multi screen", "installation").
+uses_medium(judith_goddard, video).
 uses_medium(kevin_atherton, bronze).
 uses_medium(kevin_atherton, sound).
 uses_medium(kevin_atherton, television_commercial).
@@ -43,6 +49,7 @@ uses_medium(sweatlodge, super_8_film_camera).
 uses_medium(sweatlodge, video_camera).
 uses_medium(tape_tape, masking_tape).
 uses_medium(tape_tape, videotape).
+uses_medium(television_circle_electron, 7_monitors).
 uses_medium(the_wind_works, live_video).
 uses_medium(the_wind_works, pre_recorded_tape).
 uses_medium(vertical, film).

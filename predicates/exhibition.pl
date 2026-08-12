@@ -35,8 +35,10 @@ exhibition(serpentine_show_1975).
 exhibition(show_at_de_appel_foundation).
 exhibition(show_at_whitechapel_art_gallery).
 exhibition(sidney_biennale).
+exhibition(signs_of_the_times).
 exhibition(the_video_stairs).
 exhibition(un_certain_art_anglais).
 exhibition(video_manifestation).
 exhibition(video_sculpture_show_in_germany).
+exhibition(window_box).
 exhibition(womens_images_of_men).

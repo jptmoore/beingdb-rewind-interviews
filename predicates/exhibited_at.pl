@@ -24,6 +24,9 @@ exhibited_at(day_for_night, visual_research_centre_in_dundee_contemporary_arts).
 exhibited_at(day_for_night, vondelpark).
 exhibited_at(de_appel_foundation, madelon_hooykaas).
 exhibited_at(deep_looking, netherlands_representation_in_south_korea_2005).
+exhibited_at(descry, blue_coat_gallery).
+exhibited_at(descry, kettles_yard).
+exhibited_at(descry, kunstburger).
 exhibited_at(flying_time, sidney_biennale).
 exhibited_at(flying_time, tate).
 exhibited_at(george_barber, berlin_events).
@@ -66,6 +69,7 @@ exhibited_at(madelon_hooykaas, trip_to_japan_1983).
 exhibited_at(madelon_hooykaas, trip_to_sydney_biennale).
 exhibited_at(malvern_well_dressing_festival, malvern).
 exhibited_at(mike_stubbs, torriano_meeting_place).
+exhibited_at(mirror, estonia).
 exhibited_at(not_just_another_art_show, supermarket_in_central_cardiff).
 exhibited_at(one_artist_one_day, angela_flowers_gallery).
 exhibited_at(one_of_these_days, london_film_festival).
@@ -77,6 +81,8 @@ exhibited_at(pieces_i_never_did, lva).
 exhibited_at(primary_structures_1966, new_york).
 exhibited_at(progressive_recession, serpentine_gallery).
 exhibited_at(progressive_recession, serpentine_show_1975).
+exhibited_at(reservoir, portugal).
+exhibited_at(reservoir, tate_liverpool).
 exhibited_at(rose_garrard, calgary_art_gallery).
 exhibited_at(rose_garrard, manchester_cornerhouse).
 exhibited_at(rose_garrard, south_london_gallery).
@@ -87,6 +93,11 @@ exhibited_at(scratch_video_volume_1, edinburgh_television_festival).
 exhibited_at(scratch_video_volume_2, edinburgh_television_festival).
 exhibited_at(sea_of_light, chapter_art_centre).
 exhibited_at(shouting_match, open_eye_gallery_liverpool).
+exhibited_at(silver_lining, tate_liverpool).
+exhibited_at(silver_lining, video_positive).
+exhibited_at(television_circle_electron, british_council).
+exhibited_at(television_circle_electron, museum_of_modern_art_oxford).
+exhibited_at(television_circle_electron, signs_of_the_times).
 exhibited_at(television_interview, british_art_show_ii).
 exhibited_at(television_interview, edinburgh).
 exhibited_at(television_interview, ikon_gallery_birmingham).

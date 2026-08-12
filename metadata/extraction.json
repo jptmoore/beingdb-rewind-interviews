@@ -80,6 +80,29 @@
         "dropped malformed fact {\"predicate\":\"created_by\",\"arguments\":[{\"kind\":\"atom\",\"value\":\"1001_colours_andy_never_thought_of\"},{\"kind\":\"atom\",\"value\":\"george_barber\"}],\"evidence\":\"I did 1001 Colours Andy Never Thought Of with the Marilyn Monroe image.\",\"confidence\":\"explicit\",\"page\":10}: invalid atom \"1001_colours_andy_never_thought_of\""
       ]
     },
+    "judith_goddard": {
+      "id": "judith_goddard",
+      "documentId": "rewind_judith_goddard_interview",
+      "sourceUrl": "https://rewind.ac.uk/rewind/wp-content/uploads/sites/146/2021/03/JG510.pdf",
+      "sourceChecksum": "fa1475dd0b18ef84dea189581b543552945c641112140d612d5d857ab57fb087",
+      "extractedAt": "2026-08-12T10:17:13.679Z",
+      "model": "gpt-4.1",
+      "pipelineVersion": "1",
+      "chunkCount": 5,
+      "factCount": 150,
+      "droppedFactCount": 0,
+      "warnings": [
+        "uses_medium argument 1: coerced string \"single screen\" to atom single_screen to match existing atom-typed facts for this predicate/position",
+        "uses_medium argument 1: coerced string \"7 monitors\" to atom 7_monitors to match existing atom-typed facts for this predicate/position",
+        "uses_medium argument 1: coerced string \"electricity\" to atom electricity to match existing atom-typed facts for this predicate/position",
+        "uses_medium argument 1: coerced string \"video\" to atom video to match existing atom-typed facts for this predicate/position",
+        "uses_medium argument 1: coerced string \"print\" to atom print to match existing atom-typed facts for this predicate/position",
+        "uses_medium argument 1: coerced string \"digital print\" to atom digital_print to match existing atom-typed facts for this predicate/position",
+        "uses_medium argument 1: coerced string \"etching\" to atom etching to match existing atom-typed facts for this predicate/position",
+        "made_at argument 1: coerced string \"Rome\" to atom rome to match existing atom-typed facts for this predicate/position",
+        "made_at argument 1: coerced string \"Naples\" to atom naples to match existing atom-typed facts for this predicate/position"
+      ]
+    },
     "kevin_atherton": {
       "id": "kevin_atherton",
       "documentId": "rewind_kevin_atherton_interview",

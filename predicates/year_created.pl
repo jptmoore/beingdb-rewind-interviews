@@ -28,8 +28,10 @@ year_created(scratch_video_volume_1, @1985).
 year_created(special_video_art_issue_may_1976, @1976).
 year_created(split_seconds, @1979).
 year_created(tape_tape, @1975).
+year_created(the_garden_of_earthly_delights, @1991).
 year_created(the_video_stairs, @1984).
 year_created(time_check, @1971).
+year_created(time_spent, "while Judith Goddard was at Royal College").
 year_created(vertical_roll, @1973).
 year_created(vi_deo_volente, @1985).
 year_created(visual_research_centre_in_dundee_contemporary_arts, @2004).

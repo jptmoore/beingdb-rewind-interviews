@@ -3,6 +3,7 @@
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 created_by(absence_of_satan, george_barber).
 created_by(all_the_pieces_i_never_did, david_critchley).
+created_by(american_landscapes, judith_goddard).
 created_by(an_audience_s_new_clothes, kevin_atherton).
 created_by(another_sphere, kevin_atherton).
 created_by(anthem, bill_viola).
@@ -24,6 +25,8 @@ created_by(day_for_night, elsa).
 created_by(day_for_night, madelon_hooykaas).
 created_by(deep_looking, elsa).
 created_by(deep_looking, madelon_hooykaas).
+created_by(descry, judith_goddard).
+created_by(electron, judith_goddard).
 created_by(elsas_article_on_memory, elsa_stansfield).
 created_by(field_free_space, elsa_stansfield).
 created_by(field_free_space, madelon_hooykaas).
@@ -45,11 +48,15 @@ created_by(intercom_island, elsa_stansfield).
 created_by(intercom_island, madelon_hooykaas).
 created_by(lighthouse, gina_czarnecki).
 created_by(lighthouse, mike_stubbs).
+created_by(luminous_portrait, judith_goddard).
 created_by(lva_london_video_arts, david_hall).
+created_by(lyrical_doubt, judith_goddard).
 created_by(magnetic_north, elsa).
 created_by(magnetic_north, madelon_hooykaas).
 created_by(minutiae, george_barber).
+created_by(mirror, judith_goddard).
 created_by(monologues, george_barber).
+created_by(monument_value_lost, judith_goddard).
 created_by(motion_parallax, david_hall).
 created_by(move_towards_the_verticality_of_the_horizon, david_critchley).
 created_by(museum_of_memory_1, elsa_stansfield).
@@ -64,6 +71,7 @@ created_by(passing_ship, george_barber).
 created_by(pieces_i_never_did, david_critchley).
 created_by(recoil, david_critchley).
 created_by(refusing_potatoes, george_barber).
+created_by(reservoir, judith_goddard).
 created_by(revision, elsa).
 created_by(revision, madelon_hooykaas).
 created_by(river_sky, george_barber).
@@ -89,6 +97,7 @@ created_by(television_interview, kevin_atherton).
 created_by(the_eleventh_hour, kevin_atherton).
 created_by(the_force_behind_this_movement, elsa).
 created_by(the_force_behind_this_movement, madelon_hooykaas).
+created_by(the_garden_of_earthly_delights, judith_goddard).
 created_by(the_greatest_hits_of_scratch_video, george_barber).
 created_by(the_signs_of_la, george_barber).
 created_by(the_tape, kevin_atherton).
@@ -97,6 +106,7 @@ created_by(the_wind_works, madelon_hooykaas).
 created_by(this_is_a_television_receiver, david_hall).
 created_by(three_minute_16_millimetre_film_of_kevin_atherton_as_a_boxer, kevin_atherton).
 created_by(time_check, david_hall).
+created_by(time_spent, judith_goddard).
 created_by(tumble_frame, anna_ridley).
 created_by(tumble_frame, rose_garrard).
 created_by(tumbled_frame, rose_garrard).

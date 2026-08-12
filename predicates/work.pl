@@ -4,6 +4,7 @@
 work(about_time_at_the_ica_1980).
 work(absence_of_satan).
 work(all_the_pieces_i_never_did).
+work(american_landscapes).
 work(an_audience_s_new_clothes).
 work(another_sphere).
 work(anthem).
@@ -18,6 +19,7 @@ work(butlers_wharf_24_minute_retrospective).
 work(camera_sick).
 work(canterbury_tales_project).
 work(cate_elwes_s_book_video_art_a_guided_tour).
+work(celestial_light_and_monstrous_races).
 work(celtic_in_mind).
 work(changing).
 work(city_strap_line_industries).
@@ -31,9 +33,11 @@ work(cultural_quarter).
 work(day_for_night).
 work(deanna_petherbridge_s_book_art_within_reach).
 work(deep_looking).
+work(descry).
 work(double_vision).
 work(drums_along_the_humber).
 work(edge).
+work(electron).
 work(elgar_figure_in_sculpture).
 work(elsas_article_on_memory).
 work(field_free_space).
@@ -52,15 +56,21 @@ work(instruction_limitation).
 work(intercom_island).
 work(iron_horses).
 work(lighthouse).
+work(lives).
 work(luminous_image).
+work(luminous_portrait).
+work(lyrical_doubt).
 work(magnetic_north).
 work(malvina_sculpture).
 work(memory_1_and_2).
 work(memory_1).
 work(miners_campaign_tapes).
 work(minutiae).
+work(mirror).
 work(monologue_pieces).
 work(monologues).
+work(monument_valley).
+work(monument_value_lost).
 work(motion_parallax).
 work(move_towards_the_verticality_of_the_horizon).
 work(municipal_fountain_the_enigma_fountain).
@@ -73,9 +83,11 @@ work(pandora_the_bringer_of_gifts).
 work(passing_ship).
 work(pharmacopoeia).
 work(pieces_i_never_did).
+work(power_station_tape_in_electron).
 work(progressive_recession).
 work(recoil).
 work(refusing_potatoes).
+work(reservoir).
 work(revision).
 work(river_sky).
 work(roselee_goldberg_s_first_edition_of_performance_art).
@@ -88,6 +100,7 @@ work(sea_of_light).
 work(serpentine_1975_show).
 work(shadow_pictures).
 work(shouting_match).
+work(silver_lining).
 work(soapless).
 work(special_video_art_issue_may_1976).
 work(sphere).
@@ -98,6 +111,7 @@ work(stooky_bill_tv).
 work(sweatlodge).
 work(tape_tape).
 work(taxi_driver_ii).
+work(television_circle_electron).
 work(television_interview).
 work(territories).
 work(the_big_breakfast_show).
@@ -105,6 +119,7 @@ work(the_car_piece).
 work(the_catalogue).
 work(the_eleventh_hour).
 work(the_force_behind_this_movement).
+work(the_garden_of_earthly_delights).
 work(the_greatest_hits_of_scratch_video).
 work(the_signs_of_la).
 work(the_starless_cast).
@@ -115,6 +130,7 @@ work(this_is_a_television_receiver).
 work(this_is_a_video_monitor).
 work(three_minute_16_millimetre_film_of_kevin_atherton_as_a_boxer).
 work(time_check).
+work(time_spent).
 work(time).
 work(trialogue).
 work(tumble_frame).

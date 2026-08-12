@@ -2,6 +2,7 @@
 % See metadata/extraction.json for source provenance and candidates/evidence for supporting quotes.
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 person(agnes_martin).
+person(al_rees).
 person(alex_graham).
 person(ali_farka_toure).
 person(alison_winckle).
@@ -27,19 +28,23 @@ person(bill_viola).
 person(brakhage).
 person(brian_hodgeson).
 person(brian_hoey).
+person(brice_nauman).
 person(bridget_riley).
 person(bruce_lacey).
 person(bruce_mclean).
 person(candice_breitz).
 person(carl_craig).
 person(chantal_dupont).
+person(charles_asher).
 person(charlie_hooker).
 person(chris_burden).
 person(chris_monger).
 person(chris_wiltshire).
+person(chrissie_isles).
 person(cindy_sherman).
 person(cleveland_connell).
 person(clive_richardson).
+person(dan_graham).
 person(dave_critchley).
 person(dave_hanson).
 person(dave_mays).
@@ -59,6 +64,7 @@ person(derek).
 person(dick_powel).
 person(don_pennebaker).
 person(dorine_mignot).
+person(dr_wally).
 person(dudu_pakwana).
 person(duvet_brothers).
 person(eddie_berg).
@@ -72,6 +78,7 @@ person(franco_b).
 person(frank_cumani).
 person(frankie_dettori).
 person(gareth_evans).
+person(gary_hill).
 person(genesis_p_orridge).
 person(george_barber).
 person(george_brecht).
@@ -91,6 +98,9 @@ person(ian_bourne).
 person(ian_christie).
 person(isaac_julien).
 person(jack_goldstein).
+person(james_lindwood).
+person(james_lingwood).
+person(jamie_russell).
 person(jan_dibbets).
 person(jane_rigby).
 person(janek_alexander).
@@ -110,6 +120,7 @@ person(john_sale).
 person(john_scarlet_davis).
 person(john_stezaker).
 person(john_thompson).
+person(john_wall).
 person(john_wyver).
 person(johnny_turpie).
 person(jonathan_harvey).
@@ -117,9 +128,11 @@ person(jonathan_miller).
 person(joseph_beuys).
 person(josine_van_drofelaar).
 person(josine_van_droffelaar).
+person(judith_goddard).
 person(julian_petley).
 person(keith_frake).
 person(kerry_trengove).
+person(kev_fraser).
 person(kevin_atherton).
 person(kim_flitcroft).
 person(kipper_kids).
@@ -145,6 +158,7 @@ person(meredith_monk).
 person(michael_archer).
 person(michael_craig_martin).
 person(michael_o_pray).
+person(michael_opray).
 person(michael_snow).
 person(mick_duckworth).
 person(mick_hartney).
@@ -162,6 +176,8 @@ person(paul_morley).
 person(perry_hoberman).
 person(pete_livingstone).
 person(peter_anderson).
+person(peter_boyd_mclean).
+person(peter_cardier).
 person(peter_kardia).
 person(phil_cosca).
 person(philip_glass).
@@ -193,11 +209,13 @@ person(ryoji_ikeda).
 person(sally_williams).
 person(sarah_goldbacher).
 person(sarah_kent).
+person(sean_cubitt).
 person(shigeko_kubota).
 person(sian_edwards).
 person(simon_thorne).
 person(stephen_partridge).
 person(stephen_willats).
+person(steve_foster).
 person(steve_littman).
 person(steve_partridge).
 person(steve_reich).
@@ -206,6 +224,7 @@ person(stuart_marshall).
 person(sue).
 person(sun_ra).
 person(suzy_freeman).
+person(t_s_eliot).
 person(takahiko_imura).
 person(tamara_kirkorian).
 person(tamara_krikorian).
@@ -228,5 +247,6 @@ person(vivian_lovell).
 person(waldemar_januszczak).
 person(weis_smals).
 person(wendy_brown).
+person(william_blake).
 person(william_wegman).
 person(zoe_redman).

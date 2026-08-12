@@ -49,6 +49,16 @@ collaborated_with(jan_van_eyck_academy, bridget_riley).
 collaborated_with(jan_van_eyck_academy, joan_jonas).
 collaborated_with(jan_van_eyck_academy, marina_abramovich).
 collaborated_with(jan_van_eyck_academy, ulrike_rosenbach).
+collaborated_with(judith_goddard, brice_nauman).
+collaborated_with(judith_goddard, dan_graham).
+collaborated_with(judith_goddard, gary_hill).
+collaborated_with(judith_goddard, james_lingwood).
+collaborated_with(judith_goddard, kev_fraser).
+collaborated_with(judith_goddard, peter_cardier).
+collaborated_with(judith_goddard, steve_foster).
+collaborated_with(judith_goddard, television_south_west).
+collaborated_with(judith_goddard, tswa3d).
+collaborated_with(kev_fraser, judith_goddard).
 collaborated_with(kevin_atherton, alison_winckle).
 collaborated_with(kevin_atherton, audio_arts).
 collaborated_with(kevin_atherton, bill_furlong).

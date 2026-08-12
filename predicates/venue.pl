@@ -19,8 +19,10 @@ venue(banff).
 venue(battersea_arts_centre).
 venue(belle_vue_island).
 venue(bergin).
+venue(berlin).
 venue(berwick_street_office).
 venue(biddick_farm).
+venue(blue_coat_gallery).
 venue(botanical_garden_in_montreal).
 venue(bricklayers_arms).
 venue(british_museum).
@@ -33,6 +35,7 @@ venue(chapter_art_centre).
 venue(chapter_arts_centre).
 venue(cornerhouse).
 venue(covent_garden).
+venue(dartmoor).
 venue(de_appel_gallery).
 venue(de_appel).
 venue(dixons_soho).
@@ -41,10 +44,13 @@ venue(ealing_school_of_art).
 venue(earlham_street).
 venue(edinburgh_airport).
 venue(edinburgh).
+venue(edit_suites_in_glasgow).
+venue(estonia).
 venue(fantasy_factory).
 venue(film_museum_amsterdam).
 venue(finchley_road).
 venue(finland).
+venue(first_gallery_in_plymouth).
 venue(gallery_house).
 venue(gallery_in_bremen).
 venue(garage_gallery).
@@ -57,9 +63,12 @@ venue(ica_london).
 venue(ica_the_mall).
 venue(ica_theatre).
 venue(ikon_gallery_birmingham).
+venue(john_hansard_gallery).
 venue(kettles_yard).
+venue(kunstburger).
 venue(little_newport_street_soho).
 venue(london_film_festival).
+venue(london).
 venue(lyc_museum_banks).
 venue(lyc_museum).
 venue(maastricht).
@@ -90,6 +99,7 @@ venue(photographers_gallery_london).
 venue(photographers_gallery_milan).
 venue(pmj_self).
 venue(richmond_park).
+venue(rosebery_avenue).
 venue(rosemary_gallery).
 venue(rotterdam).
 venue(sauchiehall_street).
@@ -123,6 +133,7 @@ venue(umea).
 venue(v_a).
 venue(vancouver_art_gallery).
 venue(vancouver).
+venue(video_residency_in_maidstone).
 venue(visual_research_centre_in_dundee_contemporary_arts).
 venue(vondelpark).
 venue(wapping_rotherhithe_tunnel).

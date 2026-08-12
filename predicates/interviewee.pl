@@ -4,6 +4,7 @@
 interviewee(rewind_david_critchley_interview, david_critchley).
 interviewee(rewind_david_hall_interview, david_hall).
 interviewee(rewind_george_barber_interview, george_barber).
+interviewee(rewind_judith_goddard_interview, judith_goddard).
 interviewee(rewind_kevin_atherton_interview, kevin_atherton).
 interviewee(rewind_madelon_hooykaas_interview, madelon_hooykaas).
 interviewee(rewind_mike_stubbs_interview, mike_stubbs).
