@@ -2,6 +2,7 @@
 % See metadata/extraction.json for source provenance and candidates/evidence for supporting quotes.
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 made_at(horizontal_flow, teesside_college_of_art).
+made_at(incidents_in_a_garden, acme_gallery).
 made_at(kevin_atherton, amsterdam).
 made_at(kevin_atherton, de_appel_gallery).
 made_at(lighthouse, withernsea).

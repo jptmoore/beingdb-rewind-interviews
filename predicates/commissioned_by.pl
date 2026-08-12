@@ -2,5 +2,6 @@
 % See metadata/extraction.json for source provenance and candidates/evidence for supporting quotes.
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 commissioned_by(homing, bbc).
+commissioned_by(rose_garrard, great_malvern).
 commissioned_by(television_interview, arts_council_of_great_britain).
 commissioned_by(this_is_a_television_receiver, bbc_2).

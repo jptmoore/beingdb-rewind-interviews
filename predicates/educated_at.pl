@@ -11,4 +11,7 @@ educated_at(elsa_stansfield, slade_school_of_art).
 educated_at(kevin_atherton, leeds_college_of_art).
 educated_at(mike_stubbs, cardiff_art_college).
 educated_at(mike_stubbs, royal_college_of_art).
+educated_at(rose_garrard, birmingham_college_of_art).
+educated_at(rose_garrard, chelsea).
+educated_at(rose_garrard, stourbridge_college).
 educated_at(tony_hill, saint_martins).

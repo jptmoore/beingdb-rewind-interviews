@@ -2,4 +2,5 @@
 % See metadata/extraction.json for source provenance and candidates/evidence for supporting quotes.
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 organised_by(locations_edinburgh, scottish_arts_council).
+organised_by(malvern_spa_association, rose_garrard).
 organised_by(video_manifestation, elsa_stansfield).

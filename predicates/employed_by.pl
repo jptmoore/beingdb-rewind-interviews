@@ -22,3 +22,8 @@ employed_by(madelon_hooykaas, london_video_arts_lva).
 employed_by(madelon_hooykaas, paris).
 employed_by(malcolm_le_grice, saint_martins).
 employed_by(mike_stubbs, australian_centre_for_the_moving_image).
+employed_by(rose_garrard, corydon_college_of_art).
+employed_by(rose_garrard, dartington).
+employed_by(rose_garrard, reading_university).
+employed_by(rose_garrard, sheffield).
+employed_by(rose_garrard, worcestershire).

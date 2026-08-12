@@ -64,3 +64,13 @@ collaborated_with(mike_stubbs, ulf_langheinrich).
 collaborated_with(mike_stubbs, v2).
 collaborated_with(mike_stubbs, werkleitz_gesellschaft).
 collaborated_with(montevideo, institute_of_cultural_heritage_in_the_netherlands).
+collaborated_with(rose_garrard, anna_ridley).
+collaborated_with(rose_garrard, annalogue_production_company).
+collaborated_with(rose_garrard, bruce_mclean).
+collaborated_with(rose_garrard, duncan_of_jordanstone_college_of_art).
+collaborated_with(rose_garrard, kerry_trengove).
+collaborated_with(rose_garrard, kipper_kids).
+collaborated_with(rose_garrard, ron_hazelden).
+collaborated_with(rose_garrard, royal_ballet_school).
+collaborated_with(rose_garrard, steve_partridge).
+collaborated_with(rose_garrard, stuart_brisley).

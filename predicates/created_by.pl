@@ -7,7 +7,9 @@ created_by(anthem, bill_viola).
 created_by(any_questions, kevin_atherton).
 created_by(audio_video_installations_catalogue, josine_van_droffelaar).
 created_by(behind_the_veil, eve_arnold).
+created_by(between_the_lines, rose_garrard).
 created_by(brixton_pieces, kevin_atherton).
+created_by(celtic_in_mind, rose_garrard).
 created_by(compass, elsa).
 created_by(compass, madelon_hooykaas).
 created_by(contortions, mike_stubbs).
@@ -30,6 +32,7 @@ created_by(homing, mike_stubbs).
 created_by(horizontal_flow, elsa_stansfield).
 created_by(horizontal_flow, madelon_hooykaas).
 created_by(in_two_minds, kevin_atherton).
+created_by(incidents_in_a_garden, rose_garrard).
 created_by(inside_outside, elsa).
 created_by(inside_outside, madelon_hooykaas).
 created_by(intercom_island, elsa_stansfield).
@@ -47,6 +50,7 @@ created_by(on_boundaries, elsa).
 created_by(on_boundaries, madelon_hooykaas).
 created_by(one_of_these_days, elsa_stansfield).
 created_by(one_of_these_days, madelon_hooykaas).
+created_by(pandora_the_bringer_of_gifts, rose_garrard).
 created_by(pieces_i_never_did, david_critchley).
 created_by(revision, elsa).
 created_by(revision, madelon_hooykaas).
@@ -72,8 +76,12 @@ created_by(the_wind_works, madelon_hooykaas).
 created_by(this_is_a_television_receiver, david_hall).
 created_by(three_minute_16_millimetre_film_of_kevin_atherton_as_a_boxer, kevin_atherton).
 created_by(time_check, david_hall).
+created_by(tumble_frame, anna_ridley).
+created_by(tumble_frame, rose_garrard).
+created_by(tumbled_frame, rose_garrard).
 created_by(tv_interruptions, david_hall).
 created_by(two_sides_of_a_story, hooykaas_stansfield).
+created_by(universal_man_in_forty_five_tasks, rose_garrard).
 created_by(vertical_roll, joan_jonas).
 created_by(vertical, david_hall).
 created_by(vi_deo_volente, elsa).

@@ -13,6 +13,10 @@ uses_medium(gallery_guide, performance).
 uses_medium(gallery_guide, video_projection).
 uses_medium(gallery_guide, video).
 uses_medium(gallery_guide, virtual_reality).
+uses_medium(incidents_in_a_garden, black_and_white_reel_to_reel_tape).
+uses_medium(incidents_in_a_garden, performance).
+uses_medium(incidents_in_a_garden, ventriloquist_dummies).
+uses_medium(incidents_in_a_garden, video).
 uses_medium(kevin_atherton, bronze).
 uses_medium(kevin_atherton, sound).
 uses_medium(kevin_atherton, television_commercial).

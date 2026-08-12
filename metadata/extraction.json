@@ -81,6 +81,25 @@
       "factCount": 221,
       "droppedFactCount": 0,
       "warnings": []
+    },
+    "rose_garrard": {
+      "id": "rose_garrard",
+      "documentId": "rewind_rose_garrard_interview",
+      "sourceUrl": "https://rewind.ac.uk/rewind/wp-content/uploads/sites/146/2021/03/RG510.pdf",
+      "sourceChecksum": "245f3872c21924d95fd8252259148ea71481b9d5edbb82da3545e6b0c5252a5e",
+      "extractedAt": "2026-08-12T09:54:26.976Z",
+      "model": "gpt-4.1",
+      "pipelineVersion": "1",
+      "chunkCount": 11,
+      "factCount": 182,
+      "droppedFactCount": 1,
+      "warnings": [
+        "uses_medium argument 1: coerced string \"black-and-white reel-to-reel tape\" to atom black_and_white_reel_to_reel_tape to match existing atom-typed facts for this predicate/position",
+        "uses_medium argument 1: coerced string \"performance\" to atom performance to match existing atom-typed facts for this predicate/position",
+        "uses_medium argument 1: coerced string \"ventriloquist dummies\" to atom ventriloquist_dummies to match existing atom-typed facts for this predicate/position",
+        "uses_medium argument 1: coerced string \"video\" to atom video to match existing atom-typed facts for this predicate/position",
+        "dropped year_created(pandora_marble_sculpture, @1985).: confidence=uncertain"
+      ]
     }
   }
 }
