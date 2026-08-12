@@ -40,5 +40,12 @@
     "url": "https://rewind.ac.uk/rewind/wp-content/uploads/sites/146/2021/03/GB510.pdf",
     "documentId": "rewind_george_barber_interview",
     "personId": "george_barber"
+  },
+  {
+    "id": "david_critchley",
+    "name": "David Critchley",
+    "url": "https://rewind.ac.uk/rewind/wp-content/uploads/sites/146/2021/03/DC503.pdf",
+    "documentId": "rewind_david_critchley_interview",
+    "personId": "david_critchley"
   }
 ]
