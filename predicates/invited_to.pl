@@ -2,6 +2,7 @@
 % See metadata/extraction.json for source provenance and candidates/evidence for supporting quotes.
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 invited_to(bridget_riley, jan_van_eyck_academy).
+invited_to(david_hall, locations_edinburgh).
 invited_to(joan_jonas, jan_van_eyck_academy).
 invited_to(john_latham, jan_van_eyck_academy).
 invited_to(marina_abramovich, jan_van_eyck_academy).

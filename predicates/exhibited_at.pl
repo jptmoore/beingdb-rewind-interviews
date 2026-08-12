@@ -3,8 +3,11 @@
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 exhibited_at(an_audience_s_new_clothes, musee_d_art_moderne).
 exhibited_at(an_audience_s_new_clothes, un_certain_art_anglais).
+exhibited_at(british_sculpture_out_of_the_sixties_1970, ica_the_mall).
 exhibited_at(compass, luminous_image).
 exhibited_at(coronation_street_piece, british_art_show).
+exhibited_at(david_hall, british_sculpture_out_of_the_sixties_1970).
+exhibited_at(david_hall, primary_structures_1966).
 exhibited_at(day_for_night, botanical_garden_in_montreal).
 exhibited_at(day_for_night, dundee).
 exhibited_at(day_for_night, montreal).
@@ -33,6 +36,8 @@ exhibited_at(kevin_atherton, air_gallery).
 exhibited_at(kevin_atherton, rosemary_gallery).
 exhibited_at(kevin_atherton, un_certain_art_anglais).
 exhibited_at(luminous_image, stedelijk_museum_of_modern_art_in_amsterdam).
+exhibited_at(lva_london_video_arts, acme).
+exhibited_at(lva_london_video_arts, air_gallery).
 exhibited_at(madelon_hooykaas, de_appel_foundation).
 exhibited_at(madelon_hooykaas, halifax).
 exhibited_at(madelon_hooykaas, milan).
@@ -47,15 +52,23 @@ exhibited_at(mike_stubbs, torriano_meeting_place).
 exhibited_at(not_just_another_art_show, supermarket_in_central_cardiff).
 exhibited_at(one_artist_one_day, angela_flowers_gallery).
 exhibited_at(one_of_these_days, london_film_festival).
+exhibited_at(primary_structures_1966, new_york).
+exhibited_at(progressive_recession, serpentine_gallery).
+exhibited_at(progressive_recession, serpentine_show_1975).
 exhibited_at(running_time_1979, retrospective_festivals).
 exhibited_at(sea_of_light, chapter_art_centre).
 exhibited_at(television_interview, british_art_show_ii).
 exhibited_at(television_interview, edinburgh).
 exhibited_at(television_interview, ikon_gallery_birmingham).
 exhibited_at(television_interview, southampton).
+exhibited_at(this_is_a_television_receiver, bbc_2).
+exhibited_at(tv_interruptions, hayward_gallery).
+exhibited_at(tv_interruptions, ino_seventy).
 exhibited_at(vi_deo_volente, de_appel).
 exhibited_at(video_times, ikon_gallery_birmingham).
 exhibited_at(video_void, the_kitchen).
+exhibited_at(wavelength, arts_lab).
 exhibited_at(what_the_eye_doesn_t_see_post_industrial_studies_number_1, river_crossings_with_camerawork).
 exhibited_at(whats_it_to_you, third_eye_centre).
 exhibited_at(whitechapel_art_gallery, madelon_hooykaas).
+exhibited_at(window_water_baby_moving, experimental_film_show_1966).

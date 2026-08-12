@@ -1,0 +1,1290 @@
+[
+  {
+    "fact": "person(david_hall).",
+    "source": "david_hall",
+    "evidence": "Interview with David Hall",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "organisation(royal_college).",
+    "source": "david_hall",
+    "evidence": "then continued at the Royal College until 1964",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "educated_at(david_hall, royal_college).",
+    "source": "david_hall",
+    "evidence": "then continued at the Royal College until 1964",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "exhibited_at(david_hall, primary_structures_1966).",
+    "source": "david_hall",
+    "evidence": "I was in this show called Primary Structures, which was the first major Minimal Art show on and in New York in 1966.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "exhibition(primary_structures_1966).",
+    "source": "david_hall",
+    "evidence": "I was in this show called Primary Structures, which was the first major Minimal Art show on and in New York in 1966.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "venue(new_york).",
+    "source": "david_hall",
+    "evidence": "I was in this show called Primary Structures, which was the first major Minimal Art show on and in New York in 1966.",
+    "confidence": "supported",
+    "page": 1
+  },
+  {
+    "fact": "exhibited_at(primary_structures_1966, new_york).",
+    "source": "david_hall",
+    "evidence": "I was in this show called Primary Structures, which was the first major Minimal Art show on and in New York in 1966.",
+    "confidence": "supported",
+    "page": 1
+  },
+  {
+    "fact": "organisation(artist_placement_group).",
+    "source": "david_hall",
+    "evidence": "At that time I also got involved in the beginnings of Artist Placement Group with John Latham and others: Jeffrey Shaw, Stuart Brisley and Barry Flanagan.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "collaborated_with(david_hall, john_latham).",
+    "source": "david_hall",
+    "evidence": "At that time I also got involved in the beginnings of Artist Placement Group with John Latham and others: Jeffrey Shaw, Stuart Brisley and Barry Flanagan.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "collaborated_with(david_hall, jeffrey_shaw).",
+    "source": "david_hall",
+    "evidence": "At that time I also got involved in the beginnings of Artist Placement Group with John Latham and others: Jeffrey Shaw, Stuart Brisley and Barry Flanagan.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "collaborated_with(david_hall, stuart_brisley).",
+    "source": "david_hall",
+    "evidence": "At that time I also got involved in the beginnings of Artist Placement Group with John Latham and others: Jeffrey Shaw, Stuart Brisley and Barry Flanagan.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "collaborated_with(david_hall, barry_flanagan).",
+    "source": "david_hall",
+    "evidence": "At that time I also got involved in the beginnings of Artist Placement Group with John Latham and others: Jeffrey Shaw, Stuart Brisley and Barry Flanagan.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(john_latham).",
+    "source": "david_hall",
+    "evidence": "At that time I also got involved in the beginnings of Artist Placement Group with John Latham and others: Jeffrey Shaw, Stuart Brisley and Barry Flanagan.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(jeffrey_shaw).",
+    "source": "david_hall",
+    "evidence": "At that time I also got involved in the beginnings of Artist Placement Group with John Latham and others: Jeffrey Shaw, Stuart Brisley and Barry Flanagan.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(stuart_brisley).",
+    "source": "david_hall",
+    "evidence": "At that time I also got involved in the beginnings of Artist Placement Group with John Latham and others: Jeffrey Shaw, Stuart Brisley and Barry Flanagan.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(barry_flanagan).",
+    "source": "david_hall",
+    "evidence": "At that time I also got involved in the beginnings of Artist Placement Group with John Latham and others: Jeffrey Shaw, Stuart Brisley and Barry Flanagan.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "venue(ica_the_mall).",
+    "source": "david_hall",
+    "evidence": "There was a show later, in 1970, which was really the end of one thing and the beginning of another for me, called British Sculpture Out of the Sixties. I did this piece where I actually took stuff out of the ICA, rather than putting it in. ... There was a painted floor in the ICA in the Mall.",
+    "confidence": "explicit",
+    "page": 2
+  },
+  {
+    "fact": "exhibition(british_sculpture_out_of_the_sixties_1970).",
+    "source": "david_hall",
+    "evidence": "There was a show later, in 1970, which was really the end of one thing and the beginning of another for me, called British Sculpture Out of the Sixties.",
+    "confidence": "explicit",
+    "page": 2
+  },
+  {
+    "fact": "exhibited_at(david_hall, british_sculpture_out_of_the_sixties_1970).",
+    "source": "david_hall",
+    "evidence": "There was a show later, in 1970, which was really the end of one thing and the beginning of another for me, called British Sculpture Out of the Sixties.",
+    "confidence": "explicit",
+    "page": 2
+  },
+  {
+    "fact": "exhibited_at(british_sculpture_out_of_the_sixties_1970, ica_the_mall).",
+    "source": "david_hall",
+    "evidence": "There was a show later, in 1970, which was really the end of one thing and the beginning of another for me, called British Sculpture Out of the Sixties. ... There was a painted floor in the ICA in the Mall.",
+    "confidence": "supported",
+    "page": 2
+  },
+  {
+    "fact": "created_by(motion_parallax, david_hall).",
+    "source": "david_hall",
+    "evidence": "The first film I made was about 1968 and was a twin screen. I made twin screen thing called Motion Parallax.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "year_created(motion_parallax, @1968).",
+    "source": "david_hall",
+    "evidence": "The first film I made was about 1968 and was a twin screen. I made twin screen thing called Motion Parallax.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "uses_medium(motion_parallax, film).",
+    "source": "david_hall",
+    "evidence": "The first film I made was about 1968 and was a twin screen. I made twin screen thing called Motion Parallax. It was black-and-white.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "uses_medium(motion_parallax, black_and_white).",
+    "source": "david_hall",
+    "evidence": "I made twin screen thing called Motion Parallax. It was black-and-white.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "filmed_at(motion_parallax, richmond_park).",
+    "source": "david_hall",
+    "evidence": "I drove a car around Richmond Park, or someone else drove the car, and I was operating the camera, stuck out of the window of the car, filming as we drove along.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "created_by(vertical, david_hall).",
+    "source": "david_hall",
+    "evidence": "I made a film that I called Vertical",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "funded_by(vertical, arts_council).",
+    "source": "david_hall",
+    "evidence": "I got a grant from the Arts Council. I think it was the first Arts Council grant to an artist to make a film, and I made a film that I called Vertical",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "uses_medium(vertical, film).",
+    "source": "david_hall",
+    "evidence": "I made a film that I called Vertical",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "uses_medium(vertical, natural_sound).",
+    "source": "david_hall",
+    "evidence": "I actually used natural sound so hopefully you felt you were inside this window frame looking out onto the world",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "work(motion_parallax).",
+    "source": "david_hall",
+    "evidence": "I made twin screen thing called Motion Parallax.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "work(vertical).",
+    "source": "david_hall",
+    "evidence": "I made a film that I called Vertical",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "organisation(arts_council).",
+    "source": "david_hall",
+    "evidence": "I got a grant from the Arts Council.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "venue(richmond_park).",
+    "source": "david_hall",
+    "evidence": "I drove a car around Richmond Park, or someone else drove the car, and I was operating the camera, stuck out of the window of the car, filming as we drove along.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "work(tv_interruptions).",
+    "source": "david_hall",
+    "evidence": "So I made those pieces as TV Interruptions, unannounced. I consider them video because ultimately they went on video to be broadcast.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "venue(national_film_theatre_nft1).",
+    "source": "david_hall",
+    "evidence": "That was the National Film Theatre in the NFT1, which is the biggest cinema there.",
+    "confidence": "explicit",
+    "page": 5
+  },
+  {
+    "fact": "person(mike_snow_michael_snow).",
+    "source": "david_hall",
+    "evidence": "one piece that I had seen almost at the same time, probably just before making it but I don’t think there’s any similarity in any way shape or form, was Mike Snow’s Wavelength.",
+    "confidence": "explicit",
+    "page": 5
+  },
+  {
+    "fact": "work(wavelength).",
+    "source": "david_hall",
+    "evidence": "...was Mike Snow’s Wavelength. That had been shown at the Arts Lab in something like 1967 or 1968.",
+    "confidence": "explicit",
+    "page": 5
+  },
+  {
+    "fact": "venue(arts_lab).",
+    "source": "david_hall",
+    "evidence": "That had been shown at the Arts Lab in something like 1967 or 1968.",
+    "confidence": "explicit",
+    "page": 5
+  },
+  {
+    "fact": "organisation(film_co_op).",
+    "source": "david_hall",
+    "evidence": "There was Arts lab I think, and perhaps the Film Co-op, but generally galleries weren’t showing film.",
+    "confidence": "explicit",
+    "page": 5
+  },
+  {
+    "fact": "organisation(artist_placement_group_apg).",
+    "source": "david_hall",
+    "evidence": "because I’d worked as a sculptor and then I was working with people, like in the Artist Placement Group...",
+    "confidence": "explicit",
+    "page": 5
+  },
+  {
+    "fact": "created_by(tv_interruptions, david_hall).",
+    "source": "david_hall",
+    "evidence": "So I made those pieces as TV Interruptions, unannounced.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "exhibited_at(wavelength, arts_lab).",
+    "source": "david_hall",
+    "evidence": "That had been shown at the Arts Lab in something like 1967 or 1968.",
+    "confidence": "explicit",
+    "page": 5
+  },
+  {
+    "fact": "person(anna_ridley).",
+    "source": "david_hall",
+    "evidence": "With my partner, Anna Ridley at the time, I bought one of the first Portapaks from Dixons.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "venue(dixons_soho).",
+    "source": "david_hall",
+    "evidence": "It was from Dixons in Soho, I think in 1971, or even 1972.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "organisation(scottish_television).",
+    "source": "david_hall",
+    "evidence": "I was refused the use of video that was available, external to broadcasting in those days, by Scottish Television.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "organisation(royal_college_of_art).",
+    "source": "david_hall",
+    "evidence": "They used heavy 2’’ video in those days, RCA stuff.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "organisation(sony).",
+    "source": "david_hall",
+    "evidence": "Then Sony and others developed them to sell, to be used as a public, non-broadcast medium.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "venue(hayward_gallery).",
+    "source": "david_hall",
+    "evidence": "That was used in the Hayward Gallery in 1971.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "exhibition(ino_seventy).",
+    "source": "david_hall",
+    "evidence": "There was a thing called INO Seventy, it was an APG show. The Artist Placement Group took over the Hayward Gallery and I re-showed the things I’d done for Scottish television in 1971 on the C format that were actually originally made on.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "exhibited_at(tv_interruptions, ino_seventy).",
+    "source": "david_hall",
+    "evidence": "I re-showed the things I’d done for Scottish television in 1971 on the C format... There was a thing called INO Seventy, it was an APG show.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "exhibited_at(tv_interruptions, hayward_gallery).",
+    "source": "david_hall",
+    "evidence": "That was used in the Hayward Gallery in 1971.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "collaborated_with(david_hall, anna_ridley).",
+    "source": "david_hall",
+    "evidence": "With my partner, Anna Ridley at the time, I bought one of the first Portapaks from Dixons.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "organisation(scottish_arts_council).",
+    "source": "david_hall",
+    "evidence": "Scottish Arts Council invited me to take part in a show that they were calling Locations Edinburgh.",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "person(alistair_macintosh).",
+    "source": "david_hall",
+    "evidence": "It was the first time a very go-ahead young curator was behind it called Alistair Macintosh, who wanted to do a show outside of the gallery.",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "exhibition(locations_edinburgh).",
+    "source": "david_hall",
+    "evidence": "Scottish Arts Council invited me to take part in a show that they were calling Locations Edinburgh.",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "venue(edinburgh_airport).",
+    "source": "david_hall",
+    "evidence": "So at lunch time I drove like a maniac out to Edinburgh airport, put the exposed film in a can down to I think Kay’s Laboratory in Soho",
+    "confidence": "explicit",
+    "page": 8
+  },
+  {
+    "fact": "organisation(kays_laboratory_soho).",
+    "source": "david_hall",
+    "evidence": "put the exposed film in a can down to I think Kay’s Laboratory in Soho",
+    "confidence": "explicit",
+    "page": 8
+  },
+  {
+    "fact": "venue(studio_in_penicuik).",
+    "source": "david_hall",
+    "evidence": "drove back to a little studio I hired in Penicuik, which is outside Edinburgh in the mountains, where I edited it and put it together with the sound.",
+    "confidence": "explicit",
+    "page": 8
+  },
+  {
+    "fact": "invited_to(david_hall, locations_edinburgh).",
+    "source": "david_hall",
+    "evidence": "Scottish Arts Council invited me to take part in a show that they were calling Locations Edinburgh.",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "curated_by(locations_edinburgh, alistair_macintosh).",
+    "source": "david_hall",
+    "evidence": "It was the first time a very go-ahead young curator was behind it called Alistair Macintosh, who wanted to do a show outside of the gallery.",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "organised_by(locations_edinburgh, scottish_arts_council).",
+    "source": "david_hall",
+    "evidence": "Scottish Arts Council invited me to take part in a show that they were calling Locations Edinburgh.",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "approached(david_hall, scottish_television).",
+    "source": "david_hall",
+    "evidence": "Well I think we, i.e. me and the curator of the Scottish Arts Council, approached Scottish Television",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "approached(alistair_macintosh, scottish_television).",
+    "source": "david_hall",
+    "evidence": "Well I think we, i.e. me and the curator of the Scottish Arts Council, approached Scottish Television",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "edited_at(david_hall, studio_in_penicuik).",
+    "source": "david_hall",
+    "evidence": "drove back to a little studio I hired in Penicuik, which is outside Edinburgh in the mountains, where I edited it and put it together with the sound.",
+    "confidence": "explicit",
+    "page": 8
+  },
+  {
+    "fact": "used_lab(david_hall, kays_laboratory_soho).",
+    "source": "david_hall",
+    "evidence": "put the exposed film in a can down to I think Kay’s Laboratory in Soho",
+    "confidence": "explicit",
+    "page": 8
+  },
+  {
+    "fact": "organisation(british_film_institute).",
+    "source": "david_hall",
+    "evidence": "At the BFI, I think, in the cutting room.",
+    "confidence": "explicit",
+    "page": 9
+  },
+  {
+    "fact": "work(time_check).",
+    "source": "david_hall",
+    "evidence": "I got money from the British Film Institute to make a film called Time Check",
+    "confidence": "explicit",
+    "page": 9
+  },
+  {
+    "fact": "organisation(british_council).",
+    "source": "david_hall",
+    "evidence": "the British Council in those days bought quite a number of copies and had them distributed around the world but as films.",
+    "confidence": "explicit",
+    "page": 9
+  },
+  {
+    "fact": "organisation(maidstone_college).",
+    "source": "david_hall",
+    "evidence": "I was teaching already the odd day a week at Maidstone...",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "organisation(kingston_college).",
+    "source": "david_hall",
+    "evidence": "I was teaching already the odd day a week at... Kingston",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "organisation(saint_martins).",
+    "source": "david_hall",
+    "evidence": "about a year later at Saint Martins",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "person(david_dye).",
+    "source": "david_hall",
+    "evidence": "people at Saint Martins like David Dye and Tony Hill, were students of mine.",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "person(tony_hill).",
+    "source": "david_hall",
+    "evidence": "people at Saint Martins like David Dye and Tony Hill, were students of mine.",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "person(malcolm_le_grice).",
+    "source": "david_hall",
+    "evidence": "Malcolm Le Grice was teaching in the painting school.",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "created_by(time_check, david_hall).",
+    "source": "david_hall",
+    "evidence": "I got money from the British Film Institute to make a film called Time Check, the longest film I’ve made, it was about 45 minutes.",
+    "confidence": "explicit",
+    "page": 9
+  },
+  {
+    "fact": "year_created(time_check, @1971).",
+    "source": "david_hall",
+    "evidence": "Within a year, I put together the seven I’d chosen as a kind of compilation and decided to kind of show them. But I showed them as films projected, which in retrospect I shouldn’t have done really.",
+    "confidence": "supported",
+    "page": 9
+  },
+  {
+    "fact": "employed_by(david_hall, maidstone_college).",
+    "source": "david_hall",
+    "evidence": "I was teaching already the odd day a week at Maidstone...",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "employed_by(david_hall, kingston_college).",
+    "source": "david_hall",
+    "evidence": "I was teaching already the odd day a week at... Kingston",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "employed_by(david_hall, saint_martins).",
+    "source": "david_hall",
+    "evidence": "about a year later at Saint Martins",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "educated_at(david_dye, saint_martins).",
+    "source": "david_hall",
+    "evidence": "people at Saint Martins like David Dye and Tony Hill, were students of mine. They were in sculpture officially.",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "educated_at(tony_hill, saint_martins).",
+    "source": "david_hall",
+    "evidence": "people at Saint Martins like David Dye and Tony Hill, were students of mine. They were in sculpture officially.",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "employed_by(malcolm_le_grice, saint_martins).",
+    "source": "david_hall",
+    "evidence": "Malcolm Le Grice was teaching in the painting school.",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "venue(maidstone).",
+    "source": "david_hall",
+    "evidence": "We managed to get the Arts Council to pay for some bursaries: one a year, to work at Maidstone.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "venue(newcastle).",
+    "source": "david_hall",
+    "evidence": "a year or two after I’d started at Maidstone that the thing at Newcastle started. Stuart Marshall was there.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "person(stuart_marshall).",
+    "source": "david_hall",
+    "evidence": "Stuart Marshall was there. He came down with some students...",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "organisation(lcp).",
+    "source": "david_hall",
+    "evidence": "people from LCP came and on one occasion, I remember, we had a quite a good session where students would show work.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "organisation(bbc_2).",
+    "source": "david_hall",
+    "evidence": "How you managed to get This is a Television Receiver shown on BBC 2?",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "organisation(arena_tv_programme).",
+    "source": "david_hall",
+    "evidence": "It was the first ever programme on video art, it was certainly the first Arena that tried to tackle it...",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "work(this_is_a_television_receiver).",
+    "source": "david_hall",
+    "evidence": "This is a Television Receiver opened the show...",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "person(mark_kidel).",
+    "source": "david_hall",
+    "evidence": "I think Mark Kidel, who was the producer, his voice over was talking a bit about what the programme was going to do...",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "venue(dundee).",
+    "source": "david_hall",
+    "evidence": "I still have it on tape, although it’s falling to bits...I think there’s probably a copy in Dundee anyway.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "venue(gallery_house).",
+    "source": "david_hall",
+    "evidence": "it was a video installation at Gallery House in 1972...",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "organisation(goethe_institute).",
+    "source": "david_hall",
+    "evidence": "such as it was a small art gallery part of the Goethe Institute where there was other moving image work on show...",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "venue(shepherds_bush).",
+    "source": "david_hall",
+    "evidence": "Actually, technicians who’d supplied all the TV sets from down in Shepherds Bush, were asked to come and keep them running.",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "person(richard_baker).",
+    "source": "david_hall",
+    "evidence": "then Richard Baker saying, “This is a Television Receiver”.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "work(this_is_a_video_monitor).",
+    "source": "david_hall",
+    "evidence": "I’ve made other single-screen works like This is a Video Monitor, and a number of other works as single-screen works...",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "created_by(this_is_a_television_receiver, david_hall).",
+    "source": "david_hall",
+    "evidence": "How you managed to get This is a Television Receiver shown on BBC 2?",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "commissioned_by(this_is_a_television_receiver, bbc_2).",
+    "source": "david_hall",
+    "evidence": "I was actually commissioned to do it. It was the first ever programme on video art...",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "exhibited_at(this_is_a_television_receiver, bbc_2).",
+    "source": "david_hall",
+    "evidence": "How you managed to get This is a Television Receiver shown on BBC 2?",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "curated_by(this_is_a_television_receiver, mark_kidel).",
+    "source": "david_hall",
+    "evidence": "I think Mark Kidel, who was the producer, his voice over was talking a bit about what the programme was going to do...",
+    "confidence": "supported",
+    "page": 11
+  },
+  {
+    "fact": "exhibition(serpentine_show_1975).",
+    "source": "david_hall",
+    "evidence": "Then a bit later on at the Serpentine show, in 1975",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "venue(serpentine_gallery).",
+    "source": "david_hall",
+    "evidence": "Then a bit later on at the Serpentine show, in 1975",
+    "confidence": "supported",
+    "page": 13
+  },
+  {
+    "fact": "work(progressive_recession).",
+    "source": "david_hall",
+    "evidence": "I did two pieces, I did that 101 TV Sets and Progressive Recession and each had a week.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "exhibited_at(progressive_recession, serpentine_show_1975).",
+    "source": "david_hall",
+    "evidence": "I did two pieces, I did that 101 TV Sets and Progressive Recession and each had a week. They were set up for a week each.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "exhibited_at(progressive_recession, serpentine_gallery).",
+    "source": "david_hall",
+    "evidence": "I did two pieces, I did that 101 TV Sets and Progressive Recession and each had a week. They were set up for a week each.",
+    "confidence": "supported",
+    "page": 13
+  },
+  {
+    "fact": "organisation(london_video_arts_lva).",
+    "source": "david_hall",
+    "evidence": "With LVA, I was one of the founders",
+    "confidence": "explicit",
+    "page": 14
+  },
+  {
+    "fact": "founded_by(london_video_arts_lva, david_hall).",
+    "source": "david_hall",
+    "evidence": "With LVA, I was one of the founders but in modesty I think it was I that suggested we needed it initially. I suggested this would be a good idea and that happened.",
+    "confidence": "explicit",
+    "page": 14
+  },
+  {
+    "fact": "venue(bricklayers_arms).",
+    "source": "david_hall",
+    "evidence": "we would then go to a thing I think it was called the Bricklayers Arms, a pub right on the end of Tower Bridge afterwards",
+    "confidence": "explicit",
+    "page": 14
+  },
+  {
+    "fact": "funded_by(david_hall, arts_council).",
+    "source": "david_hall",
+    "evidence": "I got some funding personally from the Arts Council to make a few films.",
+    "confidence": "explicit",
+    "page": 14
+  },
+  {
+    "fact": "funded_by(david_hall, british_council).",
+    "source": "david_hall",
+    "evidence": "I got some funding to travel from the British Council.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "acquired_by(david_hall, british_council).",
+    "source": "david_hall",
+    "evidence": "I got some work purchased by the British Council ...",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "acquired_by(david_hall, arts_council).",
+    "source": "david_hall",
+    "evidence": "I got some work purchased by ... the Arts Council ...",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "funded_by(lva_london_video_arts, arts_council).",
+    "source": "david_hall",
+    "evidence": "With LVA, obviously there was quite a bit of funding from the Arts Council. They gave you core funding.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "created_by(lva_london_video_arts, david_hall).",
+    "source": "david_hall",
+    "evidence": "I was only involved the first few years when we had the initial struggle to set it up.",
+    "confidence": "supported",
+    "page": 15
+  },
+  {
+    "fact": "year_created(lva_london_video_arts, @1976).",
+    "source": "david_hall",
+    "evidence": "LVA was set up in 1976.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "exhibited_at(lva_london_video_arts, air_gallery).",
+    "source": "david_hall",
+    "evidence": "The first gallery show, the first venue showing, was at AIR.",
+    "confidence": "supported",
+    "page": 15
+  },
+  {
+    "fact": "exhibited_at(lva_london_video_arts, acme).",
+    "source": "david_hall",
+    "evidence": "setting up some initial exhibitions at non-commercial galleries like the ACME and AIR gallery.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "year_created(special_video_art_issue_may_1976, @1976).",
+    "source": "david_hall",
+    "evidence": "we did the one on video art in May of 1976.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "published_in(serpentine_1975_show, organisation_art_and_artists).",
+    "source": "david_hall",
+    "evidence": "The first thing I did was write a rather lumbering piece about the Serpentine 1975 Show, in Art and Artists",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "published_in(special_video_art_issue_may_1976, studio_international).",
+    "source": "david_hall",
+    "evidence": "then we did the one on video art in May of 1976. I wrote a column from, I think, 1975 ... It was a monthly column. But then in 1976 we did this Special Video Art Issue",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "edited_by(special_video_art_issue_may_1976, richard_cork).",
+    "source": "david_hall",
+    "evidence": "Studio International, which Richard Cork was editing in those days, in the middle of the 70s. He asked me if I'd do a column ... in 1976 we did this Special Video Art Issue, which I suppose, I effectively co-edited with Richard Cork.",
+    "confidence": "supported",
+    "page": 15
+  },
+  {
+    "fact": "co_edited_by(special_video_art_issue_may_1976, david_hall, richard_cork).",
+    "source": "david_hall",
+    "evidence": "in 1976 we did this Special Video Art Issue, which I suppose, I effectively co-edited with Richard Cork.",
+    "confidence": "supported",
+    "page": 15
+  },
+  {
+    "fact": "published_by(studio_international, richard_cork).",
+    "source": "david_hall",
+    "evidence": "Studio International, which Richard Cork was editing in those days, in the middle of the 70s.",
+    "confidence": "supported",
+    "page": 15
+  },
+  {
+    "fact": "published_by(serpentine_1975_show, organisation_art_and_artists).",
+    "source": "david_hall",
+    "evidence": "The first thing I did was write a rather lumbering piece about the Serpentine 1975 Show, in Art and Artists",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "wrote_for(david_hall, studio_international).",
+    "source": "david_hall",
+    "evidence": "He asked me if I'd do a column on video art ... I wrote a column from, I think, 1975 through to when it collapsed which was probably four or five years later. I have to check that one out. I've got everything, or most of it. It was a monthly column.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "wrote_for(david_hall, timeout).",
+    "source": "david_hall",
+    "evidence": "I also wrote tiny little paragraph pieces for Timeout when we did the shows at AIR.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "organisation(lva_london_video_arts).",
+    "source": "david_hall",
+    "evidence": "With LVA, obviously there was quite a bit of funding from the Arts Council.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "venue(air_gallery).",
+    "source": "david_hall",
+    "evidence": "The first gallery show, the first venue showing, was at AIR.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "organisation(acme).",
+    "source": "david_hall",
+    "evidence": "exhibitions at non-commercial galleries like the ACME and AIR gallery.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "organisation(studio_international).",
+    "source": "david_hall",
+    "evidence": "Studio International, which Richard Cork was editing in those days, in the middle of the 70s.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "person(richard_cork).",
+    "source": "david_hall",
+    "evidence": "Studio International, which Richard Cork was editing in those days",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "organisation(timeout).",
+    "source": "david_hall",
+    "evidence": "I also wrote tiny little paragraph pieces for Timeout",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "work(serpentine_1975_show).",
+    "source": "david_hall",
+    "evidence": "The first thing I did was write a rather lumbering piece about the Serpentine 1975 Show",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "work(special_video_art_issue_may_1976).",
+    "source": "david_hall",
+    "evidence": "then we did the one on video art in May of 1976. ... this Special Video Art Issue, which I suppose, I effectively co-edited with Richard Cork.",
+    "confidence": "explicit",
+    "page": 15
+  },
+  {
+    "fact": "organisation(maidstone).",
+    "source": "david_hall",
+    "evidence": "there was Maidstone, there was Newcastle, there was Ron Haselden at Reading, there was Dave Parsons at Wolverhampton, initially, and then there was Coventry a little bit because Steve Partridge first went to Coventry I think in something like 1975. That started as Lanchester Polytechnic, as it was known, in Coventry",
+    "confidence": "explicit",
+    "page": 17
+  },
+  {
+    "fact": "organisation(newcastle).",
+    "source": "david_hall",
+    "evidence": "there was Maidstone, there was Newcastle, there was Ron Haselden at Reading, there was Dave Parsons at Wolverhampton, initially, and then there was Coventry a little bit...",
+    "confidence": "explicit",
+    "page": 17
+  },
+  {
+    "fact": "organisation(reading).",
+    "source": "david_hall",
+    "evidence": "there was Ron Haselden at Reading, there was Dave Parsons at Wolverhampton...",
+    "confidence": "explicit",
+    "page": 17
+  },
+  {
+    "fact": "organisation(wolverhampton).",
+    "source": "david_hall",
+    "evidence": "there was Dave Parsons at Wolverhampton, initially...",
+    "confidence": "explicit",
+    "page": 17
+  },
+  {
+    "fact": "organisation(coventry).",
+    "source": "david_hall",
+    "evidence": "then there was Coventry a little bit because Steve Partridge first went to Coventry I think in something like 1975. That started as Lanchester Polytechnic, as it was known, in Coventry",
+    "confidence": "explicit",
+    "page": 17
+  },
+  {
+    "fact": "organisation(lanchester_polytechnic).",
+    "source": "david_hall",
+    "evidence": "That started as Lanchester Polytechnic, as it was known, in Coventry",
+    "confidence": "explicit",
+    "page": 17
+  },
+  {
+    "fact": "organisation(north_east_london_polytechnic).",
+    "source": "david_hall",
+    "evidence": "North East London Polytechnic he was at. He’s always worked with film, him personally. But they encouraged video as well...",
+    "confidence": "explicit",
+    "page": 17
+  },
+  {
+    "fact": "organisation(saint_martins).",
+    "source": "david_hall",
+    "evidence": "of course Saint Martin’s but it was primarily film.",
+    "confidence": "explicit",
+    "page": 17
+  },
+  {
+    "fact": "organisation(cna).",
+    "source": "david_hall",
+    "evidence": "everybody had their problems with CNA and all the rest of it, but on this occasion they were claiming to do this broad course dealing with all manner of moving image media when in reality it was primarily still a filmmaking setup.",
+    "confidence": "explicit",
+    "page": 17
+  },
+  {
+    "fact": "person(ron_haselden).",
+    "source": "david_hall",
+    "evidence": "there was Ron Haselden at Reading...",
+    "confidence": "explicit",
+    "page": 17
+  },
+  {
+    "fact": "person(dave_parsons).",
+    "source": "david_hall",
+    "evidence": "there was Dave Parsons at Wolverhampton, initially... Dave Parsons was a filmmaker though. Did he do video as well?",
+    "confidence": "explicit",
+    "page": 17
+  },
+  {
+    "fact": "person(steve_partridge).",
+    "source": "david_hall",
+    "evidence": "Steve Partridge first went to Coventry I think in something like 1975.",
+    "confidence": "explicit",
+    "page": 17
+  },
+  {
+    "fact": "person(michael_snow).",
+    "source": "david_hall",
+    "evidence": "What other ideas or artists’ works, other than obviously Michael Snow, were inspirational for you.",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "person(joan_jonas).",
+    "source": "david_hall",
+    "evidence": "In 1972/1973 there were things like Joan Jonas’s Vertical Roll.",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "work(back_and_forth).",
+    "source": "david_hall",
+    "evidence": "the two things that I have found most significant, as many people have I’m sure, were Wavelength and Back and Forth.",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "work(vertical_roll).",
+    "source": "david_hall",
+    "evidence": "In 1972/1973 there were things like Joan Jonas’s Vertical Roll.",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "person(brakhage).",
+    "source": "david_hall",
+    "evidence": "we walked into Brakhage’s Window Water Baby Moving.",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "work(window_water_baby_moving).",
+    "source": "david_hall",
+    "evidence": "we walked into Brakhage’s Window Water Baby Moving.",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "organisation(lva).",
+    "source": "david_hall",
+    "evidence": "as far as LVA is concerned, there weren’t that many shows historically.",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "organisation(filmmakers_co_op).",
+    "source": "david_hall",
+    "evidence": "Was it different from the very strong centre of the Filmmakers Co-op",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "venue(acme).",
+    "source": "david_hall",
+    "evidence": "Having said that using ACME, or AIR, or one of those galleries, they replicated in some way a cinema-like setup.",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "venue(air).",
+    "source": "david_hall",
+    "evidence": "Having said that using ACME, or AIR, or one of those galleries, they replicated in some way a cinema-like setup.",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "person(derek).",
+    "source": "david_hall",
+    "evidence": "my friend Derek collapsed. He fainted.",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "uses_medium(david_hall, sculpture).",
+    "source": "david_hall",
+    "evidence": "working moving image work, some of the thinking was parallel to what I was thinking in terms of sculpture.",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "uses_medium(david_hall, film).",
+    "source": "david_hall",
+    "evidence": "the time life thing that is the experience of film or video.",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "uses_medium(david_hall, video).",
+    "source": "david_hall",
+    "evidence": "the time life thing that is the experience of film or video.",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "exhibited_at(window_water_baby_moving, experimental_film_show_1966).",
+    "source": "david_hall",
+    "evidence": "it was an experimental film show, where I went in with this friend of mine",
+    "confidence": "supported",
+    "page": 19
+  },
+  {
+    "fact": "year_created(vertical_roll, @1973).",
+    "source": "david_hall",
+    "evidence": "In 1972/1973 there were things like Joan Jonas’s Vertical Roll.",
+    "confidence": "supported",
+    "page": 19
+  },
+  {
+    "fact": "created_by(vertical_roll, joan_jonas).",
+    "source": "david_hall",
+    "evidence": "Joan Jonas’s Vertical Roll.",
+    "confidence": "explicit",
+    "page": 19
+  },
+  {
+    "fact": "organisation(bfi).",
+    "source": "david_hall",
+    "evidence": "getting funding from the arts council, and the BFI for the set-ups for the Co-op.",
+    "confidence": "explicit",
+    "page": 21
+  },
+  {
+    "fact": "work(vidicon_inscriptions).",
+    "source": "david_hall",
+    "evidence": "When you look at Vidicon Inscriptions, or when you look at Videvent, for example.",
+    "confidence": "explicit",
+    "page": 21
+  },
+  {
+    "fact": "work(videvent).",
+    "source": "david_hall",
+    "evidence": "When you look at Vidicon Inscriptions, or when you look at Videvent, for example.",
+    "confidence": "explicit",
+    "page": 21
+  },
+  {
+    "fact": "person(brian_hoey).",
+    "source": "david_hall",
+    "evidence": "Certainly  with  Brian  Hoey’s Videvent,  it  took quite  a  few  years  to  make  that  work.",
+    "confidence": "explicit",
+    "page": 21
+  },
+  {
+    "fact": "person(tony_sinden).",
+    "source": "david_hall",
+    "evidence": "you have talked briefly about Tony Sinden, are there any other people that you want to mention?",
+    "confidence": "explicit",
+    "page": 25
+  },
+  {
+    "fact": "person(david_cunningham).",
+    "source": "david_hall",
+    "evidence": "I’ve worked with people like David Cunningham, who has done sound for me very, very wonderfully well.",
+    "confidence": "explicit",
+    "page": 25
+  },
+  {
+    "fact": "work(cultural_eclipse_a_situation_envisaged).",
+    "source": "david_hall",
+    "evidence": "He did the 1990 installation, Cultural Eclipse, A Situation Envisaged.",
+    "confidence": "explicit",
+    "page": 25
+  },
+  {
+    "fact": "work(edge).",
+    "source": "david_hall",
+    "evidence": "with the piece I did with Tony Sinden, Edge.",
+    "confidence": "explicit",
+    "page": 25
+  },
+  {
+    "fact": "work(stooky_bill_tv).",
+    "source": "david_hall",
+    "evidence": "Anna Ridley, who produced Stooky Bill TV.",
+    "confidence": "explicit",
+    "page": 25
+  },
+  {
+    "fact": "organisation(bbc).",
+    "source": "david_hall",
+    "evidence": "she was 'officially' a designer at the time at the BBC.",
+    "confidence": "explicit",
+    "page": 25
+  },
+  {
+    "fact": "organisation(channel_4).",
+    "source": "david_hall",
+    "evidence": "That was on Channel 4.",
+    "confidence": "explicit",
+    "page": 24
+  },
+  {
+    "fact": "organisation(mtv).",
+    "source": "david_hall",
+    "evidence": "none of them are anything like music videos, which is what MTV is about.",
+    "confidence": "explicit",
+    "page": 24
+  },
+  {
+    "fact": "collaborated_with(david_hall, tony_sinden).",
+    "source": "david_hall",
+    "evidence": "I worked with him. He assisted me on those '71 pieces but I think there's a distinction because they were essentially all my ideas. On the 60 TV Sets and 101 TV Sets, they were listed as collaborative things.",
+    "confidence": "explicit",
+    "page": 25
+  },
+  {
+    "fact": "collaborated_with(david_hall, david_cunningham).",
+    "source": "david_hall",
+    "evidence": "I’ve worked with people like David Cunningham, who has done sound for me very, very wonderfully well. He did the 1990 installation, Cultural Eclipse, A Situation Envisaged. The sound in that is a cacophony of sound, but it’s actually quite a composed flow. He did the MTV pieces.",
+    "confidence": "explicit",
+    "page": 25
+  },
+  {
+    "fact": "collaborated_with(david_hall, mark_kidel).",
+    "source": "david_hall",
+    "evidence": "Mark Kidel was officially the producer, but Anna was quite an important element in pressing for that to happen internally.",
+    "confidence": "explicit",
+    "page": 25
+  },
+  {
+    "fact": "collaborated_with(david_cunningham, mtv).",
+    "source": "david_hall",
+    "evidence": "He did the MTV pieces.",
+    "confidence": "supported",
+    "page": 25
+  },
+  {
+    "fact": "collaborated_with(david_hall, channel_4).",
+    "source": "david_hall",
+    "evidence": "That was on Channel 4.",
+    "confidence": "supported",
+    "page": 24
+  },
+  {
+    "fact": "produced_by(stooky_bill_tv, anna_ridley).",
+    "source": "david_hall",
+    "evidence": "Anna Ridley, who produced Stooky Bill TV.",
+    "confidence": "explicit",
+    "page": 25
+  },
+  {
+    "fact": "produced_by(this_is_a_television_receiver, anna_ridley).",
+    "source": "david_hall",
+    "evidence": "She effectively produced This is a Television Receiver although she was “officially” a designer at the time at the BBC.",
+    "confidence": "explicit",
+    "page": 25
+  },
+  {
+    "fact": "produced_by(this_is_a_television_receiver, mark_kidel).",
+    "source": "david_hall",
+    "evidence": "Mark Kidel was officially the producer",
+    "confidence": "explicit",
+    "page": 25
+  },
+  {
+    "fact": "employed_by(anna_ridley, bbc).",
+    "source": "david_hall",
+    "evidence": "she was 'officially' a designer at the time at the BBC.",
+    "confidence": "explicit",
+    "page": 25
+  }
+]

@@ -5,8 +5,11 @@ exhibition(ave_festival_in_holland).
 exhibition(baltic).
 exhibition(british_art_show_ii).
 exhibition(british_art_show).
+exhibition(british_sculpture_out_of_the_sixties_1970).
 exhibition(burning_bush).
 exhibition(herbert_art_gallery_video_show_1970s).
+exhibition(ino_seventy).
+exhibition(locations_edinburgh).
 exhibition(london_film_festival).
 exhibition(luminous_image_show).
 exhibition(luminous_image).
@@ -15,9 +18,11 @@ exhibition(netherlands_representation_in_south_korea_2005).
 exhibition(not_just_another_art_show).
 exhibition(one_artist_one_day).
 exhibition(pompidou_show).
+exhibition(primary_structures_1966).
 exhibition(retrospective_festivals).
 exhibition(river_crossings_with_camerawork).
 exhibition(root_festival).
+exhibition(serpentine_show_1975).
 exhibition(show_at_de_appel_foundation).
 exhibition(show_at_whitechapel_art_gallery).
 exhibition(sidney_biennale).

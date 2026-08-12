@@ -36,8 +36,10 @@ created_by(intercom_island, elsa_stansfield).
 created_by(intercom_island, madelon_hooykaas).
 created_by(lighthouse, gina_czarnecki).
 created_by(lighthouse, mike_stubbs).
+created_by(lva_london_video_arts, david_hall).
 created_by(magnetic_north, elsa).
 created_by(magnetic_north, madelon_hooykaas).
+created_by(motion_parallax, david_hall).
 created_by(museum_of_memory_1, elsa_stansfield).
 created_by(museum_of_memory_1, madelon_hooykaas).
 created_by(naval_death, mike_stubbs).
@@ -67,8 +69,13 @@ created_by(the_force_behind_this_movement, madelon_hooykaas).
 created_by(the_tape, kevin_atherton).
 created_by(the_wind_works, elsa).
 created_by(the_wind_works, madelon_hooykaas).
+created_by(this_is_a_television_receiver, david_hall).
 created_by(three_minute_16_millimetre_film_of_kevin_atherton_as_a_boxer, kevin_atherton).
+created_by(time_check, david_hall).
+created_by(tv_interruptions, david_hall).
 created_by(two_sides_of_a_story, hooykaas_stansfield).
+created_by(vertical_roll, joan_jonas).
+created_by(vertical, david_hall).
 created_by(vi_deo_volente, elsa).
 created_by(vi_deo_volente, madelon_hooykaas).
 created_by(video_times, kevin_atherton).

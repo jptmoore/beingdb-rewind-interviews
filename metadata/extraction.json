@@ -1,5 +1,43 @@
 {
   "entries": {
+    "david_hall": {
+      "id": "david_hall",
+      "documentId": "rewind_david_hall_interview",
+      "sourceUrl": "https://rewind.ac.uk/rewind/wp-content/uploads/sites/146/2021/03/DH510.pdf",
+      "sourceChecksum": "736dc3d8e40c0517a44843b28a212d2ed9c311e2d5e0e089af5b311016431fe9",
+      "extractedAt": "2026-08-12T09:36:12.971Z",
+      "model": "gpt-4.1",
+      "pipelineVersion": "1",
+      "chunkCount": 12,
+      "factCount": 184,
+      "droppedFactCount": 15,
+      "warnings": [
+        "entity id collision: \"Saint Martin's\" and \"Saint Martins\" both normalize to \"saint_martins\"; \"Saint Martin's\" was assigned \"saint_martins_2\" instead. Add an explicit override in config/entity-aliases.json or config/interviews.json if this is wrong.",
+        "entity id collision: \"new_york\" and \"New York\" both normalize to \"new_york\"; \"new_york\" was assigned \"new_york_2\" instead. Add an explicit override in config/entity-aliases.json or config/interviews.json if this is wrong.",
+        "dropped malformed fact {\"predicate\":\"exhibition\",\"arguments\":[{\"kind\":\"atom\",\"value\":\"edinburgh_festival_1971\"}],\"evidence\":\"It was at the time of the 1971 Edinburgh Festival.\",\"confidence\":\"explicit\",\"page\":7}: invalid atom \"1971_edinburgh_festival\"",
+        "dropped malformed fact {\"predicate\":\"took_place_during\",\"arguments\":[{\"kind\":\"atom\",\"value\":\"locations_edinburgh\"},{\"kind\":\"atom\",\"value\":\"edinburgh_festival_1971\"}],\"evidence\":\"It was at the time of the 1971 Edinburgh Festival.\",\"confidence\":\"explicit\",\"page\":7}: invalid atom \"1971_edinburgh_festival\"",
+        "dropped malformed fact {\"predicate\":\"work\",\"arguments\":[{\"kind\":\"atom\",\"value\":\"60_tv_sets\"}],\"evidence\":\"the first ones were 60 TV Sets, which I made really before hardly any video equipment was available to do anything, so I used live broadcast but that was for a while, so it was a video installation at Gallery House in 1972...\",\"confidence\":\"explicit\",\"page\":12}: invalid atom \"60_tv_sets\"",
+        "dropped malformed fact {\"predicate\":\"exhibited_at\",\"arguments\":[{\"kind\":\"atom\",\"value\":\"60_tv_sets\"},{\"kind\":\"atom\",\"value\":\"gallery_house\"}],\"evidence\":\"so it was a video installation at Gallery House in 1972 in the survey of the avant-garde in Britain.\",\"confidence\":\"explicit\",\"page\":12}: invalid atom \"60_tv_sets\"",
+        "dropped malformed fact {\"predicate\":\"year_created\",\"arguments\":[{\"kind\":\"atom\",\"value\":\"60_tv_sets\"},{\"kind\":\"year\",\"value\":1972}],\"evidence\":\"so it was a video installation at Gallery House in 1972 in the survey of the avant-garde in Britain.\",\"confidence\":\"explicit\",\"page\":12}: invalid atom \"60_tv_sets\"",
+        "dropped malformed fact {\"predicate\":\"created_by\",\"arguments\":[{\"kind\":\"atom\",\"value\":\"60_tv_sets\"},{\"kind\":\"atom\",\"value\":\"david_hall\"}],\"evidence\":\"the first ones were 60 TV Sets, which I made really before hardly any video equipment was available to do anything, so I used live broadcast but that was for a while, so it was a video installation...\",\"confidence\":\"explicit\",\"page\":12}: invalid atom \"60_tv_sets\"",
+        "dropped malformed fact {\"predicate\":\"uses_medium\",\"arguments\":[{\"kind\":\"atom\",\"value\":\"60_tv_sets\"},{\"kind\":\"string\",\"value\":\"live broadcast\"}],\"evidence\":\"I used live broadcast but that was for a while, so it was a video installation at Gallery House in 1972...\",\"confidence\":\"explicit\",\"page\":12}: invalid atom \"60_tv_sets\"",
+        "dropped malformed fact {\"predicate\":\"exhibited_at\",\"arguments\":[{\"kind\":\"atom\",\"value\":\"60_tv_sets\"},{\"kind\":\"atom\",\"value\":\"goethe_institute\"}],\"evidence\":\"it was a small art gallery part of the Goethe Institute where there was other moving image work on show...\",\"confidence\":\"explicit\",\"page\":12}: invalid atom \"60_tv_sets\"",
+        "dropped malformed fact {\"predicate\":\"work\",\"arguments\":[{\"kind\":\"atom\",\"value\":\"one_hundred_one_tv_sets\"}],\"evidence\":\"it was enlarged to a 101 TV Sets.\",\"confidence\":\"explicit\",\"page\":13}: invalid atom \"101_tv_sets\"",
+        "dropped malformed fact {\"predicate\":\"exhibited_at\",\"arguments\":[{\"kind\":\"atom\",\"value\":\"one_hundred_one_tv_sets\"},{\"kind\":\"atom\",\"value\":\"serpentine_show_1975\"}],\"evidence\":\"I did two pieces, I did that 101 TV Sets and Progressive Recession and each had a week. They were set up for a week each.\",\"confidence\":\"explicit\",\"page\":13}: invalid atom \"101_tv_sets\"",
+        "dropped malformed fact {\"predicate\":\"year_created\",\"arguments\":[{\"kind\":\"atom\",\"value\":\"one_hundred_one_tv_sets\"},{\"kind\":\"year\",\"value\":1975}],\"evidence\":\"the first time it was shown in the Serpentine, which was 1975.\",\"confidence\":\"explicit\",\"page\":13}: invalid atom \"101_tv_sets\"",
+        "dropped malformed fact {\"predicate\":\"exhibited_at\",\"arguments\":[{\"kind\":\"atom\",\"value\":\"one_hundred_one_tv_sets\"},{\"kind\":\"atom\",\"value\":\"serpentine_gallery\"}],\"evidence\":\"the first time it was shown in the Serpentine, which was 1975.\",\"confidence\":\"supported\",\"page\":13}: invalid atom \"101_tv_sets\"",
+        "dropped malformed fact {\"predicate\":\"venue\",\"arguments\":[{\"kind\":\"atom\",\"value\":\"butlers_wharf\"}],\"evidence\":\"Out of 2b Butlers Wharf was a setup, which showed artist performance pieces and sound.\",\"confidence\":\"explicit\",\"page\":14}: invalid atom \"2b_butlers_wharf\"",
+        "uses_medium argument 1: coerced string \"film\" to atom film to match existing atom-typed facts for this predicate/position",
+        "uses_medium argument 1: coerced string \"black-and-white\" to atom black_and_white to match existing atom-typed facts for this predicate/position",
+        "uses_medium argument 1: coerced string \"film\" to atom film to match existing atom-typed facts for this predicate/position",
+        "uses_medium argument 1: coerced string \"natural sound\" to atom natural_sound to match existing atom-typed facts for this predicate/position",
+        "uses_medium argument 1: coerced string \"sculpture\" to atom sculpture to match existing atom-typed facts for this predicate/position",
+        "uses_medium argument 1: coerced string \"film\" to atom film to match existing atom-typed facts for this predicate/position",
+        "uses_medium argument 1: coerced string \"video\" to atom video to match existing atom-typed facts for this predicate/position",
+        "dropped exhibited_at(window_water_baby_moving, anthology_film_archive).: confidence=uncertain",
+        "dropped exhibited_at(window_water_baby_moving, new_york_2).: confidence=uncertain"
+      ]
+    },
     "kevin_atherton": {
       "id": "kevin_atherton",
       "documentId": "rewind_kevin_atherton_interview",

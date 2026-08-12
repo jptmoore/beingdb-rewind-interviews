@@ -2,4 +2,5 @@
 % See metadata/extraction.json for source provenance and candidates/evidence for supporting quotes.
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 edited_by(gallery_guide, sally_williams).
+edited_by(special_video_art_issue_may_1976, richard_cork).
 edited_by(sweatlodge, claire_pollack).

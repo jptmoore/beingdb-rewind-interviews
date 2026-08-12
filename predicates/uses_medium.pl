@@ -2,6 +2,9 @@
 % See metadata/extraction.json for source provenance and candidates/evidence for supporting quotes.
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 uses_medium(contortions, 16mm_film).
+uses_medium(david_hall, film).
+uses_medium(david_hall, sculpture).
+uses_medium(david_hall, video).
 uses_medium(double_vision, video).
 uses_medium(flying_time, colour_video).
 uses_medium(flying_time, installation).
@@ -18,6 +21,8 @@ uses_medium(kevin_atherton, voice).
 uses_medium(madelon_hooykaas, polaroid_photography).
 uses_medium(madelon_hooykaas, polaroid).
 uses_medium(madelon_hooykaas, video).
+uses_medium(motion_parallax, black_and_white).
+uses_medium(motion_parallax, film).
 uses_medium(museum_of_memory_1, monitor).
 uses_medium(one_of_these_days, dutch_language).
 uses_medium(running_time_1979, black_and_white_video).
@@ -35,3 +40,5 @@ uses_medium(tape_tape, masking_tape).
 uses_medium(tape_tape, videotape).
 uses_medium(the_wind_works, live_video).
 uses_medium(the_wind_works, pre_recorded_tape).
+uses_medium(vertical, film).
+uses_medium(vertical, natural_sound).
