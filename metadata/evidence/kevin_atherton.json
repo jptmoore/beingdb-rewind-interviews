@@ -322,14 +322,14 @@
     "page": null
   },
   {
-    "fact": "uses_medium(tape_tape, \"masking tape\").",
+    "fact": "uses_medium(tape_tape, masking_tape).",
     "source": "kevin_atherton",
     "evidence": "which was Tape Tape, literally made using masking tape recorded on to videotape.",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "uses_medium(tape_tape, \"videotape\").",
+    "fact": "uses_medium(tape_tape, videotape).",
     "source": "kevin_atherton",
     "evidence": "which was Tape Tape, literally made using masking tape recorded on to videotape.",
     "confidence": "explicit",
@@ -420,7 +420,7 @@
     "page": null
   },
   {
-    "fact": "uses_medium(kevin_atherton, \"television commercial\").",
+    "fact": "uses_medium(kevin_atherton, television_commercial).",
     "source": "kevin_atherton",
     "evidence": "The project was to make five TV commercials for Netherland 1, a Dutch television channel.",
     "confidence": "explicit",
@@ -532,28 +532,28 @@
     "page": null
   },
   {
-    "fact": "uses_medium(kevin_atherton, \"bronze\").",
+    "fact": "uses_medium(kevin_atherton, bronze).",
     "source": "kevin_atherton",
     "evidence": "There is the very traditional sculpture in the bronze making and video.",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "uses_medium(kevin_atherton, \"video\").",
+    "fact": "uses_medium(kevin_atherton, video).",
     "source": "kevin_atherton",
     "evidence": "There is the very traditional sculpture in the bronze making and video.",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "uses_medium(kevin_atherton, \"sound\").",
+    "fact": "uses_medium(kevin_atherton, sound).",
     "source": "kevin_atherton",
     "evidence": "I’ve worked with sound and mainly with voice. I did works with Audio Arts in the 70s and 80s, which were auditions.",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "uses_medium(kevin_atherton, \"voice\").",
+    "fact": "uses_medium(kevin_atherton, voice).",
     "source": "kevin_atherton",
     "evidence": "I’ve worked with sound and mainly with voice.",
     "confidence": "explicit",
@@ -602,14 +602,14 @@
     "page": 13
   },
   {
-    "fact": "uses_medium(gallery_guide, \"virtual reality\").",
+    "fact": "uses_medium(gallery_guide, virtual_reality).",
     "source": "kevin_atherton",
     "evidence": "this ongoing virtual reality performance piece I do called Gallery Guide.",
     "confidence": "explicit",
     "page": 13
   },
   {
-    "fact": "uses_medium(gallery_guide, \"video projection\").",
+    "fact": "uses_medium(gallery_guide, video_projection).",
     "source": "kevin_atherton",
     "evidence": "I stand in front of a video projection which itself is a computer walkthrough of a computer model of a gallery",
     "confidence": "explicit",
@@ -1491,7 +1491,7 @@
     "page": null
   },
   {
-    "fact": "uses_medium(double_vision, \"video\").",
+    "fact": "uses_medium(double_vision, video).",
     "source": "kevin_atherton",
     "evidence": "I was reviewed in that for the Double Vision piece, which was a video performance.",
     "confidence": "explicit",
@@ -1561,28 +1561,28 @@
     "page": null
   },
   {
-    "fact": "uses_medium(sphere, \"mirror polished-stainless steel\").",
+    "fact": "uses_medium(sphere, mirror_polished_stainless_steel).",
     "source": "kevin_atherton",
     "evidence": "It consists of two, three-meter diameter mirror polished-stainless steel hemispheres, positioned at either end of a park.",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "uses_medium(sphere, \"video\").",
+    "fact": "uses_medium(sphere, video).",
     "source": "kevin_atherton",
     "evidence": "the video work. ... The image will come together on a video screen in a pavilion.",
     "confidence": "supported",
     "page": null
   },
   {
-    "fact": "uses_medium(gallery_guide, \"video\").",
+    "fact": "uses_medium(gallery_guide, video).",
     "source": "kevin_atherton",
     "evidence": "Gallery Guide where I as a performer stand in front of a video projection of a computer walk-through model...",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "uses_medium(gallery_guide, \"performance\").",
+    "fact": "uses_medium(gallery_guide, performance).",
     "source": "kevin_atherton",
     "evidence": "I as a performer stand in front of a video projection... and do the commentary about the works live.",
     "confidence": "explicit",
@@ -1680,7 +1680,7 @@
     "page": null
   },
   {
-    "fact": "member_of(robin_page, \"Fluxus\").",
+    "fact": "member_of(robin_page, fluxus).",
     "source": "kevin_atherton",
     "evidence": "He was a member of Fluxus and did five years at Leeds.",
     "confidence": "explicit",

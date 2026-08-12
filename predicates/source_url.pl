@@ -3,3 +3,4 @@
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 source_url(rewind_kevin_atherton_interview, "https://rewind.ac.uk/rewind/wp-content/uploads/sites/146/2021/03/KAT510.pdf").
 source_url(rewind_madelon_hooykaas_interview, "https://rewind.ac.uk/rewind/wp-content/uploads/sites/146/2021/03/ESMH510.pdf").
+source_url(rewind_mike_stubbs_interview, "https://rewind.ac.uk/rewind/wp-content/uploads/sites/146/2021/03/MS510.pdf").

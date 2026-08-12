@@ -16,3 +16,4 @@ employed_by(kevin_atherton, whitechapel).
 employed_by(madelon_hooykaas, fantasy_factory).
 employed_by(madelon_hooykaas, london_video_arts_lva).
 employed_by(madelon_hooykaas, paris).
+employed_by(mike_stubbs, australian_centre_for_the_moving_image).

@@ -3,5 +3,10 @@
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 funded_by(deep_looking, buddhist_broadcasting_foundation).
 funded_by(kevin_atherton, arts_council_of_great_britain).
+funded_by(mike_stubbs, arts_council).
+funded_by(mike_stubbs, bbc).
+funded_by(mike_stubbs, channel_4).
+funded_by(mike_stubbs, s4c).
 funded_by(revision, buddhist_broadcasting_foundation).
+funded_by(the_starless_cast, chapter_art_centre).
 funded_by(vi_deo_volente, de_appel).

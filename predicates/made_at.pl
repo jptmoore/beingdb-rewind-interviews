@@ -4,6 +4,7 @@
 made_at(horizontal_flow, teesside_college_of_art).
 made_at(kevin_atherton, amsterdam).
 made_at(kevin_atherton, de_appel_gallery).
+made_at(lighthouse, withernsea).
 made_at(magnetic_north, bergin).
 made_at(magnetic_north, finland).
 made_at(magnetic_north, shetland).
@@ -14,7 +15,9 @@ made_at(running_time, maidstone_college).
 made_at(sea_of_light, cardiff).
 made_at(sea_of_light, chapter_art_centre).
 made_at(sphere, ballymun_park_in_dublin).
+made_at(sweatlodge, the_tramway_glasgow).
 made_at(tape_tape, battersea_arts_centre).
 made_at(video_void, wapping_rotherhithe_tunnel).
 made_at(video_void, wapping).
+made_at(what_the_eye_doesn_t_see_post_industrial_studies_number_1, woolwich_train_station).
 made_at(whats_it_to_you, third_eye_centre).

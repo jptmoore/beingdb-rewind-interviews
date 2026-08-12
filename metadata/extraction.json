@@ -30,6 +30,19 @@
       "warnings": [
         "entity id collision: \"Time Based Arts\" and \"Time-based Arts\" both normalize to \"time_based_arts\"; \"Time Based Arts\" was assigned \"time_based_arts_2\" instead. Add an explicit override in config/entity-aliases.json or config/interviews.json if this is wrong."
       ]
+    },
+    "mike_stubbs": {
+      "id": "mike_stubbs",
+      "documentId": "rewind_mike_stubbs_interview",
+      "sourceUrl": "https://rewind.ac.uk/rewind/wp-content/uploads/sites/146/2021/03/MS510.pdf",
+      "sourceChecksum": "01a3c9b300f8e020f6c1ce037fdfe21631dc70ffb166b7897e2946418173d880",
+      "extractedAt": "2026-08-12T09:27:00.753Z",
+      "model": "gpt-4.1",
+      "pipelineVersion": "1",
+      "chunkCount": 6,
+      "factCount": 221,
+      "droppedFactCount": 0,
+      "warnings": []
     }
   }
 }

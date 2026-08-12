@@ -1,0 +1,1549 @@
+[
+  {
+    "fact": "employed_by(mike_stubbs, australian_centre_for_the_moving_image).",
+    "source": "mike_stubbs",
+    "evidence": "I am the Head of Exhibitions for the Australian Centre for Moving Image in Melbourne.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "created_by(cooking_with_katie, mike_stubbs).",
+    "source": "mike_stubbs",
+    "evidence": "Cooking with Katie and Naval Death were two early video monologues, which marked the beginning of my video art practice.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "created_by(naval_death, mike_stubbs).",
+    "source": "mike_stubbs",
+    "evidence": "Cooking with Katie and Naval Death were two early video monologues, which marked the beginning of my video art practice.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "educated_at(mike_stubbs, cardiff_art_college).",
+    "source": "mike_stubbs",
+    "evidence": "The two works were made in 1977 when I was a first year art student at Cardiff Art College.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "educated_at(mike_stubbs, royal_college_of_art).",
+    "source": "mike_stubbs",
+    "evidence": "the mid-seventies through to the early eighties was a period for me, when I was between Cardiff and then London as a student at the Royal College of Art.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "created_by(contortions, mike_stubbs).",
+    "source": "mike_stubbs",
+    "evidence": "I made Contortions, in 1983, which is a 16mm drama looking at a deconstruction of the representation of unemployment.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "year_created(contortions, @1983).",
+    "source": "mike_stubbs",
+    "evidence": "I made Contortions, in 1983, which is a 16mm drama ...",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "uses_medium(contortions, 16mm_film).",
+    "source": "mike_stubbs",
+    "evidence": "I made Contortions, in 1983, which is a 16mm drama ...",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "created_by(cultural_quarter, mike_stubbs).",
+    "source": "mike_stubbs",
+    "evidence": "I guess Cultural Quarter, which was made in 2003, and is doing the rounds at the moment, is an important later work ...",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "year_created(cultural_quarter, @2003).",
+    "source": "mike_stubbs",
+    "evidence": "I guess Cultural Quarter, which was made in 2003...",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "created_by(homing, mike_stubbs).",
+    "source": "mike_stubbs",
+    "evidence": "Of the other films, there is Homing (Channel 4/BBC 2) ...",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "created_by(gift, mike_stubbs).",
+    "source": "mike_stubbs",
+    "evidence": "Gift, a piece about the unification of Germany made with Ulf Langheinrich, a composer from Vienna.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "collaborated_with(mike_stubbs, ulf_langheinrich).",
+    "source": "mike_stubbs",
+    "evidence": "Gift, a piece about the unification of Germany made with Ulf Langheinrich, a composer from Vienna.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "collaborated_with(mike_stubbs, bbc).",
+    "source": "mike_stubbs",
+    "evidence": "I made quite a few extended clips, putting the sound onto films to go to the BBC. So I worked with a range of composers on collaborations with the sound and music in relationship to video.",
+    "confidence": "supported",
+    "page": 1
+  },
+  {
+    "fact": "collaborated_with(mike_stubbs, channel_4).",
+    "source": "mike_stubbs",
+    "evidence": "Of the other films, there is Homing (Channel 4/BBC 2) ...",
+    "confidence": "supported",
+    "page": 1
+  },
+  {
+    "fact": "person(mike_stubbs).",
+    "source": "mike_stubbs",
+    "evidence": "Interview with Mike Stubbs",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "venue(australian_centre_for_the_moving_image).",
+    "source": "mike_stubbs",
+    "evidence": "I am the Head of Exhibitions for the Australian Centre for Moving Image in Melbourne.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "work(cooking_with_katie).",
+    "source": "mike_stubbs",
+    "evidence": "Cooking with Katie and Naval Death were two early video monologues, which marked the beginning of my video art practice.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "work(naval_death).",
+    "source": "mike_stubbs",
+    "evidence": "Cooking with Katie and Naval Death were two early video monologues, which marked the beginning of my video art practice.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "organisation(cardiff_art_college).",
+    "source": "mike_stubbs",
+    "evidence": "The two works were made in 1977 when I was a first year art student at Cardiff Art College.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "organisation(royal_college_of_art).",
+    "source": "mike_stubbs",
+    "evidence": "the mid-seventies through to the early eighties was a period for me, when I was between Cardiff and then London as a student at the Royal College of Art.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "work(contortions).",
+    "source": "mike_stubbs",
+    "evidence": "I made Contortions, in 1983, which is a 16mm drama looking at a deconstruction of the representation of unemployment.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "work(cultural_quarter).",
+    "source": "mike_stubbs",
+    "evidence": "I guess Cultural Quarter, which was made in 2003, and is doing the rounds at the moment, is an important later work ...",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "work(homing).",
+    "source": "mike_stubbs",
+    "evidence": "Of the other films, there is Homing (Channel 4/BBC 2) ...",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "work(gift).",
+    "source": "mike_stubbs",
+    "evidence": "Gift, a piece about the unification of Germany made with Ulf Langheinrich, a composer from Vienna.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(ulf_langheinrich).",
+    "source": "mike_stubbs",
+    "evidence": "Gift, a piece about the unification of Germany made with Ulf Langheinrich, a composer from Vienna.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "organisation(bbc).",
+    "source": "mike_stubbs",
+    "evidence": "I made quite a few extended clips, putting the sound onto films to go to the BBC.",
+    "confidence": "supported",
+    "page": 1
+  },
+  {
+    "fact": "organisation(channel_4).",
+    "source": "mike_stubbs",
+    "evidence": "Of the other films, there is Homing (Channel 4/BBC 2) ...",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "work(anthem).",
+    "source": "mike_stubbs",
+    "evidence": "I have to say that Bill Voila’s Anthem was a massively significant piece in terms of a group of works...",
+    "confidence": "explicit",
+    "page": 3
+  },
+  {
+    "fact": "person(bill_viola).",
+    "source": "mike_stubbs",
+    "evidence": "I have to say that Bill Voila’s Anthem was a massively significant piece in terms of a group of works...",
+    "confidence": "explicit",
+    "page": 3
+  },
+  {
+    "fact": "created_by(anthem, bill_viola).",
+    "source": "mike_stubbs",
+    "evidence": "I have to say that Bill Voila’s Anthem was a massively significant piece...",
+    "confidence": "explicit",
+    "page": 3
+  },
+  {
+    "fact": "work(pieces_i_never_did).",
+    "source": "mike_stubbs",
+    "evidence": "There was also David Critchley’s Pieces I Never Did...",
+    "confidence": "explicit",
+    "page": 3
+  },
+  {
+    "fact": "person(david_critchley).",
+    "source": "mike_stubbs",
+    "evidence": "There was also David Critchley’s Pieces I Never Did...",
+    "confidence": "explicit",
+    "page": 3
+  },
+  {
+    "fact": "created_by(pieces_i_never_did, david_critchley).",
+    "source": "mike_stubbs",
+    "evidence": "There was also David Critchley’s Pieces I Never Did...",
+    "confidence": "explicit",
+    "page": 3
+  },
+  {
+    "fact": "person(ian_bourn).",
+    "source": "mike_stubbs",
+    "evidence": "and Ian Bourn’s work. There were other people who were effectively my contemporaries but a few years older.",
+    "confidence": "explicit",
+    "page": 3
+  },
+  {
+    "fact": "person(tamara_kirkorian).",
+    "source": "mike_stubbs",
+    "evidence": "There was also Tamara Kirkorian and David Hall, who were massively significant in terms of the few examples that I could see.",
+    "confidence": "explicit",
+    "page": 3
+  },
+  {
+    "fact": "person(david_hall).",
+    "source": "mike_stubbs",
+    "evidence": "There was also Tamara Kirkorian and David Hall, who were massively significant in terms of the few examples that I could see.",
+    "confidence": "explicit",
+    "page": 3
+  },
+  {
+    "fact": "person(chris_monger).",
+    "source": "mike_stubbs",
+    "evidence": "Chris Monger who was my tutor, and is a film director now...",
+    "confidence": "explicit",
+    "page": 3
+  },
+  {
+    "fact": "person(steve_partridge).",
+    "source": "mike_stubbs",
+    "evidence": "that Steve Partridge and Zoe Redman organised.",
+    "confidence": "explicit",
+    "page": 3
+  },
+  {
+    "fact": "person(zoe_redman).",
+    "source": "mike_stubbs",
+    "evidence": "that Steve Partridge and Zoe Redman organised.",
+    "confidence": "explicit",
+    "page": 3
+  },
+  {
+    "fact": "organisation(london_electronic_arts).",
+    "source": "mike_stubbs",
+    "evidence": "I showed through LUX or LEA as it was then. London Electronic Arts, at that point, became my distributor.",
+    "confidence": "explicit",
+    "page": 3
+  },
+  {
+    "fact": "organisation(london_video_arts).",
+    "source": "mike_stubbs",
+    "evidence": "So it was still London Video Arts then?",
+    "confidence": "explicit",
+    "page": 3
+  },
+  {
+    "fact": "affiliated_with(mike_stubbs, cardiff_art_college).",
+    "source": "mike_stubbs",
+    "evidence": "I had been working with Super 8 film at Cardiff Art College...",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "venue(chapter_art_centre).",
+    "source": "mike_stubbs",
+    "evidence": "I’d be coming to the Chapter Art Centre, who had a film workshop and also a video workshop.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "work(camera_sick).",
+    "source": "mike_stubbs",
+    "evidence": "They were the first: Camera Sick, Naval Death, Cooking With Katie. They were made under the influence of alcohol.",
+    "confidence": "explicit",
+    "page": 5
+  },
+  {
+    "fact": "work(waiter_there_is_a_fly_on_my_wall).",
+    "source": "mike_stubbs",
+    "evidence": "For example, I did actually make this one piece of work called Waiter There is a Fly on my Wall.",
+    "confidence": "explicit",
+    "page": 5
+  },
+  {
+    "fact": "created_by(waiter_there_is_a_fly_on_my_wall, mike_stubbs).",
+    "source": "mike_stubbs",
+    "evidence": "For example, I did actually make this one piece of work called Waiter There is a Fly on my Wall.",
+    "confidence": "explicit",
+    "page": 5
+  },
+  {
+    "fact": "person(don_pennebaker).",
+    "source": "mike_stubbs",
+    "evidence": "I did actually do a week’s workshop with Don Pennebaker who of course invented the first fully mobile ENG film camera...",
+    "confidence": "explicit",
+    "page": 5
+  },
+  {
+    "fact": "organisation(time_based_arts).",
+    "source": "mike_stubbs",
+    "evidence": "...within the context of an emerging, independent arts organisation like Time-Based Arts in Hull...",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "work(miners_campaign_tapes).",
+    "source": "mike_stubbs",
+    "evidence": "One  of  the  works  that  you  were  instrumental  in  getting  produced  was  the  Miners’\nCampaign Tapes in 1984?",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "organisation(national_union_of_mineworkers).",
+    "source": "mike_stubbs",
+    "evidence": "When the National Union of Miner Workers refused to allow the BBC to document any of their protests or actions...",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "organisation(association_of_cinematographic_and_television_technicians).",
+    "source": "mike_stubbs",
+    "evidence": "they   invited   the   ACTT   which   I   was   a   member   of,   the   Association   of   the\nCinematographic  and  Television  Technicians",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "organisation(platform).",
+    "source": "mike_stubbs",
+    "evidence": "There were 6 key workshops throughout: Platform and Chapter were two, and I can’t remember the rest.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "organisation(chapter).",
+    "source": "mike_stubbs",
+    "evidence": "There were 6 key workshops throughout: Platform and Chapter were two, and I can’t remember the rest.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "exhibition(not_just_another_art_show).",
+    "source": "mike_stubbs",
+    "evidence": "In 1981 we did a show called ‘Not  Just  Another  Art Show’.",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "venue(supermarket_in_central_cardiff).",
+    "source": "mike_stubbs",
+    "evidence": "...we built a cinema in a supermarket in central Cardiff and we built an art gallery with paintings and sculpture.",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "year_created(not_just_another_art_show, @1981).",
+    "source": "mike_stubbs",
+    "evidence": "In 1981 we did a show called ‘Not  Just  Another  Art Show’.",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "exhibited_at(not_just_another_art_show, supermarket_in_central_cardiff).",
+    "source": "mike_stubbs",
+    "evidence": "...we built a cinema in a supermarket in central Cardiff and we built an art gallery with paintings and sculpture.",
+    "confidence": "explicit",
+    "page": 7
+  },
+  {
+    "fact": "member_of(mike_stubbs, association_of_cinematographic_and_television_technicians).",
+    "source": "mike_stubbs",
+    "evidence": "they   invited   the   ACTT   which   I   was   a   member   of,   the   Association   of   the\nCinematographic  and  Television  Technicians",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "active_in(mike_stubbs, miners_campaign_tapes).",
+    "source": "mike_stubbs",
+    "evidence": "Certainly, I was active and I encouraged it and I shot some and edited some and went to the miners’ meetings and documented.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "moved_to(mike_stubbs, hull).",
+    "source": "mike_stubbs",
+    "evidence": "I moved in 1985 and I spent 13 years there...",
+    "confidence": "explicit",
+    "page": 8
+  },
+  {
+    "fact": "year_moved(mike_stubbs, @1985).",
+    "source": "mike_stubbs",
+    "evidence": "I moved in 1985 and I spent 13 years there...",
+    "confidence": "explicit",
+    "page": 8
+  },
+  {
+    "fact": "affiliated_with(mike_stubbs, hull_time_based_arts).",
+    "source": "mike_stubbs",
+    "evidence": "having set up Hull Time Based Arts, which was a fairly major capital project",
+    "confidence": "explicit",
+    "page": 8
+  },
+  {
+    "fact": "organisation(hull_time_based_arts).",
+    "source": "mike_stubbs",
+    "evidence": "having set up Hull Time Based Arts, which was a fairly major capital project",
+    "confidence": "explicit",
+    "page": 8
+  },
+  {
+    "fact": "organisation(video_artists_on_tour).",
+    "source": "mike_stubbs",
+    "evidence": "I was one of the members of ‘Video Artists on Tour’",
+    "confidence": "explicit",
+    "page": 9
+  },
+  {
+    "fact": "work(drums_along_the_humber).",
+    "source": "mike_stubbs",
+    "evidence": "then we did Drums Along The Humber with Paul Burwell",
+    "confidence": "explicit",
+    "page": 8
+  },
+  {
+    "fact": "collaborated_with(mike_stubbs, paul_burwell).",
+    "source": "mike_stubbs",
+    "evidence": "then we did Drums Along The Humber with Paul Burwell",
+    "confidence": "explicit",
+    "page": 8
+  },
+  {
+    "fact": "venue(ye_olde_black_boy).",
+    "source": "mike_stubbs",
+    "evidence": "Ye Olde Black Boy on the High Street",
+    "confidence": "explicit",
+    "page": 8
+  },
+  {
+    "fact": "organisation(man_act).",
+    "source": "mike_stubbs",
+    "evidence": "Man Act was a performance group based, sharing space with the Cardiff Lab Inc. in Cardiff.",
+    "confidence": "explicit",
+    "page": 9
+  },
+  {
+    "fact": "organisation(cardiff_lab_inc).",
+    "source": "mike_stubbs",
+    "evidence": "Man Act was a performance group based, sharing space with the Cardiff Lab Inc. in Cardiff.",
+    "confidence": "explicit",
+    "page": 9
+  },
+  {
+    "fact": "place(cardiff).",
+    "source": "mike_stubbs",
+    "evidence": "Man Act was a performance group based, sharing space with the Cardiff Lab Inc. in Cardiff.",
+    "confidence": "explicit",
+    "page": 9
+  },
+  {
+    "fact": "commissioned_by(homing, bbc).",
+    "source": "mike_stubbs",
+    "evidence": "Homing which has actually been shown 7 or 8 times on British TV... the ones that were commissioned by a broadcast agency...",
+    "confidence": "supported",
+    "page": 9
+  },
+  {
+    "fact": "exhibited_at(homing, tate).",
+    "source": "mike_stubbs",
+    "evidence": "I recently had work shown at the Tate in a group context",
+    "confidence": "supported",
+    "page": 9
+  },
+  {
+    "fact": "venue(tate).",
+    "source": "mike_stubbs",
+    "evidence": "I recently had work shown at the Tate in a group context",
+    "confidence": "explicit",
+    "page": 9
+  },
+  {
+    "fact": "work(soapless).",
+    "source": "mike_stubbs",
+    "evidence": "I made two big films. I made Contortions, then I got funding through the Welsh Arts Council to make another film called Soapless",
+    "confidence": "explicit",
+    "page": 8
+  },
+  {
+    "fact": "organisation(welsh_arts_council).",
+    "source": "mike_stubbs",
+    "evidence": "I got funding through the Welsh Arts Council to make another film called Soapless",
+    "confidence": "explicit",
+    "page": 8
+  },
+  {
+    "fact": "affiliated_with(mike_stubbs, man_act).",
+    "source": "mike_stubbs",
+    "evidence": "I got involved with them... So Man Act came to me and said, 'Can you help us make a video?'",
+    "confidence": "explicit",
+    "page": 9
+  },
+  {
+    "fact": "used_venue(hull_time_based_arts, ye_olde_black_boy).",
+    "source": "mike_stubbs",
+    "evidence": "was meeting in the pub once a month – Ye Olde Black Boy on the High Street",
+    "confidence": "supported",
+    "page": 8
+  },
+  {
+    "fact": "collaborated_with(mike_stubbs, rob_gawthrop).",
+    "source": "mike_stubbs",
+    "evidence": "with an interest from Rob Gawthrop in experimental film. So I joined it and we started talking about whether we could get some funding to do some events",
+    "confidence": "supported",
+    "page": 8
+  },
+  {
+    "fact": "person(paul_burwell).",
+    "source": "mike_stubbs",
+    "evidence": "then we did Drums Along The Humber with Paul Burwell",
+    "confidence": "explicit",
+    "page": 8
+  },
+  {
+    "fact": "person(rob_gawthrop).",
+    "source": "mike_stubbs",
+    "evidence": "with an interest from Rob Gawthrop in experimental film. So I joined it and we started talking about whether we could get some funding to do some events",
+    "confidence": "supported",
+    "page": 8
+  },
+  {
+    "fact": "funded_by(mike_stubbs, channel_4).",
+    "source": "mike_stubbs",
+    "evidence": "I got into some early Channel 4 money... very early on when I was in my mid 20’s",
+    "confidence": "explicit",
+    "page": 8
+  },
+  {
+    "fact": "funded_by(mike_stubbs, s4c).",
+    "source": "mike_stubbs",
+    "evidence": "I got into some early Channel 4 money and a bit of S4C money very early on when I was in my mid 20’s",
+    "confidence": "explicit",
+    "page": 8
+  },
+  {
+    "fact": "funded_by(mike_stubbs, arts_council).",
+    "source": "mike_stubbs",
+    "evidence": "I got funded through the Arts Council and the BBC to make works...",
+    "confidence": "explicit",
+    "page": 8
+  },
+  {
+    "fact": "organisation(arts_council).",
+    "source": "mike_stubbs",
+    "evidence": "I got funded through the Arts Council and the BBC to make works...",
+    "confidence": "explicit",
+    "page": 8
+  },
+  {
+    "fact": "funded_by(mike_stubbs, bbc).",
+    "source": "mike_stubbs",
+    "evidence": "I got funded through the Arts Council and the BBC to make works...",
+    "confidence": "explicit",
+    "page": 8
+  },
+  {
+    "fact": "exhibition(root_festival).",
+    "source": "mike_stubbs",
+    "evidence": "having done the Root Festival for 10 years – a national arts festival which Hull no longer has",
+    "confidence": "explicit",
+    "page": 8
+  },
+  {
+    "fact": "venue(torriano_meeting_place).",
+    "source": "mike_stubbs",
+    "evidence": "I can remember doing a number of those to various small audiences like Torriano Meeting Place in 1992",
+    "confidence": "explicit",
+    "page": 9
+  },
+  {
+    "fact": "exhibited_at(mike_stubbs, torriano_meeting_place).",
+    "source": "mike_stubbs",
+    "evidence": "I can remember doing a number of those to various small audiences like Torriano Meeting Place in 1992",
+    "confidence": "supported",
+    "page": 9
+  },
+  {
+    "fact": "exhibited_at(homing, british_tv).",
+    "source": "mike_stubbs",
+    "evidence": "Homing which has actually been shown 7 or 8 times on British TV and shown around the world",
+    "confidence": "explicit",
+    "page": 9
+  },
+  {
+    "fact": "venue(british_tv).",
+    "source": "mike_stubbs",
+    "evidence": "shown 7 or 8 times on British TV and shown around the world",
+    "confidence": "explicit",
+    "page": 9
+  },
+  {
+    "fact": "work(sweatlodge).",
+    "source": "mike_stubbs",
+    "evidence": "called ‘Sweatlodge’ and I got a call saying, “We are doing the show at the tramway in Glasgow, Mike, can you come up and document it?”",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "venue(the_tramway_glasgow).",
+    "source": "mike_stubbs",
+    "evidence": "We are doing the show at the tramway in Glasgow, Mike",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "uses_medium(sweatlodge, super_8_film_camera).",
+    "source": "mike_stubbs",
+    "evidence": "got up in the morning with a Super 8 film camera and a video camera",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "uses_medium(sweatlodge, video_camera).",
+    "source": "mike_stubbs",
+    "evidence": "got up in the morning with a Super 8 film camera and a video camera",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "made_at(sweatlodge, the_tramway_glasgow).",
+    "source": "mike_stubbs",
+    "evidence": "We are doing the show at the tramway in Glasgow, Mike, can you come up and document it?",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "edited_by(sweatlodge, claire_pollack).",
+    "source": "mike_stubbs",
+    "evidence": "did a 3 day off-line edit and then a one day online edit in Dundee with Claire Pollack",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "work(city_strap_line_industries).",
+    "source": "mike_stubbs",
+    "evidence": "I made a body of work called City Strap Line Industries which then eventuated into an exhibition Baltic",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "exhibition(baltic).",
+    "source": "mike_stubbs",
+    "evidence": "which then eventuated into an exhibition Baltic which also contained Cultural Quarter, Time and about five other works",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "work(time).",
+    "source": "mike_stubbs",
+    "evidence": "Baltic which also contained Cultural Quarter, Time and about five other works",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "exhibition(burning_bush).",
+    "source": "mike_stubbs",
+    "evidence": "in the period in Dundee, for 2 years in a row, I set up a small time based arts festival called ‘Burning Bush’",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "organisation(newcastle_gateshead_initiative).",
+    "source": "mike_stubbs",
+    "evidence": "I did a residency with the Newcastle Gateshead Initiative and tracked the bid for the Year of Culture 2008",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "taught_at(mike_stubbs, dundee).",
+    "source": "mike_stubbs",
+    "evidence": "I taught there. I regularly taught at Dundee. Pretty much from about 1990, I’d go up there.",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "person(gina_czarnecki).",
+    "source": "mike_stubbs",
+    "evidence": "Steve Partridge was appreciative of Gina Czarnecki’s skills.",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "venue(watermans).",
+    "source": "mike_stubbs",
+    "evidence": "He was the director of Chapter Art Centre, then to become the Director of the Watermans in West London and then the Director of the ICA",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "venue(ica_london).",
+    "source": "mike_stubbs",
+    "evidence": "He was the director of Chapter Art Centre, then to become the Director of the Watermans in West London and then the Director of the ICA",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "person(mik_flood).",
+    "source": "mike_stubbs",
+    "evidence": "Mik Flood. He took a punt in 1980. He was the director of Chapter Art Centre, then to become the Director of the Watermans in West London and then the Director of the ICA.",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "collaborated_with(mike_stubbs, dick_powel).",
+    "source": "mike_stubbs",
+    "evidence": "Basically I went to him with Dick Powel and Sian Edwards. We had an idea to do a mixed media theatre performance called The Starless Cast.",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "collaborated_with(mike_stubbs, sian_edwards).",
+    "source": "mike_stubbs",
+    "evidence": "Basically I went to him with Dick Powel and Sian Edwards. We had an idea to do a mixed media theatre performance called The Starless Cast.",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "work(the_starless_cast).",
+    "source": "mike_stubbs",
+    "evidence": "had an idea to do a mixed media theatre performance called The Starless Cast. He said, 'This looks interesting, yeah you can have some money'. So he gave us the theatre for a three-week rehearsal period, a week’s run in the theatre and a budget to make it.",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "funded_by(the_starless_cast, chapter_art_centre).",
+    "source": "mike_stubbs",
+    "evidence": "Mik Flood...gave us the theatre for a three-week rehearsal period, a week’s run in the theatre and a budget to make it.",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "person(dick_powel).",
+    "source": "mike_stubbs",
+    "evidence": "Basically I went to him with Dick Powel and Sian Edwards.",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "person(sian_edwards).",
+    "source": "mike_stubbs",
+    "evidence": "Basically I went to him with Dick Powel and Sian Edwards.",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "person(david_curtis).",
+    "source": "mike_stubbs",
+    "evidence": "David Curtis has been an important supporter over the years.",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "person(rod_stoneman).",
+    "source": "mike_stubbs",
+    "evidence": "I would imagine that Rod Stoneman is one. He was the Channel 4 commissioning editor that didn't, finally, commission anything that I did.",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "person(alex_graham).",
+    "source": "mike_stubbs",
+    "evidence": "Alex Graham, who was at the ICA for a while, is another.",
+    "confidence": "explicit",
+    "page": 10
+  },
+  {
+    "fact": "person(isaac_julien).",
+    "source": "mike_stubbs",
+    "evidence": "I am working with Isaac Julien in the Pompidou Show.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "collaborated_with(mike_stubbs, isaac_julien).",
+    "source": "mike_stubbs",
+    "evidence": "I am working with Isaac Julien in the Pompidou Show.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "exhibition(pompidou_show).",
+    "source": "mike_stubbs",
+    "evidence": "I am working with Isaac Julien in the Pompidou Show.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "organisation(sankofa).",
+    "source": "mike_stubbs",
+    "evidence": "I can remember meeting Isaac when he was a mere lad, when he was still a part of Sankofa.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "work(territories).",
+    "source": "mike_stubbs",
+    "evidence": "He’d just finished making Territories, which I was very interested in.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "organisation(victoria_miro).",
+    "source": "mike_stubbs",
+    "evidence": "he is represented by Victoria Miro",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "person(heath_bunting).",
+    "source": "mike_stubbs",
+    "evidence": "Heath Bunting has just made a new documentary film...he starts his 40 minute documentary by thanking me for giving him £50 to do his first paid artwork.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "collaborated_with(mike_stubbs, heath_bunting).",
+    "source": "mike_stubbs",
+    "evidence": "he starts his 40 minute documentary by thanking me for giving him £50 to do his first paid artwork.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "person(perry_hoberman).",
+    "source": "mike_stubbs",
+    "evidence": "I've developed a strong working relationship with certain artists like Perry Hoberman or Granular Synthesis or Ryoji Ikeda.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "organisation(granular_synthesis).",
+    "source": "mike_stubbs",
+    "evidence": "I've developed a strong working relationship with certain artists like Perry Hoberman or Granular Synthesis or Ryoji Ikeda.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "person(ryoji_ikeda).",
+    "source": "mike_stubbs",
+    "evidence": "I've developed a strong working relationship with certain artists like Perry Hoberman or Granular Synthesis or Ryoji Ikeda.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "person(roland_denning).",
+    "source": "mike_stubbs",
+    "evidence": "It would be foolish not to mention Roland Denning, who is kind of key collaborator on the zone of works, which include Gift and Homing: the two critical ones, where he was a co-writer and cinematographer and also we worked together on the production.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "collaborated_with(mike_stubbs, roland_denning).",
+    "source": "mike_stubbs",
+    "evidence": "It would be foolish not to mention Roland Denning, who is kind of key collaborator on the zone of works, which include Gift and Homing: the two critical ones, where he was a co-writer and cinematographer and also we worked together on the production.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "organisation(metamedia_productions).",
+    "source": "mike_stubbs",
+    "evidence": "we formed Metamedia Productions, which still has an office in Berwick Street in London.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "venue(berwick_street_office).",
+    "source": "mike_stubbs",
+    "evidence": "Metamedia Productions, which still has an office in Berwick Street in London.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "organisation(chapter_film_workshop).",
+    "source": "mike_stubbs",
+    "evidence": "Roland is obviously critical in a lot of this work taking place, and also for having been the person that ran Chapter Film Workshop.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "person(goddard).",
+    "source": "mike_stubbs",
+    "evidence": "my interest in the New Wave largely came through Roland’s interest in Goddard",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "person(ian_christie).",
+    "source": "mike_stubbs",
+    "evidence": "which was recently reminded to me by Ian Christie",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "person(phil_cosca).",
+    "source": "mike_stubbs",
+    "evidence": "it was actually Phil Cosca who did the first full season programme at Hull University of Goddard films in Britain.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "organisation(hull_university).",
+    "source": "mike_stubbs",
+    "evidence": "Phil Cosca who did the first full season programme at Hull University of Goddard films in Britain.",
+    "confidence": "explicit",
+    "page": 11
+  },
+  {
+    "fact": "person(joanna_millet).",
+    "source": "mike_stubbs",
+    "evidence": "Joanna Millet... was pretty much the driving force along with [X] behind Hull Time Based Arts",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "work(what_the_eye_doesn_t_see_post_industrial_studies_number_1).",
+    "source": "mike_stubbs",
+    "evidence": "We did the What The Eye Doesn’t See: Post Industrial Studies Number 1 piece.",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "exhibition(river_crossings_with_camerawork).",
+    "source": "mike_stubbs",
+    "evidence": "It was part of ‘River Crossings with Camerawork’, which involved...",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "venue(woolwich_train_station).",
+    "source": "mike_stubbs",
+    "evidence": "mic-ing up a working steam train using Woolwich Train Station",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "person(rob).",
+    "source": "mike_stubbs",
+    "evidence": "grainy 16 mm films that Rob made",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "work(lighthouse).",
+    "source": "mike_stubbs",
+    "evidence": "We did the Lighthouse piece in Whithernsea, which was basically a public artwork",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "venue(withernsea).",
+    "source": "mike_stubbs",
+    "evidence": "Lighthouse piece in Whithernsea",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "person(gerald_mair).",
+    "source": "mike_stubbs",
+    "evidence": "We had a soundtrack that was made by Gerald Mair",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "organisation(community_radio).",
+    "source": "mike_stubbs",
+    "evidence": "our community radio and you had to tune into an FM station to hear it",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "person(roberto_de_jonge).",
+    "source": "mike_stubbs",
+    "evidence": "Roberto De Jonge and Maria Voortman from Rotterdam, who had an MPI/BBC co-commission for a dance film.",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "person(maria_voortman).",
+    "source": "mike_stubbs",
+    "evidence": "Roberto De Jonge and Maria Voortman from Rotterdam, who had an MPI/BBC co-commission for a dance film.",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "venue(rotterdam).",
+    "source": "mike_stubbs",
+    "evidence": "Roberto De Jonge and Maria Voortman from Rotterdam",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "organisation(mpi_bbc).",
+    "source": "mike_stubbs",
+    "evidence": "an MPI/BBC co-commission for a dance film.",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "person(franco_b).",
+    "source": "mike_stubbs",
+    "evidence": "I’ve also worked with Franco B on performance work, video and performance work.",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "person(bhindu_boys).",
+    "source": "mike_stubbs",
+    "evidence": "I did Bhindu Boys, Remmy Onglala, Ali Farka Toure, Anne Whitehurst, Dudu Pakwana – a number of people who are now dead.",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "person(remmy_onglala).",
+    "source": "mike_stubbs",
+    "evidence": "I did Bhindu Boys, Remmy Onglala, Ali Farka Toure, Anne Whitehurst, Dudu Pakwana – a number of people who are now dead.",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "person(ali_farka_toure).",
+    "source": "mike_stubbs",
+    "evidence": "I did Bhindu Boys, Remmy Onglala, Ali Farka Toure, Anne Whitehurst, Dudu Pakwana – a number of people who are now dead.",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "person(anne_whitehurst).",
+    "source": "mike_stubbs",
+    "evidence": "I did Bhindu Boys, Remmy Onglala, Ali Farka Toure, Anne Whitehurst, Dudu Pakwana – a number of people who are now dead.",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "person(dudu_pakwana).",
+    "source": "mike_stubbs",
+    "evidence": "I did Bhindu Boys, Remmy Onglala, Ali Farka Toure, Anne Whitehurst, Dudu Pakwana – a number of people who are now dead.",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "organisation(afro_caribbean_association).",
+    "source": "mike_stubbs",
+    "evidence": "done with collaboration with the Afro-Caribbean Association",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "venue(tower_night_club).",
+    "source": "mike_stubbs",
+    "evidence": "at the Tower Night Club",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "person(dave_mays).",
+    "source": "mike_stubbs",
+    "evidence": "I made good friends with Dave Mays who assisted in doing that",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "person(carl_craig).",
+    "source": "mike_stubbs",
+    "evidence": "the rhythm and sound remixes of Carl Craig track",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "organisation(i_dream_of_tall_buildings).",
+    "source": "mike_stubbs",
+    "evidence": "a group called ‘I Dream of Tall Buildings’ which is a Birmingham collective",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "person(simon_thorne).",
+    "source": "mike_stubbs",
+    "evidence": "Simon Thorne made a few soundtracks",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "person(mark_fell_snd).",
+    "source": "mike_stubbs",
+    "evidence": "Mark Fell/SND also [made soundtracks]",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "person(david_shea).",
+    "source": "mike_stubbs",
+    "evidence": "David Shea, who is actually based in Melbourne, made a soundtrack.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "venue(melbourne).",
+    "source": "mike_stubbs",
+    "evidence": "David Shea, who is actually based in Melbourne",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "person(chris_wiltshire).",
+    "source": "mike_stubbs",
+    "evidence": "Chris Wiltshire made the soundtrack for that [dance video piece]",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "person(rosetta_brooks).",
+    "source": "mike_stubbs",
+    "evidence": "In 1982 I was introduced to Rosetta Brooks and her partner who is actually quite a famous British artist.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "organisation(zg).",
+    "source": "mike_stubbs",
+    "evidence": "They set up a magazine called ZG.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "person(janek_alexander).",
+    "source": "mike_stubbs",
+    "evidence": "The connection came through Janek Alexander. I think he’d met them in New York.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "venue(new_york).",
+    "source": "mike_stubbs",
+    "evidence": "Janek Alexander. I think he’d met them in New York.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "work(zg_presents).",
+    "source": "mike_stubbs",
+    "evidence": "I made another piece, which was called ZG Presents and I worked with all unknown artists or almost unknown artists at the time: Robert Longo, Cindy Sherman and Jack Goldstein.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "person(robert_longo).",
+    "source": "mike_stubbs",
+    "evidence": "ZG Presents and I worked with all unknown artists or almost unknown artists at the time: Robert Longo, Cindy Sherman and Jack Goldstein",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "person(cindy_sherman).",
+    "source": "mike_stubbs",
+    "evidence": "ZG Presents and I worked with all unknown artists or almost unknown artists at the time: Robert Longo, Cindy Sherman and Jack Goldstein",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "person(jack_goldstein).",
+    "source": "mike_stubbs",
+    "evidence": "ZG Presents and I worked with all unknown artists or almost unknown artists at the time: Robert Longo, Cindy Sherman and Jack Goldstein",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "person(david_garcia).",
+    "source": "mike_stubbs",
+    "evidence": "I remember talking to David Garcia about that.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "person(lar_lubovitch).",
+    "source": "mike_stubbs",
+    "evidence": "I met Lar Lubovitch, Sun Ra, Steve Reich, Philip Glass, David van Tiegham and Meredith Monk. I met them at a party.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "person(sun_ra).",
+    "source": "mike_stubbs",
+    "evidence": "I met Lar Lubovitch, Sun Ra, Steve Reich, Philip Glass, David van Tiegham and Meredith Monk. I met them at a party.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "person(steve_reich).",
+    "source": "mike_stubbs",
+    "evidence": "I met Lar Lubovitch, Sun Ra, Steve Reich, Philip Glass, David van Tiegham and Meredith Monk. I met them at a party.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "person(philip_glass).",
+    "source": "mike_stubbs",
+    "evidence": "I met Lar Lubovitch, Sun Ra, Steve Reich, Philip Glass, David van Tiegham and Meredith Monk. I met them at a party.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "person(david_van_tiegham).",
+    "source": "mike_stubbs",
+    "evidence": "I met Lar Lubovitch, Sun Ra, Steve Reich, Philip Glass, David van Tiegham and Meredith Monk. I met them at a party.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "person(meredith_monk).",
+    "source": "mike_stubbs",
+    "evidence": "I met Lar Lubovitch, Sun Ra, Steve Reich, Philip Glass, David van Tiegham and Meredith Monk. I met them at a party.",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "organisation(v2).",
+    "source": "mike_stubbs",
+    "evidence": "we were actually making its [Hull's] connection with Europe through V2",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "organisation(werkleitz_gesellschaft).",
+    "source": "mike_stubbs",
+    "evidence": "through Werkleitz Gesellschaft in the former East Germany",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "venue(oberhausen).",
+    "source": "mike_stubbs",
+    "evidence": "through a network of Oberhausen",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "organisation(city_council).",
+    "source": "mike_stubbs",
+    "evidence": "caught the imagination of ... the City Council",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "exhibition(ave_festival_in_holland).",
+    "source": "mike_stubbs",
+    "evidence": "AVE Festival in Holland",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "organisation(kingston_communications).",
+    "source": "mike_stubbs",
+    "evidence": "talking to Kingston Communications about their new ISDN service",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "created_by(what_the_eye_doesn_t_see_post_industrial_studies_number_1, mike_stubbs).",
+    "source": "mike_stubbs",
+    "evidence": "We did the What The Eye Doesn’t See: Post Industrial Studies Number 1 piece.",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "created_by(what_the_eye_doesn_t_see_post_industrial_studies_number_1, joanna_millet).",
+    "source": "mike_stubbs",
+    "evidence": "We did the What The Eye Doesn’t See: Post Industrial Studies Number 1 piece.",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "exhibited_at(what_the_eye_doesn_t_see_post_industrial_studies_number_1, river_crossings_with_camerawork).",
+    "source": "mike_stubbs",
+    "evidence": "It was part of ‘River Crossings with Camerawork’",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "made_at(what_the_eye_doesn_t_see_post_industrial_studies_number_1, woolwich_train_station).",
+    "source": "mike_stubbs",
+    "evidence": "mic-ing up a working steam train using Woolwich Train Station",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "created_by(lighthouse, mike_stubbs).",
+    "source": "mike_stubbs",
+    "evidence": "We did the Lighthouse piece in Whithernsea, which was basically a public artwork",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "created_by(lighthouse, gina_czarnecki).",
+    "source": "mike_stubbs",
+    "evidence": "We did the Lighthouse piece in Whithernsea, which was basically a public artwork",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "made_at(lighthouse, withernsea).",
+    "source": "mike_stubbs",
+    "evidence": "Lighthouse piece in Whithernsea",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "soundtrack_by(lighthouse, gerald_mair).",
+    "source": "mike_stubbs",
+    "evidence": "We had a soundtrack that was made by Gerald Mair",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "broadcast_by(lighthouse, community_radio).",
+    "source": "mike_stubbs",
+    "evidence": "our community radio and you had to tune into an FM station to hear it",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "collaborated_with(mike_stubbs, roberto_de_jonge).",
+    "source": "mike_stubbs",
+    "evidence": "I’ve done lots of collaborations with dancers and performers, for example, Roberto De Jonge and Maria Voortman from Rotterdam, who had an MPI/BBC co-commission for a dance film.",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "collaborated_with(mike_stubbs, maria_voortman).",
+    "source": "mike_stubbs",
+    "evidence": "I’ve done lots of collaborations with dancers and performers, for example, Roberto De Jonge and Maria Voortman from Rotterdam, who had an MPI/BBC co-commission for a dance film.",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "collaborated_with(mike_stubbs, franco_b).",
+    "source": "mike_stubbs",
+    "evidence": "I’ve also worked with Franco B on performance work, video and performance work.",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "music_promotion_by(bhindu_boys, mike_stubbs).",
+    "source": "mike_stubbs",
+    "evidence": "I did Bhindu Boys, Remmy Onglala, Ali Farka Toure, Anne Whitehurst, Dudu Pakwana",
+    "confidence": "supported",
+    "page": 12
+  },
+  {
+    "fact": "music_promotion_by(remmy_onglala, mike_stubbs).",
+    "source": "mike_stubbs",
+    "evidence": "I did Bhindu Boys, Remmy Onglala, Ali Farka Toure, Anne Whitehurst, Dudu Pakwana",
+    "confidence": "supported",
+    "page": 12
+  },
+  {
+    "fact": "music_promotion_by(ali_farka_toure, mike_stubbs).",
+    "source": "mike_stubbs",
+    "evidence": "I did Bhindu Boys, Remmy Onglala, Ali Farka Toure, Anne Whitehurst, Dudu Pakwana",
+    "confidence": "supported",
+    "page": 12
+  },
+  {
+    "fact": "music_promotion_by(anne_whitehurst, mike_stubbs).",
+    "source": "mike_stubbs",
+    "evidence": "I did Bhindu Boys, Remmy Onglala, Ali Farka Toure, Anne Whitehurst, Dudu Pakwana",
+    "confidence": "supported",
+    "page": 12
+  },
+  {
+    "fact": "music_promotion_by(dudu_pakwana, mike_stubbs).",
+    "source": "mike_stubbs",
+    "evidence": "I did Bhindu Boys, Remmy Onglala, Ali Farka Toure, Anne Whitehurst, Dudu Pakwana",
+    "confidence": "supported",
+    "page": 12
+  },
+  {
+    "fact": "collaborated_with(mike_stubbs, afro_caribbean_association).",
+    "source": "mike_stubbs",
+    "evidence": "done with collaboration with the Afro-Caribbean Association",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "collaborated_with(mike_stubbs, hull_time_based_arts).",
+    "source": "mike_stubbs",
+    "evidence": "through Time Based Arts",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "collaborated_with(mike_stubbs, dave_mays).",
+    "source": "mike_stubbs",
+    "evidence": "I made good friends with Dave Mays who assisted in doing that.",
+    "confidence": "explicit",
+    "page": 12
+  },
+  {
+    "fact": "soundtrack_by(cultural_quarter, i_dream_of_tall_buildings).",
+    "source": "mike_stubbs",
+    "evidence": "The soundtrack for Cultural Quarter for example, was made by a group called ‘I Dream of Tall Buildings’",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "soundtrack_by(cultural_quarter, simon_thorne).",
+    "source": "mike_stubbs",
+    "evidence": "Simon Thorne made a few soundtracks",
+    "confidence": "supported",
+    "page": 13
+  },
+  {
+    "fact": "soundtrack_by(cultural_quarter, ulf_langheinrich).",
+    "source": "mike_stubbs",
+    "evidence": "Ulf Langheinrich has done two or three [soundtracks]",
+    "confidence": "supported",
+    "page": 13
+  },
+  {
+    "fact": "soundtrack_by(cultural_quarter, mark_fell_snd).",
+    "source": "mike_stubbs",
+    "evidence": "Mark Fell/SND also [made soundtracks]",
+    "confidence": "supported",
+    "page": 13
+  },
+  {
+    "fact": "soundtrack_by(cultural_quarter, david_shea).",
+    "source": "mike_stubbs",
+    "evidence": "David Shea, who is actually based in Melbourne, made a soundtrack.",
+    "confidence": "supported",
+    "page": 13
+  },
+  {
+    "fact": "soundtrack_by(cultural_quarter, chris_wiltshire).",
+    "source": "mike_stubbs",
+    "evidence": "Chris Wiltshire made the soundtrack for that so there have been quite a few different people.",
+    "confidence": "supported",
+    "page": 13
+  },
+  {
+    "fact": "created_by(zg_presents, mike_stubbs).",
+    "source": "mike_stubbs",
+    "evidence": "I made another piece, which was called ZG Presents",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "collaborated_with(mike_stubbs, robert_longo).",
+    "source": "mike_stubbs",
+    "evidence": "ZG Presents and I worked with all unknown artists or almost unknown artists at the time: Robert Longo, Cindy Sherman and Jack Goldstein",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "collaborated_with(mike_stubbs, cindy_sherman).",
+    "source": "mike_stubbs",
+    "evidence": "ZG Presents and I worked with all unknown artists or almost unknown artists at the time: Robert Longo, Cindy Sherman and Jack Goldstein",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "collaborated_with(mike_stubbs, jack_goldstein).",
+    "source": "mike_stubbs",
+    "evidence": "ZG Presents and I worked with all unknown artists or almost unknown artists at the time: Robert Longo, Cindy Sherman and Jack Goldstein",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "affiliated_with(mike_stubbs, werkleitz_gesellschaft).",
+    "source": "mike_stubbs",
+    "evidence": "Werkleitz Gesellschaft were on the point of buying an Avid just as I was just buying an Avid to work with Granular Synthesis for the AVE Festival in Holland",
+    "confidence": "supported",
+    "page": 13
+  },
+  {
+    "fact": "affiliated_with(mike_stubbs, granular_synthesis).",
+    "source": "mike_stubbs",
+    "evidence": "I was just buying an Avid to work with Granular Synthesis for the AVE Festival in Holland",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "collaborated_with(mike_stubbs, v2).",
+    "source": "mike_stubbs",
+    "evidence": "we were actually making its connection with Europe through V2, through Werkleitz Gesellschaft",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "collaborated_with(mike_stubbs, werkleitz_gesellschaft).",
+    "source": "mike_stubbs",
+    "evidence": "we were actually making its connection with Europe through V2, through Werkleitz Gesellschaft",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "collaborated_with(mike_stubbs, kingston_communications).",
+    "source": "mike_stubbs",
+    "evidence": "talking to Kingston Communications about their new ISDN service",
+    "confidence": "explicit",
+    "page": 13
+  }
+]

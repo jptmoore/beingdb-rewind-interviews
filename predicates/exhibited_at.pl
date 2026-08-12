@@ -14,6 +14,8 @@ exhibited_at(de_appel_foundation, madelon_hooykaas).
 exhibited_at(deep_looking, netherlands_representation_in_south_korea_2005).
 exhibited_at(flying_time, sidney_biennale).
 exhibited_at(flying_time, tate).
+exhibited_at(homing, british_tv).
+exhibited_at(homing, tate).
 exhibited_at(hooykaas_stansfield, de_appel).
 exhibited_at(hooykaas_stansfield, gallery_in_bremen).
 exhibited_at(hooykaas_stansfield, museum_of_modern_art).
@@ -41,6 +43,8 @@ exhibited_at(madelon_hooykaas, photographers_gallery_london).
 exhibited_at(madelon_hooykaas, photographers_gallery_milan).
 exhibited_at(madelon_hooykaas, trip_to_japan_1983).
 exhibited_at(madelon_hooykaas, trip_to_sydney_biennale).
+exhibited_at(mike_stubbs, torriano_meeting_place).
+exhibited_at(not_just_another_art_show, supermarket_in_central_cardiff).
 exhibited_at(one_artist_one_day, angela_flowers_gallery).
 exhibited_at(one_of_these_days, london_film_festival).
 exhibited_at(running_time_1979, retrospective_festivals).
@@ -52,5 +56,6 @@ exhibited_at(television_interview, southampton).
 exhibited_at(vi_deo_volente, de_appel).
 exhibited_at(video_times, ikon_gallery_birmingham).
 exhibited_at(video_void, the_kitchen).
+exhibited_at(what_the_eye_doesn_t_see_post_industrial_studies_number_1, river_crossings_with_camerawork).
 exhibited_at(whats_it_to_you, third_eye_centre).
 exhibited_at(whitechapel_art_gallery, madelon_hooykaas).

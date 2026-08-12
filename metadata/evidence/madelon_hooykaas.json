@@ -154,21 +154,21 @@
     "page": 1
   },
   {
-    "fact": "uses_medium(running_time, \"black-and-white video\").",
+    "fact": "uses_medium(running_time, black_and_white_video).",
     "source": "madelon_hooykaas",
     "evidence": "We worked a lot during that period with the lines of the black-and-white video, meaning the structure of the video image.",
     "confidence": "explicit",
     "page": 1
   },
   {
-    "fact": "uses_medium(running_time, \"photographic images\").",
+    "fact": "uses_medium(running_time, photographic_images).",
     "source": "madelon_hooykaas",
     "evidence": "Often our work is not just one single tape, but is also often photographic images, which are still images from the video.",
     "confidence": "explicit",
     "page": 1
   },
   {
-    "fact": "uses_medium(running_time, \"linen\").",
+    "fact": "uses_medium(running_time, linen).",
     "source": "madelon_hooykaas",
     "evidence": "They were sometimes printed on linen using the structure of the material of linen and the video image.",
     "confidence": "explicit",
@@ -322,14 +322,14 @@
     "page": null
   },
   {
-    "fact": "uses_medium(madelon_hooykaas, \"video\").",
+    "fact": "uses_medium(madelon_hooykaas, video).",
     "source": "madelon_hooykaas",
     "evidence": "Working with video was very different, and it was far more conceptual as well.",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "uses_medium(madelon_hooykaas, \"Polaroid photography\").",
+    "fact": "uses_medium(madelon_hooykaas, polaroid_photography).",
     "source": "madelon_hooykaas",
     "evidence": "I worked a lot in that period with Polaroids and sequences. I used the idea that you made your Polaroid and you immediately could react when you looked at it, then you could make the next work.",
     "confidence": "explicit",
@@ -560,14 +560,14 @@
     "page": 6
   },
   {
-    "fact": "uses_medium(the_wind_works, \"live video\").",
+    "fact": "uses_medium(the_wind_works, live_video).",
     "source": "madelon_hooykaas",
     "evidence": "The Wind works were key works through the combination of live video and pre-recorded tape.",
     "confidence": "explicit",
     "page": 6
   },
   {
-    "fact": "uses_medium(the_wind_works, \"pre-recorded tape\").",
+    "fact": "uses_medium(the_wind_works, pre_recorded_tape).",
     "source": "madelon_hooykaas",
     "evidence": "The Wind works were key works through the combination of live video and pre-recorded tape.",
     "confidence": "explicit",
@@ -1001,7 +1001,7 @@
     "page": null
   },
   {
-    "fact": "uses_medium(flying_time, \"installation\").",
+    "fact": "uses_medium(flying_time, installation).",
     "source": "madelon_hooykaas",
     "evidence": "It had been an installation and was later shown at the Tate as well.",
     "confidence": "explicit",
@@ -1232,7 +1232,7 @@
     "page": null
   },
   {
-    "fact": "uses_medium(museum_of_memory_1, \"monitor\").",
+    "fact": "uses_medium(museum_of_memory_1, monitor).",
     "source": "madelon_hooykaas",
     "evidence": "With Museum of Memory, we took the monitor out of its case and put it in a vitrine. It was in a glass case like in a museum.",
     "confidence": "explicit",

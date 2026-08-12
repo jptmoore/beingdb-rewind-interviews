@@ -3,12 +3,16 @@
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 created_by(an_audience_s_new_clothes, kevin_atherton).
 created_by(another_sphere, kevin_atherton).
+created_by(anthem, bill_viola).
 created_by(any_questions, kevin_atherton).
 created_by(audio_video_installations_catalogue, josine_van_droffelaar).
 created_by(behind_the_veil, eve_arnold).
 created_by(brixton_pieces, kevin_atherton).
 created_by(compass, elsa).
 created_by(compass, madelon_hooykaas).
+created_by(contortions, mike_stubbs).
+created_by(cooking_with_katie, mike_stubbs).
+created_by(cultural_quarter, mike_stubbs).
 created_by(day_for_night, elsa).
 created_by(day_for_night, madelon_hooykaas).
 created_by(deep_looking, elsa).
@@ -21,6 +25,8 @@ created_by(flying_time, madelon_hooykaas).
 created_by(from_the_museum_of_memory, elsa_stansfield).
 created_by(from_the_museum_of_memory, madelon_hooykaas).
 created_by(gallery_guide, kevin_atherton).
+created_by(gift, mike_stubbs).
+created_by(homing, mike_stubbs).
 created_by(horizontal_flow, elsa_stansfield).
 created_by(horizontal_flow, madelon_hooykaas).
 created_by(in_two_minds, kevin_atherton).
@@ -28,14 +34,18 @@ created_by(inside_outside, elsa).
 created_by(inside_outside, madelon_hooykaas).
 created_by(intercom_island, elsa_stansfield).
 created_by(intercom_island, madelon_hooykaas).
+created_by(lighthouse, gina_czarnecki).
+created_by(lighthouse, mike_stubbs).
 created_by(magnetic_north, elsa).
 created_by(magnetic_north, madelon_hooykaas).
 created_by(museum_of_memory_1, elsa_stansfield).
 created_by(museum_of_memory_1, madelon_hooykaas).
+created_by(naval_death, mike_stubbs).
 created_by(on_boundaries, elsa).
 created_by(on_boundaries, madelon_hooykaas).
 created_by(one_of_these_days, elsa_stansfield).
 created_by(one_of_these_days, madelon_hooykaas).
+created_by(pieces_i_never_did, david_critchley).
 created_by(revision, elsa).
 created_by(revision, madelon_hooykaas).
 created_by(running_time_1979, elsa_stansfield).
@@ -64,5 +74,9 @@ created_by(vi_deo_volente, madelon_hooykaas).
 created_by(video_times, kevin_atherton).
 created_by(video_void, elsa).
 created_by(video_void, madelon_hooykaas).
+created_by(waiter_there_is_a_fly_on_my_wall, mike_stubbs).
+created_by(what_the_eye_doesn_t_see_post_industrial_studies_number_1, joanna_millet).
+created_by(what_the_eye_doesn_t_see_post_industrial_studies_number_1, mike_stubbs).
 created_by(whats_it_to_you, elsa_stansfield).
 created_by(whats_it_to_you, madelon_hooykaas).
+created_by(zg_presents, mike_stubbs).

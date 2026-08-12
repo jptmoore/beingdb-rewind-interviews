@@ -3,3 +3,4 @@
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 interviewee(rewind_kevin_atherton_interview, kevin_atherton).
 interviewee(rewind_madelon_hooykaas_interview, madelon_hooykaas).
+interviewee(rewind_mike_stubbs_interview, mike_stubbs).

@@ -3,3 +3,4 @@
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 document(rewind_kevin_atherton_interview).
 document(rewind_madelon_hooykaas_interview).
+document(rewind_mike_stubbs_interview).

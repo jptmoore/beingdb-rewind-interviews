@@ -2,11 +2,14 @@
 % See metadata/extraction.json for source provenance and candidates/evidence for supporting quotes.
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 year_created(compass, @1984).
+year_created(contortions, @1983).
+year_created(cultural_quarter, @2003).
 year_created(day_for_night, @1990).
 year_created(from_the_museum_of_memory, @1983).
 year_created(inside_outside, @1982).
 year_created(madelon_hooykaas, @1989).
 year_created(magnetic_north, @1982).
+year_created(not_just_another_art_show, @1981).
 year_created(running_time_1979, @1979).
 year_created(running_time, @1979).
 year_created(split_seconds, @1979).
