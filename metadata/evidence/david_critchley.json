@@ -1,0 +1,1388 @@
+[
+  {
+    "fact": "created_by(pieces_i_never_did, david_critchley).",
+    "source": "david_critchley",
+    "evidence": "‘Pieces I never Did’ is the single most important piece of work I’ve made.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "work(pieces_i_never_did).",
+    "source": "david_critchley",
+    "evidence": "‘Pieces I never Did’ is the single most important piece of work I’ve made.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(david_critchley).",
+    "source": "david_critchley",
+    "evidence": "Interview with David Critchley",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "work(trialogue).",
+    "source": "david_critchley",
+    "evidence": "Trialogue... were quite important that got shown and that were shown and were represented",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "work(static_acceleration).",
+    "source": "david_critchley",
+    "evidence": "Static Acceleration were quite important that got shown and that were shown and were represented",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "work(zero_reaches_zeno).",
+    "source": "david_critchley",
+    "evidence": "there was another one Zero Reaches Zeno, which was my first single monitor tape",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "work(yet_another_triangle).",
+    "source": "david_critchley",
+    "evidence": "and there was another piece at the Video Show, Yet Another Triangle, which really was my first finished video piece",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "exhibited_at(yet_another_triangle, serpentine_gallery).",
+    "source": "david_critchley",
+    "evidence": "I made [Yet Another Triangle] with Stuart Marshall, Keith Frake and myself in Newcastle but for the Serpentine because of the players that they had we had to re-shoot it... so that the tapes could actually be screened at the Serpentine.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "work(memory_1).",
+    "source": "david_critchley",
+    "evidence": "There are two pieces called, Memory 1 and Memory 1 and 2, that work across four screens",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "work(memory_1_and_2).",
+    "source": "david_critchley",
+    "evidence": "There are two pieces called, Memory 1 and Memory 1 and 2, that work across four screens",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "work(move_towards_the_verticality_of_the_horizon).",
+    "source": "david_critchley",
+    "evidence": "I made a piece called Move Towards the Verticality of the Horizon it was a film four minutes long",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "year_created(move_towards_the_verticality_of_the_horizon, @1975).",
+    "source": "david_critchley",
+    "evidence": "That was made in ’75, ’76, on Southend Beach, shot by Alison Winkle I think, and funded by me",
+    "confidence": "supported",
+    "page": 1
+  },
+  {
+    "fact": "year_created(move_towards_the_verticality_of_the_horizon, @1976).",
+    "source": "david_critchley",
+    "evidence": "That was made in ’75, ’76, on Southend Beach, shot by Alison Winkle I think, and funded by me",
+    "confidence": "supported",
+    "page": 1
+  },
+  {
+    "fact": "made_at(move_towards_the_verticality_of_the_horizon, southend_beach).",
+    "source": "david_critchley",
+    "evidence": "That was made in ’75, ’76, on Southend Beach, shot by Alison Winkle I think, and funded by me",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "created_by(move_towards_the_verticality_of_the_horizon, david_critchley).",
+    "source": "david_critchley",
+    "evidence": "I made a piece called Move Towards the Verticality of the Horizon",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "collaborated_with(move_towards_the_verticality_of_the_horizon, alison_winkle).",
+    "source": "david_critchley",
+    "evidence": "shot by Alison Winkle I think",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "work(butlers_wharf_24_minute_retrospective).",
+    "source": "david_critchley",
+    "evidence": "performance pieces like the Butlers Wharf, 24 minute retrospective was a sound piece",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "uses_medium(butlers_wharf_24_minute_retrospective, sound).",
+    "source": "david_critchley",
+    "evidence": "24 minute retrospective was a sound piece layering sound minute by minute on 24 tape recorders",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "work(changing).",
+    "source": "david_critchley",
+    "evidence": "The very first video piece I made was in 1973, I just called it Changing",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "year_created(changing, @1973).",
+    "source": "david_critchley",
+    "evidence": "The very first video piece I made was in 1973, I just called it Changing",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "created_by(changing, david_critchley).",
+    "source": "david_critchley",
+    "evidence": "The very first video piece I made was in 1973, I just called it Changing",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "educated_at(david_critchley, newcastle_likely_newcastle_university).",
+    "source": "david_critchley",
+    "evidence": "It was available (video) through my college course at the time at Newcastle, Stuart Marshall was my lecturer at the time",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "collaborated_with(yet_another_triangle, stuart_marshall).",
+    "source": "david_critchley",
+    "evidence": "I made [Yet Another Triangle] with Stuart Marshall, Keith Frake and myself in Newcastle but for the Serpentine...",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "collaborated_with(yet_another_triangle, keith_frake).",
+    "source": "david_critchley",
+    "evidence": "I made [Yet Another Triangle] with Stuart Marshall, Keith Frake and myself in Newcastle but for the Serpentine...",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "collaborated_with(yet_another_triangle, tony_sinden).",
+    "source": "david_critchley",
+    "evidence": "we had to re-shoot it with Tony Sinden and David Hall at Maidstone using Sony portapaks so that the tapes could actually be screened at the Serpentine.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "collaborated_with(yet_another_triangle, david_hall).",
+    "source": "david_critchley",
+    "evidence": "we had to re-shoot it with Tony Sinden and David Hall at Maidstone using Sony portapaks so that the tapes could actually be screened at the Serpentine.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "organisation(royal_college_of_art).",
+    "source": "david_critchley",
+    "evidence": "I was very fortunate enough to be involved in the three year MA Course at the RCA which no longer exists and they got hold of Umatic equipment...",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "organisation(newcastle_likely_newcastle_university).",
+    "source": "david_critchley",
+    "evidence": "It was available (video) through my college course at the time at Newcastle, Stuart Marshall was my lecturer at the time",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(stuart_marshall).",
+    "source": "david_critchley",
+    "evidence": "Stuart Marshall was my lecturer at the time",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(keith_frake).",
+    "source": "david_critchley",
+    "evidence": "I made [Yet Another Triangle] with Stuart Marshall, Keith Frake and myself",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(tony_sinden).",
+    "source": "david_critchley",
+    "evidence": "we had to re-shoot it with Tony Sinden and David Hall at Maidstone",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(david_hall).",
+    "source": "david_critchley",
+    "evidence": "we had to re-shoot it with Tony Sinden and David Hall at Maidstone",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(alison_winkle).",
+    "source": "david_critchley",
+    "evidence": "shot by Alison Winkle I think",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "venue(serpentine_gallery).",
+    "source": "david_critchley",
+    "evidence": "for the Serpentine because of the players that they had we had to re-shoot it... so that the tapes could actually be screened at the Serpentine.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "work(instruction_limitation).",
+    "source": "david_critchley",
+    "evidence": "Instruction Limitation. Its a really boring piece of work...that was '77ish.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "work(pharmacopoeia).",
+    "source": "david_critchley",
+    "evidence": "...a doctor who started a process of work called Pharmacopoeia based on medical themes...",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "person(suzy_freeman).",
+    "source": "david_critchley",
+    "evidence": "For the last 5 years I’ve worked in collaboration with Suzy Freeman...",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "person(liz_leigh).",
+    "source": "david_critchley",
+    "evidence": "...Liz Leigh a doctor who started a process of work called Pharmacopoeia...",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "organisation(wellcome_foundation).",
+    "source": "david_critchley",
+    "evidence": "...initially with the aid of a Wellcome Foundation grant.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "work(recoil).",
+    "source": "david_critchley",
+    "evidence": "The pieces I tend to work on now, certainly Recoil and Cradle to Grave, in the British Museum...",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "work(cradle_to_grave).",
+    "source": "david_critchley",
+    "evidence": "The pieces I tend to work on now, certainly Recoil and Cradle to Grave, in the British Museum...",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "venue(british_museum).",
+    "source": "david_critchley",
+    "evidence": "The pieces I tend to work on now, certainly Recoil and Cradle to Grave, in the British Museum...",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "organisation(bbc).",
+    "source": "david_critchley",
+    "evidence": "Pieces I never did was picked up early on by someone at the BBC...",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "venue(acme_gallery).",
+    "source": "david_critchley",
+    "evidence": "I showed it at the ACME gallery in an LVA show the same year as Ian Bourne.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "organisation(lva).",
+    "source": "david_critchley",
+    "evidence": "I showed it at the ACME gallery in an LVA show the same year as Ian Bourne.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "person(ian_bourne).",
+    "source": "david_critchley",
+    "evidence": "I showed it at the ACME gallery in an LVA show the same year as Ian Bourne.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "person(helen_chadwick).",
+    "source": "david_critchley",
+    "evidence": "Helen Chadwick saw that show and actually selected both those pieces",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "exhibition(hayward_annual_1979).",
+    "source": "david_critchley",
+    "evidence": "Ian Bourne’s (Lenny’s Documentary) being shown at the Hayward annual in 1979.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "venue(hayward_gallery).",
+    "source": "david_critchley",
+    "evidence": "not on permanently, not in a fore grounded gallery but off to one side",
+    "confidence": "supported",
+    "page": 4
+  },
+  {
+    "fact": "person(gerry_mander).",
+    "source": "david_critchley",
+    "evidence": "A book that I thought was important at the time was a book called Four Arguments for the Elimination of Television by a guy called Gerry Mander.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "work(four_arguments_for_the_elimination_of_television).",
+    "source": "david_critchley",
+    "evidence": "A book that I thought was important at the time was a book called Four Arguments for the Elimination of Television by a guy called Gerry Mander.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "venue(fantasy_factory).",
+    "source": "david_critchley",
+    "evidence": "I then went to the Fantasy Factory which was about the only one accessible, well done Hoppy and Sue, available and affordable Umatic edit suite.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "person(hoppy).",
+    "source": "david_critchley",
+    "evidence": "I then went to the Fantasy Factory which was about the only one accessible, well done Hoppy and Sue, available and affordable Umatic edit suite.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "person(sue).",
+    "source": "david_critchley",
+    "evidence": "I then went to the Fantasy Factory which was about the only one accessible, well done Hoppy and Sue, available and affordable Umatic edit suite.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "organisation(northern_arts).",
+    "source": "david_critchley",
+    "evidence": "On a personal level I’d had a couple of small grants from Northern Arts and from the Arts Council to complete film work.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "organisation(arts_council).",
+    "source": "david_critchley",
+    "evidence": "On a personal level I’d had a couple of small grants from Northern Arts and from the Arts Council to complete film work.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "organisation(london_video_arts).",
+    "source": "david_critchley",
+    "evidence": "The bigger background funding scenario in terms of lets say the funding of London Video Arts, it did both those things, of course it enabled people to work, it enabled their work to be distributed...",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "created_by(static_acceleration, david_critchley).",
+    "source": "david_critchley",
+    "evidence": "Static Acceleration was probably the first piece I made...",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "created_by(yet_another_triangle, david_critchley).",
+    "source": "david_critchley",
+    "evidence": "In Yet Another Triangle, its very definitely part of the performance... The camera created the space in which I would work.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "created_by(instruction_limitation, david_critchley).",
+    "source": "david_critchley",
+    "evidence": "Instruction Limitation. Its a really boring piece of work, but again it helped me go through all the things you could do with a Sony edit deck and a camera...",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "collaborated_with(david_critchley, suzy_freeman).",
+    "source": "david_critchley",
+    "evidence": "For the last 5 years I’ve worked in collaboration with Suzy Freeman and Liz Leigh...",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "collaborated_with(david_critchley, liz_leigh).",
+    "source": "david_critchley",
+    "evidence": "For the last 5 years I’ve worked in collaboration with Suzy Freeman and Liz Leigh...",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "year_created(instruction_limitation, @1977).",
+    "source": "david_critchley",
+    "evidence": "Instruction Limitation. ... that was ‘77ish.",
+    "confidence": "supported",
+    "page": 4
+  },
+  {
+    "fact": "funded_by(pharmacopoeia, wellcome_foundation).",
+    "source": "david_critchley",
+    "evidence": "...a process of work called Pharmacopoeia...initially with the aid of a Wellcome Foundation grant.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "exhibited_at(pieces_i_never_did, acme_gallery).",
+    "source": "david_critchley",
+    "evidence": "I showed it at the ACME gallery in an LVA show the same year as Ian Bourne.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "exhibited_at(pieces_i_never_did, lva).",
+    "source": "david_critchley",
+    "evidence": "I showed it at the ACME gallery in an LVA show the same year as Ian Bourne.",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "curated_by(pieces_i_never_did, helen_chadwick).",
+    "source": "david_critchley",
+    "evidence": "Helen Chadwick saw that show and actually selected both those pieces...",
+    "confidence": "explicit",
+    "page": 4
+  },
+  {
+    "fact": "awarded_grant(david_critchley, northern_arts).",
+    "source": "david_critchley",
+    "evidence": "On a personal level I’d had a couple of small grants from Northern Arts and from the Arts Council to complete film work.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "awarded_grant(david_critchley, arts_council).",
+    "source": "david_critchley",
+    "evidence": "On a personal level I’d had a couple of small grants from Northern Arts and from the Arts Council to complete film work.",
+    "confidence": "explicit",
+    "page": 6
+  },
+  {
+    "fact": "educated_at(david_critchley, newcastle_polytechnic).",
+    "source": "david_critchley",
+    "evidence": "I was at Newcastle Polytechnic for my BA",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "taught_by(david_critchley, stuart_marshall).",
+    "source": "david_critchley",
+    "evidence": "Stuart Marshall was teaching there",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(david_critchley, alison_winkle).",
+    "source": "david_critchley",
+    "evidence": "I met Alison Winkle",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "affiliated_with(david_critchley, acme_housing_association).",
+    "source": "david_critchley",
+    "evidence": "artists who met through the ACME housing association",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(david_critchley, kevin_atherton).",
+    "source": "david_critchley",
+    "evidence": "Alison was from the Isle of Man, she knew Kevin Atherton,...We all ended up in London at the same time and we got a studio together at 2B Butlers Wharf",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(david_critchley, martin_hearne).",
+    "source": "david_critchley",
+    "evidence": "Alison was from the Isle of Man, she knew Kevin Atherton, Martin Hearne...We all ended up in London at the same time and we got a studio together at 2B Butlers Wharf",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(david_critchley, mick_duckworth).",
+    "source": "david_critchley",
+    "evidence": "Alison was from the Isle of Man, she knew Kevin Atherton, Martin Hearne, Mick Duckworth...We all ended up in London at the same time and we got a studio together at 2B Butlers Wharf",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(david_critchley, charlie_hooker).",
+    "source": "david_critchley",
+    "evidence": "Alison was from the Isle of Man, she knew ... Charlie Hooker...We all ended up in London at the same time and we got a studio together at 2B Butlers Wharf",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(david_critchley, john_kippin).",
+    "source": "david_critchley",
+    "evidence": "Alison was from the Isle of Man, she knew ... John Kippin ...We all ended up in London at the same time and we got a studio together at 2B Butlers Wharf",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(david_critchley, belinda_williams).",
+    "source": "david_critchley",
+    "evidence": "Alison was from the Isle of Man, she knew ... Belinda Williams. We all ended up in London at the same time and we got a studio together at 2B Butlers Wharf",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "funded_by(david_critchley, arts_council).",
+    "source": "david_critchley",
+    "evidence": "On a personal level I only ever got very small completion grants and later when we started doing LVA. I did get funding again that actually paid me to research in practice the establishment of an artist run video resource.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "employed_by(david_critchley, london_video_arts_lva).",
+    "source": "david_critchley",
+    "evidence": "I did get funding again that actually paid me to research in practice the establishment of an artist run video resource.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "educated_at(david_critchley, royal_college).",
+    "source": "david_critchley",
+    "evidence": "I would have to hold my hands up and admit to being very fortunate to do the three year MA at the Royal College (76-79) (Environmental Media).",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(david_critchley, david_hall).",
+    "source": "david_critchley",
+    "evidence": "To touch on LVA, David Hall, Steve Partridge, Tamara Krikorian, Roger Barnard, met Stuart Marshall, Johny Turpie, myself and Pete Livingstone. We actually met for the first time at the Serpentine Gallery at the Video Show in 1975 so there was this Newcastle gang and this Maidstone gang and that was where we first had a conversation about the possibility of something like LVA existing",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(david_critchley, steve_partridge).",
+    "source": "david_critchley",
+    "evidence": "To touch on LVA, David Hall, Steve Partridge, Tamara Krikorian, Roger Barnard, met Stuart Marshall, Johny Turpie, myself and Pete Livingstone. We actually met for the first time at the Serpentine Gallery at the Video Show in 1975...",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(david_critchley, tamara_krikorian).",
+    "source": "david_critchley",
+    "evidence": "To touch on LVA, David Hall, Steve Partridge, Tamara Krikorian, Roger Barnard, met Stuart Marshall, Johny Turpie, myself and Pete Livingstone.",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(david_critchley, roger_barnard).",
+    "source": "david_critchley",
+    "evidence": "To touch on LVA, David Hall, Steve Partridge, Tamara Krikorian, Roger Barnard, met Stuart Marshall, Johny Turpie, myself and Pete Livingstone.",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(david_critchley, johnny_turpie).",
+    "source": "david_critchley",
+    "evidence": "To touch on LVA, David Hall, Steve Partridge, Tamara Krikorian, Roger Barnard, met Stuart Marshall, Johny Turpie, myself and Pete Livingstone.",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(david_critchley, pete_livingstone).",
+    "source": "david_critchley",
+    "evidence": "To touch on LVA, David Hall, Steve Partridge, Tamara Krikorian, Roger Barnard, met Stuart Marshall, Johny Turpie, myself and Pete Livingstone.",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "met_at(david_critchley, serpentine_gallery).",
+    "source": "david_critchley",
+    "evidence": "We actually met for the first time at the Serpentine Gallery at the Video Show in 1975",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work_shown_in(clive_richardson, royal_college).",
+    "source": "david_critchley",
+    "evidence": "Clive Richardson’s video pieces which I think were made at the Royal College also about ’72 ’73.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "created_by(zero_reaches_zeno, david_critchley).",
+    "source": "david_critchley",
+    "evidence": "the first video piece I made in London was Zero Reaches Zeno",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "year_created(zero_reaches_zeno, @1975).",
+    "source": "david_critchley",
+    "evidence": "I think the first video piece I made in London was Zero Reaches Zeno which was made on the Oval House portapak.",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "made_at(zero_reaches_zeno, oval_house).",
+    "source": "david_critchley",
+    "evidence": "the first video piece I made in London was Zero Reaches Zeno which was made on the Oval House portapak.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(david_critchley, jane_rigby).",
+    "source": "david_critchley",
+    "evidence": "Steve Partridge and Jane Rigby showed at Butlers Wharf, they were very involved with what was happening there, so the discussion of the idea of something like LVA was ongoing",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(david_critchley, marceline_mori).",
+    "source": "david_critchley",
+    "evidence": "David Hall, Stuart Marshall, Steve Partridge, myself Johnny Turpie, Marceline Mori, Tamara Krikorian, Roger Barnard, Pete Livingstone, Brian Hoey and Wendy Brown were also around. We formalised it and started to put together a proposal for what it should be.",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(david_critchley, brian_hoey).",
+    "source": "david_critchley",
+    "evidence": "David Hall, Stuart Marshall, Steve Partridge, myself Johnny Turpie, Marceline Mori, Tamara Krikorian, Roger Barnard, Pete Livingstone, Brian Hoey and Wendy Brown were also around.",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(david_critchley, wendy_brown).",
+    "source": "david_critchley",
+    "evidence": "David Hall, Stuart Marshall, Steve Partridge, myself Johnny Turpie, Marceline Mori, Tamara Krikorian, Roger Barnard, Pete Livingstone, Brian Hoey and Wendy Brown were also around.",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(london_video_arts_lva, air_gallery).",
+    "source": "david_critchley",
+    "evidence": "The desire was to have a space and I think the first official launch of the LVA catalogue as an exhibition as show was at the AIR gallery in about ’78.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(london_video_arts_lva, the_fridge).",
+    "source": "david_critchley",
+    "evidence": "At some point after that, ’78 ’79 we looked at space in Brixton, the Fridge, I think, but it wasn’t the right place",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "rented_by(little_newport_street_soho, the_other_cinema).",
+    "source": "david_critchley",
+    "evidence": "Tony Kirkhope from the Other Cinema rented a room in little Newport Street in Soho, to LVA. That was our first place.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "used_by(little_newport_street_soho, london_video_arts_lva).",
+    "source": "david_critchley",
+    "evidence": "Tony Kirkhope from the Other Cinema rented a room in little Newport Street in Soho, to LVA. That was our first place.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(david_critchley, tate).",
+    "source": "david_critchley",
+    "evidence": "some work along with others was screened at the Tate and it was quite alarming... That was the Tate screening video in the gallery at that time.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(david_critchley, hayward_annual_1979).",
+    "source": "david_critchley",
+    "evidence": "I think I did at that time, apart from perhaps the Hayward annual in ’79.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "funded_by(london_video_arts_lva, channel_4).",
+    "source": "david_critchley",
+    "evidence": "that was only possible because of some Channel 4 funding",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "funded_by(london_video_arts_lva, greater_london_council_glc).",
+    "source": "david_critchley",
+    "evidence": "that was only possible because of some Channel 4 funding, GLC funding",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "funded_by(london_video_arts_lva, gulbenkian_foundation).",
+    "source": "david_critchley",
+    "evidence": "that was only possible because of some Channel 4 funding, GLC funding, Gulbenkian Foundation funding.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "funded_by(london_video_arts_lva, arts_council).",
+    "source": "david_critchley",
+    "evidence": "by Arts Council terms a lot of funding, although in terms of those other funders, the Arts Council amounted to about ten percent of LVA’s total funding",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "affiliated_with(david_critchley, film_makers_coop).",
+    "source": "david_critchley",
+    "evidence": "There were key people at the film makers coop",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "affiliated_with(david_critchley, coventry).",
+    "source": "david_critchley",
+    "evidence": "there were the key colleges around the country, Coventry, Newcastle, Brighton, Wolverhampton",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "affiliated_with(david_critchley, brighton).",
+    "source": "david_critchley",
+    "evidence": "there were the key colleges around the country, Coventry, Newcastle, Brighton, Wolverhampton",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "affiliated_with(david_critchley, wolverhampton).",
+    "source": "david_critchley",
+    "evidence": "there were the key colleges around the country, Coventry, Newcastle, Brighton, Wolverhampton",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "affiliated_with(david_critchley, norwich_film_coop).",
+    "source": "david_critchley",
+    "evidence": "there were the local film coops, Norwich, Birmingham.",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "affiliated_with(david_critchley, birmingham_film_coop).",
+    "source": "david_critchley",
+    "evidence": "there were the local film coops, Norwich, Birmingham.",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "reviewed_in(david_critchley, studio_international).",
+    "source": "david_critchley",
+    "evidence": "My work was reviewed in Studio International (David Hall wrote that piece)",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "reviewed_in(david_critchley, art_and_artists).",
+    "source": "david_critchley",
+    "evidence": "in Art and Artists, also written by David Hall",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work_discussed_in(david_critchley, the_kitchen).",
+    "source": "david_critchley",
+    "evidence": "there were catalogues through LVA and through exchanges notably The Kitchen and other publications like Independent Media.",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "work_discussed_in(david_critchley, independent_media).",
+    "source": "david_critchley",
+    "evidence": "there were catalogues through LVA and through exchanges notably The Kitchen and other publications like Independent Media.",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "work_discussed_in(david_critchley, readings_magazine).",
+    "source": "david_critchley",
+    "evidence": "whenever I have written things in other publications like LVA catalogues or brief bits about Butlers Wharf in Readings Magazine",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "organisation(newcastle_polytechnic).",
+    "source": "david_critchley",
+    "evidence": "I was at Newcastle Polytechnic for my BA",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(acme_housing_association).",
+    "source": "david_critchley",
+    "evidence": "artists who met through the ACME housing association",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(kevin_atherton).",
+    "source": "david_critchley",
+    "evidence": "Alison was from the Isle of Man, she knew Kevin Atherton, Martin Hearne, Mick Duckworth, Charlie Hooker, John Kippin and Belinda Williams.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(martin_hearne).",
+    "source": "david_critchley",
+    "evidence": "Alison was from the Isle of Man, she knew Kevin Atherton, Martin Hearne, Mick Duckworth, Charlie Hooker, John Kippin and Belinda Williams.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(mick_duckworth).",
+    "source": "david_critchley",
+    "evidence": "Alison was from the Isle of Man, she knew Kevin Atherton, Martin Hearne, Mick Duckworth, Charlie Hooker, John Kippin and Belinda Williams.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(charlie_hooker).",
+    "source": "david_critchley",
+    "evidence": "Alison was from the Isle of Man, she knew Kevin Atherton, Martin Hearne, Mick Duckworth, Charlie Hooker, John Kippin and Belinda Williams.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(john_kippin).",
+    "source": "david_critchley",
+    "evidence": "Alison was from the Isle of Man, she knew Kevin Atherton, Martin Hearne, Mick Duckworth, Charlie Hooker, John Kippin and Belinda Williams.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(belinda_williams).",
+    "source": "david_critchley",
+    "evidence": "Alison was from the Isle of Man, she knew Kevin Atherton, Martin Hearne, Mick Duckworth, Charlie Hooker, John Kippin and Belinda Williams.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(film_makers_coop).",
+    "source": "david_critchley",
+    "evidence": "definitely a cross over between the ACME gallery, the film makers coop, Butlers Wharf as a set of studios, and 2B as a space in which to show.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(butlers_wharf).",
+    "source": "david_critchley",
+    "evidence": "Butlers Wharf as a set of studios",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(london_video_arts_lva).",
+    "source": "david_critchley",
+    "evidence": "started doing LVA.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(royal_college).",
+    "source": "david_critchley",
+    "evidence": "three year MA at the Royal College (76-79) (Environmental Media).",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(steve_partridge).",
+    "source": "david_critchley",
+    "evidence": "To touch on LVA, David Hall, Steve Partridge, Tamara Krikorian, Roger Barnard...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(tamara_krikorian).",
+    "source": "david_critchley",
+    "evidence": "To touch on LVA, David Hall, Steve Partridge, Tamara Krikorian, Roger Barnard...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(roger_barnard).",
+    "source": "david_critchley",
+    "evidence": "To touch on LVA, David Hall, Steve Partridge, Tamara Krikorian, Roger Barnard...",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(johnny_turpie).",
+    "source": "david_critchley",
+    "evidence": "met Stuart Marshall, Johny Turpie, myself and Pete Livingstone.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(pete_livingstone).",
+    "source": "david_critchley",
+    "evidence": "met Stuart Marshall, Johny Turpie, myself and Pete Livingstone.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(clive_richardson).",
+    "source": "david_critchley",
+    "evidence": "Clive Richardson’s video pieces which I think were made at the Royal College also about ’72 ’73.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(oval_house).",
+    "source": "david_critchley",
+    "evidence": "the first video piece I made in London was Zero Reaches Zeno which was made on the Oval House portapak.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(battersea_arts_centre).",
+    "source": "david_critchley",
+    "evidence": "What equipment we could find when we were first in London for instance would be places like Oval House, or the Battersea Arts Centre, or Albany perhaps.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(albany).",
+    "source": "david_critchley",
+    "evidence": "What equipment we could find when we were first in London for instance would be places like Oval House, or the Battersea Arts Centre, or Albany perhaps.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(jane_rigby).",
+    "source": "david_critchley",
+    "evidence": "Steve Partridge and Jane Rigby showed at Butlers Wharf",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(marceline_mori).",
+    "source": "david_critchley",
+    "evidence": "Marceline Mori...was also around. We formalised it and started to put together a proposal for what it should be.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(brian_hoey).",
+    "source": "david_critchley",
+    "evidence": "Brian Hoey...was also around. We formalised it and started to put together a proposal for what it should be.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(wendy_brown).",
+    "source": "david_critchley",
+    "evidence": "Wendy Brown were also around. We formalised it and started to put together a proposal for what it should be.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(air_gallery).",
+    "source": "david_critchley",
+    "evidence": "the first official launch of the LVA catalogue as an exhibition as show was at the AIR gallery",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(the_fridge).",
+    "source": "david_critchley",
+    "evidence": "in Brixton, the Fridge, I think, but it wasn’t the right place",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(tony_kirkhope).",
+    "source": "david_critchley",
+    "evidence": "Tony Kirkhope from the Other Cinema rented a room in little Newport Street in Soho, to LVA.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(the_other_cinema).",
+    "source": "david_critchley",
+    "evidence": "Tony Kirkhope from the Other Cinema rented a room in little Newport Street in Soho, to LVA.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(little_newport_street_soho).",
+    "source": "david_critchley",
+    "evidence": "Tony Kirkhope from the Other Cinema rented a room in little Newport Street in Soho, to LVA. That was our first place.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(tate).",
+    "source": "david_critchley",
+    "evidence": "some work along with others was screened at the Tate",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(channel_4).",
+    "source": "david_critchley",
+    "evidence": "because of some Channel 4 funding",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(greater_london_council_glc).",
+    "source": "david_critchley",
+    "evidence": "GLC funding",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(gulbenkian_foundation).",
+    "source": "david_critchley",
+    "evidence": "Gulbenkian Foundation funding.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(coventry).",
+    "source": "david_critchley",
+    "evidence": "key colleges around the country, Coventry, Newcastle, Brighton, Wolverhampton",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(brighton).",
+    "source": "david_critchley",
+    "evidence": "key colleges around the country, Coventry, Newcastle, Brighton, Wolverhampton",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(wolverhampton).",
+    "source": "david_critchley",
+    "evidence": "key colleges around the country, Coventry, Newcastle, Brighton, Wolverhampton",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(norwich_film_coop).",
+    "source": "david_critchley",
+    "evidence": "there were the local film coops, Norwich, Birmingham.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(birmingham_film_coop).",
+    "source": "david_critchley",
+    "evidence": "there were the local film coops, Norwich, Birmingham.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(studio_international).",
+    "source": "david_critchley",
+    "evidence": "My work was reviewed in Studio International (David Hall wrote that piece)",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(art_and_artists).",
+    "source": "david_critchley",
+    "evidence": "in Art and Artists, also written by David Hall",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(the_kitchen).",
+    "source": "david_critchley",
+    "evidence": "exchanges notably The Kitchen",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(independent_media).",
+    "source": "david_critchley",
+    "evidence": "other publications like Independent Media.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(readings_magazine).",
+    "source": "david_critchley",
+    "evidence": "Readings Magazine",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(acme).",
+    "source": "david_critchley",
+    "evidence": "the whole ACME artists wider diaspora",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(vito_acconci).",
+    "source": "david_critchley",
+    "evidence": "people like Vito Acconci",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(chris_burden).",
+    "source": "david_critchley",
+    "evidence": "Chris Burden",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(william_wegman).",
+    "source": "david_critchley",
+    "evidence": "William Wegman to some extent",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(joseph_beuys).",
+    "source": "david_critchley",
+    "evidence": "Beuys, Joseph Beuys",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(stuart_brisley).",
+    "source": "david_critchley",
+    "evidence": "Stuart Brisley specifically",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(richard_serra).",
+    "source": "david_critchley",
+    "evidence": "Richard Serra",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(dennis_oppenheim).",
+    "source": "david_critchley",
+    "evidence": "I liked Dennis Oppenheims work very much",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(john_cage).",
+    "source": "david_critchley",
+    "evidence": "Cage, and Alvin Lucier",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(alvin_lucier).",
+    "source": "david_critchley",
+    "evidence": "Cage, and Alvin Lucier",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(fast_forward_paul_wilson).",
+    "source": "david_critchley",
+    "evidence": "Fast Forward who went to the states as Paul Wilson, and became Fast Forward overnight and still is Fast Forward",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(steve_littman).",
+    "source": "david_critchley",
+    "evidence": "Steve Littman, Marty St James, Anne Wilson and others.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(marty_st_james).",
+    "source": "david_critchley",
+    "evidence": "Steve Littman, Marty St James, Anne Wilson and others.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(anne_wilson).",
+    "source": "david_critchley",
+    "evidence": "Steve Littman, Marty St James, Anne Wilson and others.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(lux).",
+    "source": "david_critchley",
+    "evidence": "the merger of the LUX and the coop and LVA",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(malcolm_legrice).",
+    "source": "david_critchley",
+    "evidence": "Malcolm LeGrice shows wonderful lively three screen video projections, which certainly in all the time I knew Malcolm showing at the Film Coop it was film he would be doing.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(bill_viola).",
+    "source": "david_critchley",
+    "evidence": "So if you say this is video art and then you can point at Bill Viola or Takahiko Imura or whoever and they can say fine, or Nam June Paik",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(takahiko_imura).",
+    "source": "david_critchley",
+    "evidence": "Bill Viola or Takahiko Imura or whoever and they can say fine, or Nam June Paik",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(nam_june_paik).",
+    "source": "david_critchley",
+    "evidence": "Bill Viola or Takahiko Imura or whoever and they can say fine, or Nam June Paik",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(david_larcher).",
+    "source": "david_critchley",
+    "evidence": "bringing in David Larcher here as a great example of someone who works across media",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(cradle_to_grave, british_museum).",
+    "source": "david_critchley",
+    "evidence": "Cradle to Grave in the British Museum is a piece of work",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "created_by(cradle_to_grave, david_critchley).",
+    "source": "david_critchley",
+    "evidence": "work I’m making now where Cradle to Grave in the British Museum is a piece of work made around a specific brief",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "affiliated_with(david_critchley, london_video_arts).",
+    "source": "david_critchley",
+    "evidence": "I actually made a conscious decision to focus my time and energy on running LVA.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "funded_by(london_video_arts, arts_council).",
+    "source": "david_critchley",
+    "evidence": "we set up a bursary scheme with a small amount of input from the Arts Council £300 plus access to LVA’s edit suite",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(david_critchley, steve_littman).",
+    "source": "david_critchley",
+    "evidence": "I’m thinking in terms of Steve Littman, Marty St James, Anne Wilson and others.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(david_critchley, marty_st_james).",
+    "source": "david_critchley",
+    "evidence": "I’m thinking in terms of Steve Littman, Marty St James, Anne Wilson and others.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(david_critchley, anne_wilson).",
+    "source": "david_critchley",
+    "evidence": "I’m thinking in terms of Steve Littman, Marty St James, Anne Wilson and others.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "affiliated_with(david_critchley, acme).",
+    "source": "david_critchley",
+    "evidence": "with the whole ACME artists wider diaspora",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "affiliated_with(david_critchley, royal_college).",
+    "source": "david_critchley",
+    "evidence": "people at the Royal College",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(all_the_pieces_i_never_did).",
+    "source": "david_critchley",
+    "evidence": "All the Pieces I Never Did was edited by yourself at the Fantasy Factory...",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "edited_by(all_the_pieces_i_never_did, david_critchley).",
+    "source": "david_critchley",
+    "evidence": "All the Pieces I Never Did was edited by yourself at the Fantasy Factory...",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "edited_at(all_the_pieces_i_never_did, fantasy_factory).",
+    "source": "david_critchley",
+    "evidence": "All the Pieces I Never Did was edited by yourself at the Fantasy Factory...",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "collaborated_with(david_critchley, cradle_to_grave).",
+    "source": "david_critchley",
+    "evidence": "Cradle To Grave was put together by an architect and a team of engineers...",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "created_by(recoil, david_critchley).",
+    "source": "david_critchley",
+    "evidence": "the more recent work Cradle To Grave that you collaborated on and Recoil, you made that yourself? DC: I made that myself, from beginning to end...",
+    "confidence": "explicit",
+    "page": 13
+  },
+  {
+    "fact": "created_by(all_the_pieces_i_never_did, david_critchley).",
+    "source": "david_critchley",
+    "evidence": "All the Pieces I Never Did was edited by yourself...",
+    "confidence": "supported",
+    "page": 13
+  },
+  {
+    "fact": "mission_statement_created_for(london_video_arts, david_critchley).",
+    "source": "david_critchley",
+    "evidence": "As a result of discussions, particularly I remember this discussion in David Hall’s house, where we had to come up with a mission statement for London Video Arts.",
+    "confidence": "supported",
+    "page": 13
+  }
+]

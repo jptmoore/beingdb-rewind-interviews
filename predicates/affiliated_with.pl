@@ -2,6 +2,16 @@
 % See metadata/extraction.json for source provenance and candidates/evidence for supporting quotes.
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 affiliated_with(anna_ridley, analogue).
+affiliated_with(david_critchley, acme_housing_association).
+affiliated_with(david_critchley, acme).
+affiliated_with(david_critchley, birmingham_film_coop).
+affiliated_with(david_critchley, brighton).
+affiliated_with(david_critchley, coventry).
+affiliated_with(david_critchley, film_makers_coop).
+affiliated_with(david_critchley, london_video_arts).
+affiliated_with(david_critchley, norwich_film_coop).
+affiliated_with(david_critchley, royal_college).
+affiliated_with(david_critchley, wolverhampton).
 affiliated_with(de_appel_foundation, franklin_furnace).
 affiliated_with(elsa, jan_van_eyck_academy).
 affiliated_with(jan_van_eyck_academy, maastricht).

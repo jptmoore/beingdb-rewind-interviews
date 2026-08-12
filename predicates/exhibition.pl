@@ -12,6 +12,7 @@ exhibition(british_art_show).
 exhibition(british_sculpture_out_of_the_sixties_1970).
 exhibition(burning_bush).
 exhibition(glasgow_1990).
+exhibition(hayward_annual_1979).
 exhibition(herbert_art_gallery_video_show_1970s).
 exhibition(ino_seventy).
 exhibition(japanese_video_festival).

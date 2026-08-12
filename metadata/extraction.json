@@ -1,5 +1,31 @@
 {
   "entries": {
+    "david_critchley": {
+      "id": "david_critchley",
+      "documentId": "rewind_david_critchley_interview",
+      "sourceUrl": "https://rewind.ac.uk/rewind/wp-content/uploads/sites/146/2021/03/DC503.pdf",
+      "sourceChecksum": "e1c3219e659784a3eb2e357979cbbad6c95e400f2ed177af30e637ef5387749b",
+      "extractedAt": "2026-08-12T10:12:11.063Z",
+      "model": "gpt-4.1",
+      "pipelineVersion": "1",
+      "chunkCount": 5,
+      "factCount": 198,
+      "droppedFactCount": 10,
+      "warnings": [
+        "dropped malformed fact {\"predicate\":\"work\",\"arguments\":[{\"kind\":\"atom\",\"value\":\"three_d\"}],\"evidence\":\"there was a little piece called 3D in which I showed my ear, my eyes and my mouth\",\"confidence\":\"explicit\",\"page\":1}: invalid atom \"3d\"",
+        "dropped malformed fact {\"predicate\":\"occupied_studio_at\",\"arguments\":[{\"kind\":\"atom\",\"value\":\"david_critchley\"},{\"kind\":\"atom\",\"value\":\"2b_butlers_wharf\"}],\"evidence\":\"We all ended up in London at the same time and we got a studio together at 2B Butlers Wharf\",\"confidence\":\"explicit\",\"page\":null}: invalid atom \"2b_butlers_wharf\"",
+        "dropped malformed fact {\"predicate\":\"exhibited_at\",\"arguments\":[{\"kind\":\"atom\",\"value\":\"david_critchley\"},{\"kind\":\"atom\",\"value\":\"2b_butlers_wharf\"}],\"evidence\":\"we used it to show our own work. We started to run it as a performance run gallery really.\",\"confidence\":\"supported\",\"page\":null}: invalid atom \"2b_butlers_wharf\"",
+        "dropped malformed fact {\"predicate\":\"funded_by\",\"arguments\":[{\"kind\":\"atom\",\"value\":\"2b_butlers_wharf\"},{\"kind\":\"atom\",\"value\":\"arts_council\"}],\"evidence\":\"The Arts Council came up with a modest grant generally to formalise it.\",\"confidence\":\"explicit\",\"page\":null}: invalid atom \"2b_butlers_wharf\"",
+        "dropped malformed fact {\"predicate\":\"affiliated_with\",\"arguments\":[{\"kind\":\"atom\",\"value\":\"2b_butlers_wharf\"},{\"kind\":\"atom\",\"value\":\"acme_gallery\"}],\"evidence\":\"There was a community around there, definitely a cross over between the ACME gallery, the film makers coop, Butlers Wharf as a set of studios, and 2B as a space in which to show.\",\"confidence\":\"explicit\",\"page\":null}: invalid atom \"2b_butlers_wharf\"",
+        "dropped malformed fact {\"predicate\":\"affiliated_with\",\"arguments\":[{\"kind\":\"atom\",\"value\":\"2b_butlers_wharf\"},{\"kind\":\"atom\",\"value\":\"film_makers_coop\"}],\"evidence\":\"There was a community around there, definitely a cross over between the ACME gallery, the film makers coop, Butlers Wharf as a set of studios, and 2B as a space in which to show.\",\"confidence\":\"explicit\",\"page\":null}: invalid atom \"2b_butlers_wharf\"",
+        "dropped malformed fact {\"predicate\":\"affiliated_with\",\"arguments\":[{\"kind\":\"atom\",\"value\":\"2b_butlers_wharf\"},{\"kind\":\"atom\",\"value\":\"butlers_wharf\"}],\"evidence\":\"There was a community around there, definitely a cross over between the ACME gallery, the film makers coop, Butlers Wharf as a set of studios, and 2B as a space in which to show.\",\"confidence\":\"explicit\",\"page\":null}: invalid atom \"2b_butlers_wharf\"",
+        "dropped malformed fact {\"predicate\":\"venue\",\"arguments\":[{\"kind\":\"atom\",\"value\":\"2b_butlers_wharf\"}],\"evidence\":\"got a studio together at 2B Butlers Wharf\",\"confidence\":\"explicit\",\"page\":null}: invalid atom \"2b_butlers_wharf\"",
+        "dropped malformed fact {\"predicate\":\"organisation\",\"arguments\":[{\"kind\":\"atom\",\"value\":\"2b_butlers_wharf\"}],\"evidence\":\"the 2B Butlers Wharf people\",\"confidence\":\"explicit\",\"page\":null}: invalid atom \"2b_butlers_wharf\"",
+        "dropped malformed fact {\"predicate\":\"affiliated_with\",\"arguments\":[{\"kind\":\"atom\",\"value\":\"david_critchley\"},{\"kind\":\"atom\",\"value\":\"2b_butlers_wharf\"}],\"evidence\":\"Through the late seventies it was supported by friends, particularly 2BButlers Wharf people\",\"confidence\":\"explicit\",\"page\":null}: invalid atom \"2b_butlers_wharf\"",
+        "made_at argument 1: coerced string \"Southend Beach\" to atom southend_beach to match existing atom-typed facts for this predicate/position",
+        "uses_medium argument 1: coerced string \"sound\" to atom sound to match existing atom-typed facts for this predicate/position"
+      ]
+    },
     "david_hall": {
       "id": "david_hall",
       "documentId": "rewind_david_hall_interview",

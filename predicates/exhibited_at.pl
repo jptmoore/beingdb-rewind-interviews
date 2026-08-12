@@ -12,6 +12,9 @@ exhibited_at(british_sculpture_out_of_the_sixties_1970, ica_the_mall).
 exhibited_at(celtic_in_mind, glasgow_1990).
 exhibited_at(compass, luminous_image).
 exhibited_at(coronation_street_piece, british_art_show).
+exhibited_at(cradle_to_grave, british_museum).
+exhibited_at(david_critchley, hayward_annual_1979).
+exhibited_at(david_critchley, tate).
 exhibited_at(david_hall, british_sculpture_out_of_the_sixties_1970).
 exhibited_at(david_hall, primary_structures_1966).
 exhibited_at(day_for_night, botanical_garden_in_montreal).
@@ -46,6 +49,8 @@ exhibited_at(kevin_atherton, acme_gallery).
 exhibited_at(kevin_atherton, air_gallery).
 exhibited_at(kevin_atherton, rosemary_gallery).
 exhibited_at(kevin_atherton, un_certain_art_anglais).
+exhibited_at(london_video_arts_lva, air_gallery).
+exhibited_at(london_video_arts_lva, the_fridge).
 exhibited_at(luminous_image, stedelijk_museum_of_modern_art_in_amsterdam).
 exhibited_at(lva_london_video_arts, acme).
 exhibited_at(lva_london_video_arts, air_gallery).
@@ -67,6 +72,8 @@ exhibited_at(one_of_these_days, london_film_festival).
 exhibited_at(pandora_marble_sculpture, tate_gallery_london).
 exhibited_at(pandora_marble_sculpture, whitechapel_gallery).
 exhibited_at(pandora_the_bringer_of_gifts, tv_south_west).
+exhibited_at(pieces_i_never_did, acme_gallery).
+exhibited_at(pieces_i_never_did, lva).
 exhibited_at(primary_structures_1966, new_york).
 exhibited_at(progressive_recession, serpentine_gallery).
 exhibited_at(progressive_recession, serpentine_show_1975).
@@ -98,3 +105,4 @@ exhibited_at(what_the_eye_doesn_t_see_post_industrial_studies_number_1, river_cr
 exhibited_at(whats_it_to_you, third_eye_centre).
 exhibited_at(whitechapel_art_gallery, madelon_hooykaas).
 exhibited_at(window_water_baby_moving, experimental_film_show_1966).
+exhibited_at(yet_another_triangle, serpentine_gallery).

@@ -2,6 +2,9 @@
 % See metadata/extraction.json for source provenance and candidates/evidence for supporting quotes.
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 educated_at(dave_hanson, leeds).
+educated_at(david_critchley, newcastle_likely_newcastle_university).
+educated_at(david_critchley, newcastle_polytechnic).
+educated_at(david_critchley, royal_college).
 educated_at(david_dye, saint_martins).
 educated_at(david_hall, royal_college).
 educated_at(elsa_stansfield, ealing_school).

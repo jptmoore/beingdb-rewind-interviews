@@ -7,6 +7,7 @@ curated_by(locations_edinburgh, alistair_macintosh).
 curated_by(luminous_image_show, elsa_stansfield).
 curated_by(museum_of_the_20th_century_vienna, rose_garrard).
 curated_by(one_artist_one_day, richard_hamilton).
+curated_by(pieces_i_never_did, helen_chadwick).
 curated_by(rose_garrard, helen_chadwick).
 curated_by(rose_garrard, three_county_showground).
 curated_by(scratch_video_volume_1, george_barber).

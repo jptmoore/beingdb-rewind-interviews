@@ -2,3 +2,5 @@
 % See metadata/extraction.json for source provenance and candidates/evidence for supporting quotes.
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 reviewed_in(between_the_lines, the_sunday_times).
+reviewed_in(david_critchley, art_and_artists).
+reviewed_in(david_critchley, studio_international).

@@ -3,6 +3,7 @@
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 work(about_time_at_the_ica_1980).
 work(absence_of_satan).
+work(all_the_pieces_i_never_did).
 work(an_audience_s_new_clothes).
 work(another_sphere).
 work(anthem).
@@ -13,15 +14,18 @@ work(back_and_forth).
 work(behind_the_veil).
 work(between_the_lines).
 work(brixton_pieces).
+work(butlers_wharf_24_minute_retrospective).
 work(camera_sick).
 work(canterbury_tales_project).
 work(cate_elwes_s_book_video_art_a_guided_tour).
 work(celtic_in_mind).
+work(changing).
 work(city_strap_line_industries).
 work(compass).
 work(contortions).
 work(cooking_with_katie).
 work(coronation_street_piece).
+work(cradle_to_grave).
 work(cultural_eclipse_a_situation_envisaged).
 work(cultural_quarter).
 work(day_for_night).
@@ -35,6 +39,7 @@ work(elsas_article_on_memory).
 work(field_free_space).
 work(flying_time).
 work(forest_of_dean_window).
+work(four_arguments_for_the_elimination_of_television).
 work(from_the_museum_of_memory).
 work(gallery_guide).
 work(gift).
@@ -43,17 +48,21 @@ work(horizontal_flow).
 work(in_two_minds).
 work(incidents_in_a_garden).
 work(inside_outside).
+work(instruction_limitation).
 work(intercom_island).
 work(iron_horses).
 work(lighthouse).
 work(luminous_image).
 work(magnetic_north).
 work(malvina_sculpture).
+work(memory_1_and_2).
+work(memory_1).
 work(miners_campaign_tapes).
 work(minutiae).
 work(monologue_pieces).
 work(monologues).
 work(motion_parallax).
+work(move_towards_the_verticality_of_the_horizon).
 work(municipal_fountain_the_enigma_fountain).
 work(museum_of_memory_1).
 work(naval_death).
@@ -62,8 +71,10 @@ work(one_of_these_days).
 work(pandora_marble_sculpture).
 work(pandora_the_bringer_of_gifts).
 work(passing_ship).
+work(pharmacopoeia).
 work(pieces_i_never_did).
 work(progressive_recession).
+work(recoil).
 work(refusing_potatoes).
 work(revision).
 work(river_sky).
@@ -82,6 +93,7 @@ work(special_video_art_issue_may_1976).
 work(sphere).
 work(split_seconds).
 work(spout_sculpture).
+work(static_acceleration).
 work(stooky_bill_tv).
 work(sweatlodge).
 work(tape_tape).
@@ -104,6 +116,7 @@ work(this_is_a_video_monitor).
 work(three_minute_16_millimetre_film_of_kevin_atherton_as_a_boxer).
 work(time_check).
 work(time).
+work(trialogue).
 work(tumble_frame).
 work(tumbled_frame).
 work(tv_interruptions).
@@ -127,4 +140,6 @@ work(what_the_eye_doesn_t_see_post_industrial_studies_number_1).
 work(whats_it_to_you).
 work(window_water_baby_moving).
 work(yes_frank_no_smoke).
+work(yet_another_triangle).
+work(zero_reaches_zeno).
 work(zg_presents).

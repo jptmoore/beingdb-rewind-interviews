@@ -11,6 +11,7 @@ made_at(magnetic_north, finland).
 made_at(magnetic_north, shetland).
 made_at(magnetic_north, stockholm).
 made_at(magnetic_north, umea).
+made_at(move_towards_the_verticality_of_the_horizon, southend_beach).
 made_at(running_time_1979, maidstone_college).
 made_at(running_time, maidstone_college).
 made_at(sea_of_light, cardiff).
@@ -22,3 +23,4 @@ made_at(video_void, wapping_rotherhithe_tunnel).
 made_at(video_void, wapping).
 made_at(what_the_eye_doesn_t_see_post_industrial_studies_number_1, woolwich_train_station).
 made_at(whats_it_to_you, third_eye_centre).
+made_at(zero_reaches_zeno, oval_house).

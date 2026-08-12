@@ -3,6 +3,7 @@
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 year_created(about_time_at_the_ica_1980, @1980).
 year_created(celtic_in_mind, @1989).
+year_created(changing, @1973).
 year_created(compass, @1984).
 year_created(contortions, @1983).
 year_created(cultural_quarter, @2003).
@@ -11,12 +12,15 @@ year_created(from_the_museum_of_memory, @1983).
 year_created(incidents_in_a_garden, @1976).
 year_created(incidents_in_a_garden, @1977).
 year_created(inside_outside, @1982).
+year_created(instruction_limitation, @1977).
 year_created(lva_london_video_arts, @1976).
 year_created(madelon_hooykaas, @1989).
 year_created(magnetic_north, @1982).
 year_created(malvern_well_dressing_festival, @2003).
 year_created(malvina_sculpture, @1998).
 year_created(motion_parallax, @1968).
+year_created(move_towards_the_verticality_of_the_horizon, @1975).
+year_created(move_towards_the_verticality_of_the_horizon, @1976).
 year_created(not_just_another_art_show, @1981).
 year_created(running_time_1979, @1979).
 year_created(running_time, @1979).
@@ -30,3 +34,4 @@ year_created(vertical_roll, @1973).
 year_created(vi_deo_volente, @1985).
 year_created(visual_research_centre_in_dundee_contemporary_arts, @2004).
 year_created(whats_it_to_you, @1975).
+year_created(zero_reaches_zeno, @1975).

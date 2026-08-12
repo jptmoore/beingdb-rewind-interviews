@@ -6,6 +6,7 @@ venue(acme).
 venue(air_gallery_london).
 venue(air_gallery).
 venue(air).
+venue(albany).
 venue(amsterdam).
 venue(angela_flowers_gallery).
 venue(antwerp).
@@ -22,6 +23,7 @@ venue(berwick_street_office).
 venue(biddick_farm).
 venue(botanical_garden_in_montreal).
 venue(bricklayers_arms).
+venue(british_museum).
 venue(british_tv).
 venue(butlers_wharf).
 venue(calgary_art_gallery).
@@ -56,6 +58,7 @@ venue(ica_the_mall).
 venue(ica_theatre).
 venue(ikon_gallery_birmingham).
 venue(kettles_yard).
+venue(little_newport_street_soho).
 venue(london_film_festival).
 venue(lyc_museum_banks).
 venue(lyc_museum).
@@ -80,6 +83,7 @@ venue(new_york).
 venue(newcastle).
 venue(oberhausen).
 venue(open_eye_gallery_liverpool).
+venue(oval_house).
 venue(paris).
 venue(photographers_galleries_london).
 venue(photographers_gallery_london).
@@ -106,6 +110,7 @@ venue(tate_gallery_london).
 venue(tate_liverpool).
 venue(tate).
 venue(teesside_college_of_art).
+venue(the_fridge).
 venue(the_kitchen_new_york).
 venue(the_kitchen).
 venue(the_open_eye).

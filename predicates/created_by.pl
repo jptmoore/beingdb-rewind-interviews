@@ -2,6 +2,7 @@
 % See metadata/extraction.json for source provenance and candidates/evidence for supporting quotes.
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 created_by(absence_of_satan, george_barber).
+created_by(all_the_pieces_i_never_did, david_critchley).
 created_by(an_audience_s_new_clothes, kevin_atherton).
 created_by(another_sphere, kevin_atherton).
 created_by(anthem, bill_viola).
@@ -12,10 +13,12 @@ created_by(behind_the_veil, eve_arnold).
 created_by(between_the_lines, rose_garrard).
 created_by(brixton_pieces, kevin_atherton).
 created_by(celtic_in_mind, rose_garrard).
+created_by(changing, david_critchley).
 created_by(compass, elsa).
 created_by(compass, madelon_hooykaas).
 created_by(contortions, mike_stubbs).
 created_by(cooking_with_katie, mike_stubbs).
+created_by(cradle_to_grave, david_critchley).
 created_by(cultural_quarter, mike_stubbs).
 created_by(day_for_night, elsa).
 created_by(day_for_night, madelon_hooykaas).
@@ -37,6 +40,7 @@ created_by(in_two_minds, kevin_atherton).
 created_by(incidents_in_a_garden, rose_garrard).
 created_by(inside_outside, elsa).
 created_by(inside_outside, madelon_hooykaas).
+created_by(instruction_limitation, david_critchley).
 created_by(intercom_island, elsa_stansfield).
 created_by(intercom_island, madelon_hooykaas).
 created_by(lighthouse, gina_czarnecki).
@@ -47,6 +51,7 @@ created_by(magnetic_north, madelon_hooykaas).
 created_by(minutiae, george_barber).
 created_by(monologues, george_barber).
 created_by(motion_parallax, david_hall).
+created_by(move_towards_the_verticality_of_the_horizon, david_critchley).
 created_by(museum_of_memory_1, elsa_stansfield).
 created_by(museum_of_memory_1, madelon_hooykaas).
 created_by(naval_death, mike_stubbs).
@@ -57,6 +62,7 @@ created_by(one_of_these_days, madelon_hooykaas).
 created_by(pandora_the_bringer_of_gifts, rose_garrard).
 created_by(passing_ship, george_barber).
 created_by(pieces_i_never_did, david_critchley).
+created_by(recoil, david_critchley).
 created_by(refusing_potatoes, george_barber).
 created_by(revision, elsa).
 created_by(revision, madelon_hooykaas).
@@ -76,6 +82,7 @@ created_by(shadow_pictures, madelon_hooykaas).
 created_by(shouting_match, george_barber).
 created_by(split_seconds, elsa).
 created_by(split_seconds, madelon_hooykaas).
+created_by(static_acceleration, david_critchley).
 created_by(tape_tape, kevin_atherton).
 created_by(taxi_driver_ii, george_barber).
 created_by(television_interview, kevin_atherton).
@@ -112,4 +119,6 @@ created_by(what_the_eye_doesn_t_see_post_industrial_studies_number_1, mike_stubb
 created_by(whats_it_to_you, elsa_stansfield).
 created_by(whats_it_to_you, madelon_hooykaas).
 created_by(yes_frank_no_smoke, george_barber).
+created_by(yet_another_triangle, david_critchley).
+created_by(zero_reaches_zeno, david_critchley).
 created_by(zg_presents, mike_stubbs).
