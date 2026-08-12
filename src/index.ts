@@ -150,31 +150,37 @@ async function processInterview(interview: InterviewConfig, aliases: AliasMap, c
   const { kept, dropped } = filterConservative(resolved);
   const deduped = dedupeFacts(kept);
 
-  // Coerce any string argument that conflicts with an already-established
-  // atom-typed position for the same predicate (on disk, or earlier in this
-  // same batch), so predicates/*.pl doesn't end up with a silently mixed
-  // type at that position (see BeingDB compile's own "mixed types" note).
+  // Coerce (or, when that isn't safe, drop) any string argument that
+  // conflicts with an already-established non-string type for the same
+  // predicate/position (on disk, or earlier in this same batch), so
+  // predicates/*.pl doesn't end up with a silently mixed type there (see
+  // BeingDB compile's own "mixed types" note).
   const establishedByPredicate = new Map<string, Map<number, Set<FactArgument["kind"]>>>();
   const typeWarnings: string[] = [];
-  const reconciled = deduped.map((fact) => {
+  let typeDroppedCount = 0;
+  const reconciled = deduped.flatMap((fact) => {
     let established = establishedByPredicate.get(fact.predicate);
     if (!established) {
       established = establishedKinds(PREDICATES_DIR, fact.predicate);
       establishedByPredicate.set(fact.predicate, established);
     }
-    const { arguments: coercedArgs, warnings } = reconcileArgumentKinds(
+    const { arguments: coercedArgs, warnings, drop } = reconcileArgumentKinds(
       fact.predicate,
       fact.arguments,
       established,
       (label) => resolver.resolve(label),
     );
     typeWarnings.push(...warnings);
+    if (drop) {
+      typeDroppedCount++;
+      return [];
+    }
     coercedArgs.forEach((arg, position) => {
       const kinds = established!.get(position) ?? new Set();
       kinds.add(arg.kind);
       established!.set(position, kinds);
     });
-    return { ...fact, arguments: coercedArgs };
+    return [{ ...fact, arguments: coercedArgs }];
   });
   const finalFacts = dedupeFacts(reconciled); // coercion can turn two previously-distinct facts into duplicates
 
@@ -207,12 +213,12 @@ async function processInterview(interview: InterviewConfig, aliases: AliasMap, c
     pipelineVersion: PIPELINE_VERSION,
     chunkCount: chunkResults.length,
     factCount: finalFacts.length,
-    droppedFactCount: dropped.length + shapeWarnings.length,
+    droppedFactCount: dropped.length + shapeWarnings.length + typeDroppedCount,
     warnings,
   };
   upsertExtractionMetadata(METADATA_FILE, metadataEntry);
 
-  console.log(`kept ${finalFacts.length} facts (${dropped.length + shapeWarnings.length} dropped)`);
+  console.log(`kept ${finalFacts.length} facts (${dropped.length + shapeWarnings.length + typeDroppedCount} dropped)`);
   for (const result of mergeResults) {
     console.log(`  ${path.relative(ROOT, result.file)}: +${result.addedCount} (total ${result.totalCount})`);
   }

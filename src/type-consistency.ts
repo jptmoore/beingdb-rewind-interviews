@@ -77,47 +77,55 @@ export function establishedKinds(predicatesDir: string, predicate: string): Map<
 const MAX_COERCIBLE_LENGTH = 60;
 
 /**
- * If an argument is a string at a position where an atom-typed fact already
- * exists for the same predicate (on disk, or earlier in the same batch),
- * coerce it to an atom via `resolveLabel` instead of leaving the predicate
- * with a silently mismatched type there. Long, sentence-like strings are
- * left alone (more likely genuine free text than an entity name) and
- * reported instead, since guessing wrong here would be worse than leaving
- * the type mismatch for a human to resolve.
+ * If an argument is a string at a position where an established, non-string
+ * kind already exists for the same predicate (on disk, or earlier in the
+ * same batch), either coerce it to an atom via `resolveLabel` (when an atom
+ * precedent exists and the value is short enough to be a name, not a
+ * sentence) or - when no safe coercion exists (e.g. the established kind is
+ * "year", or the string is long, sentence-like free text) - signal that the
+ * whole fact should be dropped rather than written with a permanently
+ * mismatched type. Mirrors {@link fixPredicateFileTypes}, the same logic
+ * applied directly to an on-disk predicate file.
  */
 export function reconcileArgumentKinds(
   predicate: string,
   args: FactArgument[],
   established: Map<number, Set<LiteralKind>>,
   resolveLabel: (label: string) => string,
-): { arguments: FactArgument[]; warnings: string[] } {
+): { arguments: FactArgument[]; warnings: string[]; drop: boolean } {
   const warnings: string[] = [];
+  let drop = false;
   const result = args.map((arg, position) => {
-    if (arg.kind !== "string") return arg;
+    if (drop || arg.kind !== "string") return arg;
     const kinds = established.get(position);
-    if (!kinds || !kinds.has("atom")) return arg;
+    const conflicting = kinds && [...kinds].some((k) => k !== "string");
+    if (!conflicting) return arg;
 
-    if (arg.value.length > MAX_COERCIBLE_LENGTH) {
+    if (kinds!.has("atom") && arg.value.length <= MAX_COERCIBLE_LENGTH) {
+      const atomId = resolveLabel(arg.value);
       warnings.push(
-        `${predicate} argument ${position}: "${arg.value}" conflicts with existing atom-typed facts there but ` +
-          `looks like free text, not an entity name - left as a string. Consider a different predicate name.`,
+        `${predicate} argument ${position}: coerced string "${arg.value}" to atom ${atomId} to match existing ` +
+          `atom-typed facts for this predicate/position`,
       );
-      return arg;
+      return { kind: "atom", value: atomId } as FactArgument;
     }
 
-    const atomId = resolveLabel(arg.value);
     warnings.push(
-      `${predicate} argument ${position}: coerced string "${arg.value}" to atom ${atomId} to match existing ` +
-        `atom-typed facts for this predicate/position`,
+      `${predicate} argument ${position}: dropped - "${arg.value}" conflicts with established type(s) ` +
+        `[${[...kinds!].join(", ")}] at this position and can't be safely coerced`,
     );
-    return { kind: "atom", value: atomId } as FactArgument;
+    drop = true;
+    return arg;
   });
-  return { arguments: result, warnings };
+  return { arguments: result, warnings, drop };
 }
+
 
 export interface FixFileResult {
   file: string;
   renamedLines: Array<[oldLine: string, newLine: string]>;
+  /** Facts that conflicted with an established type but could not be safely coerced, so were removed instead. */
+  droppedLines: Array<{ line: string; reason: string }>;
 }
 
 /**
@@ -127,6 +135,15 @@ export interface FixFileResult {
  * fix-types) and to clean up a predicate immediately after merging two
  * predicates together (npm run consolidate), where the merge itself can
  * introduce a new type mismatch.
+ *
+ * A string argument that conflicts with an established non-string kind at
+ * its position is coerced to an atom when that's plausible (an atom
+ * precedent exists and the value is short enough to be a name, not a
+ * sentence). When it isn't - the established kind is something coercion
+ * can't produce (e.g. "year"), or the string is long, sentence-like free
+ * text - there is no safe rewrite, so the whole fact is dropped rather than
+ * left permanently mismatched. This mirrors the pipeline's own "omit
+ * rather than invent" rule for extraction itself.
  */
 export function fixPredicateFileTypes(
   predicatesDir: string,
@@ -149,24 +166,39 @@ export function fixPredicateFileTypes(
   }
 
   const renamedLines: Array<[string, string]> = [];
-  const fixedLines = parsedLines.map(({ line, parsed }) => {
-    if (!parsed) return line;
+  const droppedLines: Array<{ line: string; reason: string }> = [];
+  const fixedLines = parsedLines.flatMap(({ line, parsed }) => {
+    if (!parsed) return [line];
+
     let changed = false;
+    let drop: string | null = null;
     const newArgs = parsed.args.map((arg, position) => {
-      if (classifyLiteral(arg) !== "string" || !established.get(position)?.has("atom")) return arg;
+      if (drop || classifyLiteral(arg) !== "string") return arg;
+      const kinds = established.get(position);
+      const conflicting = kinds && [...kinds].some((k) => k !== "string");
+      if (!conflicting) return arg;
+
       const value = unquoteStringLiteral(arg);
-      if (value.length > MAX_COERCIBLE_LENGTH) return arg;
-      changed = true;
-      return resolveLabel(value);
+      if (kinds!.has("atom") && value.length <= MAX_COERCIBLE_LENGTH) {
+        changed = true;
+        return resolveLabel(value);
+      }
+      drop = `argument ${position} ("${value}") conflicts with established type(s) [${[...kinds!].join(", ")}] at this position and can't be safely coerced`;
+      return arg;
     });
-    if (!changed) return line;
+
+    if (drop) {
+      droppedLines.push({ line, reason: drop });
+      return [];
+    }
+    if (!changed) return [line];
     const newLine = `${predicate}(${newArgs.join(", ")}).`;
     renamedLines.push([line, newLine]);
-    return newLine;
+    return [newLine];
   });
 
-  if (renamedLines.length === 0) return null;
+  if (renamedLines.length === 0 && droppedLines.length === 0) return null;
   writePropositions(predicatesDir, predicate, fixedLines);
-  return { file: filePath, renamedLines };
+  return { file: filePath, renamedLines, droppedLines };
 }
 

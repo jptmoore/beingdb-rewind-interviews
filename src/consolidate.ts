@@ -218,6 +218,30 @@ function renamePredicateInEvidence(evidenceDir: string, oldPredicate: string, ne
   }
 }
 
+/** Applies a fact-string rename/removal (from {@link fixPredicateFileTypes}) to every evidence sidecar. */
+function applyFixToEvidence(evidenceDir: string, renames: Array<[string, string]>, dropped: string[]): void {
+  if (!fs.existsSync(evidenceDir) || (renames.length === 0 && dropped.length === 0)) return;
+  for (const entry of fs.readdirSync(evidenceDir)) {
+    if (!entry.endsWith(".json")) continue;
+    const filePath = path.join(evidenceDir, entry);
+    const entries = JSON.parse(fs.readFileSync(filePath, "utf8")) as EvidenceEntry[];
+    let changed = false;
+    const updated = entries
+      .filter((e) => {
+        if (!dropped.includes(e.fact)) return true;
+        changed = true;
+        return false;
+      })
+      .map((e) => {
+        const rename = renames.find(([oldLine]) => oldLine === e.fact);
+        if (!rename) return e;
+        changed = true;
+        return { ...e, fact: rename[1] };
+      });
+    if (changed) fs.writeFileSync(filePath, JSON.stringify(updated, null, 2) + "\n", "utf8");
+  }
+}
+
 function loadAliasMap(): AliasMap {
   const raw = fs.readFileSync(path.join(ROOT, "config", "entity-aliases.json"), "utf8");
   return new AliasMap(JSON.parse(raw) as Record<string, string>);
@@ -261,7 +285,18 @@ async function main() {
 
     group.members.forEach((m) => claimed.add(m));
     const result = applyGroup(PREDICATES_DIR, EVIDENCE_DIR, group);
-    fixPredicateFileTypes(PREDICATES_DIR, group.canonical, (label) => resolver.resolve(label));
+    const fix = fixPredicateFileTypes(PREDICATES_DIR, group.canonical, (label) => resolver.resolve(label));
+    if (fix) {
+      applyFixToEvidence(
+        EVIDENCE_DIR,
+        fix.renamedLines,
+        fix.droppedLines.map((d) => d.line),
+      );
+      for (const { line, reason } of fix.droppedLines) {
+        console.log(`  dropped after merge: ${line}\n    ${reason}`);
+      }
+      result.factsAfter -= fix.droppedLines.length;
+    }
 
     applied.push({ ...result, rationale: group.rationale });
     console.log(`merged [${result.mergedFrom.join(", ")}] into ${result.canonical} (${result.factsAfter} facts)`);

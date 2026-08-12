@@ -32,7 +32,6 @@ year_created(tape_tape, @1975).
 year_created(the_garden_of_earthly_delights, @1991).
 year_created(the_video_stairs, @1984).
 year_created(time_check, @1971).
-year_created(time_spent, "while Judith Goddard was at Royal College").
 year_created(vertical_roll, @1973).
 year_created(vi_deo_volente, @1985).
 year_created(video_show_at_the_serpentine_gallery_1975, @1975).

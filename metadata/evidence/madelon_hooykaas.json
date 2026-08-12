@@ -1225,13 +1225,6 @@
     "page": null
   },
   {
-    "fact": "influenced_by(museum_of_memory_1, \"visit to Hiroshima and the connection of the monitor sending out electro-magnetic radiation\").",
-    "source": "madelon_hooykaas",
-    "evidence": "Museum of Memory 1 was very much influenced by the visit to Hiroshima and the connection of the monitor sending out electro-magnetic radiation.",
-    "confidence": "explicit",
-    "page": null
-  },
-  {
     "fact": "uses_medium(museum_of_memory_1, monitor).",
     "source": "madelon_hooykaas",
     "evidence": "With Museum of Memory, we took the monitor out of its case and put it in a vitrine. It was in a glass case like in a museum.",

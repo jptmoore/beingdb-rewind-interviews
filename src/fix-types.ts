@@ -26,21 +26,27 @@ function loadAliasMap(): AliasMap {
   return new AliasMap(JSON.parse(raw) as Record<string, string>);
 }
 
-function updateEvidence(renames: Array<[string, string]>): string[] {
+function updateEvidence(renames: Array<[string, string]>, dropped: string[]): string[] {
   const changedFiles: string[] = [];
-  if (!fs.existsSync(EVIDENCE_DIR) || renames.length === 0) return changedFiles;
+  if (!fs.existsSync(EVIDENCE_DIR) || (renames.length === 0 && dropped.length === 0)) return changedFiles;
 
   for (const entry of fs.readdirSync(EVIDENCE_DIR)) {
     if (!entry.endsWith(".json")) continue;
     const filePath = path.join(EVIDENCE_DIR, entry);
     const entries = JSON.parse(fs.readFileSync(filePath, "utf8")) as EvidenceEntry[];
     let changed = false;
-    const updated = entries.map((e) => {
-      const rename = renames.find(([oldLine]) => oldLine === e.fact);
-      if (!rename) return e;
-      changed = true;
-      return { ...e, fact: rename[1] };
-    });
+    const updated = entries
+      .filter((e) => {
+        if (!dropped.includes(e.fact)) return true;
+        changed = true;
+        return false;
+      })
+      .map((e) => {
+        const rename = renames.find(([oldLine]) => oldLine === e.fact);
+        if (!rename) return e;
+        changed = true;
+        return { ...e, fact: rename[1] };
+      });
     if (changed) {
       fs.writeFileSync(filePath, JSON.stringify(updated, null, 2) + "\n", "utf8");
       changedFiles.push(filePath);
@@ -59,6 +65,7 @@ function main() {
   }
 
   const allRenames: Array<[string, string]> = [];
+  const allDropped: string[] = [];
   let filesChanged = 0;
 
   for (const entry of fs.readdirSync(PREDICATES_DIR)) {
@@ -71,12 +78,18 @@ function main() {
     for (const [oldLine, newLine] of result.renamedLines) {
       console.log(`    ${oldLine}\n    -> ${newLine}`);
     }
+    for (const { line, reason } of result.droppedLines) {
+      console.log(`    dropped: ${line}\n      ${reason}`);
+    }
     allRenames.push(...result.renamedLines);
+    allDropped.push(...result.droppedLines.map((d) => d.line));
   }
 
-  const evidenceFilesChanged = updateEvidence(allRenames);
+  const evidenceFilesChanged = updateEvidence(allRenames, allDropped);
 
-  console.log(`\npredicates/: ${filesChanged} file(s) fixed, ${allRenames.length} fact(s) coerced`);
+  console.log(
+    `\npredicates/: ${filesChanged} file(s) fixed, ${allRenames.length} fact(s) coerced, ${allDropped.length} fact(s) dropped`,
+  );
   console.log(`metadata/evidence/: ${evidenceFilesChanged.length} file(s) updated`);
   if (filesChanged === 0) {
     console.log("No mixed-type positions found.");
