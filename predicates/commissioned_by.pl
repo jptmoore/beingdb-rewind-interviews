@@ -5,8 +5,11 @@ commissioned_by(homing, bbc).
 commissioned_by(luminous_portrait, bbc).
 commissioned_by(luminous_portrait, late_show).
 commissioned_by(peter_donebauer, emi).
+commissioned_by(public_face_private_eye, david_benedictus).
 commissioned_by(reservoir, john_hansard_gallery).
 commissioned_by(rose_garrard, great_malvern).
 commissioned_by(television_interview, arts_council_of_great_britain).
 commissioned_by(the_car_piece, film_and_video_umbrella).
+commissioned_by(the_other_side, de_la_warr_pavilion).
 commissioned_by(this_is_a_television_receiver, bbc_2).
+commissioned_by(tv_interventions_93, mtv).

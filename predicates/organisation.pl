@@ -4,6 +4,7 @@
 organisation(acme_housing_association).
 organisation(acme).
 organisation(afro_caribbean_association).
+organisation(after_image).
 organisation(amsterdam).
 organisation(analogue).
 organisation(annalogue_production_company).
@@ -24,6 +25,7 @@ organisation(audio_arts).
 organisation(avid_express_dv).
 organisation(avid).
 organisation(bbc_2).
+organisation(bbc_arena).
 organisation(bbc_radiophonic_workshop).
 organisation(bbc).
 organisation(belfast).
@@ -167,6 +169,7 @@ organisation(sankofa).
 organisation(scottish_arts_council).
 organisation(scottish_television).
 organisation(sheffield).
+organisation(shelter).
 organisation(slade_school_of_art).
 organisation(slade_school_of_fine_art).
 organisation(slade).
@@ -203,6 +206,7 @@ organisation(virtual_realities_as_fine_art_medium).
 organisation(wellcome_foundation).
 organisation(welsh_arts_council).
 organisation(werkleitz_gesellschaft).
+organisation(wgbh_boston).
 organisation(whitechapel_gallery).
 organisation(wolverhampton).
 organisation(worcestershire).

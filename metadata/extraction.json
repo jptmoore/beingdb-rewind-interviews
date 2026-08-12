@@ -1,5 +1,18 @@
 {
   "entries": {
+    "anna_ridley": {
+      "id": "anna_ridley",
+      "documentId": "rewind_anna_ridley_interview",
+      "sourceUrl": "https://rewind.ac.uk/rewind/wp-content/uploads/sites/146/2021/03/AR505.pdf",
+      "sourceChecksum": "f5357d8f91c943fba2857a0357586cf97bbaa41b86f27e9f29290003c8e10bfe",
+      "extractedAt": "2026-08-12T11:50:05.863Z",
+      "model": "gpt-4.1",
+      "pipelineVersion": "1",
+      "chunkCount": 3,
+      "factCount": 76,
+      "droppedFactCount": 0,
+      "warnings": []
+    },
     "david_critchley": {
       "id": "david_critchley",
       "documentId": "rewind_david_critchley_interview",

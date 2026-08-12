@@ -16,8 +16,10 @@ created_by(brewing, peter_donebauer).
 created_by(brixton_pieces, kevin_atherton).
 created_by(celtic_in_mind, rose_garrard).
 created_by(changing, david_critchley).
+created_by(christmas_diary, ian_breakwell).
 created_by(compass, elsa).
 created_by(compass, madelon_hooykaas).
+created_by(continuous_diary, ian_breakwell).
 created_by(contortions, mike_stubbs).
 created_by(cooking_with_katie, mike_stubbs).
 created_by(cradle_to_grave, david_critchley).

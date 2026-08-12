@@ -43,5 +43,6 @@ exhibition(the_video_stairs).
 exhibition(un_certain_art_anglais).
 exhibition(video_manifestation).
 exhibition(video_sculpture_show_in_germany).
+exhibition(video_show_at_the_serpentine_gallery_1975).
 exhibition(window_box).
 exhibition(womens_images_of_men).

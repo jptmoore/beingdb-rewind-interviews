@@ -2,6 +2,7 @@
 % See metadata/extraction.json for source provenance and candidates/evidence for supporting quotes.
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 employed_by(anna_ridley, bbc).
+employed_by(anna_ridley, channel_4).
 employed_by(david_critchley, london_video_arts_lva).
 employed_by(david_hall, kingston_college).
 employed_by(david_hall, maidstone_college).

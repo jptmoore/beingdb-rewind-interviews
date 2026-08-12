@@ -19,4 +19,5 @@ curated_by(show_at_whitechapel_art_gallery, jasia_reichardt).
 curated_by(signs_of_the_times, chrissie_isles).
 curated_by(stedelijk_museum, dorine_mignot).
 curated_by(this_is_a_television_receiver, mark_kidel).
+curated_by(tv_interventions_93, peter_docherty).
 curated_by(whitechapel_art_gallery, jasia_reichardt).

@@ -1,0 +1,534 @@
+[
+  {
+    "fact": "person(anna_ridley).",
+    "source": "anna_ridley",
+    "evidence": "Interview with Anna Ridley",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "organisation(bbc).",
+    "source": "anna_ridley",
+    "evidence": "my background is as a designer working in television with the BBC starting in the late sixties.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "created_by(this_is_a_television_receiver, david_hall).",
+    "source": "anna_ridley",
+    "evidence": "I produced, with David Hall, a piece called This Is a Television Receiver",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "work(this_is_a_television_receiver).",
+    "source": "anna_ridley",
+    "evidence": "I produced, with David Hall, a piece called This Is a Television Receiver",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(david_hall).",
+    "source": "anna_ridley",
+    "evidence": "I produced, with David Hall, a piece called This Is a Television Receiver",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "organisation(artist_placement_group).",
+    "source": "anna_ridley",
+    "evidence": "a group of artists emerged and formed something called Artist Placement Group and David Hall was part of that along with John Latham, Stuart Brisley and Jeffrey Shaw. One mustn’t forget of course the redoubtable Barbara Stevini who later became the forward thrust of the organisation.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(john_latham).",
+    "source": "anna_ridley",
+    "evidence": "a group of artists emerged and formed something called Artist Placement Group and David Hall was part of that along with John Latham, Stuart Brisley and Jeffrey Shaw.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(stuart_brisley).",
+    "source": "anna_ridley",
+    "evidence": "a group of artists emerged and formed something called Artist Placement Group and David Hall was part of that along with John Latham, Stuart Brisley and Jeffrey Shaw.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(jeffrey_shaw).",
+    "source": "anna_ridley",
+    "evidence": "a group of artists emerged and formed something called Artist Placement Group and David Hall was part of that along with John Latham, Stuart Brisley and Jeffrey Shaw.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(barbara_stevini).",
+    "source": "anna_ridley",
+    "evidence": "One mustn’t forget of course the redoubtable Barbara Stevini who later became the forward thrust of the organisation.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "collaborated_with(anna_ridley, david_hall).",
+    "source": "anna_ridley",
+    "evidence": "I helped him make a number of films and later on video works.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "organisation(channel_4).",
+    "source": "anna_ridley",
+    "evidence": "Luckily for me, in the early 80s Channel 4 emerged.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "work(arena).",
+    "source": "anna_ridley",
+    "evidence": "the BBC ran an art series called Arena",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "curated_by(arena, mark_kidel).",
+    "source": "anna_ridley",
+    "evidence": "I persuaded the then editor Mark Kidel to devote a whole programme to video art.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(mark_kidel).",
+    "source": "anna_ridley",
+    "evidence": "I persuaded the then editor Mark Kidel to devote a whole programme to video art.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "collaborated_with(anna_ridley, ian_breakwell).",
+    "source": "anna_ridley",
+    "evidence": "That artist was Ian Breakwell. We made an initial number of works and from that, I drew up the ideas that came from all the other artists.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(ian_breakwell).",
+    "source": "anna_ridley",
+    "evidence": "That artist was Ian Breakwell. We made an initial number of works and from that, I drew up the ideas that came from all the other artists.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "created_by(continuous_diary, ian_breakwell).",
+    "source": "anna_ridley",
+    "evidence": "These were Ian Breakwell’s Continuous Diary.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "created_by(christmas_diary, ian_breakwell).",
+    "source": "anna_ridley",
+    "evidence": "he was commissioned to make a further 8, which was Ian Breakwell’s Christmas Diary.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "work(continuous_diary).",
+    "source": "anna_ridley",
+    "evidence": "These were Ian Breakwell’s Continuous Diary.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "work(christmas_diary).",
+    "source": "anna_ridley",
+    "evidence": "he was commissioned to make a further 8, which was Ian Breakwell’s Christmas Diary.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(david_cunningham).",
+    "source": "anna_ridley",
+    "evidence": "David Cunningham made a series of 5",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "collaborated_with(anna_ridley, david_cunningham).",
+    "source": "anna_ridley",
+    "evidence": "David Cunningham made a series of 5",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(jeremy_isaacs).",
+    "source": "anna_ridley",
+    "evidence": "The Chief Executive of the time, Jeremy Isaacs, was a very unusual individual.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "person(paul_madden).",
+    "source": "anna_ridley",
+    "evidence": "I was very fortunate in finding a commissioning editor called Paul Madden who was at Channel 4 at the time.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "employed_by(anna_ridley, bbc).",
+    "source": "anna_ridley",
+    "evidence": "my background is as a designer working in television with the BBC starting in the late sixties.",
+    "confidence": "explicit",
+    "page": 1
+  },
+  {
+    "fact": "employed_by(anna_ridley, channel_4).",
+    "source": "anna_ridley",
+    "evidence": "So when Channel 4 emerged that was the starting point.",
+    "confidence": "supported",
+    "page": 1
+  },
+  {
+    "fact": "person(tony_sinden).",
+    "source": "anna_ridley",
+    "evidence": "David Hall’s and Tony Sinden’s 101 TV Sets was actually housed in a tent.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(serpentine_gallery).",
+    "source": "anna_ridley",
+    "evidence": "the Video Show at the Serpentine Gallery in London.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(maidstone_college_of_art).",
+    "source": "anna_ridley",
+    "evidence": "In 1971 David Hall did set up ‘Film, Video and Sound’ within Fine Art at Maidstone College of Art",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibition(video_show_at_the_serpentine_gallery_1975).",
+    "source": "anna_ridley",
+    "evidence": "One of the most exciting manifestations was in 1975 with the Video Show at the Serpentine Gallery in London.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(public_face_private_eye).",
+    "source": "anna_ridley",
+    "evidence": "That was his series called Public Face: Private Eye. That was a series of five.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(david_benedictus).",
+    "source": "anna_ridley",
+    "evidence": "Later on Ian was invited to make another series by yet another commissioning editor within Channel 4 called David Benedictus.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(waldemar_januszczak).",
+    "source": "anna_ridley",
+    "evidence": "So, it came under the aegis of Waldemar Januszczak who had taken over as commissioning editor for the arts.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(mike_bolland).",
+    "source": "anna_ridley",
+    "evidence": "Mike Bolland, who had joined Channel 4 when it first started, had commissioned the art series that After Image produced.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(after_image).",
+    "source": "anna_ridley",
+    "evidence": "had commissioned the art series that After Image produced.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(video_show_at_the_serpentine_gallery_1975, serpentine_gallery).",
+    "source": "anna_ridley",
+    "evidence": "the Video Show at the Serpentine Gallery in London.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "year_created(video_show_at_the_serpentine_gallery_1975, @1975).",
+    "source": "anna_ridley",
+    "evidence": "One of the most exciting manifestations was in 1975 with the Video Show at the Serpentine Gallery in London.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "involved_in(anna_ridley, video_show_at_the_serpentine_gallery_1975).",
+    "source": "anna_ridley",
+    "evidence": "I was involved in that in a number of ways, but I did help to set up the installations by designing bits and pieces to make it possible for a free flow of people walking through.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "exhibited_at(public_face_private_eye, channel_4).",
+    "source": "anna_ridley",
+    "evidence": "Later on Ian was invited to make another series by yet another commissioning editor within Channel 4 called David Benedictus. That was his series called Public Face: Private Eye.",
+    "confidence": "supported",
+    "page": null
+  },
+  {
+    "fact": "produced_by(public_face_private_eye, anna_ridley).",
+    "source": "anna_ridley",
+    "evidence": "I produced Public Face Private Eye with Ian, so it was the old team back together.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "commissioned_by(public_face_private_eye, david_benedictus).",
+    "source": "anna_ridley",
+    "evidence": "Later on Ian was invited to make another series by yet another commissioning editor within Channel 4 called David Benedictus. That was his series called Public Face: Private Eye.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "commissioning_editor_for(waldemar_januszczak, channel_4).",
+    "source": "anna_ridley",
+    "evidence": "So, it came under the aegis of Waldemar Januszczak who had taken over as commissioning editor for the arts.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "taught_at(david_hall, maidstone_college_of_art).",
+    "source": "anna_ridley",
+    "evidence": "David Hall did set up ‘Film, Video and Sound’ within Fine Art at Maidstone College of Art where he previously was teaching Sculpture.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "established_programme(david_hall, \"Film, Video and Sound\").",
+    "source": "anna_ridley",
+    "evidence": "In 1971 David Hall did set up ‘Film, Video and Sound’ within Fine Art at Maidstone College of Art",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "year_started(public_face_private_eye, @1988).",
+    "source": "anna_ridley",
+    "evidence": "That was in 1988 and eventually it was broadcast in 1989.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "year_broadcast(public_face_private_eye, @1989).",
+    "source": "anna_ridley",
+    "evidence": "That was in 1988 and eventually it was broadcast in 1989.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(david_mach).",
+    "source": "anna_ridley",
+    "evidence": "David Mach who made a piece about snooker... I produced that with David.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(stephen_hendry).",
+    "source": "anna_ridley",
+    "evidence": "the two protagonists were Stephen Hendry who was the Scottish champion",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(ray_reardon).",
+    "source": "anna_ridley",
+    "evidence": "the two protagonists were Stephen Hendry... and Ray Reardon, who had been a reigning snooker champion for many years.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(mtv).",
+    "source": "anna_ridley",
+    "evidence": "That was commissioned by MTV and Peter Docherty was the commissioning editor there.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(peter_docherty).",
+    "source": "anna_ridley",
+    "evidence": "commissioned by MTV and Peter Docherty was the commissioning editor there.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(tv_interventions_93).",
+    "source": "anna_ridley",
+    "evidence": "I produced with David Hall, TV Interventions ’93.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(auditorium).",
+    "source": "anna_ridley",
+    "evidence": "to produce Auditorium, which was an interactive installation live event but recorded",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(the_other_side).",
+    "source": "anna_ridley",
+    "evidence": "most recently, a piece called The Other Side, which was an installation commissioned by the De La Warr Pavilion in Bexhill-on-Sea",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(de_la_warr_pavilion).",
+    "source": "anna_ridley",
+    "evidence": "commissioned by the De La Warr Pavilion in Bexhill-on-Sea where it was set-up for its premiere.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "venue(bexhill_on_sea).",
+    "source": "anna_ridley",
+    "evidence": "De La Warr Pavilion in Bexhill-on-Sea where it was set-up for its premiere.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(cathy_come_home).",
+    "source": "anna_ridley",
+    "evidence": "When I was a student I saw Cathy Come Home.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(ken_loach).",
+    "source": "anna_ridley",
+    "evidence": "I would certainly single out Ken Loach who isn’t an artist in quite the same way, but as anyone who is familiar with his work will know that he is fuelled by very passionately held convictions. When I was a student I saw Cathy Come Home.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(arts_council).",
+    "source": "anna_ridley",
+    "evidence": "Going through funding bodies like the Arts Council and the British Film Institute for that matter could give seed money.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(british_film_institute).",
+    "source": "anna_ridley",
+    "evidence": "Going through funding bodies like the Arts Council and the British Film Institute for that matter could give seed money.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(gerry_schum).",
+    "source": "anna_ridley",
+    "evidence": "There was in Europe, one other person who had been doing similar things before me, Gerry Schum.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(wgbh_boston).",
+    "source": "anna_ridley",
+    "evidence": "In the United States there were some excellent series run by WGBH in Boston",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(shelter).",
+    "source": "anna_ridley",
+    "evidence": "The screening of Cathy Come Home caused Shelter, the charity, to be set up",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(tap_piece).",
+    "source": "anna_ridley",
+    "evidence": "How could you put the Tap Piece in the gallery?",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "work(this_is_a_video_monitor).",
+    "source": "anna_ridley",
+    "evidence": "The other piece, although it wasn’t for broadcast, was a piece called This is a Video Monitor.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "organisation(bbc_arena).",
+    "source": "anna_ridley",
+    "evidence": "When an updated version of that was translated into This is a Television Receiver, for the BBC Arena programme, then it had to be remade.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "person(richard_baker).",
+    "source": "anna_ridley",
+    "evidence": "another element was added which was the newsreader Richard Baker who was a very prominent newsreader at the time.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "collaborated_with(anna_ridley, david_mach).",
+    "source": "anna_ridley",
+    "evidence": "I produced that with David.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "commissioned_by(tv_interventions_93, mtv).",
+    "source": "anna_ridley",
+    "evidence": "That was commissioned by MTV",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "commissioned_by(the_other_side, de_la_warr_pavilion).",
+    "source": "anna_ridley",
+    "evidence": "a piece called The Other Side, which was an installation commissioned by the De La Warr Pavilion in Bexhill-on-Sea",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "set_up_at(the_other_side, de_la_warr_pavilion).",
+    "source": "anna_ridley",
+    "evidence": "commissioned by the De La Warr Pavilion in Bexhill-on-Sea where it was set-up for its premiere.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "protagonist_in(stephen_hendry, david_mach).",
+    "source": "anna_ridley",
+    "evidence": "the two protagonists were Stephen Hendry who was the Scottish champion and Ray Reardon, who had been a reigning snooker champion for many years. Those were the two protagonists in David Mach’s piece.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "protagonist_in(ray_reardon, david_mach).",
+    "source": "anna_ridley",
+    "evidence": "the two protagonists were Stephen Hendry who was the Scottish champion and Ray Reardon, who had been a reigning snooker champion for many years. Those were the two protagonists in David Mach’s piece.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "curated_by(tv_interventions_93, peter_docherty).",
+    "source": "anna_ridley",
+    "evidence": "MTV and Peter Docherty was the commissioning editor there. He had made a policy of inviting artists and designers to do things for MTV and he’d seen a retrospective of David’s work. He invited David to do some one-minute pieces.",
+    "confidence": "explicit",
+    "page": null
+  },
+  {
+    "fact": "performed_in(richard_baker, this_is_a_television_receiver).",
+    "source": "anna_ridley",
+    "evidence": "another element was added which was the newsreader Richard Baker who was a very prominent newsreader at the time.",
+    "confidence": "explicit",
+    "page": null
+  }
+]

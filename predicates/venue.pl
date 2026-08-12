@@ -21,6 +21,7 @@ venue(belle_vue_island).
 venue(bergin).
 venue(berlin).
 venue(berwick_street_office).
+venue(bexhill_on_sea).
 venue(biddick_farm).
 venue(birmingham).
 venue(blue_coat_gallery).
@@ -39,6 +40,7 @@ venue(covent_garden).
 venue(dartmoor).
 venue(de_appel_gallery).
 venue(de_appel).
+venue(de_la_warr_pavilion).
 venue(dixons_soho).
 venue(dundee).
 venue(ealing_school_of_art).

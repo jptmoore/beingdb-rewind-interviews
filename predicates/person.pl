@@ -18,6 +18,7 @@ person(annie_lennox).
 person(anthony_earnshaw).
 person(barbara_gladstone).
 person(barbara_steveni).
+person(barbara_stevini).
 person(barry_flanagan).
 person(barry_guy).
 person(belinda_williams).
@@ -51,6 +52,7 @@ person(dave_critchley).
 person(dave_hanson).
 person(dave_mays).
 person(dave_parsons).
+person(david_benedictus).
 person(david_critchley).
 person(david_cunningham).
 person(david_curtis).
@@ -59,6 +61,7 @@ person(david_garcia).
 person(david_graham).
 person(david_hall).
 person(david_larcher).
+person(david_mach).
 person(david_shea).
 person(david_van_tiegham).
 person(delia_derbyshire).
@@ -87,6 +90,7 @@ person(george_barber).
 person(george_brecht).
 person(gerald_mair).
 person(gerry_mander).
+person(gerry_schum).
 person(gillian_wearing).
 person(gina_czarnecki).
 person(goddard).
@@ -98,6 +102,7 @@ person(helen_chadwick).
 person(hoppy).
 person(ian_bourn).
 person(ian_bourne).
+person(ian_breakwell).
 person(ian_christie).
 person(isaac_julien).
 person(jack_goldstein).
@@ -136,6 +141,7 @@ person(judith_goddard).
 person(julian_petley).
 person(kandinsky).
 person(keith_frake).
+person(ken_loach).
 person(kerry_trengove).
 person(kev_fraser).
 person(kevin_atherton).
@@ -170,6 +176,7 @@ person(michael_snow).
 person(mick_duckworth).
 person(mick_hartney).
 person(mik_flood).
+person(mike_bolland).
 person(mike_jennings).
 person(mike_o_pray).
 person(mike_ratlidge).
@@ -182,17 +189,20 @@ person(parish_chakraborti).
 person(pascal_gabriel).
 person(patricia_holland).
 person(paul_burwell).
+person(paul_madden).
 person(paul_morley).
 person(perry_hoberman).
 person(pete_livingstone).
 person(peter_anderson).
 person(peter_boyd_mclean).
 person(peter_cardier).
+person(peter_docherty).
 person(peter_donebauer).
 person(peter_gidal).
 person(peter_kardia).
 person(phil_cosca).
 person(philip_glass).
+person(ray_reardon).
 person(reg_clough).
 person(remmy_onglala).
 person(richard_baker).
@@ -231,6 +241,7 @@ person(simon_monkhouse).
 person(simon_stool).
 person(simon_thorne).
 person(simon).
+person(stephen_hendry).
 person(stephen_partridge).
 person(stephen_willats).
 person(steve_dwoskin).

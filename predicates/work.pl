@@ -9,7 +9,9 @@ work(an_audience_s_new_clothes).
 work(another_sphere).
 work(anthem).
 work(any_questions).
+work(arena).
 work(audio_video_installations_catalogue).
+work(auditorium).
 work(automotive_action_painting).
 work(back_and_forth).
 work(behind_the_veil).
@@ -20,11 +22,14 @@ work(butlers_wharf_24_minute_retrospective).
 work(camera_sick).
 work(canterbury_tales_project).
 work(cate_elwes_s_book_video_art_a_guided_tour).
+work(cathy_come_home).
 work(celestial_light_and_monstrous_races).
 work(celtic_in_mind).
 work(changing).
+work(christmas_diary).
 work(city_strap_line_industries).
 work(compass).
+work(continuous_diary).
 work(contortions).
 work(cooking_with_katie).
 work(coronation_street_piece).
@@ -91,6 +96,7 @@ work(pharmacopoeia).
 work(pieces_i_never_did).
 work(power_station_tape_in_electron).
 work(progressive_recession).
+work(public_face_private_eye).
 work(recoil).
 work(refusing_potatoes).
 work(reservoir).
@@ -115,6 +121,7 @@ work(spout_sculpture).
 work(static_acceleration).
 work(stooky_bill_tv).
 work(sweatlodge).
+work(tap_piece).
 work(tape_tape).
 work(taxi_driver_ii).
 work(television_circle_electron).
@@ -127,6 +134,7 @@ work(the_eleventh_hour).
 work(the_force_behind_this_movement).
 work(the_garden_of_earthly_delights).
 work(the_greatest_hits_of_scratch_video).
+work(the_other_side).
 work(the_signs_of_la).
 work(the_starless_cast).
 work(the_tape).
@@ -142,6 +150,7 @@ work(trialogue).
 work(tumble_frame).
 work(tumbled_frame).
 work(tv_interruptions).
+work(tv_interventions_93).
 work(two_sides_of_a_story).
 work(universal_man_in_forty_five_tasks).
 work(upside_down_minutiae).

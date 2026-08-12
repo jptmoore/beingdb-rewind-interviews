@@ -81,6 +81,7 @@ exhibited_at(pieces_i_never_did, lva).
 exhibited_at(primary_structures_1966, new_york).
 exhibited_at(progressive_recession, serpentine_gallery).
 exhibited_at(progressive_recession, serpentine_show_1975).
+exhibited_at(public_face_private_eye, channel_4).
 exhibited_at(reservoir, portugal).
 exhibited_at(reservoir, tate_liverpool).
 exhibited_at(rose_garrard, calgary_art_gallery).
@@ -110,6 +111,7 @@ exhibited_at(tv_interruptions, hayward_gallery).
 exhibited_at(tv_interruptions, ino_seventy).
 exhibited_at(vamp_video_and_music_performers, musica).
 exhibited_at(vi_deo_volente, de_appel).
+exhibited_at(video_show_at_the_serpentine_gallery_1975, serpentine_gallery).
 exhibited_at(video_times, ikon_gallery_birmingham).
 exhibited_at(video_void, the_kitchen).
 exhibited_at(videokalos, second_house_bbc).
