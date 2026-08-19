@@ -107,6 +107,9 @@ beingdb-repl --pack ./pack_store
 Some more interesting queries to try in the REPL:
 
 ```prolog
+% All artists interviewed for this dataset
+interviewed_artist(Artist)
+
 % Everything Kevin Atherton made, with the medium of each work
 created_by(Work, kevin_atherton), uses_medium(Work, Medium)
 
@@ -147,6 +150,9 @@ source_url(rewind_kevin_atherton_interview, "https://rewind.ac.uk/rewind/wp-cont
 
 % predicates/interviewee.pl
 interviewee(rewind_kevin_atherton_interview, kevin_atherton).
+
+% predicates/interviewed_artist.pl
+interviewed_artist(kevin_atherton).
 
 % predicates/person.pl, predicates/work.pl
 person(kevin_atherton).

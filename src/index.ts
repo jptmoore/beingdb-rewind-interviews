@@ -80,6 +80,8 @@ function provenanceFacts(interview: InterviewConfig, documentId: string, personI
     { predicate: "source_url", arguments: [atom(documentId), str(interview.url)], ...base },
     { predicate: "interviewee", arguments: [atom(documentId), atom(personId)], ...base },
     { predicate: "person", arguments: [atom(personId)], ...base },
+    // Unary marker so "who was interviewed" is a one-clause query, without joining through document().
+    { predicate: "interviewed_artist", arguments: [atom(personId)], ...base },
   ];
 }
 
