@@ -68,6 +68,7 @@ Other useful commands:
 ```bash
 npm run show-prompt        # print the exact prompt sent to the model
 npm run consolidate        # merge semantically-duplicate predicates (see below)
+npm run declarations       # apply config/predicate-declarations.json to predicates/ (see below)
 npm test                   # unit tests (no network/API calls)
 npm run test:integration   # tests that call the live OpenAI API
 npm run validate           # compile predicates/ with a real BeingDB install, if present
@@ -91,6 +92,48 @@ predicates/` to undo. Every run also appends a record of what was merged
 and why to `metadata/consolidation.json`, so a past diff can be understood
 without re-deriving the model's reasoning; restoring one removed predicate
 file on its own is `git show <commit>^:predicates/<name>.pl > predicates/<name>.pl`.
+
+### Predicate declarations
+
+Each predicate file carries a BeingDB
+[predicate declaration](https://github.com/jptmoore/beingdb/blob/main/docs/query-language.md#predicate-declarations-optional):
+argument roles plus a one-sentence description, which BeingDB returns from
+predicate introspection (`GET /predicates?detailed=true`, the REPL's
+`:describe`):
+
+```prolog
+%! created_by(Work, Artist)
+% Relates a work to the artist or artist group who made it.
+created_by(absence_of_satan, george_barber).
+```
+
+Declarations are authored in `config/predicate-declarations.json`, not in
+`predicates/`, because every pipeline step rewrites predicate files from
+scratch. The serializer adds each predicate's declaration to its file whenever
+it writes that file, so declarations survive `extract`, `reconcile`,
+`fix-types` and `consolidate`:
+
+```json
+"created_by": {
+  "arguments": ["Work", "Artist"],
+  "description": "Relates a work to the artist or artist group who made it."
+}
+```
+
+`arguments` is one role per argument, in order (`Role` or `Role:semantic_type`).
+`description` is optional. Roles describe what the facts actually contain: where
+a position mixes kinds of entity, the role says so (e.g.
+`exhibited_at(WorkOrArtist, VenueOrExhibition)`). Where a predicate's name
+suggests the wrong argument order, the description says so (e.g.
+`venue_in_area(Area, Venue)`).
+
+After editing the config, `npm run declarations` rewrites `predicates/` without
+calling the model. Only the declaration block changes; the facts are written
+back unchanged. `npm run declarations -- --check` only verifies. Both commands
+fail if a declaration's argument count doesn't match its predicate's arity.
+Both also list predicates with no declaration (e.g. new ones from a fresh
+extraction) and declarations with no predicate file (e.g. merged away by
+`consolidate`), so you can add or remove them.
 
 ## Using the dataset with BeingDB
 
@@ -188,6 +231,7 @@ recording the source quote:
 config/
   interviews.json        curated list of interview sources
   entity-aliases.json    shared entity ID aliases (e.g. "ICA" -> ica_london)
+  predicate-declarations.json  BeingDB %! declarations (argument roles + descriptions)
 
 src/                      the extraction pipeline (fetch, extract, prompt, validate, serialize)
 source/                   cached PDFs/text (gitignored; not redistributed - see below)

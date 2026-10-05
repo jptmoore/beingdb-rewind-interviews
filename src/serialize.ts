@@ -1,6 +1,7 @@
 import * as fs from "node:fs";
 import * as path from "node:path";
 import type { FactArgument, ResolvedFact } from "./types.js";
+import { DECLARATIONS_FILENAME, type PredicateDeclaration, declarationOf, loadDeclarationsFor, renderDeclaration } from "./declarations.js";
 
 /** Renders one typed argument as a BeingDB literal (see docs/query-language.md "Literal types"). */
 export function literalToString(arg: FactArgument): string {
@@ -34,6 +35,14 @@ const GENERATED_HEADER = (predicate: string) =>
   `% See metadata/extraction.json for source provenance and candidates/evidence for supporting quotes.\n` +
   `% Do not hand-edit generated lines below - regenerate and review the diff instead.\n`;
 
+// The blank line is required: a BeingDB declaration's description is every
+// `%` line after `%!`, so the header must not run into it.
+const DECLARATION_BLOCK = (predicate: string, declaration: PredicateDeclaration) =>
+  `% The %! declaration below is maintained in config/${DECLARATIONS_FILENAME}.\n` +
+  `\n` +
+  renderDeclaration(predicate, declaration) +
+  `\n`;
+
 function isDataLine(line: string): boolean {
   const trimmed = line.trim();
   return trimmed.length > 0 && !trimmed.startsWith("%") && !trimmed.startsWith("#");
@@ -56,12 +65,24 @@ export interface MergeResult {
   totalCount: number;
 }
 
-/** Writes a predicate's complete, already-deduplicated proposition set, sorted, with the standard header. */
+/**
+ * Renders the full text of a predicate file: the standard header, then - if
+ * config/predicate-declarations.json (next to `predicatesDir`) declares this
+ * predicate - its BeingDB `%!` declaration, then the deduplicated, sorted facts.
+ */
+export function renderPredicateFile(predicatesDir: string, predicate: string, lines: Iterable<string>): string {
+  const sorted = Array.from(new Set(lines)).sort((a, b) => a.localeCompare(b));
+  const declaration = declarationOf(loadDeclarationsFor(predicatesDir), predicate);
+  const header = GENERATED_HEADER(predicate) + (declaration ? DECLARATION_BLOCK(predicate, declaration) : "");
+  return header + sorted.join("\n") + "\n";
+}
+
+/** Writes a predicate's complete proposition set (see {@link renderPredicateFile}). */
 export function writePropositions(predicatesDir: string, predicate: string, lines: Iterable<string>): string {
   const filePath = path.join(predicatesDir, `${predicate}.pl`);
-  const sorted = Array.from(new Set(lines)).sort((a, b) => a.localeCompare(b));
+  const content = renderPredicateFile(predicatesDir, predicate, lines);
   fs.mkdirSync(predicatesDir, { recursive: true });
-  fs.writeFileSync(filePath, GENERATED_HEADER(predicate) + sorted.join("\n") + "\n", "utf8");
+  fs.writeFileSync(filePath, content, "utf8");
   return filePath;
 }
 

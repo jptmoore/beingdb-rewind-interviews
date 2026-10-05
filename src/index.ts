@@ -29,6 +29,7 @@ import { extractFacts } from "./generate-facts.js";
 import { AliasMap, EntityResolver, normalizeId } from "./normalize.js";
 import { dedupeFacts, filterConservative, validateFactShape } from "./validate.js";
 import { factToProposition, writeFactsToPredicates } from "./serialize.js";
+import { loadDeclarationsFor } from "./declarations.js";
 import { loadExtractionMetadata, upsertExtractionMetadata, writeEvidenceSidecar } from "./metadata.js";
 import { establishedKinds, reconcileArgumentKinds } from "./type-consistency.js";
 import { loadDotEnv } from "./env.js";
@@ -234,6 +235,7 @@ async function processInterview(interview: InterviewConfig, aliases: AliasMap, c
 async function main() {
   loadDotEnv(path.join(ROOT, ".env"));
   const { artist, force } = parseArgs(process.argv.slice(2));
+  loadDeclarationsFor(PREDICATES_DIR); // fail fast on an invalid config/predicate-declarations.json, before any model calls
 
   const apiKey = process.env.OPENAI_API_KEY;
   if (!apiKey) {
