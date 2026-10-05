@@ -23,6 +23,7 @@ import type { ConsolidationGroup, ConsolidationProposal, EvidenceEntry, Predicat
 import { AliasMap, EntityResolver } from "./normalize.js";
 import { isValidPredicateName } from "./validate.js";
 import { readExistingPropositions, writePropositions } from "./serialize.js";
+import { loadDeclarationsFor } from "./declarations.js";
 import { appendConsolidationLog } from "./metadata.js";
 import { classifyLiteral, fixPredicateFileTypes, parseProposition } from "./type-consistency.js";
 import { loadDotEnv } from "./env.js";
@@ -249,6 +250,7 @@ function loadAliasMap(): AliasMap {
 
 async function main() {
   loadDotEnv(path.join(ROOT, ".env"));
+  loadDeclarationsFor(PREDICATES_DIR); // fail fast on an invalid config/predicate-declarations.json, before any model calls
   const apiKey = process.env.OPENAI_API_KEY;
   const model = process.env.OPENAI_MODEL;
   if (!apiKey || !model) {

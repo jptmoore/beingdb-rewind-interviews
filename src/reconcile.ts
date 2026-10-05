@@ -18,6 +18,7 @@ import { fileURLToPath } from "node:url";
 
 import { isValidAtom } from "./validate.js";
 import { readExistingPropositions, writePropositions } from "./serialize.js";
+import { loadDeclarationsFor } from "./declarations.js";
 import type { EvidenceEntry } from "./types.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -118,6 +119,7 @@ function parseRenamePairs(argv: string[]): Array<[string, string]> {
 }
 
 function main() {
+  loadDeclarationsFor(PREDICATES_DIR); // fail on an invalid config/predicate-declarations.json before rewriting any file
   const renames = parseRenamePairs(process.argv.slice(2));
   if (renames.length === 0) {
     console.error("usage: npm run reconcile -- oldId=newId [oldId2=newId2 ...]");

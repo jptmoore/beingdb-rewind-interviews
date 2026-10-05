@@ -13,6 +13,7 @@ import * as path from "node:path";
 import { fileURLToPath } from "node:url";
 
 import { AliasMap, EntityResolver } from "./normalize.js";
+import { loadDeclarationsFor } from "./declarations.js";
 import { fixPredicateFileTypes } from "./type-consistency.js";
 import type { EvidenceEntry } from "./types.js";
 
@@ -56,6 +57,7 @@ function updateEvidence(renames: Array<[string, string]>, dropped: string[]): st
 }
 
 function main() {
+  loadDeclarationsFor(PREDICATES_DIR); // fail on an invalid config/predicate-declarations.json before rewriting any file
   const aliases = loadAliasMap();
   const resolver = new EntityResolver({ aliases });
 
