@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>BeingDB</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="style.css">
+  <style>
+    main { margin: 0 auto; }
+    .intro { color: var(--muted); }
+    .examples { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0.4rem 0 1rem; }
+    .footer { margin-top: 2rem; color: var(--muted); font-size: 0.85rem; }
+  </style>
+</head>
+<body>
+  <header class="top">
+    <div>
+      <h1 id="title">BeingDB</h1>
+      <p id="status" class="status">Loading the BeingDB WebAssembly runtime…</p>
+    </div>
+    <button id="vocab-button" class="secondary" type="button" disabled>Predicates</button>
+  </header>
+  <main id="app">
+    <p class="loading">Loading…</p>
+  </main>
+  <dialog id="vocabulary" aria-label="Predicates">
+    <form method="dialog" class="dialog-head">
+      <h2>Predicates</h2>
+      <button class="ghost" aria-label="Close">Close</button>
+    </form>
+    <div class="dialog-body"></div>
+  </dialog>
+  <script src="format.js"></script>
+  <script src="ui.js"></script>
+  <script src="explorer.js"></script>
+  <script src="runtime/main.bc.wasm.js"></script>
+</body>
+</html>

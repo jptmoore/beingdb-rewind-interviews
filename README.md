@@ -6,6 +6,11 @@ dataset for experiments in grounded LLM question-answering. The first source
 is [REWIND](https://rewind.ac.uk/), an archive of interviews with British and
 international video artists.
 
+**[Query the facts in your browser](https://jptmoore.github.io/beingdb-rewind-interviews/)**,
+with nothing to install. The site is built with
+[BeingDB WASM](https://github.com/jptmoore/beingdb-wasm) and served by GitHub
+Pages from [docs/](docs/) (see [Browser site](#browser-site)).
+
 ## What this is
 
 A small, auditable pipeline (TypeScript + the OpenAI API) that turns a
@@ -72,6 +77,7 @@ npm run declarations       # apply config/predicate-declarations.json to predica
 npm test                   # unit tests (no network/API calls)
 npm run test:integration   # tests that call the live OpenAI API
 npm run validate           # compile predicates/ with a real BeingDB install, if present
+npm run build-site         # rebuild the browser site in docs/ (see below)
 ```
 
 ### Consolidating duplicate predicates
@@ -137,6 +143,10 @@ extraction) and declarations with no predicate file (e.g. merged away by
 
 ## Using the dataset with BeingDB
 
+The quickest way to query the facts is the
+[browser site](https://jptmoore.github.io/beingdb-rewind-interviews/). To run
+BeingDB locally instead.
+
 This repository *is* a BeingDB fact repository: `predicates/` at the root
 holds one file per predicate (e.g. `predicates/created_by.pl`), which is
 exactly what BeingDB's own tools expect.
@@ -179,6 +189,29 @@ began_in(Work, Year), Year between @1960 and @1980
 
 As more interviews are added, the same predicates join across artists, e.g.
 `employed_by(Artist, slade)` for everyone who taught or studied at the Slade.
+
+## Browser site
+
+<https://jptmoore.github.io/beingdb-rewind-interviews/> queries the facts
+entirely in the browser with [BeingDB WASM](https://github.com/jptmoore/beingdb-wasm):
+no server, and queries never leave the page.
+
+The site is the [docs/](docs/) folder, served by GitHub Pages from `main`
+(Settings > Pages > Source: "Deploy from a branch", `main`, `/docs`). After
+changing `predicates/` or [site/beingdb.json](site/beingdb.json) (the page's
+title, description and example queries), rebuild it and commit `docs/`:
+
+```bash
+npm run build-site       # beingdb import + compile + export, then bundle into docs/
+```
+
+This needs a BeingDB with the `export` command (`beingdb` on `PATH`, or
+`BEINGDB=/path/to/beingdb`) and a BeingDB WASM checkout (`../beingdb-wasm`,
+or `BEINGDB_WASM=/path/to/beingdb-wasm`). Use the BeingDB commit recorded in
+BeingDB WASM's
+[prebuilt/runtime.json](https://github.com/jptmoore/beingdb-wasm/blob/main/prebuilt/runtime.json)
+so the export matches the browser runtime; the bundle step fails if it does
+not.
 
 ## Example
 
@@ -236,6 +269,8 @@ config/
 src/                      the extraction pipeline (fetch, extract, prompt, validate, serialize)
 source/                   cached PDFs/text (gitignored; not redistributed - see below)
 predicates/               BeingDB compile root: one file per predicate, shared across all artists
+site/beingdb.json         browser site title, description and example queries
+docs/                     the browser site, served by GitHub Pages (npm run build-site)
 metadata/
   extraction.json         per-interview provenance: URL, checksum, model, timestamp
   evidence/<id>.json      per-fact supporting quotes
