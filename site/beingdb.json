@@ -1,0 +1,26 @@
+{
+  "title": "REWIND artists' interviews",
+  "description": "Facts about British and international video artists, their works, exhibitions and collaborators, extracted from [REWIND](https://rewind.ac.uk/) interviews and queried with [BeingDB](https://github.com/jptmoore/beingdb) in your browser. The facts were extracted by a language model: they are a **research artifact**, not verified catalogue metadata. Browse **Predicates** for the vocabulary, or learn the query language in the [tutorial](https://jptmoore.github.io/beingdb-wasm/tutorial/).",
+  "examples": [
+    {
+      "title": "Works made 1975-1980",
+      "query": "find Artist, Work, Y\nwhere\n  created_by(Work, Artist)\n  year_created(Work, Y)\n  Y between 1975 and 1980\norder by Y ascending"
+    },
+    {
+      "title": "Most prolific artists",
+      "query": "find Artist, count(Work)\nwhere\n  created_by(Work, Artist)\norder by count(Work) descending\nlimit 5"
+    },
+    {
+      "title": "Kevin Atherton's media",
+      "query": "find Work, Medium\nwhere\n  created_by(Work, kevin_atherton)\n  uses_medium(Work, Medium)"
+    },
+    {
+      "title": "Collaborations",
+      "query": "find Artist, Collaborator\nwhere\n  collaborated_with(Artist, Collaborator)\nlimit 20"
+    },
+    {
+      "title": "Exhibitions about video",
+      "query": "find Exhibition, Title\nwhere\n  exhibition_title(Exhibition, Title)\n  Title contains \"video\""
+    }
+  ]
+}
