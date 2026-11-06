@@ -4,7 +4,7 @@
 % The %! declaration below is maintained in config/predicate-declarations.json.
 
 %! made_at(Work, Location)
-% Relates a work to the venue, institution or place where it was made.
+% Relates a work to the venue, institution or place where it was made, including one whose facilities were used.
 made_at(electron, dartmoor).
 made_at(horizontal_flow, teesside_college_of_art).
 made_at(incidents_in_a_garden, acme_gallery).

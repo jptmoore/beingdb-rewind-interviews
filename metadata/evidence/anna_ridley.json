@@ -259,7 +259,7 @@
     "page": null
   },
   {
-    "fact": "year_created(video_show_at_the_serpentine_gallery_1975, @1975).",
+    "fact": "year_began(video_show_at_the_serpentine_gallery_1975, @1975).",
     "source": "anna_ridley",
     "evidence": "One of the most exciting manifestations was in 1975 with the Video Show at the Serpentine Gallery in London.",
     "confidence": "explicit",
@@ -315,7 +315,7 @@
     "page": null
   },
   {
-    "fact": "year_started(public_face_private_eye, @1988).",
+    "fact": "year_began(public_face_private_eye, @1988).",
     "source": "anna_ridley",
     "evidence": "That was in 1988 and eventually it was broadcast in 1989.",
     "confidence": "explicit",
@@ -497,7 +497,7 @@
     "page": null
   },
   {
-    "fact": "set_up_at(the_other_side, de_la_warr_pavilion).",
+    "fact": "installed_at(the_other_side, de_la_warr_pavilion).",
     "source": "anna_ridley",
     "evidence": "commissioned by the De La Warr Pavilion in Bexhill-on-Sea where it was set-up for its premiere.",
     "confidence": "explicit",

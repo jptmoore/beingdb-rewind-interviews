@@ -7,3 +7,5 @@
 % Relates a person to an institution where they taught.
 taught_at(david_hall, maidstone_college_of_art).
 taught_at(mike_stubbs, dundee).
+taught_at(rose_garrard, corydon).
+taught_at(rose_garrard, dartington).

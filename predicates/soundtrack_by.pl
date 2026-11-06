@@ -4,7 +4,7 @@
 % The %! declaration below is maintained in config/predicate-declarations.json.
 
 %! soundtrack_by(Work, Composer)
-% Relates a work to a person or group who made a soundtrack for it.
+% Relates a work to a person or group who made its music or soundtrack.
 soundtrack_by(cultural_quarter, chris_wiltshire).
 soundtrack_by(cultural_quarter, david_shea).
 soundtrack_by(cultural_quarter, i_dream_of_tall_buildings).
@@ -12,3 +12,5 @@ soundtrack_by(cultural_quarter, mark_fell_snd).
 soundtrack_by(cultural_quarter, simon_thorne).
 soundtrack_by(cultural_quarter, ulf_langheinrich).
 soundtrack_by(lighthouse, gerald_mair).
+soundtrack_by(mandala, mike_ray).
+soundtrack_by(one_of_these_days, delia_derbyshire).

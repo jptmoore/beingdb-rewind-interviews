@@ -4,5 +4,9 @@
 % The %! declaration below is maintained in config/predicate-declarations.json.
 
 %! place(Place)
-% Marks an entity as a geographic place.
+% Marks an entity as a geographic place, such as a city, area or country.
+place(canada).
 place(cardiff).
+place(edinburgh).
+place(maastricht).
+place(montreal).

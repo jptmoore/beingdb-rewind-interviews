@@ -4,9 +4,16 @@
 % The %! declaration below is maintained in config/predicate-declarations.json.
 
 %! used_equipment(WorkOrArtist, Equipment)
-% Relates a work, or an artist, to equipment, given as text, used in making it.
-used_equipment(flying_time, "first colour camera").
-used_equipment(flying_time, "Portapak").
-used_equipment(george_barber, "new editing equipment").
-used_equipment(video_void, "live camera on a stick").
-used_equipment(video_void, "two huge, industrial ventilators").
+% Relates a work, or a person, to equipment, technology or software used in making it.
+used_equipment(flying_time, first_colour_camera).
+used_equipment(flying_time, portapak).
+used_equipment(george_barber, new_editing_equipment).
+used_equipment(judith_goddard, avid_express_dv).
+used_equipment(judith_goddard, avid).
+used_equipment(peter_donebauer, black_and_white_portapak).
+used_equipment(peter_donebauer, colour_studio).
+used_equipment(peter_donebauer, mechanical_transducer_device).
+used_equipment(peter_donebauer, monochrome_portapak).
+used_equipment(peter_donebauer, portapak).
+used_equipment(video_void, live_camera_on_a_stick).
+used_equipment(video_void, two_huge_industrial_ventilators).

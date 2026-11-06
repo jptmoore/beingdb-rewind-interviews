@@ -57,7 +57,6 @@ created_by(intercom_island, madelon_hooykaas).
 created_by(lighthouse, gina_czarnecki).
 created_by(lighthouse, mike_stubbs).
 created_by(luminous_portrait, judith_goddard).
-created_by(lva_london_video_arts, david_hall).
 created_by(lyrical_doubt, judith_goddard).
 created_by(magnetic_north, elsa_stansfield).
 created_by(magnetic_north, madelon_hooykaas).

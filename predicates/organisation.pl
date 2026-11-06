@@ -111,7 +111,6 @@ organisation(london_electronic_arts).
 organisation(london_video_arts).
 organisation(london).
 organisation(lux).
-organisation(lva_london_video_arts).
 organisation(lva).
 organisation(ma_virtual_realities).
 organisation(maastricht).

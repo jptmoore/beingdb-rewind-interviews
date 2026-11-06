@@ -12,8 +12,11 @@ uses_medium(contortions, n16mm_film).
 uses_medium(david_hall, film).
 uses_medium(david_hall, sculpture).
 uses_medium(david_hall, video).
+uses_medium(day_for_night, non_linear_dvd_works_using_the_shuffle_method).
 uses_medium(double_vision, video).
 uses_medium(flying_time, colour_video).
+uses_medium(flying_time, colour).
+uses_medium(flying_time, editing).
 uses_medium(flying_time, installation).
 uses_medium(flying_time, single_tape_video).
 uses_medium(gallery_guide, performance).
@@ -51,8 +54,11 @@ uses_medium(running_time, black_and_white_video).
 uses_medium(running_time, linen).
 uses_medium(running_time, photographic_images).
 uses_medium(running_time, sound).
+uses_medium(sea_of_light, videotape).
 uses_medium(sphere, mirror_polished_stainless_steel).
 uses_medium(sphere, video).
+uses_medium(spout_sculpture, bronze).
+uses_medium(spout_sculpture, stone).
 uses_medium(sweatlodge, super_8_film_camera).
 uses_medium(sweatlodge, video_camera).
 uses_medium(tape_tape, masking_tape).
@@ -60,6 +66,8 @@ uses_medium(tape_tape, videotape).
 uses_medium(television_circle_electron, n7_monitors).
 uses_medium(the_wind_works, live_video).
 uses_medium(the_wind_works, pre_recorded_tape).
+uses_medium(two_sides_of_a_story, live_video).
+uses_medium(two_sides_of_a_story, monitors).
 uses_medium(vertical, film).
 uses_medium(vertical, natural_sound).
 uses_medium(videokalos, colour_video).

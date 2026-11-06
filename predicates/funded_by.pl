@@ -7,10 +7,12 @@
 % Relates a person, work, organisation or event to an organisation that funded it.
 funded_by(between_the_lines, girls_school_in_bow).
 funded_by(david_critchley, arts_council_of_great_britain).
+funded_by(david_critchley, northern_arts).
 funded_by(david_hall, arts_council_of_great_britain).
 funded_by(david_hall, british_council).
 funded_by(deep_looking, buddhist_broadcasting_foundation).
 funded_by(film_and_video_umbrella, arts_council_of_great_britain).
+funded_by(george_barber, arts_council_of_great_britain).
 funded_by(george_barber, royal_college_of_art).
 funded_by(judith_goddard, arts_council_of_great_britain).
 funded_by(kevin_atherton, arts_council_of_great_britain).
@@ -18,7 +20,6 @@ funded_by(london_video_arts, arts_council_of_great_britain).
 funded_by(london_video_arts, channel_4).
 funded_by(london_video_arts, greater_london_council_glc).
 funded_by(london_video_arts, gulbenkian_foundation).
-funded_by(lva_london_video_arts, arts_council_of_great_britain).
 funded_by(malvern_well_dressing_festival, arts_council_of_great_britain).
 funded_by(mike_stubbs, arts_council_of_great_britain).
 funded_by(mike_stubbs, bbc).

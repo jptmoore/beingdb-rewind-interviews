@@ -107,9 +107,16 @@ export interface PredicateCatalogEntry {
 
 /** One proposed merge of two or more predicates into a single canonical name. */
 export interface ConsolidationGroup {
+  /** One of the members, or a new predicate name. */
   canonical: string;
   members: string[];
   rationale: string;
+  /**
+   * For members whose arguments are in a different order from the canonical
+   * predicate: position i of the merged fact takes the member's argument
+   * argumentOrder[member][i], e.g. [1, 0] swaps two arguments.
+   */
+  argumentOrder?: Record<string, number[]>;
 }
 
 export interface ConsolidationProposal {

@@ -19,7 +19,8 @@
     "test": "node --import tsx --test 'test/unit/**/*.test.ts'",
     "test:integration": "node --import tsx --test 'test/integration/**/*.test.ts'",
     "validate": "node scripts/validate.mjs",
-    "build-site": "node scripts/build-site.mjs"
+    "build-site": "node scripts/build-site.mjs",
+    "lint": "tsx src/lint.ts"
   },
   "dependencies": {
     "openai": "^4.77.0",

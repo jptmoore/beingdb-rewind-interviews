@@ -483,7 +483,7 @@
     "page": 11
   },
   {
-    "fact": "teaching_at(rose_garrard, corydon).",
+    "fact": "taught_at(rose_garrard, corydon).",
     "source": "rose_garrard",
     "evidence": "For a time at Corydon, I ran the video department, which had been set up about 10 or 15 years before, so it was very out of date when I got there.",
     "confidence": "explicit",
@@ -518,16 +518,9 @@
     "page": 11
   },
   {
-    "fact": "teaching_at(rose_garrard, dartington).",
+    "fact": "taught_at(rose_garrard, dartington).",
     "source": "rose_garrard",
     "evidence": "I think my best year ever was the year that I was invited to Dartington for the first time.",
-    "confidence": "explicit",
-    "page": 12
-  },
-  {
-    "fact": "year(@1988).",
-    "source": "rose_garrard",
-    "evidence": "It was 1988 when I had my motorbike accident, February 1988.",
     "confidence": "explicit",
     "page": 12
   },
@@ -602,7 +595,7 @@
     "page": 14
   },
   {
-    "fact": "made_proposal_to(rose_garrard, malvern_town_council).",
+    "fact": "approached(rose_garrard, malvern_town_council).",
     "source": "rose_garrard",
     "evidence": "I made a proposal to Malvern Town Council in response to an appeal in the paper from them for ideas to regenerate Malvern, which had been my hometown.",
     "confidence": "explicit",
@@ -707,14 +700,14 @@
     "page": 15
   },
   {
-    "fact": "used_material(spout_sculpture, \"bronze\").",
+    "fact": "uses_medium(spout_sculpture, bronze).",
     "source": "rose_garrard",
     "evidence": "I made the Spout, which is bronze and stone.",
     "confidence": "explicit",
     "page": 16
   },
   {
-    "fact": "used_material(spout_sculpture, \"stone\").",
+    "fact": "uses_medium(spout_sculpture, stone).",
     "source": "rose_garrard",
     "evidence": "I made the Spout, which is bronze and stone.",
     "confidence": "explicit",
@@ -749,7 +742,7 @@
     "page": 16
   },
   {
-    "fact": "chairman_of(rose_garrard, malvern_spa_association).",
+    "fact": "led(rose_garrard, malvern_spa_association).",
     "source": "rose_garrard",
     "evidence": "By which time I’d become chairman.",
     "confidence": "explicit",
@@ -1176,7 +1169,7 @@
     "page": 27
   },
   {
-    "fact": "year_created(malvern_well_dressing_festival, @2003).",
+    "fact": "year_began(malvern_well_dressing_festival, @2003).",
     "source": "rose_garrard",
     "evidence": "It was the year after the Foot and Mouth Crisis, so 2003. It was supposed to happen in 2002, but because of Foot and Mouth, the site was closed down.",
     "confidence": "explicit",

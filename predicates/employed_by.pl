@@ -4,7 +4,7 @@
 % The %! declaration below is maintained in config/predicate-declarations.json.
 
 %! employed_by(Person, Employer)
-% Relates a person to an organisation or institution that employed them, including teaching posts.
+% Relates a person to an organisation or institution they worked for, including teaching posts.
 employed_by(anna_ridley, bbc).
 employed_by(anna_ridley, channel_4).
 employed_by(david_critchley, london_video_arts).
@@ -13,8 +13,11 @@ employed_by(david_hall, maidstone_college_of_art).
 employed_by(david_hall, saint_martins).
 employed_by(delia_derbyshire, bbc).
 employed_by(dorine_mignot, stedelijk_museum_amsterdam).
+employed_by(elsa_stansfield, fantasy_factory).
 employed_by(elsa_stansfield, jan_van_eyck_academy).
+employed_by(elsa_stansfield, maidstone_college_of_art).
 employed_by(george_barber, ucca_at_farnham).
+employed_by(josine_van_droffelaar, de_appel).
 employed_by(kevin_atherton, cardiff).
 employed_by(kevin_atherton, chelsea).
 employed_by(kevin_atherton, maidstone).
@@ -26,6 +29,7 @@ employed_by(kevin_atherton, slade_school_of_fine_art).
 employed_by(kevin_atherton, whitechapel_gallery).
 employed_by(madelon_hooykaas, fantasy_factory).
 employed_by(madelon_hooykaas, london_video_arts).
+employed_by(madelon_hooykaas, maidstone_college_of_art).
 employed_by(madelon_hooykaas, paris).
 employed_by(malcolm_le_grice, saint_martins).
 employed_by(mike_stubbs, australian_centre_for_the_moving_image).

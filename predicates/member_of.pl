@@ -4,6 +4,9 @@
 % The %! declaration below is maintained in config/predicate-declarations.json.
 
 %! member_of(Person, Organisation)
-% Relates a person to an organisation, union or artistic group they belonged to.
+% Relates a person to an organisation, union or artistic group they belonged to, including as a founding or council member.
+member_of(elsa_stansfield, association_of_video_artists_in_the_netherlands).
+member_of(judith_goddard, london_video_arts).
+member_of(madelon_hooykaas, association_of_video_artists_in_the_netherlands).
 member_of(mike_stubbs, association_of_cinematographic_and_television_technicians).
 member_of(robin_page, fluxus).

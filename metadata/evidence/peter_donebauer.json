@@ -133,35 +133,35 @@
     "page": null
   },
   {
-    "fact": "used_institutional_resource(peter_donebauer, royal_college_of_art).",
+    "fact": "used_facilities_of(peter_donebauer, royal_college_of_art).",
     "source": "peter_donebauer",
     "evidence": "I was at the Royal College from the autumn of ‘70 until the summer of ’73, so portapaks came into the college in the summer of ’71...I would have used the colour studio from the autumn of that year through to the next year, ’72 to ’73...",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "used_technology(peter_donebauer, \"monochrome portapak\").",
+    "fact": "used_equipment(peter_donebauer, monochrome_portapak).",
     "source": "peter_donebauer",
     "evidence": "The very first thing I did which wasn’t a finished piece was I experimented with a monochrome portapak",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "used_technology(peter_donebauer, \"black and white portapak\").",
+    "fact": "used_equipment(peter_donebauer, black_and_white_portapak).",
     "source": "peter_donebauer",
     "evidence": "did quite a lot of experiments with a black and white portapak during my second year at the Royal College",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "used_technology(peter_donebauer, \"colour studio\").",
+    "fact": "used_equipment(peter_donebauer, colour_studio).",
     "source": "peter_donebauer",
     "evidence": "the Royal College was given it ...That was the start of it really I got my devices and my fellow performer Simon Desorger ... very quickly turned into what some journalists dubbed ‘electronic painting’ because I was able partly with the mechanical device the transducer device, and partly by manipulating the controls of the colour studio I was able to paint and create different effects patterns, shapes colours hues",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "used_technology(peter_donebauer, \"mechanical transducer device\").",
+    "fact": "used_equipment(peter_donebauer, mechanical_transducer_device).",
     "source": "peter_donebauer",
     "evidence": "I was able partly with the mechanical device the transducer device, and partly by manipulating the controls of the colour studio I was able to paint and create different effects patterns, shapes colours hues",
     "confidence": "explicit",
@@ -175,14 +175,14 @@
     "page": null
   },
   {
-    "fact": "year_started_using_technology(peter_donebauer, \"portapaks\").",
+    "fact": "used_equipment(peter_donebauer, portapak).",
     "source": "peter_donebauer",
     "evidence": "portapaks came into the college in the summer of ’71, so I first started using those in the autumn of ’71 through ’72",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "year_started_using_technology(peter_donebauer, \"colour studio\").",
+    "fact": "used_equipment(peter_donebauer, colour_studio).",
     "source": "peter_donebauer",
     "evidence": "...I would have used the colour studio from the autumn of that year through to the next year, ’72 to ’73...",
     "confidence": "explicit",
@@ -651,7 +651,7 @@
     "page": null
   },
   {
-    "fact": "music_by(mandala, mike_ray).",
+    "fact": "soundtrack_by(mandala, mike_ray).",
     "source": "peter_donebauer",
     "evidence": "Mike Ray...who edited and did the music on Mandala.",
     "confidence": "explicit",

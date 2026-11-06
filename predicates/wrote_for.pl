@@ -4,6 +4,7 @@
 % The %! declaration below is maintained in config/predicate-declarations.json.
 
 %! wrote_for(Writer, Publication)
-% Relates a writer to a publication they wrote for.
+% Relates a writer to a publication, such as a periodical or catalogue, they wrote for.
 wrote_for(david_hall, studio_international).
 wrote_for(david_hall, timeout).
+wrote_for(josine_van_droffelaar, audio_video_installations_catalogue).

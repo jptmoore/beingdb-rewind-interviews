@@ -469,14 +469,14 @@
     "page": 4
   },
   {
-    "fact": "awarded_grant(david_critchley, northern_arts).",
+    "fact": "funded_by(david_critchley, northern_arts).",
     "source": "david_critchley",
     "evidence": "On a personal level I’d had a couple of small grants from Northern Arts and from the Arts Council to complete film work.",
     "confidence": "explicit",
     "page": 6
   },
   {
-    "fact": "awarded_grant(david_critchley, arts_council_of_great_britain).",
+    "fact": "funded_by(david_critchley, arts_council_of_great_britain).",
     "source": "david_critchley",
     "evidence": "On a personal level I’d had a couple of small grants from Northern Arts and from the Arts Council to complete film work.",
     "confidence": "explicit",
@@ -623,7 +623,7 @@
     "page": null
   },
   {
-    "fact": "work_shown_in(clive_richardson, royal_college_of_art).",
+    "fact": "exhibited_at(clive_richardson, royal_college_of_art).",
     "source": "david_critchley",
     "evidence": "Clive Richardson’s video pieces which I think were made at the Royal College also about ’72 ’73.",
     "confidence": "explicit",
@@ -693,14 +693,14 @@
     "page": null
   },
   {
-    "fact": "rented_by(little_newport_street_soho, the_other_cinema).",
+    "fact": "used_premises(the_other_cinema, little_newport_street_soho).",
     "source": "david_critchley",
     "evidence": "Tony Kirkhope from the Other Cinema rented a room in little Newport Street in Soho, to LVA. That was our first place.",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "used_by(little_newport_street_soho, london_video_arts).",
+    "fact": "used_premises(london_video_arts, little_newport_street_soho).",
     "source": "david_critchley",
     "evidence": "Tony Kirkhope from the Other Cinema rented a room in little Newport Street in Soho, to LVA. That was our first place.",
     "confidence": "explicit",
@@ -805,21 +805,21 @@
     "page": null
   },
   {
-    "fact": "work_discussed_in(david_critchley, the_kitchen).",
+    "fact": "reviewed_in(david_critchley, the_kitchen).",
     "source": "david_critchley",
     "evidence": "there were catalogues through LVA and through exchanges notably The Kitchen and other publications like Independent Media.",
     "confidence": "supported",
     "page": null
   },
   {
-    "fact": "work_discussed_in(david_critchley, independent_media).",
+    "fact": "reviewed_in(david_critchley, independent_media).",
     "source": "david_critchley",
     "evidence": "there were catalogues through LVA and through exchanges notably The Kitchen and other publications like Independent Media.",
     "confidence": "supported",
     "page": null
   },
   {
-    "fact": "work_discussed_in(david_critchley, readings_magazine).",
+    "fact": "reviewed_in(david_critchley, readings_magazine).",
     "source": "david_critchley",
     "evidence": "whenever I have written things in other publications like LVA catalogues or brief bits about Butlers Wharf in Readings Magazine",
     "confidence": "supported",

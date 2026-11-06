@@ -6,13 +6,6 @@
     ],
     "description": "Relates an artist to an organisation that purchased some of their work."
   },
-  "active_in": {
-    "arguments": [
-      "Person",
-      "Project"
-    ],
-    "description": "Relates a person to a campaign or project in which they were actively involved."
-  },
   "affiliated_with": {
     "arguments": [
       "Person",
@@ -47,32 +40,11 @@
     ],
     "description": "Relates a person to the person they worked for as an assistant."
   },
-  "awarded_grant": {
-    "arguments": [
-      "Recipient",
-      "Funder"
-    ],
-    "description": "Relates a person to an organisation that awarded them a grant."
-  },
-  "based_in": {
-    "arguments": [
-      "Organisation",
-      "Place"
-    ],
-    "description": "Relates an organisation to the country or place, given as text, where it is based."
-  },
   "became_cameraman": {
     "arguments": [
       "Person"
     ],
     "description": "Marks a person who became a professional cameraman."
-  },
-  "began_in": {
-    "arguments": [
-      "Work",
-      "Year"
-    ],
-    "description": "Records the year in which work on a piece or ongoing project began."
   },
   "born_in": {
     "arguments": [
@@ -86,27 +58,7 @@
       "Work",
       "Broadcaster"
     ],
-    "description": "Relates a work to the broadcaster or station that transmitted it."
-  },
-  "broadcast_on": {
-    "arguments": [
-      "Work",
-      "Channel"
-    ],
-    "description": "Relates a work to the television channel on which it was broadcast."
-  },
-  "chairman_of": {
-    "arguments": [
-      "Person",
-      "Organisation"
-    ],
-    "description": "Relates a person to an organisation they chaired."
-  },
-  "city": {
-    "arguments": [
-      "City"
-    ],
-    "description": "Marks an entity as a city."
+    "description": "Relates a work to the broadcaster, station or channel that transmitted it."
   },
   "co_edited_by": {
     "arguments": [
@@ -158,26 +110,6 @@
     ],
     "description": "Relates a work to a free-text description of a subject photographed in it."
   },
-  "contributed_text": {
-    "arguments": [
-      "Author",
-      "Publication"
-    ],
-    "description": "Relates a person to a publication, such as a catalogue, for which they wrote text."
-  },
-  "council_member_of": {
-    "arguments": [
-      "Person",
-      "Organisation"
-    ],
-    "description": "Relates a person to an organisation on whose council of management they served."
-  },
-  "country": {
-    "arguments": [
-      "Country"
-    ],
-    "description": "Marks an entity as a country."
-  },
   "country_represented": {
     "arguments": [
       "Work",
@@ -206,19 +138,12 @@
     ],
     "description": "Records the name, given as text, of a department within an institution."
   },
-  "depicts_location": {
+  "depicts": {
     "arguments": [
       "Work",
-      "Place"
+      "Subject"
     ],
-    "description": "Relates a work to a place shown in it."
-  },
-  "director_of": {
-    "arguments": [
-      "Person",
-      "Institution"
-    ],
-    "description": "Relates a person to an institution they directed."
+    "description": "Relates a work to a place or object shown or used in it."
   },
   "distributed_by": {
     "arguments": [
@@ -273,14 +198,7 @@
       "Person",
       "Employer"
     ],
-    "description": "Relates a person to an organisation or institution that employed them, including teaching posts."
-  },
-  "established": {
-    "arguments": [
-      "Person",
-      "Initiative"
-    ],
-    "description": "Relates a person to a course, research group or other initiative they established."
+    "description": "Relates a person to an organisation or institution they worked for, including teaching posts."
   },
   "established_programme": {
     "arguments": [
@@ -343,13 +261,6 @@
     ],
     "description": "Records, as free text, how an artist financed their practice."
   },
-  "first_exhibition_of": {
-    "arguments": [
-      "Exhibition",
-      "Artist"
-    ],
-    "description": "Relates an exhibition space or programme to the artist or group who had its first exhibition."
-  },
   "first_shown_at": {
     "arguments": [
       "Work",
@@ -357,26 +268,12 @@
     ],
     "description": "Relates a work to the venue where it was first shown."
   },
-  "first_used_technique": {
-    "arguments": [
-      "Work",
-      "Technique"
-    ],
-    "description": "Relates a work to a technique, given as text, that its artists used for the first time in it."
-  },
   "founded_by": {
     "arguments": [
       "Organisation",
       "Founder"
     ],
-    "description": "Relates an organisation to a person who founded or co-founded it."
-  },
-  "founding_member_of": {
-    "arguments": [
-      "Person",
-      "Organisation"
-    ],
-    "description": "Relates a person to an organisation of which they were a founding member."
+    "description": "Relates an organisation, course or other initiative to a person who founded, co-founded or established it."
   },
   "funded_by": {
     "arguments": [
@@ -384,13 +281,6 @@
       "Funder"
     ],
     "description": "Relates a person, work, organisation or event to an organisation that funded it."
-  },
-  "gave_exhibition_to": {
-    "arguments": [
-      "Venue",
-      "Artist"
-    ],
-    "description": "Relates a venue to an artist or group to whom it gave an exhibition."
   },
   "got_funding_for": {
     "arguments": [
@@ -406,26 +296,12 @@
     ],
     "description": "Relates a work to the person who built a machine used in it."
   },
-  "head_of_department": {
-    "arguments": [
-      "Person",
-      "Department"
-    ],
-    "description": "Relates a person to a department they headed."
-  },
   "held_at": {
     "arguments": [
       "Event",
       "Venue"
     ],
     "description": "Relates an exhibition or event to the venue or institution where it was held."
-  },
-  "held_position": {
-    "arguments": [
-      "Person",
-      "Position"
-    ],
-    "description": "Relates a person to a job title, given as text, that they held."
   },
   "idea_for": {
     "arguments": [
@@ -446,21 +322,14 @@
       "Artist",
       "Influence"
     ],
-    "description": "Relates an artist to a person who influenced their work."
-  },
-  "inspired_by": {
-    "arguments": [
-      "Artist",
-      "Influence"
-    ],
-    "description": "Relates an artist to a person, such as a writer or artist, whose work inspired them."
+    "description": "Relates an artist to a person, such as an artist or writer, who influenced or inspired their work."
   },
   "installed_at": {
     "arguments": [
       "Work",
       "Location"
     ],
-    "description": "Relates a work to the location where it is installed."
+    "description": "Relates an installation work to the place or venue where it was installed or set up."
   },
   "interviewed": {
     "arguments": [
@@ -482,61 +351,54 @@
     ],
     "description": "Relates a source interview transcript to the artist interviewed in it."
   },
-  "invited_by": {
-    "arguments": [
-      "Person",
-      "Event"
-    ],
-    "description": "Relates a person to an exhibition or event they were invited to take part in; despite the name, the second argument is the event, not the inviter."
-  },
   "invited_to": {
     "arguments": [
       "Person",
       "Host"
     ],
-    "description": "Relates a person to an institution or event they were invited to visit or take part in."
+    "description": "Relates a person to an institution, exhibition or event they were invited to visit or take part in."
   },
   "involved_in": {
     "arguments": [
       "Person",
       "Activity"
     ],
-    "description": "Relates a person to an exhibition, organisation or activity they were involved in."
+    "description": "Relates a person to an organisation, project, programme, exhibition or activity they took part in."
   },
-  "involved_with": {
+  "job_title": {
+    "arguments": [
+      "Person",
+      "Title"
+    ],
+    "description": "Relates a person to a job or position, given as text, that they held."
+  },
+  "led": {
     "arguments": [
       "Person",
       "Organisation"
     ],
-    "description": "Relates a person to an organisation they were involved with."
+    "description": "Relates a person to an organisation, institution or department they led as director, head, chair or president."
   },
-  "length_minutes": {
+  "located_in": {
     "arguments": [
-      "Work",
-      "Minutes"
+      "VenueOrOrganisation",
+      "Place"
     ],
-    "description": "Records the length of a work in minutes."
+    "description": "Relates a venue or organisation to the area, city or country where it is."
   },
   "made_at": {
     "arguments": [
       "Work",
       "Location"
     ],
-    "description": "Relates a work to the venue, institution or place where it was made."
-  },
-  "made_proposal_to": {
-    "arguments": [
-      "Person",
-      "Organisation"
-    ],
-    "description": "Relates a person to an organisation to which they submitted a proposal."
+    "description": "Relates a work to the venue, institution or place where it was made, including one whose facilities were used."
   },
   "member_of": {
     "arguments": [
       "Person",
       "Organisation"
     ],
-    "description": "Relates a person to an organisation, union or artistic group they belonged to."
+    "description": "Relates a person to an organisation, union or artistic group they belonged to, including as a founding or council member."
   },
   "mentor_of": {
     "arguments": [
@@ -566,13 +428,6 @@
     ],
     "description": "Relates a person to a place they moved to."
   },
-  "music_by": {
-    "arguments": [
-      "Work",
-      "Composer"
-    ],
-    "description": "Relates a work to the person who made its music."
-  },
   "music_promotion_by": {
     "arguments": [
       "Musician",
@@ -599,20 +454,6 @@
     ],
     "description": "Relates an exhibition, event or programme to the person or organisation that organised it."
   },
-  "original_name_of": {
-    "arguments": [
-      "FormerOrganisation",
-      "LaterOrganisation"
-    ],
-    "description": "Relates an organisation's original name or form to the organisation it later became."
-  },
-  "participated_in": {
-    "arguments": [
-      "Person",
-      "Programme"
-    ],
-    "description": "Relates a person to a scheme, programme or event they took part in."
-  },
   "partner_of": {
     "arguments": [
       "Person",
@@ -634,13 +475,6 @@
     ],
     "description": "Relates a person to a work in which they performed or appeared."
   },
-  "performed_work": {
-    "arguments": [
-      "Performer",
-      "Work"
-    ],
-    "description": "Relates an artist to a performance work they performed."
-  },
   "person": {
     "arguments": [
       "Person"
@@ -658,14 +492,7 @@
     "arguments": [
       "Place"
     ],
-    "description": "Marks an entity as a geographic place."
-  },
-  "president_of": {
-    "arguments": [
-      "Person",
-      "Organisation"
-    ],
-    "description": "Relates a person to an organisation of which they were president."
+    "description": "Marks an entity as a geographic place, such as a city, area or country."
   },
   "produced_by": {
     "arguments": [
@@ -702,13 +529,6 @@
     ],
     "description": "Relates a person to the artist in whose work they appeared as a protagonist."
   },
-  "provided_soundtrack": {
-    "arguments": [
-      "Work",
-      "Composer"
-    ],
-    "description": "Relates a work to the person who provided its soundtrack."
-  },
   "published_by": {
     "arguments": [
       "Publication",
@@ -737,26 +557,12 @@
     ],
     "description": "Relates a person to something, given as text, that they ran or managed."
   },
-  "received_funding_from": {
-    "arguments": [
-      "Recipient",
-      "Funder"
-    ],
-    "description": "Relates a person to an organisation from which they received funding."
-  },
   "renamed_as": {
     "arguments": [
       "FormerOrganisation",
       "LaterOrganisation"
     ],
     "description": "Relates an organisation to the name or organisation it was later renamed as."
-  },
-  "rented_by": {
-    "arguments": [
-      "Premises",
-      "Organisation"
-    ],
-    "description": "Relates premises to an organisation involved in renting them; whether it was landlord or tenant is not distinguished."
   },
   "residency_at": {
     "arguments": [
@@ -767,45 +573,17 @@
   },
   "reviewed_by": {
     "arguments": [
-      "Artist",
+      "WorkOrArtist",
       "Critic"
     ],
-    "description": "Relates an artist to a critic or writer who reviewed or wrote about their work."
+    "description": "Relates a work, or an artist, to a critic or writer who reviewed or wrote about it."
   },
   "reviewed_in": {
     "arguments": [
       "WorkOrArtist",
       "Publication"
     ],
-    "description": "Relates a work, or an artist, to a publication in which it was reviewed."
-  },
-  "selected_for": {
-    "arguments": [
-      "Artist",
-      "Exhibition"
-    ],
-    "description": "Relates an artist to an exhibition they were selected for."
-  },
-  "set_up_at": {
-    "arguments": [
-      "Work",
-      "Venue"
-    ],
-    "description": "Relates an installation work to the venue where it was set up."
-  },
-  "shot_in": {
-    "arguments": [
-      "Work",
-      "Location"
-    ],
-    "description": "Relates a work to a place where it was shot."
-  },
-  "showed_at": {
-    "arguments": [
-      "Work",
-      "Venue"
-    ],
-    "description": "Relates a work to a venue where it was shown."
+    "description": "Relates a work, or an artist, to a publication in which it was reviewed or discussed."
   },
   "sold_at": {
     "arguments": [
@@ -826,7 +604,7 @@
       "Work",
       "Composer"
     ],
-    "description": "Relates a work to a person or group who made a soundtrack for it."
+    "description": "Relates a work to a person or group who made its music or soundtrack."
   },
   "source_url": {
     "arguments": [
@@ -834,20 +612,6 @@
       "Url"
     ],
     "description": "Relates a source interview transcript to the URL of the published document it was extracted from."
-  },
-  "started_by": {
-    "arguments": [
-      "Organisation",
-      "Year"
-    ],
-    "description": "Records the year in which an organisation was started; despite the name, the second argument is a year, not a founder."
-  },
-  "studied_at": {
-    "arguments": [
-      "Person",
-      "Institution"
-    ],
-    "description": "Relates a person to an institution where they studied."
   },
   "supported_by": {
     "arguments": [
@@ -870,13 +634,6 @@
     ],
     "description": "Relates a student to a person who taught them."
   },
-  "teaching_at": {
-    "arguments": [
-      "Person",
-      "Institution"
-    ],
-    "description": "Relates a person to an institution where they taught."
-  },
   "travelled_to": {
     "arguments": [
       "Artist",
@@ -884,96 +641,26 @@
     ],
     "description": "Relates an artist or group to a place, given as text, that they travelled to."
   },
-  "used_by": {
-    "arguments": [
-      "Premises",
-      "Organisation"
-    ],
-    "description": "Relates premises to an organisation that used them."
-  },
-  "used_editing_equipment_at": {
-    "arguments": [
-      "Artist",
-      "Provider"
-    ],
-    "description": "Relates an artist to a company or person whose editing equipment they used."
-  },
   "used_equipment": {
     "arguments": [
       "WorkOrArtist",
       "Equipment"
     ],
-    "description": "Relates a work, or an artist, to equipment, given as text, used in making it."
+    "description": "Relates a work, or a person, to equipment, technology or software used in making it."
   },
-  "used_facilities": {
-    "arguments": [
-      "Work",
-      "Institution"
-    ],
-    "description": "Relates a work to an institution whose facilities were used to make it."
-  },
-  "used_in": {
-    "arguments": [
-      "Work",
-      "Technique"
-    ],
-    "description": "Relates a work to a technique or quality, given as text, used in it; despite the name, the work is the first argument."
-  },
-  "used_in_work": {
-    "arguments": [
-      "Work",
-      "Element"
-    ],
-    "description": "Relates a work to an object or location used in it; despite the name, the work is the first argument."
-  },
-  "used_institutional_resource": {
+  "used_facilities_of": {
     "arguments": [
       "Person",
       "Institution"
     ],
-    "description": "Relates a person to an institution whose equipment or resources they used."
+    "description": "Relates a person to an institution, lab or company whose facilities or equipment they used."
   },
-  "used_lab": {
-    "arguments": [
-      "Person",
-      "Lab"
-    ],
-    "description": "Relates a person to a film laboratory they used."
-  },
-  "used_material": {
-    "arguments": [
-      "Work",
-      "Material"
-    ],
-    "description": "Relates a work to a physical material, given as text, that it is made from."
-  },
-  "used_medium": {
-    "arguments": [
-      "Work",
-      "Medium"
-    ],
-    "description": "Relates a work to a medium or format, given as text, used in it."
-  },
-  "used_software": {
-    "arguments": [
-      "Person",
-      "Software"
-    ],
-    "description": "Relates a person to software they used."
-  },
-  "used_technology": {
-    "arguments": [
-      "Person",
-      "Technology"
-    ],
-    "description": "Relates a person to a technology or device, given as text, that they used."
-  },
-  "used_venue": {
+  "used_premises": {
     "arguments": [
       "Organisation",
-      "Venue"
+      "Premises"
     ],
-    "description": "Relates an organisation to a venue it used, for example for meetings."
+    "description": "Relates an organisation to premises or a venue it used or rented, for example for meetings."
   },
   "uses_actors": {
     "arguments": [
@@ -994,51 +681,17 @@
     ],
     "description": "Marks a work made with non-professional performers rather than actors."
   },
-  "uses_venue": {
-    "arguments": [
-      "Work",
-      "Venue"
-    ],
-    "description": "Relates a work to a venue or place it was commissioned for or shown at."
-  },
   "venue": {
     "arguments": [
       "Venue"
     ],
     "description": "Marks an entity as a venue or location where work was made, shown or performed, such as a gallery, college, studio or site."
   },
-  "venue_in_area": {
-    "arguments": [
-      "Area",
-      "Venue"
-    ],
-    "description": "Relates an area to a venue located in it; despite the name, the area is the first argument."
-  },
   "work": {
     "arguments": [
       "Work"
     ],
     "description": "Marks an entity as a creative work, such as a video, film, installation, performance, broadcast or publication."
-  },
-  "work_discussed_in": {
-    "arguments": [
-      "Artist",
-      "Publication"
-    ],
-    "description": "Relates an artist to a publication, or an organisation's publications, in which their work was discussed."
-  },
-  "work_shown_in": {
-    "arguments": [
-      "Artist",
-      "Institution"
-    ]
-  },
-  "worked_as": {
-    "arguments": [
-      "Person",
-      "Job"
-    ],
-    "description": "Relates a person to a job, given as text, that they worked as."
   },
   "worked_as_assistant_in_city": {
     "arguments": [
@@ -1047,38 +700,25 @@
     ],
     "description": "Relates a person to a city, given as text, where they worked as an assistant."
   },
-  "worked_at": {
-    "arguments": [
-      "Person",
-      "Organisation"
-    ],
-    "description": "Relates a person to an organisation or institution where they worked."
-  },
   "worked_with_sound": {
     "arguments": [
       "Artist"
     ],
     "description": "Marks an artist who has worked with sound."
   },
-  "wrote_about": {
-    "arguments": [
-      "Writer",
-      "Work"
-    ],
-    "description": "Relates a writer to a work they wrote about."
-  },
   "wrote_for": {
     "arguments": [
       "Writer",
       "Publication"
     ],
-    "description": "Relates a writer to a publication they wrote for."
+    "description": "Relates a writer to a publication, such as a periodical or catalogue, they wrote for."
   },
-  "year": {
+  "year_began": {
     "arguments": [
+      "Thing",
       "Year"
     ],
-    "description": "Marks a year mentioned in an interview, without recording what happened in it."
+    "description": "Records the year in which an organisation, project or work began."
   },
   "year_broadcast": {
     "arguments": [
@@ -1092,7 +732,7 @@
       "Work",
       "Year"
     ],
-    "description": "Records the year in which a work was created; also used for the year an exhibition, event or organisation began."
+    "description": "Records the year in which a work was created. For the year an organisation, exhibition or event began, see year_began."
   },
   "year_exhibited": {
     "arguments": [
@@ -1129,20 +769,6 @@
       "Year"
     ],
     "description": "Records the year in which a person moved to a new place."
-  },
-  "year_started": {
-    "arguments": [
-      "Work",
-      "Year"
-    ],
-    "description": "Records the year in which work on a piece started."
-  },
-  "year_started_using_technology": {
-    "arguments": [
-      "Person",
-      "Technology"
-    ],
-    "description": "Relates a person to a technology, given as text, that they started using; despite the name, no year is recorded."
   },
   "year_started_work": {
     "arguments": [

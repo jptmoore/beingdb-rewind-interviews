@@ -4,6 +4,8 @@
 % The %! declaration below is maintained in config/predicate-declarations.json.
 
 %! involved_in(Person, Activity)
-% Relates a person to an exhibition, organisation or activity they were involved in.
+% Relates a person to an organisation, project, programme, exhibition or activity they took part in.
 involved_in(anna_ridley, video_show_at_the_serpentine_gallery_1975).
 involved_in(elsa_stansfield, arts_lab).
+involved_in(kevin_atherton, video_artists_on_tour).
+involved_in(mike_stubbs, miners_campaign_tapes).

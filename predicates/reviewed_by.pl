@@ -3,8 +3,10 @@
 % Do not hand-edit generated lines below - regenerate and review the diff instead.
 % The %! declaration below is maintained in config/predicate-declarations.json.
 
-%! reviewed_by(Artist, Critic)
-% Relates an artist to a critic or writer who reviewed or wrote about their work.
+%! reviewed_by(WorkOrArtist, Critic)
+% Relates a work, or an artist, to a critic or writer who reviewed or wrote about it.
+reviewed_by(reservoir, sean_cubitt).
 reviewed_by(rose_garrard, john_roberts).
 reviewed_by(rose_garrard, sarah_kent).
 reviewed_by(rose_garrard, waldemar_januszczak).
+reviewed_by(scratch_video_volume_1, michael_o_pray).

@@ -14,6 +14,7 @@ exhibited_at(between_the_lines, whitechapel_gallery).
 exhibited_at(body_box_exhibition, v_a).
 exhibited_at(british_sculpture_out_of_the_sixties_1970, ica_the_mall).
 exhibited_at(celtic_in_mind, glasgow_1990).
+exhibited_at(clive_richardson, royal_college_of_art).
 exhibited_at(compass, luminous_image).
 exhibited_at(coronation_street_piece, british_art_show).
 exhibited_at(cradle_to_grave, british_museum).
@@ -54,13 +55,13 @@ exhibited_at(intercom_island, edinburgh_abbey).
 exhibited_at(intercom_island, edinburgh).
 exhibited_at(kevin_atherton, acme_gallery).
 exhibited_at(kevin_atherton, air_gallery).
+exhibited_at(kevin_atherton, british_art_show).
 exhibited_at(kevin_atherton, rosemary_gallery).
 exhibited_at(kevin_atherton, un_certain_art_anglais).
+exhibited_at(london_video_arts, acme).
 exhibited_at(london_video_arts, air_gallery).
 exhibited_at(london_video_arts, the_fridge).
 exhibited_at(luminous_image, stedelijk_museum_amsterdam).
-exhibited_at(lva_london_video_arts, acme).
-exhibited_at(lva_london_video_arts, air_gallery).
 exhibited_at(madelon_hooykaas, de_appel).
 exhibited_at(madelon_hooykaas, halifax).
 exhibited_at(madelon_hooykaas, milan).
@@ -71,6 +72,7 @@ exhibited_at(madelon_hooykaas, photographers_gallery_london).
 exhibited_at(madelon_hooykaas, photographers_gallery_milan).
 exhibited_at(madelon_hooykaas, trip_to_japan_1983).
 exhibited_at(madelon_hooykaas, trip_to_sydney_biennale).
+exhibited_at(madelon_hooykaas, whitechapel_gallery).
 exhibited_at(malvern_well_dressing_festival, malvern).
 exhibited_at(mike_stubbs, torriano_meeting_place).
 exhibited_at(mirror, estonia).
@@ -87,6 +89,7 @@ exhibited_at(progressive_recession, serpentine_gallery).
 exhibited_at(progressive_recession, serpentine_show_1975).
 exhibited_at(public_face_private_eye, channel_4).
 exhibited_at(reservoir, portugal).
+exhibited_at(reservoir, southampton).
 exhibited_at(reservoir, tate_liverpool).
 exhibited_at(rose_garrard, calgary_art_gallery).
 exhibited_at(rose_garrard, manchester_cornerhouse).
@@ -122,6 +125,5 @@ exhibited_at(videokalos, second_house_bbc).
 exhibited_at(wavelength, arts_lab).
 exhibited_at(what_the_eye_doesn_t_see_post_industrial_studies_number_1, river_crossings_with_camerawork).
 exhibited_at(whats_it_to_you, third_eye_centre).
-exhibited_at(whitechapel_gallery, madelon_hooykaas).
 exhibited_at(window_water_baby_moving, experimental_film_show_1966).
 exhibited_at(yet_another_triangle, serpentine_gallery).

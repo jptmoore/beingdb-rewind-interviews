@@ -392,7 +392,7 @@
     "page": 7
   },
   {
-    "fact": "year_created(not_just_another_art_show, @1981).",
+    "fact": "year_began(not_just_another_art_show, @1981).",
     "source": "mike_stubbs",
     "evidence": "In 1981 we did a show called ‘Not  Just  Another  Art Show’.",
     "confidence": "explicit",
@@ -413,7 +413,7 @@
     "page": 6
   },
   {
-    "fact": "active_in(mike_stubbs, miners_campaign_tapes).",
+    "fact": "involved_in(mike_stubbs, miners_campaign_tapes).",
     "source": "mike_stubbs",
     "evidence": "Certainly, I was active and I encouraged it and I shot some and edited some and went to the miners’ meetings and documented.",
     "confidence": "explicit",
@@ -539,7 +539,7 @@
     "page": 9
   },
   {
-    "fact": "used_venue(hull_time_based_arts, ye_olde_black_boy).",
+    "fact": "used_premises(hull_time_based_arts, ye_olde_black_boy).",
     "source": "mike_stubbs",
     "evidence": "was meeting in the pub once a month – Ye Olde Black Boy on the High Street",
     "confidence": "supported",

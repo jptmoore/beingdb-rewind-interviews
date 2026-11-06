@@ -77,7 +77,7 @@
     "page": 1
   },
   {
-    "fact": "used_equipment(george_barber, \"new editing equipment\").",
+    "fact": "used_equipment(george_barber, new_editing_equipment).",
     "source": "george_barber",
     "evidence": "this bloke called Peter Anderson had got some new editing equipment and in a very boyish way I liked the look of it. I wanted to know how it worked.",
     "confidence": "explicit",
@@ -287,7 +287,7 @@
     "page": 5
   },
   {
-    "fact": "broadcast_on(upside_down_minutiae, channel_4).",
+    "fact": "broadcast_by(upside_down_minutiae, channel_4).",
     "source": "george_barber",
     "evidence": "I was on one for 4 minutes with Upside Down Minutiae.",
     "confidence": "explicit",
@@ -350,14 +350,14 @@
     "page": 7
   },
   {
-    "fact": "used_editing_equipment_at(george_barber, flextech).",
+    "fact": "used_facilities_of(george_barber, flextech).",
     "source": "george_barber",
     "evidence": "I  used to go into the basement of what’s now Flextech.  There was a guy there.  I could give him a few bob and we used to have all the best stuff available. I  made Passing Ship  there and those things so I  was never keen on having equipment",
     "confidence": "explicit",
     "page": 7
   },
   {
-    "fact": "used_editing_equipment_at(george_barber, terry_flaxton).",
+    "fact": "used_facilities_of(george_barber, terry_flaxton).",
     "source": "george_barber",
     "evidence": "there was a company that Terry Flaxton had.  He was very nice. I had to pay though.  He never gave me anything free.  For £100 I used to have three machines for a whole day",
     "confidence": "explicit",
@@ -721,7 +721,7 @@
     "page": 9
   },
   {
-    "fact": "wrote_about(michael_o_pray, scratch_video_volume_1).",
+    "fact": "reviewed_by(scratch_video_volume_1, michael_o_pray).",
     "source": "george_barber",
     "evidence": "He took me under his wing when I first started making Scratch, and wrote about it in Art Monthly.",
     "confidence": "supported",
@@ -973,7 +973,7 @@
     "page": 17
   },
   {
-    "fact": "received_funding_from(george_barber, arts_council_of_great_britain).",
+    "fact": "funded_by(george_barber, arts_council_of_great_britain).",
     "source": "george_barber",
     "evidence": "we couldn’t because of Arts Council funding and the threat of\nbeing sued.",
     "confidence": "explicit",

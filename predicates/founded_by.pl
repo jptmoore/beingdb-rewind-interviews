@@ -4,8 +4,10 @@
 % The %! declaration below is maintained in config/predicate-declarations.json.
 
 %! founded_by(Organisation, Founder)
-% Relates an organisation to a person who founded or co-founded it.
+% Relates an organisation, course or other initiative to a person who founded, co-founded or established it.
 founded_by(association_of_video_artists_in_the_netherlands, elsa_stansfield).
 founded_by(association_of_video_artists_in_the_netherlands, madelon_hooykaas).
 founded_by(london_video_arts, david_hall).
+founded_by(ma_virtual_realities, kevin_atherton).
 founded_by(malvern_spa_association, rose_garrard).
+founded_by(virtual_realities_as_fine_art_medium, kevin_atherton).

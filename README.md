@@ -17,7 +17,7 @@ with nothing to install.
 ## What's here
 
 ```
-predicates/          the facts: one file per predicate (168 files)
+predicates/          the facts: one file per predicate (114 files)
 config/predicate-declarations.json   argument roles and descriptions for each predicate
 metadata/evidence/   the interview quote behind each fact, per artist
 site/beingdb.json    the browser site's title, description and example queries
@@ -72,13 +72,41 @@ Edit the files in `predicates/` directly:
 - Use the same atom for the same thing everywhere, so facts join up across
   predicates: `created_by(tape_tape, kevin_atherton)` and
   `year_created(tape_tape, @1975)` together say when Kevin Atherton made
-  *Tape*.
-- A new predicate is a new file, `predicates/<name>.pl`.
+  *Tape*. Use the full name (`slade_school_of_fine_art`, not `slade`), so
+  short forms and first names don't become separate entities.
+- Before adding a predicate, look for an existing one that records the same
+  relation (`educated_at`, not a new `studied_at`), and keep its argument
+  order. A new predicate is a new file, `predicates/<name>.pl`, with a
+  declaration in `config/predicate-declarations.json`.
+- Keep one kind of value per argument: if a position holds atoms, don't add
+  text there (a query matches only one kind).
 - Lines starting with `%` are comments.
+
+`npm run lint` checks these conventions: it fails on a predicate a
+consolidation plan merged away, a predicate without roles or a description,
+or an argument mixing atoms and text, and lists single-fact predicates and
+atoms that may be duplicates for review.
 
 To change a predicate's argument roles or description, edit it in
 `config/predicate-declarations.json`, then run `npm install` (once) and
 `npm run declarations` to update the `%!` lines in `predicates/`.
+
+To merge predicates that record the same relation, list them in a plan file
+like [`metadata/consolidation-plans/01-synonyms.json`](metadata/consolidation-plans/01-synonyms.json)
+and run `npm run consolidate -- --plan <file>`. The members must have the same
+number of arguments; a member whose arguments are in a different order gets an
+`argumentOrder` (see [`02-general.json`](metadata/consolidation-plans/02-general.json)),
+and the merged predicate can be a new name. It merges the facts, updates the
+evidence in `metadata/` and logs each merge in `metadata/consolidation.json`.
+Then remove the merged-away predicates from
+`config/predicate-declarations.json`, declare any new one, and run
+`npm run declarations`.
+
+To merge two atoms for the same thing, run
+`npm run reconcile -- old_atom=new_atom`, and add the name to
+`config/entity-aliases.json` (or, for a name that means different things in
+different interviews, to that interview's `idOverrides` in
+`config/interviews.json`) so future extractions use the same atom.
 
 ## Build a new output
 
@@ -90,6 +118,7 @@ cloned next to this repository:
 ```bash
 git clone https://github.com/jptmoore/beingdb-wasm.git ../beingdb-wasm   # once
 
+npm run lint
 npm run build-site
 git add predicates docs
 git commit -m "Update facts"
