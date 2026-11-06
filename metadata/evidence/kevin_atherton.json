@@ -154,7 +154,7 @@
     "page": 4
   },
   {
-    "fact": "began_in(in_two_minds, @1970).",
+    "fact": "year_began(in_two_minds, @1970).",
     "source": "kevin_atherton",
     "evidence": "I think about the In Two Minds performance, which I began in the 70s,",
     "confidence": "supported",
@@ -567,21 +567,21 @@
     "page": null
   },
   {
-    "fact": "head_of_department(kevin_atherton, fine_art_media_department).",
+    "fact": "led(kevin_atherton, fine_art_media_department).",
     "source": "kevin_atherton",
     "evidence": "When I came to Dublin, I was the first head of the Fine Art Media Department",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "established(kevin_atherton, virtual_realities_as_fine_art_medium).",
+    "fact": "founded_by(virtual_realities_as_fine_art_medium, kevin_atherton).",
     "source": "kevin_atherton",
     "evidence": "I established a research team when I taught at Chelsea, called Virtual Realities as Fine Art Medium.",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "established(kevin_atherton, ma_virtual_realities).",
+    "fact": "founded_by(ma_virtual_realities, kevin_atherton).",
     "source": "kevin_atherton",
     "evidence": "I was the first head of the Fine Art Media Department and established an MA course called MA Virtual Realities.",
     "confidence": "explicit",
@@ -931,14 +931,14 @@
     "page": 15
   },
   {
-    "fact": "worked_as(kevin_atherton, \"attendant\").",
+    "fact": "job_title(kevin_atherton, \"attendant\").",
     "source": "kevin_atherton",
     "evidence": "I worked as an attendant.",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "worked_as(kevin_atherton, \"technician invigilator\").",
+    "fact": "job_title(kevin_atherton, \"technician invigilator\").",
     "source": "kevin_atherton",
     "evidence": "It was a job as a kind of technician invigilator. So for about five years, shortly after I got married in 1977, that’s what I did.",
     "confidence": "explicit",
@@ -1036,7 +1036,7 @@
     "page": null
   },
   {
-    "fact": "held_position(kevin_atherton, \"Head of Department\").",
+    "fact": "job_title(kevin_atherton, \"Head of Department\").",
     "source": "kevin_atherton",
     "evidence": "now I’m a Head of Department here at the National College of Art and Design in Dublin.",
     "confidence": "explicit",
@@ -1050,14 +1050,14 @@
     "page": null
   },
   {
-    "fact": "director_of(nick_serota, museum_of_modern_art_oxford).",
+    "fact": "led(nick_serota, museum_of_modern_art_oxford).",
     "source": "kevin_atherton",
     "evidence": "Nick Serota was the director there",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "director_of(nick_serota, whitechapel_gallery).",
+    "fact": "led(nick_serota, whitechapel_gallery).",
     "source": "kevin_atherton",
     "evidence": "then he moved to the Whitechapel",
     "confidence": "explicit",
@@ -1190,28 +1190,28 @@
     "page": null
   },
   {
-    "fact": "venue_in_area(covent_garden, acme_gallery).",
+    "fact": "located_in(acme_gallery, covent_garden).",
     "source": "kevin_atherton",
     "evidence": "in and around Covent Garden, Earlham Street, ACME Gallery...",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "venue_in_area(covent_garden, air_gallery).",
+    "fact": "located_in(air_gallery, covent_garden).",
     "source": "kevin_atherton",
     "evidence": "in and around Covent Garden, Earlham Street, ACME Gallery, AIR Gallery on Shaftsbury Avenue",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "venue_in_area(covent_garden, pmj_self).",
+    "fact": "located_in(pmj_self, covent_garden).",
     "source": "kevin_atherton",
     "evidence": "there were loads of little galleries, and not so little galleries, Robert Self at PMJ Self, Tony Stokes at Garage Gallery, ACME",
     "confidence": "supported",
     "page": null
   },
   {
-    "fact": "venue_in_area(covent_garden, garage_gallery).",
+    "fact": "located_in(garage_gallery, covent_garden).",
     "source": "kevin_atherton",
     "evidence": "there were loads of little galleries, and not so little galleries, Robert Self at PMJ Self, Tony Stokes at Garage Gallery, ACME",
     "confidence": "supported",

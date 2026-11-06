@@ -525,13 +525,6 @@
     "page": 12
   },
   {
-    "fact": "year(@1988).",
-    "source": "rose_garrard",
-    "evidence": "It was 1988 when I had my motorbike accident, February 1988.",
-    "confidence": "explicit",
-    "page": 12
-  },
-  {
     "fact": "exhibited_at(rose_garrard, manchester_cornerhouse).",
     "source": "rose_garrard",
     "evidence": "I did 4 listening pieces at Manchester Cornerhouse, South London Gallery, Calgary Art Gallery and Vancouver Art Gallery.",
@@ -707,14 +700,14 @@
     "page": 15
   },
   {
-    "fact": "used_material(spout_sculpture, \"bronze\").",
+    "fact": "uses_medium(spout_sculpture, bronze).",
     "source": "rose_garrard",
     "evidence": "I made the Spout, which is bronze and stone.",
     "confidence": "explicit",
     "page": 16
   },
   {
-    "fact": "used_material(spout_sculpture, \"stone\").",
+    "fact": "uses_medium(spout_sculpture, stone).",
     "source": "rose_garrard",
     "evidence": "I made the Spout, which is bronze and stone.",
     "confidence": "explicit",
@@ -749,7 +742,7 @@
     "page": 16
   },
   {
-    "fact": "chairman_of(rose_garrard, malvern_spa_association).",
+    "fact": "led(rose_garrard, malvern_spa_association).",
     "source": "rose_garrard",
     "evidence": "By which time I’d become chairman.",
     "confidence": "explicit",
@@ -1176,7 +1169,7 @@
     "page": 27
   },
   {
-    "fact": "year_created(malvern_well_dressing_festival, @2003).",
+    "fact": "year_began(malvern_well_dressing_festival, @2003).",
     "source": "rose_garrard",
     "evidence": "It was the year after the Foot and Mouth Crisis, so 2003. It was supposed to happen in 2002, but because of Foot and Mouth, the site was closed down.",
     "confidence": "explicit",

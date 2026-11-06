@@ -4,7 +4,7 @@
 % The %! declaration below is maintained in config/predicate-declarations.json.
 
 %! year_created(Work, Year)
-% Records the year in which a work was created; also used for the year an exhibition, event or organisation began.
+% Records the year in which a work was created. For the year an organisation, exhibition or event began, see year_began.
 year_created(about_time, @1980).
 year_created(brewing, @1984).
 year_created(celtic_in_mind, @1989).
@@ -18,15 +18,11 @@ year_created(incidents_in_a_garden, @1976).
 year_created(incidents_in_a_garden, @1977).
 year_created(inside_outside, @1982).
 year_created(instruction_limitation, @1977).
-year_created(lva_london_video_arts, @1976).
-year_created(madelon_hooykaas, @1989).
 year_created(magnetic_north, @1982).
-year_created(malvern_well_dressing_festival, @2003).
 year_created(malvina_sculpture, @1998).
 year_created(motion_parallax, @1968).
 year_created(move_towards_the_verticality_of_the_horizon, @1975).
 year_created(move_towards_the_verticality_of_the_horizon, @1976).
-year_created(not_just_another_art_show, @1981).
 year_created(running_time, @1979).
 year_created(scratch_video_volume_1, @1985).
 year_created(special_video_art_issue_may_1976, @1976).
@@ -37,8 +33,6 @@ year_created(the_video_stairs, @1984).
 year_created(time_check, @1971).
 year_created(vertical_roll, @1973).
 year_created(vi_deo_volente, @1985).
-year_created(video_show_at_the_serpentine_gallery_1975, @1975).
 year_created(videokalos, @1975).
-year_created(visual_research_centre_in_dundee_contemporary_arts, @2004).
 year_created(whats_it_to_you, @1975).
 year_created(zero_reaches_zeno, @1975).

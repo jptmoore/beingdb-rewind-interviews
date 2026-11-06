@@ -399,7 +399,7 @@
     "page": null
   },
   {
-    "fact": "council_member_of(judith_goddard, london_video_arts).",
+    "fact": "member_of(judith_goddard, london_video_arts).",
     "source": "judith_goddard",
     "evidence": "I was also on the council of management.",
     "confidence": "explicit",
@@ -455,14 +455,14 @@
     "page": null
   },
   {
-    "fact": "used_software(judith_goddard, avid).",
+    "fact": "used_equipment(judith_goddard, avid).",
     "source": "judith_goddard",
     "evidence": "I was using Avid at the Slade and then Avid Express DV.",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "used_software(judith_goddard, avid_express_dv).",
+    "fact": "used_equipment(judith_goddard, avid_express_dv).",
     "source": "judith_goddard",
     "evidence": "I was using Avid at the Slade and then Avid Express DV.",
     "confidence": "explicit",
@@ -854,7 +854,7 @@
     "page": null
   },
   {
-    "fact": "depicts_location(silver_lining, thames).",
+    "fact": "depicts(silver_lining, thames).",
     "source": "judith_goddard",
     "evidence": "I had shot along the Thames, from pretty much where the Dome is now. It was a sunrise and it was a still shot.",
     "confidence": "explicit",
@@ -1008,7 +1008,7 @@
     "page": null
   },
   {
-    "fact": "wrote_about(sean_cubitt, reservoir).",
+    "fact": "reviewed_by(reservoir, sean_cubitt).",
     "source": "judith_goddard",
     "evidence": "JG: Sean Cubitt also wrote a very good piece for me once... MW: Was that about a specific piece? JG: It was about Reservoir.",
     "confidence": "explicit",

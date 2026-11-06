@@ -58,11 +58,10 @@ exhibited_at(kevin_atherton, air_gallery).
 exhibited_at(kevin_atherton, british_art_show).
 exhibited_at(kevin_atherton, rosemary_gallery).
 exhibited_at(kevin_atherton, un_certain_art_anglais).
+exhibited_at(london_video_arts, acme).
 exhibited_at(london_video_arts, air_gallery).
 exhibited_at(london_video_arts, the_fridge).
 exhibited_at(luminous_image, stedelijk_museum_amsterdam).
-exhibited_at(lva_london_video_arts, acme).
-exhibited_at(lva_london_video_arts, air_gallery).
 exhibited_at(madelon_hooykaas, de_appel).
 exhibited_at(madelon_hooykaas, halifax).
 exhibited_at(madelon_hooykaas, milan).
@@ -73,6 +72,7 @@ exhibited_at(madelon_hooykaas, photographers_gallery_london).
 exhibited_at(madelon_hooykaas, photographers_gallery_milan).
 exhibited_at(madelon_hooykaas, trip_to_japan_1983).
 exhibited_at(madelon_hooykaas, trip_to_sydney_biennale).
+exhibited_at(madelon_hooykaas, whitechapel_gallery).
 exhibited_at(malvern_well_dressing_festival, malvern).
 exhibited_at(mike_stubbs, torriano_meeting_place).
 exhibited_at(mirror, estonia).
@@ -125,6 +125,5 @@ exhibited_at(videokalos, second_house_bbc).
 exhibited_at(wavelength, arts_lab).
 exhibited_at(what_the_eye_doesn_t_see_post_industrial_studies_number_1, river_crossings_with_camerawork).
 exhibited_at(whats_it_to_you, third_eye_centre).
-exhibited_at(whitechapel_gallery, madelon_hooykaas).
 exhibited_at(window_water_baby_moving, experimental_film_show_1966).
 exhibited_at(yet_another_triangle, serpentine_gallery).

@@ -281,6 +281,215 @@
         }
       ],
       "skipped": []
+    },
+    {
+      "timestamp": "2026-11-06T16:21:52.782Z",
+      "model": "plan:metadata/consolidation-plans/02-general.json",
+      "pipelineVersion": "1",
+      "applied": [
+        {
+          "canonical": "exhibited_at",
+          "mergedFrom": [
+            "gave_exhibition_to",
+            "first_exhibition_of"
+          ],
+          "factsBefore": {
+            "exhibited_at": 123,
+            "gave_exhibition_to": 1,
+            "first_exhibition_of": 1
+          },
+          "factsAfter": 123,
+          "rationale": "A venue giving an artist an exhibition, or an artist having a space's first exhibition, is the artist exhibiting there; arguments swapped to (Artist, Venue)."
+        },
+        {
+          "canonical": "reviewed_by",
+          "mergedFrom": [
+            "wrote_about"
+          ],
+          "factsBefore": {
+            "reviewed_by": 3,
+            "wrote_about": 2
+          },
+          "factsAfter": 5,
+          "rationale": "A writer writing about a work is the work being reviewed by that writer; arguments swapped to (Work, Writer)."
+        },
+        {
+          "canonical": "founded_by",
+          "mergedFrom": [
+            "established"
+          ],
+          "factsBefore": {
+            "founded_by": 4,
+            "established": 2
+          },
+          "factsAfter": 6,
+          "rationale": "A person establishing an initiative is the initiative being founded by them; arguments swapped to (Initiative, Person)."
+        },
+        {
+          "canonical": "located_in",
+          "mergedFrom": [
+            "venue_in_area",
+            "based_in"
+          ],
+          "factsBefore": {
+            "venue_in_area": 4,
+            "based_in": 1
+          },
+          "factsAfter": 5,
+          "rationale": "Both say where a venue or organisation is; venue_in_area's arguments swapped to (Venue, Area). The place becomes an atom."
+        },
+        {
+          "canonical": "member_of",
+          "mergedFrom": [
+            "council_member_of",
+            "founding_member_of"
+          ],
+          "factsBefore": {
+            "member_of": 2,
+            "council_member_of": 1,
+            "founding_member_of": 2
+          },
+          "factsAfter": 5,
+          "rationale": "Serving on an organisation's council or being a founding member are both membership."
+        },
+        {
+          "canonical": "led",
+          "mergedFrom": [
+            "director_of",
+            "head_of_department",
+            "chairman_of",
+            "president_of"
+          ],
+          "factsBefore": {
+            "director_of": 2,
+            "head_of_department": 1,
+            "chairman_of": 1,
+            "president_of": 2
+          },
+          "factsAfter": 6,
+          "rationale": "All relate a person to an organisation or department they led (as director, head, chair or president)."
+        },
+        {
+          "canonical": "job_title",
+          "mergedFrom": [
+            "worked_as",
+            "held_position"
+          ],
+          "factsBefore": {
+            "worked_as": 2,
+            "held_position": 1
+          },
+          "factsAfter": 3,
+          "rationale": "Both relate a person to a job title, given as text."
+        },
+        {
+          "canonical": "depicts",
+          "mergedFrom": [
+            "depicts_location",
+            "used_in_work"
+          ],
+          "factsBefore": {
+            "depicts_location": 1,
+            "used_in_work": 2
+          },
+          "factsAfter": 3,
+          "rationale": "Both relate a work to a place or object shown in it (used_in_work already takes the work first despite its name)."
+        },
+        {
+          "canonical": "year_began",
+          "mergedFrom": [
+            "started_by",
+            "year_started",
+            "began_in"
+          ],
+          "factsBefore": {
+            "started_by": 1,
+            "year_started": 1,
+            "began_in": 1
+          },
+          "factsAfter": 3,
+          "rationale": "All record the year an organisation, work or project began (started_by's second argument is a year, not a founder)."
+        },
+        {
+          "canonical": "used_premises",
+          "mergedFrom": [
+            "used_venue",
+            "used_by",
+            "rented_by"
+          ],
+          "factsBefore": {
+            "used_venue": 1,
+            "used_by": 1,
+            "rented_by": 1
+          },
+          "factsAfter": 3,
+          "rationale": "All relate an organisation to premises it used or rented; arguments swapped to (Organisation, Premises)."
+        },
+        {
+          "canonical": "used_facilities_of",
+          "mergedFrom": [
+            "used_institutional_resource",
+            "used_lab",
+            "used_editing_equipment_at"
+          ],
+          "factsBefore": {
+            "used_institutional_resource": 1,
+            "used_lab": 1,
+            "used_editing_equipment_at": 2
+          },
+          "factsAfter": 4,
+          "rationale": "All relate a person to an institution, lab or company whose facilities or equipment they used."
+        },
+        {
+          "canonical": "place",
+          "mergedFrom": [
+            "city",
+            "country"
+          ],
+          "factsBefore": {
+            "place": 1,
+            "city": 3,
+            "country": 1
+          },
+          "factsAfter": 5,
+          "rationale": "City and country are kinds of place; one class keeps place atoms in one predicate."
+        },
+        {
+          "canonical": "uses_medium",
+          "mergedFrom": [
+            "used_medium",
+            "used_in",
+            "first_used_technique",
+            "used_material"
+          ],
+          "factsBefore": {
+            "uses_medium": 59,
+            "used_medium": 3,
+            "used_in": 2,
+            "first_used_technique": 1,
+            "used_material": 2
+          },
+          "factsAfter": 67,
+          "rationale": "All relate a work to a medium, format, technique or material it uses; the text values become atoms like the rest of uses_medium."
+        },
+        {
+          "canonical": "used_equipment",
+          "mergedFrom": [
+            "used_technology",
+            "used_software",
+            "year_started_using_technology"
+          ],
+          "factsBefore": {
+            "used_equipment": 5,
+            "used_technology": 4,
+            "used_software": 2,
+            "year_started_using_technology": 2
+          },
+          "factsAfter": 12,
+          "rationale": "All relate a work or person to equipment, technology or software used (year_started_using_technology records no year); values become atoms."
+        }
+      ],
+      "skipped": []
     }
   ]
 }

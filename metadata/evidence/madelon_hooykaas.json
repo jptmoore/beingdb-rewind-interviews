@@ -385,7 +385,7 @@
     "page": null
   },
   {
-    "fact": "exhibited_at(whitechapel_gallery, madelon_hooykaas).",
+    "fact": "exhibited_at(madelon_hooykaas, whitechapel_gallery).",
     "source": "madelon_hooykaas",
     "evidence": "we made a five-tape installation work for the Whitechapel Art Gallery.",
     "confidence": "supported",
@@ -994,7 +994,7 @@
     "page": null
   },
   {
-    "fact": "used_in(flying_time, \"colour\").",
+    "fact": "uses_medium(flying_time, colour).",
     "source": "madelon_hooykaas",
     "evidence": "We used colour particularly in Flying Time.",
     "confidence": "explicit",
@@ -1015,7 +1015,7 @@
     "page": null
   },
   {
-    "fact": "used_in(day_for_night, \"non-linear DVD works using the shuffle method\").",
+    "fact": "uses_medium(day_for_night, non_linear_dvd_works_using_the_shuffle_method).",
     "source": "madelon_hooykaas",
     "evidence": "We made non-linear DVD works using the shuffle method on the DVD. The work was actually shown here at the Visual Research Centre in Dundee Contemporary Arts in 2004. It was the last show that Elsa and I had together.",
     "confidence": "explicit",
@@ -1239,21 +1239,21 @@
     "page": null
   },
   {
-    "fact": "founding_member_of(madelon_hooykaas, association_of_video_artists_in_the_netherlands).",
+    "fact": "member_of(madelon_hooykaas, association_of_video_artists_in_the_netherlands).",
     "source": "madelon_hooykaas",
     "evidence": "In 1982, in fact, Elsa and I were some of the founding members of the Association of Video Artists in the Netherlands.",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "founding_member_of(elsa_stansfield, association_of_video_artists_in_the_netherlands).",
+    "fact": "member_of(elsa_stansfield, association_of_video_artists_in_the_netherlands).",
     "source": "madelon_hooykaas",
     "evidence": "In 1982, in fact, Elsa and I were some of the founding members of the Association of Video Artists in the Netherlands.",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "president_of(madelon_hooykaas, association_of_video_artists_in_the_netherlands).",
+    "fact": "led(madelon_hooykaas, association_of_video_artists_in_the_netherlands).",
     "source": "madelon_hooykaas",
     "evidence": "I was president of that for 4 years when it started.",
     "confidence": "explicit",
@@ -1344,7 +1344,7 @@
     "page": null
   },
   {
-    "fact": "country(canada).",
+    "fact": "place(canada).",
     "source": "madelon_hooykaas",
     "evidence": "we were asked to show in Canada, in Halifax.",
     "confidence": "explicit",
@@ -1372,14 +1372,14 @@
     "page": null
   },
   {
-    "fact": "city(montreal).",
+    "fact": "place(montreal).",
     "source": "madelon_hooykaas",
     "evidence": "It is also a bit strange that we got our first retrospective of videotapes in Montreal.",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "city(maastricht).",
+    "fact": "place(maastricht).",
     "source": "madelon_hooykaas",
     "evidence": "She also invited John Latham for example. He would come to Maastricht and also show in Amsterdam at Time-based Art.",
     "confidence": "explicit",
@@ -1435,7 +1435,7 @@
     "page": null
   },
   {
-    "fact": "city(edinburgh).",
+    "fact": "place(edinburgh).",
     "source": "madelon_hooykaas",
     "evidence": "In 1989, we made a work here in Scotland, in Edinburgh called Intercom Island.",
     "confidence": "explicit",
@@ -1589,7 +1589,7 @@
     "page": null
   },
   {
-    "fact": "first_exhibition_of(the_video_stairs, hooykaas_stansfield).",
+    "fact": "exhibited_at(hooykaas_stansfield, the_video_stairs).",
     "source": "madelon_hooykaas",
     "evidence": "We had the first exhibition in the Stedelijk Museum when they started a video space. It was called “The Video Stairs”. We had the first exhibition.",
     "confidence": "explicit",
@@ -1610,14 +1610,14 @@
     "page": null
   },
   {
-    "fact": "used_medium(two_sides_of_a_story, \"live video\").",
+    "fact": "uses_medium(two_sides_of_a_story, live_video).",
     "source": "madelon_hooykaas",
     "evidence": "We made Two Sides of a Story using also live video and monitors in there.",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "used_medium(two_sides_of_a_story, \"monitors\").",
+    "fact": "uses_medium(two_sides_of_a_story, monitors).",
     "source": "madelon_hooykaas",
     "evidence": "We made Two Sides of a Story using also live video and monitors in there.",
     "confidence": "explicit",
@@ -2002,13 +2002,6 @@
     "page": 18
   },
   {
-    "fact": "year_created(madelon_hooykaas, @1989).",
-    "source": "madelon_hooykaas",
-    "evidence": "That was in 1989.",
-    "confidence": "explicit",
-    "page": 18
-  },
-  {
     "fact": "affiliated_with(elsa_stansfield, jan_van_eyck_academy).",
     "source": "madelon_hooykaas",
     "evidence": "When  Elsa  was  at  the  Jan  van  Eyck  Academy,  she  wasn’t  really  seen  as  a  teacher",
@@ -2156,7 +2149,7 @@
     "page": null
   },
   {
-    "fact": "president_of(madelon_hooykaas, time_based_arts_in_amsterdam).",
+    "fact": "led(madelon_hooykaas, time_based_arts_in_amsterdam).",
     "source": "madelon_hooykaas",
     "evidence": "While I was president of Time-Based Arts in Amsterdam...",
     "confidence": "explicit",
@@ -2184,7 +2177,7 @@
     "page": null
   },
   {
-    "fact": "used_in_work(field_free_space, faraday_cage).",
+    "fact": "depicts(field_free_space, faraday_cage).",
     "source": "madelon_hooykaas",
     "evidence": "That includes electro-magnetic radiation, which we use in the work, Field Free Space. By standing a Faraday cage placed in a landscape next to electric poles...",
     "confidence": "explicit",

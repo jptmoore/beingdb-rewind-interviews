@@ -693,14 +693,14 @@
     "page": null
   },
   {
-    "fact": "rented_by(little_newport_street_soho, the_other_cinema).",
+    "fact": "used_premises(the_other_cinema, little_newport_street_soho).",
     "source": "david_critchley",
     "evidence": "Tony Kirkhope from the Other Cinema rented a room in little Newport Street in Soho, to LVA. That was our first place.",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "used_by(little_newport_street_soho, london_video_arts).",
+    "fact": "used_premises(london_video_arts, little_newport_street_soho).",
     "source": "david_critchley",
     "evidence": "Tony Kirkhope from the Other Cinema rented a room in little Newport Street in Soho, to LVA. That was our first place.",
     "confidence": "explicit",

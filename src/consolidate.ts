@@ -153,9 +153,13 @@ export function loadPlan(filePath: string): ConsolidationProposal {
   const groups = (plan as { groups?: unknown })?.groups;
   if (!Array.isArray(groups)) throw new Error(`${filePath}: expected { "groups": [...] }`);
   groups.forEach((g, i) => {
-    const { canonical, members, rationale } = (g ?? {}) as Record<string, unknown>;
+    const { canonical, members, rationale, argumentOrder } = (g ?? {}) as Record<string, unknown>;
     if (typeof canonical !== "string" || typeof rationale !== "string" || !Array.isArray(members) || !members.every((m) => typeof m === "string")) {
       throw new Error(`${filePath}: group ${i + 1} needs a string canonical, a string array members and a string rationale`);
+    }
+    const orders = argumentOrder === undefined ? [] : typeof argumentOrder === "object" && argumentOrder !== null ? Object.values(argumentOrder) : [null];
+    if (!orders.every((o) => Array.isArray(o) && o.every((v) => Number.isInteger(v)))) {
+      throw new Error(`${filePath}: group ${i + 1} argumentOrder must map members to arrays of argument positions`);
     }
   });
   return plan as ConsolidationProposal;
@@ -172,7 +176,9 @@ export function validateGroup(
   const members = [...new Set(group.members)];
   if (members.length < 2) return { ok: false, reason: "fewer than 2 distinct members" };
   if (!isValidPredicateName(group.canonical)) return { ok: false, reason: `invalid canonical name "${group.canonical}"` };
-  if (!members.includes(group.canonical)) return { ok: false, reason: "canonical name is not one of the members" };
+  if (!members.includes(group.canonical) && catalogByName.has(group.canonical)) {
+    return { ok: false, reason: `canonical name "${group.canonical}" is an existing predicate that is not a member` };
+  }
 
   for (const member of members) {
     if (!catalogByName.has(member)) return { ok: false, reason: `unknown predicate "${member}"` };
@@ -181,6 +187,13 @@ export function validateGroup(
 
   const arities = new Set(members.map((m) => catalogByName.get(m)!.arity));
   if (arities.size > 1) return { ok: false, reason: `members have different arities (${[...arities].join(", ")})` };
+
+  const arity = [...arities][0]!;
+  for (const [member, order] of Object.entries(group.argumentOrder ?? {})) {
+    if (!members.includes(member)) return { ok: false, reason: `argumentOrder names "${member}", which is not a member` };
+    const isPermutation = order.length === arity && [...order].sort((a, b) => a - b).every((v, i) => v === i);
+    if (!isPermutation) return { ok: false, reason: `argumentOrder for "${member}" is not an ordering of its ${arity} arguments` };
+  }
 
   return { ok: true };
 }
@@ -201,9 +214,11 @@ export function applyGroup(predicatesDir: string, evidenceDir: string, group: Co
   for (const member of members) {
     const lines = readExistingPropositions(path.join(predicatesDir, `${member}.pl`));
     factsBefore[member] = lines.length;
+    const order = group.argumentOrder?.[member];
     for (const line of lines) {
       const parsed = parseProposition(line)!;
-      mergedLines.push(`${group.canonical}(${parsed.args.join(", ")}).`);
+      const args = order ? order.map((i) => parsed.args[i]!) : parsed.args;
+      mergedLines.push(`${group.canonical}(${args.join(", ")}).`);
     }
   }
 
@@ -213,14 +228,14 @@ export function applyGroup(predicatesDir: string, evidenceDir: string, group: Co
   const mergedFrom = members.filter((m) => m !== group.canonical);
   for (const member of mergedFrom) {
     fs.rmSync(path.join(predicatesDir, `${member}.pl`));
-    renamePredicateInEvidence(evidenceDir, member, group.canonical);
+    renamePredicateInEvidence(evidenceDir, member, group.canonical, group.argumentOrder?.[member]);
   }
 
   return { canonical: group.canonical, mergedFrom, factsBefore, factsAfter: unique.size };
 }
 
-/** Renames a predicate's prefix in every evidence sidecar's recorded "fact" strings, e.g. after merging it away. */
-function renamePredicateInEvidence(evidenceDir: string, oldPredicate: string, newPredicate: string): void {
+/** Renames a predicate (reordering its arguments if given) in every evidence sidecar's recorded "fact" strings, e.g. after merging it away. */
+function renamePredicateInEvidence(evidenceDir: string, oldPredicate: string, newPredicate: string, order?: number[]): void {
   if (!fs.existsSync(evidenceDir)) return;
   const prefix = `${oldPredicate}(`;
 
@@ -232,7 +247,9 @@ function renamePredicateInEvidence(evidenceDir: string, oldPredicate: string, ne
     const updated = entries.map((e) => {
       if (!e.fact.startsWith(prefix)) return e;
       changed = true;
-      return { ...e, fact: `${newPredicate}(${e.fact.slice(prefix.length)}` };
+      const parsed = order ? parseProposition(e.fact) : null;
+      const fact = parsed ? `${newPredicate}(${order!.map((i) => parsed.args[i]!).join(", ")}).` : `${newPredicate}(${e.fact.slice(prefix.length)}`;
+      return { ...e, fact };
     });
     if (changed) fs.writeFileSync(filePath, JSON.stringify(updated, null, 2) + "\n", "utf8");
   }

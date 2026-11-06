@@ -448,7 +448,7 @@
     "page": 8
   },
   {
-    "fact": "used_lab(david_hall, kays_laboratory_soho).",
+    "fact": "used_facilities_of(david_hall, kays_laboratory_soho).",
     "source": "david_hall",
     "evidence": "put the exposed film in a can down to I think Kay’s Laboratory in Soho",
     "confidence": "explicit",
@@ -784,35 +784,35 @@
     "page": 15
   },
   {
-    "fact": "funded_by(lva_london_video_arts, arts_council_of_great_britain).",
+    "fact": "funded_by(london_video_arts, arts_council_of_great_britain).",
     "source": "david_hall",
     "evidence": "With LVA, obviously there was quite a bit of funding from the Arts Council. They gave you core funding.",
     "confidence": "explicit",
     "page": 15
   },
   {
-    "fact": "created_by(lva_london_video_arts, david_hall).",
+    "fact": "founded_by(london_video_arts, david_hall).",
     "source": "david_hall",
     "evidence": "I was only involved the first few years when we had the initial struggle to set it up.",
     "confidence": "supported",
     "page": 15
   },
   {
-    "fact": "year_created(lva_london_video_arts, @1976).",
+    "fact": "year_began(london_video_arts, @1976).",
     "source": "david_hall",
     "evidence": "LVA was set up in 1976.",
     "confidence": "explicit",
     "page": 15
   },
   {
-    "fact": "exhibited_at(lva_london_video_arts, air_gallery).",
+    "fact": "exhibited_at(london_video_arts, air_gallery).",
     "source": "david_hall",
     "evidence": "The first gallery show, the first venue showing, was at AIR.",
     "confidence": "supported",
     "page": 15
   },
   {
-    "fact": "exhibited_at(lva_london_video_arts, acme).",
+    "fact": "exhibited_at(london_video_arts, acme).",
     "source": "david_hall",
     "evidence": "setting up some initial exhibitions at non-commercial galleries like the ACME and AIR gallery.",
     "confidence": "explicit",
@@ -882,7 +882,7 @@
     "page": 15
   },
   {
-    "fact": "organisation(lva_london_video_arts).",
+    "fact": "organisation(london_video_arts).",
     "source": "david_hall",
     "evidence": "With LVA, obviously there was quite a bit of funding from the Arts Council.",
     "confidence": "explicit",

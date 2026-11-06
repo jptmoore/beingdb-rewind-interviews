@@ -20,7 +20,6 @@ funded_by(london_video_arts, arts_council_of_great_britain).
 funded_by(london_video_arts, channel_4).
 funded_by(london_video_arts, greater_london_council_glc).
 funded_by(london_video_arts, gulbenkian_foundation).
-funded_by(lva_london_video_arts, arts_council_of_great_britain).
 funded_by(malvern_well_dressing_festival, arts_council_of_great_britain).
 funded_by(mike_stubbs, arts_council_of_great_britain).
 funded_by(mike_stubbs, bbc).
