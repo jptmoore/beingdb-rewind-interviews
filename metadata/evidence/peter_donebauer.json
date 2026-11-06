@@ -203,14 +203,14 @@
     "page": null
   },
   {
-    "fact": "organisation(arts_council).",
+    "fact": "organisation(arts_council_of_great_britain).",
     "source": "peter_donebauer",
     "evidence": "I was being funded by the Arts Council at that point",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "organisation(british_film_institute_bfi).",
+    "fact": "organisation(british_film_institute).",
     "source": "peter_donebauer",
     "evidence": "then the next year ’75, the BFI funded me for two years and it was definitely the first time they’d funded video",
     "confidence": "explicit",
@@ -266,7 +266,7 @@
     "page": null
   },
   {
-    "fact": "funded_by(peter_donebauer, arts_council).",
+    "fact": "funded_by(peter_donebauer, arts_council_of_great_britain).",
     "source": "peter_donebauer",
     "evidence": "I was being funded by the Arts Council at that point",
     "confidence": "explicit",
@@ -280,7 +280,7 @@
     "page": null
   },
   {
-    "fact": "funded_by(peter_donebauer, british_film_institute_bfi).",
+    "fact": "funded_by(peter_donebauer, british_film_institute).",
     "source": "peter_donebauer",
     "evidence": "the next year ’75, the BFI funded me for two years",
     "confidence": "explicit",
@@ -413,7 +413,7 @@
     "page": null
   },
   {
-    "fact": "venue(royal_college).",
+    "fact": "venue(royal_college_of_art).",
     "source": "peter_donebauer",
     "evidence": "Brewing, which I did at the Royal college...",
     "confidence": "explicit",
@@ -497,7 +497,7 @@
     "page": null
   },
   {
-    "fact": "performed_at(brewing, royal_college).",
+    "fact": "performed_at(brewing, royal_college_of_art).",
     "source": "peter_donebauer",
     "evidence": "Brewing, which I did at the Royal college...",
     "confidence": "explicit",
@@ -560,7 +560,7 @@
     "page": null
   },
   {
-    "fact": "funded_by(peter_donebauer, bfi).",
+    "fact": "funded_by(peter_donebauer, british_film_institute).",
     "source": "peter_donebauer",
     "evidence": "I got funded then immediately for two years by the BFI",
     "confidence": "explicit",
@@ -686,7 +686,7 @@
     "page": null
   },
   {
-    "fact": "organisation(bfi).",
+    "fact": "organisation(british_film_institute).",
     "source": "peter_donebauer",
     "evidence": "I got funded then immediately for two years by the BFI",
     "confidence": "explicit",

@@ -5,7 +5,7 @@
 
 %! work(Work)
 % Marks an entity as a creative work, such as a video, film, installation, performance, broadcast or publication.
-work(about_time_at_the_ica_1980).
+work(about_time).
 work(absence_of_satan).
 work(all_the_pieces_i_never_did).
 work(american_landscapes).
@@ -107,7 +107,6 @@ work(reservoir).
 work(revision).
 work(river_sky).
 work(roselee_goldberg_s_first_edition_of_performance_art).
-work(running_time_1979).
 work(running_time).
 work(scratch_pieces).
 work(scratch_video_volume_1).

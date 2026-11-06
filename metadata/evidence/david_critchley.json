@@ -385,7 +385,7 @@
     "page": 6
   },
   {
-    "fact": "organisation(arts_council).",
+    "fact": "organisation(arts_council_of_great_britain).",
     "source": "david_critchley",
     "evidence": "On a personal level I’d had a couple of small grants from Northern Arts and from the Arts Council to complete film work.",
     "confidence": "explicit",
@@ -476,7 +476,7 @@
     "page": 6
   },
   {
-    "fact": "awarded_grant(david_critchley, arts_council).",
+    "fact": "awarded_grant(david_critchley, arts_council_of_great_britain).",
     "source": "david_critchley",
     "evidence": "On a personal level I’d had a couple of small grants from Northern Arts and from the Arts Council to complete film work.",
     "confidence": "explicit",
@@ -553,21 +553,21 @@
     "page": null
   },
   {
-    "fact": "funded_by(david_critchley, arts_council).",
+    "fact": "funded_by(david_critchley, arts_council_of_great_britain).",
     "source": "david_critchley",
     "evidence": "On a personal level I only ever got very small completion grants and later when we started doing LVA. I did get funding again that actually paid me to research in practice the establishment of an artist run video resource.",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "employed_by(david_critchley, london_video_arts_lva).",
+    "fact": "employed_by(david_critchley, london_video_arts).",
     "source": "david_critchley",
     "evidence": "I did get funding again that actually paid me to research in practice the establishment of an artist run video resource.",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "educated_at(david_critchley, royal_college).",
+    "fact": "educated_at(david_critchley, royal_college_of_art).",
     "source": "david_critchley",
     "evidence": "I would have to hold my hands up and admit to being very fortunate to do the three year MA at the Royal College (76-79) (Environmental Media).",
     "confidence": "explicit",
@@ -623,7 +623,7 @@
     "page": null
   },
   {
-    "fact": "work_shown_in(clive_richardson, royal_college).",
+    "fact": "work_shown_in(clive_richardson, royal_college_of_art).",
     "source": "david_critchley",
     "evidence": "Clive Richardson’s video pieces which I think were made at the Royal College also about ’72 ’73.",
     "confidence": "explicit",
@@ -679,14 +679,14 @@
     "page": null
   },
   {
-    "fact": "exhibited_at(london_video_arts_lva, air_gallery).",
+    "fact": "exhibited_at(london_video_arts, air_gallery).",
     "source": "david_critchley",
     "evidence": "The desire was to have a space and I think the first official launch of the LVA catalogue as an exhibition as show was at the AIR gallery in about ’78.",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "exhibited_at(london_video_arts_lva, the_fridge).",
+    "fact": "exhibited_at(london_video_arts, the_fridge).",
     "source": "david_critchley",
     "evidence": "At some point after that, ’78 ’79 we looked at space in Brixton, the Fridge, I think, but it wasn’t the right place",
     "confidence": "explicit",
@@ -700,7 +700,7 @@
     "page": null
   },
   {
-    "fact": "used_by(little_newport_street_soho, london_video_arts_lva).",
+    "fact": "used_by(little_newport_street_soho, london_video_arts).",
     "source": "david_critchley",
     "evidence": "Tony Kirkhope from the Other Cinema rented a room in little Newport Street in Soho, to LVA. That was our first place.",
     "confidence": "explicit",
@@ -721,28 +721,28 @@
     "page": null
   },
   {
-    "fact": "funded_by(london_video_arts_lva, channel_4).",
+    "fact": "funded_by(london_video_arts, channel_4).",
     "source": "david_critchley",
     "evidence": "that was only possible because of some Channel 4 funding",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "funded_by(london_video_arts_lva, greater_london_council_glc).",
+    "fact": "funded_by(london_video_arts, greater_london_council_glc).",
     "source": "david_critchley",
     "evidence": "that was only possible because of some Channel 4 funding, GLC funding",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "funded_by(london_video_arts_lva, gulbenkian_foundation).",
+    "fact": "funded_by(london_video_arts, gulbenkian_foundation).",
     "source": "david_critchley",
     "evidence": "that was only possible because of some Channel 4 funding, GLC funding, Gulbenkian Foundation funding.",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "funded_by(london_video_arts_lva, arts_council).",
+    "fact": "funded_by(london_video_arts, arts_council_of_great_britain).",
     "source": "david_critchley",
     "evidence": "by Arts Council terms a lot of funding, although in terms of those other funders, the Arts Council amounted to about ten percent of LVA’s total funding",
     "confidence": "explicit",
@@ -896,14 +896,14 @@
     "page": null
   },
   {
-    "fact": "organisation(london_video_arts_lva).",
+    "fact": "organisation(london_video_arts).",
     "source": "david_critchley",
     "evidence": "started doing LVA.",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "organisation(royal_college).",
+    "fact": "organisation(royal_college_of_art).",
     "source": "david_critchley",
     "evidence": "three year MA at the Royal College (76-79) (Environmental Media).",
     "confidence": "explicit",
@@ -1295,7 +1295,7 @@
     "page": null
   },
   {
-    "fact": "funded_by(london_video_arts, arts_council).",
+    "fact": "funded_by(london_video_arts, arts_council_of_great_britain).",
     "source": "david_critchley",
     "evidence": "we set up a bursary scheme with a small amount of input from the Arts Council £300 plus access to LVA’s edit suite",
     "confidence": "explicit",
@@ -1330,7 +1330,7 @@
     "page": null
   },
   {
-    "fact": "affiliated_with(david_critchley, royal_college).",
+    "fact": "affiliated_with(david_critchley, royal_college_of_art).",
     "source": "david_critchley",
     "evidence": "people at the Royal College",
     "confidence": "explicit",

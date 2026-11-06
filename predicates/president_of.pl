@@ -7,4 +7,3 @@
 % Relates a person to an organisation of which they were president.
 president_of(madelon_hooykaas, association_of_video_artists_in_the_netherlands).
 president_of(madelon_hooykaas, time_based_arts_in_amsterdam).
-president_of(madelon_hooykaas, time_based_arts).

@@ -6,5 +6,5 @@
 %! distributed_by(WorkOrArtist, Distributor)
 % Relates a work, or an artist's body of work, to the organisation that distributed it.
 distributed_by(between_the_lines, london_video_arts).
-distributed_by(judith_goddard, london_video_arts_lva).
+distributed_by(judith_goddard, london_video_arts).
 distributed_by(time_spent, lva).

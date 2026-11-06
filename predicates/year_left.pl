@@ -5,4 +5,4 @@
 
 %! year_left(Person, Year)
 % Records the year in which a person left an organisation or post; the organisation is not recorded.
-year_left(elsa, @1991).
+year_left(elsa_stansfield, @1991).

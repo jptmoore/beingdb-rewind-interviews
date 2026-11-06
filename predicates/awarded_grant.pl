@@ -5,5 +5,5 @@
 
 %! awarded_grant(Recipient, Funder)
 % Relates a person to an organisation that awarded them a grant.
-awarded_grant(david_critchley, arts_council).
+awarded_grant(david_critchley, arts_council_of_great_britain).
 awarded_grant(david_critchley, northern_arts).

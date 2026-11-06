@@ -5,4 +5,4 @@
 
 %! renamed_as(FormerOrganisation, LaterOrganisation)
 % Relates an organisation to the name or organisation it was later renamed as.
-renamed_as(association_of_video_artists_in_the_netherlands, time_based_arts).
+renamed_as(association_of_video_artists_in_the_netherlands, time_based_arts_in_amsterdam).

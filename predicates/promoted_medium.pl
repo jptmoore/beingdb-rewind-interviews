@@ -5,4 +5,4 @@
 
 %! promoted_medium(Organisation, Medium)
 % Relates an organisation to an artistic medium, given as text, that it actively promoted.
-promoted_medium(de_appel_foundation, "video").
+promoted_medium(de_appel, "video").

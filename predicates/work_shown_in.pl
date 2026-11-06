@@ -4,4 +4,4 @@
 % The %! declaration below is maintained in config/predicate-declarations.json.
 
 %! work_shown_in(Artist, Institution)
-work_shown_in(clive_richardson, royal_college).
+work_shown_in(clive_richardson, royal_college_of_art).

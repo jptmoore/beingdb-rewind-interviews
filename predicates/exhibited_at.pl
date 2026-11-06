@@ -5,7 +5,7 @@
 
 %! exhibited_at(WorkOrArtist, VenueOrExhibition)
 % Relates a work, or an artist or group, to a venue, exhibition or place where the work was shown.
-exhibited_at(about_time_at_the_ica_1980, ica_london).
+exhibited_at(about_time, ica_london).
 exhibited_at(an_audience_s_new_clothes, musee_d_art_moderne).
 exhibited_at(an_audience_s_new_clothes, un_certain_art_anglais).
 exhibited_at(automotive_action_painting, tate).
@@ -26,7 +26,7 @@ exhibited_at(day_for_night, dundee).
 exhibited_at(day_for_night, montreal).
 exhibited_at(day_for_night, visual_research_centre_in_dundee_contemporary_arts).
 exhibited_at(day_for_night, vondelpark).
-exhibited_at(de_appel_foundation, madelon_hooykaas).
+exhibited_at(de_appel, madelon_hooykaas).
 exhibited_at(deep_looking, netherlands_representation_in_south_korea_2005).
 exhibited_at(descry, blue_coat_gallery).
 exhibited_at(descry, kettles_yard).
@@ -42,9 +42,9 @@ exhibited_at(homing, tate).
 exhibited_at(hooykaas_stansfield, de_appel).
 exhibited_at(hooykaas_stansfield, gallery_in_bremen).
 exhibited_at(hooykaas_stansfield, museum_of_modern_art).
-exhibited_at(hooykaas_stansfield, stedelijk_museum).
+exhibited_at(hooykaas_stansfield, stedelijk_museum_amsterdam).
 exhibited_at(hooykaas_stansfield, the_video_stairs).
-exhibited_at(hooykaas_stansfield, whitechapel).
+exhibited_at(hooykaas_stansfield, whitechapel_gallery).
 exhibited_at(horizontal_flow, lyc_museum_banks).
 exhibited_at(horizontal_flow, lyc_museum).
 exhibited_at(horizontal_flow, teesside_college_of_art).
@@ -56,16 +56,16 @@ exhibited_at(kevin_atherton, acme_gallery).
 exhibited_at(kevin_atherton, air_gallery).
 exhibited_at(kevin_atherton, rosemary_gallery).
 exhibited_at(kevin_atherton, un_certain_art_anglais).
-exhibited_at(london_video_arts_lva, air_gallery).
-exhibited_at(london_video_arts_lva, the_fridge).
-exhibited_at(luminous_image, stedelijk_museum_of_modern_art_in_amsterdam).
+exhibited_at(london_video_arts, air_gallery).
+exhibited_at(london_video_arts, the_fridge).
+exhibited_at(luminous_image, stedelijk_museum_amsterdam).
 exhibited_at(lva_london_video_arts, acme).
 exhibited_at(lva_london_video_arts, air_gallery).
-exhibited_at(madelon_hooykaas, de_appel_foundation).
+exhibited_at(madelon_hooykaas, de_appel).
 exhibited_at(madelon_hooykaas, halifax).
 exhibited_at(madelon_hooykaas, milan).
 exhibited_at(madelon_hooykaas, montreal_videotapes_retrospective_1988).
-exhibited_at(madelon_hooykaas, museum_of_modern_art_moma).
+exhibited_at(madelon_hooykaas, museum_of_modern_art_new_york).
 exhibited_at(madelon_hooykaas, photographers_galleries_london).
 exhibited_at(madelon_hooykaas, photographers_gallery_london).
 exhibited_at(madelon_hooykaas, photographers_gallery_milan).
@@ -93,10 +93,10 @@ exhibited_at(rose_garrard, manchester_cornerhouse).
 exhibited_at(rose_garrard, south_london_gallery).
 exhibited_at(rose_garrard, tate).
 exhibited_at(rose_garrard, vancouver_art_gallery).
-exhibited_at(running_time_1979, retrospective_festivals).
+exhibited_at(running_time, retrospective_festivals).
 exhibited_at(scratch_video_volume_1, edinburgh_television_festival).
 exhibited_at(scratch_video_volume_2, edinburgh_television_festival).
-exhibited_at(sea_of_light, chapter_art_centre).
+exhibited_at(sea_of_light, chapter_arts_centre).
 exhibited_at(shouting_match, open_eye_gallery_liverpool).
 exhibited_at(silver_lining, tate_liverpool).
 exhibited_at(silver_lining, video_positive).
@@ -122,6 +122,6 @@ exhibited_at(videokalos, second_house_bbc).
 exhibited_at(wavelength, arts_lab).
 exhibited_at(what_the_eye_doesn_t_see_post_industrial_studies_number_1, river_crossings_with_camerawork).
 exhibited_at(whats_it_to_you, third_eye_centre).
-exhibited_at(whitechapel_art_gallery, madelon_hooykaas).
+exhibited_at(whitechapel_gallery, madelon_hooykaas).
 exhibited_at(window_water_baby_moving, experimental_film_show_1966).
 exhibited_at(yet_another_triangle, serpentine_gallery).

@@ -6,4 +6,4 @@
 %! director_of(Person, Institution)
 % Relates a person to an institution they directed.
 director_of(nick_serota, museum_of_modern_art_oxford).
-director_of(nick_serota, whitechapel).
+director_of(nick_serota, whitechapel_gallery).

@@ -7,7 +7,6 @@
 % Marks an entity as a venue or location where work was made, shown or performed, such as a gallery, college, studio or site.
 venue(acme_gallery).
 venue(acme).
-venue(air_gallery_london).
 venue(air_gallery).
 venue(air).
 venue(albany).
@@ -37,12 +36,10 @@ venue(butlers_wharf).
 venue(calgary_art_gallery).
 venue(calgary).
 venue(cardiff).
-venue(chapter_art_centre).
 venue(chapter_arts_centre).
 venue(cornerhouse).
 venue(covent_garden).
 venue(dartmoor).
-venue(de_appel_gallery).
 venue(de_appel).
 venue(de_la_warr_pavilion).
 venue(dixons_soho).
@@ -81,7 +78,7 @@ venue(london).
 venue(lyc_museum_banks).
 venue(lyc_museum).
 venue(maastricht).
-venue(maidstone_college).
+venue(maidstone_college_of_art).
 venue(maidstone).
 venue(malvern).
 venue(manchester_cornerhouse).
@@ -111,7 +108,7 @@ venue(richmond_park).
 venue(rosebery_avenue).
 venue(rosemary_gallery).
 venue(rotterdam).
-venue(royal_college).
+venue(royal_college_of_art).
 venue(sauchiehall_street).
 venue(serpentine_gallery).
 venue(shepherds_bush).
@@ -121,8 +118,6 @@ venue(south_london_gallery).
 venue(southampton).
 venue(space_studios).
 venue(stedelijk_museum_amsterdam).
-venue(stedelijk_museum_of_modern_art_in_amsterdam).
-venue(stedelijk_museum).
 venue(stockholm).
 venue(studio_in_penicuik).
 venue(supermarket_in_central_cardiff).
@@ -151,9 +146,7 @@ venue(wapping).
 venue(watermans).
 venue(westminster_london_west_gallery).
 venue(westminster).
-venue(whitechapel_art_gallery).
 venue(whitechapel_gallery).
-venue(whitechapel).
 venue(wijk_aan_zee).
 venue(withernsea).
 venue(woolwich_train_station).

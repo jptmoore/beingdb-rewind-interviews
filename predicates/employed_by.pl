@@ -7,12 +7,12 @@
 % Relates a person to an organisation or institution that employed them, including teaching posts.
 employed_by(anna_ridley, bbc).
 employed_by(anna_ridley, channel_4).
-employed_by(david_critchley, london_video_arts_lva).
+employed_by(david_critchley, london_video_arts).
 employed_by(david_hall, kingston_college).
-employed_by(david_hall, maidstone_college).
+employed_by(david_hall, maidstone_college_of_art).
 employed_by(david_hall, saint_martins).
 employed_by(delia_derbyshire, bbc).
-employed_by(dorine_mignot, stedelijk_museum).
+employed_by(dorine_mignot, stedelijk_museum_amsterdam).
 employed_by(elsa_stansfield, jan_van_eyck_academy).
 employed_by(george_barber, ucca_at_farnham).
 employed_by(kevin_atherton, cardiff).
@@ -22,15 +22,15 @@ employed_by(kevin_atherton, middlesex).
 employed_by(kevin_atherton, museum_of_modern_art_oxford).
 employed_by(kevin_atherton, national_college_of_art_and_design_dublin).
 employed_by(kevin_atherton, royal_college_of_art).
-employed_by(kevin_atherton, slade).
-employed_by(kevin_atherton, whitechapel).
+employed_by(kevin_atherton, slade_school_of_fine_art).
+employed_by(kevin_atherton, whitechapel_gallery).
 employed_by(madelon_hooykaas, fantasy_factory).
-employed_by(madelon_hooykaas, london_video_arts_lva).
+employed_by(madelon_hooykaas, london_video_arts).
 employed_by(madelon_hooykaas, paris).
 employed_by(malcolm_le_grice, saint_martins).
 employed_by(mike_stubbs, australian_centre_for_the_moving_image).
 employed_by(pascal_gabriel, s_express).
-employed_by(peter_cardier, royal_college).
+employed_by(peter_cardier, royal_college_of_art).
 employed_by(peter_donebauer, colleges).
 employed_by(reg_clough, royal_college_of_art).
 employed_by(rose_garrard, corydon_college_of_art).

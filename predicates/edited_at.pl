@@ -10,6 +10,6 @@ edited_at(david_hall, studio_in_penicuik).
 edited_at(judith_goddard, duncan_of_jordanstone_college_of_art_and_design).
 edited_at(judith_goddard, edit_suites_in_glasgow).
 edited_at(judith_goddard, london_video_arts).
-edited_at(judith_goddard, slade).
+edited_at(judith_goddard, slade_school_of_fine_art).
 edited_at(judith_goddard, video_residency_in_maidstone).
 edited_at(one_of_these_days, neils_yard_covent_garden).

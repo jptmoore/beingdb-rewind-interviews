@@ -5,4 +5,4 @@
 
 %! original_name_of(FormerOrganisation, LaterOrganisation)
 % Relates an organisation's original name or form to the organisation it later became.
-original_name_of(association_of_video_artists_in_the_netherlands, foundation_time_based_arts).
+original_name_of(association_of_video_artists_in_the_netherlands, time_based_arts_in_amsterdam).

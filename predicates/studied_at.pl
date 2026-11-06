@@ -5,8 +5,8 @@
 
 %! studied_at(Person, Institution)
 % Relates a person to an institution where they studied.
-studied_at(elsa_stansfield, ealing_school).
-studied_at(elsa_stansfield, glasgow_art_school).
-studied_at(elsa_stansfield, slade_school_of_art).
+studied_at(elsa_stansfield, ealing_school_of_art).
+studied_at(elsa_stansfield, glasgow_school_of_art).
+studied_at(elsa_stansfield, slade_school_of_fine_art).
 studied_at(kevin_atherton, leeds_college_of_art).
 studied_at(madelon_hooykaas, ealing_school_of_art).

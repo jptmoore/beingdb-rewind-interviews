@@ -7,6 +7,6 @@
 % Relates a person to an organisation or institution where they worked.
 worked_at(elsa_stansfield, fantasy_factory).
 worked_at(elsa_stansfield, maidstone_college_of_art).
-worked_at(josine_van_droffelaar, de_appel_foundation).
+worked_at(josine_van_droffelaar, de_appel).
 worked_at(madelon_hooykaas, fantasy_factory).
 worked_at(madelon_hooykaas, maidstone_college_of_art).

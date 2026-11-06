@@ -42,7 +42,7 @@ collaborated_with(david_hall, john_latham).
 collaborated_with(david_hall, mark_kidel).
 collaborated_with(david_hall, stuart_brisley).
 collaborated_with(david_hall, tony_sinden).
-collaborated_with(de_appel_foundation, franklin_furnace).
+collaborated_with(de_appel, franklin_furnace).
 collaborated_with(elsa_stansfield, brian_hodgeson).
 collaborated_with(elsa_stansfield, delia_derbyshire).
 collaborated_with(elsa_stansfield, madelon_hooykaas).
@@ -85,7 +85,6 @@ collaborated_with(madelon_hooykaas, chantal_dupont).
 collaborated_with(madelon_hooykaas, david_hall).
 collaborated_with(madelon_hooykaas, delia_derbyshire).
 collaborated_with(madelon_hooykaas, elsa_stansfield).
-collaborated_with(madelon_hooykaas, elsa).
 collaborated_with(madelon_hooykaas, frances_marie_uitti).
 collaborated_with(madelon_hooykaas, luis_andrews).
 collaborated_with(madelon_hooykaas, nam_june_paik).
@@ -127,7 +126,7 @@ collaborated_with(peter_donebauer, simon).
 collaborated_with(rose_garrard, anna_ridley).
 collaborated_with(rose_garrard, annalogue_production_company).
 collaborated_with(rose_garrard, bruce_mclean).
-collaborated_with(rose_garrard, duncan_of_jordanstone_college_of_art).
+collaborated_with(rose_garrard, duncan_of_jordanstone_college_of_art_and_design).
 collaborated_with(rose_garrard, kerry_trengove).
 collaborated_with(rose_garrard, kipper_kids).
 collaborated_with(rose_garrard, ron_hazelden).

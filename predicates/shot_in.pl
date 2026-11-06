@@ -6,4 +6,4 @@
 %! shot_in(Work, Location)
 % Relates a work to a place where it was shot.
 shot_in(behind_the_veil, saudi_arabia).
-shot_in(running_time_1979, north_of_england).
+shot_in(running_time, north_of_england).

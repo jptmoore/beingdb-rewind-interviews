@@ -9,7 +9,7 @@ made_at(electron, dartmoor).
 made_at(horizontal_flow, teesside_college_of_art).
 made_at(incidents_in_a_garden, acme_gallery).
 made_at(kevin_atherton, amsterdam).
-made_at(kevin_atherton, de_appel_gallery).
+made_at(kevin_atherton, de_appel).
 made_at(lighthouse, withernsea).
 made_at(magnetic_north, bergin).
 made_at(magnetic_north, finland).
@@ -19,10 +19,9 @@ made_at(magnetic_north, umea).
 made_at(mirror, naples).
 made_at(mirror, rome).
 made_at(move_towards_the_verticality_of_the_horizon, southend_beach).
-made_at(running_time_1979, maidstone_college).
-made_at(running_time, maidstone_college).
+made_at(running_time, maidstone_college_of_art).
 made_at(sea_of_light, cardiff).
-made_at(sea_of_light, chapter_art_centre).
+made_at(sea_of_light, chapter_arts_centre).
 made_at(sphere, ballymun_park_in_dublin).
 made_at(sweatlodge, the_tramway_glasgow).
 made_at(tape_tape, battersea_arts_centre).
