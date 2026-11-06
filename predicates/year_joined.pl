@@ -5,4 +5,4 @@
 
 %! year_joined(Person, Year)
 % Records the year in which a person joined an organisation or post; the organisation is not recorded.
-year_joined(elsa, @1980).
+year_joined(elsa_stansfield, @1980).

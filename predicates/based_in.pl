@@ -5,4 +5,4 @@
 
 %! based_in(Organisation, Place)
 % Relates an organisation to the country or place, given as text, where it is based.
-based_in(de_appel_foundation, "Netherlands").
+based_in(de_appel, "Netherlands").

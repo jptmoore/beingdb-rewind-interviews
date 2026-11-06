@@ -6,4 +6,4 @@
 %! duration_minutes(Work, Minutes)
 % Records the running time of a work in minutes.
 duration_minutes(one_of_these_days, 30).
-duration_minutes(running_time_1979, 6).
+duration_minutes(running_time, 6).

@@ -217,7 +217,7 @@
     "page": null
   },
   {
-    "fact": "organisation(arts_council).",
+    "fact": "organisation(arts_council_of_great_britain).",
     "source": "kevin_atherton",
     "evidence": "I remember doing it, and getting some Arts Council funding to do it...",
     "confidence": "explicit",
@@ -378,7 +378,7 @@
     "page": null
   },
   {
-    "fact": "venue(de_appel_gallery).",
+    "fact": "venue(de_appel).",
     "source": "kevin_atherton",
     "evidence": "I remember I did a project with Weis Smals and Josine van Drofelaar at the De Appel Gallery in Amsterdam.",
     "confidence": "explicit",
@@ -413,7 +413,7 @@
     "page": null
   },
   {
-    "fact": "made_at(kevin_atherton, de_appel_gallery).",
+    "fact": "made_at(kevin_atherton, de_appel).",
     "source": "kevin_atherton",
     "evidence": "I remember I did a project with Weis Smals and Josine van Drofelaar at the De Appel Gallery in Amsterdam.",
     "confidence": "supported",
@@ -749,7 +749,7 @@
     "page": 13
   },
   {
-    "fact": "organisation(royal_college).",
+    "fact": "organisation(royal_college_of_art).",
     "source": "kevin_atherton",
     "evidence": "then she went to the Royal College and like all these fuckers who go to the Royal College, hated it.",
     "confidence": "explicit",
@@ -945,7 +945,7 @@
     "page": null
   },
   {
-    "fact": "employed_by(kevin_atherton, whitechapel).",
+    "fact": "employed_by(kevin_atherton, whitechapel_gallery).",
     "source": "kevin_atherton",
     "evidence": "It was a job as a kind of technician invigilator... I worked in the gallery... I got a week off to go Paris... a week later I was back behind the desk at the Whitechapel.",
     "confidence": "explicit",
@@ -994,7 +994,7 @@
     "page": null
   },
   {
-    "fact": "employed_by(kevin_atherton, slade).",
+    "fact": "employed_by(kevin_atherton, slade_school_of_fine_art).",
     "source": "kevin_atherton",
     "evidence": "I taught part-time, full-time... at the Slade",
     "confidence": "explicit",
@@ -1057,7 +1057,7 @@
     "page": null
   },
   {
-    "fact": "director_of(nick_serota, whitechapel).",
+    "fact": "director_of(nick_serota, whitechapel_gallery).",
     "source": "kevin_atherton",
     "evidence": "then he moved to the Whitechapel",
     "confidence": "explicit",
@@ -1113,7 +1113,7 @@
     "page": null
   },
   {
-    "fact": "affiliated_with(vivian_lovell, ikon).",
+    "fact": "affiliated_with(vivian_lovell, ikon_gallery_birmingham).",
     "source": "kevin_atherton",
     "evidence": "Vivian Lovell at the Ikon ",
     "confidence": "explicit",
@@ -1232,7 +1232,7 @@
     "page": null
   },
   {
-    "fact": "venue(whitechapel).",
+    "fact": "venue(whitechapel_gallery).",
     "source": "kevin_atherton",
     "evidence": "Whitechapel",
     "confidence": "explicit",
@@ -1267,7 +1267,7 @@
     "page": null
   },
   {
-    "fact": "organisation(slade).",
+    "fact": "organisation(slade_school_of_fine_art).",
     "source": "kevin_atherton",
     "evidence": "I taught part-time, full-time and there were weeks where I had regular part-time teaching at the Slade",
     "confidence": "explicit",
@@ -1344,7 +1344,7 @@
     "page": null
   },
   {
-    "fact": "organisation(ikon).",
+    "fact": "organisation(ikon_gallery_birmingham).",
     "source": "kevin_atherton",
     "evidence": "Vivian Lovell at the Ikon",
     "confidence": "explicit",

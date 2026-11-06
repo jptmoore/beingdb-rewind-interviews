@@ -5,7 +5,7 @@
 
 %! curated_by(Project, Curator)
 % Relates an exhibition, programme, compilation or work to the person who curated or selected it.
-curated_by(about_time_at_the_ica_1980, rose_garrard).
+curated_by(about_time, rose_garrard).
 curated_by(arena, anna_ridley).
 curated_by(arena, mark_kidel).
 curated_by(great_malvern, rose_garrard).
@@ -21,7 +21,7 @@ curated_by(scratch_video_volume_1, george_barber).
 curated_by(scratch_video_volume_2, george_barber).
 curated_by(show_at_whitechapel_art_gallery, jasia_reichardt).
 curated_by(signs_of_the_times, chrissie_isles).
-curated_by(stedelijk_museum, dorine_mignot).
+curated_by(stedelijk_museum_amsterdam, dorine_mignot).
 curated_by(this_is_a_television_receiver, mark_kidel).
 curated_by(tv_interventions_93, peter_docherty).
-curated_by(whitechapel_art_gallery, jasia_reichardt).
+curated_by(whitechapel_gallery, jasia_reichardt).

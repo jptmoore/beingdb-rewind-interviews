@@ -5,4 +5,4 @@
 
 %! featured_person(Work, Description)
 % Relates a work to a free-text description of a person or figure who appears in it.
-featured_person(running_time_1979, "figure running in the landscape").
+featured_person(running_time, "figure running in the landscape").

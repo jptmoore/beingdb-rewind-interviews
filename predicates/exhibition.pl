@@ -5,7 +5,6 @@
 
 %! exhibition(Exhibition)
 % Marks an entity as an exhibition, show, festival or broadcast programme.
-exhibition(about_time_at_the_ica_1980).
 exhibition(about_time).
 exhibition(arena).
 exhibition(ave_festival_in_holland).

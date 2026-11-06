@@ -7,14 +7,14 @@
     "page": 1
   },
   {
-    "fact": "organisation(royal_college).",
+    "fact": "organisation(royal_college_of_art).",
     "source": "david_hall",
     "evidence": "then continued at the Royal College until 1964",
     "confidence": "explicit",
     "page": 1
   },
   {
-    "fact": "educated_at(david_hall, royal_college).",
+    "fact": "educated_at(david_hall, royal_college_of_art).",
     "source": "david_hall",
     "evidence": "then continued at the Royal College until 1964",
     "confidence": "explicit",
@@ -182,7 +182,7 @@
     "page": 4
   },
   {
-    "fact": "funded_by(vertical, arts_council).",
+    "fact": "funded_by(vertical, arts_council_of_great_britain).",
     "source": "david_hall",
     "evidence": "I got a grant from the Arts Council. I think it was the first Arts Council grant to an artist to make a film, and I made a film that I called Vertical",
     "confidence": "explicit",
@@ -217,7 +217,7 @@
     "page": 4
   },
   {
-    "fact": "organisation(arts_council).",
+    "fact": "organisation(arts_council_of_great_britain).",
     "source": "david_hall",
     "evidence": "I got a grant from the Arts Council.",
     "confidence": "explicit",
@@ -273,7 +273,7 @@
     "page": 5
   },
   {
-    "fact": "organisation(artist_placement_group_apg).",
+    "fact": "organisation(artist_placement_group).",
     "source": "david_hall",
     "evidence": "because I’d worked as a sculptor and then I was working with people, like in the Artist Placement Group...",
     "confidence": "explicit",
@@ -476,7 +476,7 @@
     "page": 9
   },
   {
-    "fact": "organisation(maidstone_college).",
+    "fact": "organisation(maidstone_college_of_art).",
     "source": "david_hall",
     "evidence": "I was teaching already the odd day a week at Maidstone...",
     "confidence": "explicit",
@@ -532,7 +532,7 @@
     "page": 9
   },
   {
-    "fact": "employed_by(david_hall, maidstone_college).",
+    "fact": "employed_by(david_hall, maidstone_college_of_art).",
     "source": "david_hall",
     "evidence": "I was teaching already the odd day a week at Maidstone...",
     "confidence": "explicit",
@@ -735,14 +735,14 @@
     "page": 13
   },
   {
-    "fact": "organisation(london_video_arts_lva).",
+    "fact": "organisation(london_video_arts).",
     "source": "david_hall",
     "evidence": "With LVA, I was one of the founders",
     "confidence": "explicit",
     "page": 14
   },
   {
-    "fact": "founded_by(london_video_arts_lva, david_hall).",
+    "fact": "founded_by(london_video_arts, david_hall).",
     "source": "david_hall",
     "evidence": "With LVA, I was one of the founders but in modesty I think it was I that suggested we needed it initially. I suggested this would be a good idea and that happened.",
     "confidence": "explicit",
@@ -756,7 +756,7 @@
     "page": 14
   },
   {
-    "fact": "funded_by(david_hall, arts_council).",
+    "fact": "funded_by(david_hall, arts_council_of_great_britain).",
     "source": "david_hall",
     "evidence": "I got some funding personally from the Arts Council to make a few films.",
     "confidence": "explicit",
@@ -777,14 +777,14 @@
     "page": 15
   },
   {
-    "fact": "acquired_by(david_hall, arts_council).",
+    "fact": "acquired_by(david_hall, arts_council_of_great_britain).",
     "source": "david_hall",
     "evidence": "I got some work purchased by ... the Arts Council ...",
     "confidence": "explicit",
     "page": 15
   },
   {
-    "fact": "funded_by(lva_london_video_arts, arts_council).",
+    "fact": "funded_by(lva_london_video_arts, arts_council_of_great_britain).",
     "source": "david_hall",
     "evidence": "With LVA, obviously there was quite a bit of funding from the Arts Council. They gave you core funding.",
     "confidence": "explicit",
@@ -1141,7 +1141,7 @@
     "page": 19
   },
   {
-    "fact": "organisation(bfi).",
+    "fact": "organisation(british_film_institute).",
     "source": "david_hall",
     "evidence": "getting funding from the arts council, and the BFI for the set-ups for the Co-op.",
     "confidence": "explicit",

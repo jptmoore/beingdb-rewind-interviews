@@ -5,7 +5,7 @@
 
 %! performed_at(Performer, Venue)
 % Relates an artist or performance group (occasionally a performance work) to a venue or event where they performed.
-performed_at(brewing, royal_college).
+performed_at(brewing, royal_college_of_art).
 performed_at(kevin_atherton, ayton_basement).
 performed_at(kevin_atherton, battersea_arts_centre).
 performed_at(kevin_atherton, butlers_wharf).

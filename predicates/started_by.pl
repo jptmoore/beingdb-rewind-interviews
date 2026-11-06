@@ -5,4 +5,4 @@
 
 %! started_by(Organisation, Year)
 % Records the year in which an organisation was started; despite the name, the second argument is a year, not a founder.
-started_by(de_appel_foundation, @1975).
+started_by(de_appel, @1975).

@@ -91,21 +91,21 @@
     "page": 1
   },
   {
-    "fact": "work(about_time_at_the_ica_1980).",
+    "fact": "work(about_time).",
     "source": "rose_garrard",
     "evidence": "...looking at the show of time-based work, which eventually became About Time at the ICA, which I curated. That was 1980 when it actually went on show...",
     "confidence": "explicit",
     "page": 1
   },
   {
-    "fact": "curated_by(about_time_at_the_ica_1980, rose_garrard).",
+    "fact": "curated_by(about_time, rose_garrard).",
     "source": "rose_garrard",
     "evidence": "About Time at the ICA, which I curated. That was 1980 when it actually went on show...",
     "confidence": "explicit",
     "page": 1
   },
   {
-    "fact": "exhibition(about_time_at_the_ica_1980).",
+    "fact": "exhibition(about_time).",
     "source": "rose_garrard",
     "evidence": "About Time at the ICA, which I curated. That was 1980 when it actually went on show...",
     "confidence": "explicit",
@@ -119,14 +119,14 @@
     "page": 1
   },
   {
-    "fact": "year_created(about_time_at_the_ica_1980, @1980).",
+    "fact": "year_created(about_time, @1980).",
     "source": "rose_garrard",
     "evidence": "About Time at the ICA, which I curated. That was 1980 when it actually went on show...",
     "confidence": "explicit",
     "page": 1
   },
   {
-    "fact": "exhibited_at(about_time_at_the_ica_1980, ica_london).",
+    "fact": "exhibited_at(about_time, ica_london).",
     "source": "rose_garrard",
     "evidence": "About Time at the ICA, which I curated. That was 1980 when it actually went on show...",
     "confidence": "explicit",
@@ -847,14 +847,14 @@
     "page": 18
   },
   {
-    "fact": "organisation(duncan_of_jordanstone_college_of_art).",
+    "fact": "organisation(duncan_of_jordanstone_college_of_art_and_design).",
     "source": "rose_garrard",
     "evidence": "It was made with Steve Partridge at Duncan of Jordanstone College of Art in Dundee.",
     "confidence": "explicit",
     "page": 18
   },
   {
-    "fact": "collaborated_with(rose_garrard, duncan_of_jordanstone_college_of_art).",
+    "fact": "collaborated_with(rose_garrard, duncan_of_jordanstone_college_of_art_and_design).",
     "source": "rose_garrard",
     "evidence": "It was made with Steve Partridge at Duncan of Jordanstone College of Art in Dundee.",
     "confidence": "explicit",
@@ -903,7 +903,7 @@
     "page": 18
   },
   {
-    "fact": "person(anna).",
+    "fact": "person(anna_ridley).",
     "source": "rose_garrard",
     "evidence": "Anna did all of that. It was a completely professional Channel 4 crew. She was working within the industry at the time and I’d known her for quite a time.",
     "confidence": "explicit",
@@ -1162,7 +1162,7 @@
     "page": 26
   },
   {
-    "fact": "funded_by(malvern_well_dressing_festival, arts_council).",
+    "fact": "funded_by(malvern_well_dressing_festival, arts_council_of_great_britain).",
     "source": "rose_garrard",
     "evidence": "It was properly funded by the Arts Council, which I’d applied for the funding from",
     "confidence": "explicit",
@@ -1183,7 +1183,7 @@
     "page": 27
   },
   {
-    "fact": "organisation(arts_council).",
+    "fact": "organisation(arts_council_of_great_britain).",
     "source": "rose_garrard",
     "evidence": "It was properly funded by the Arts Council",
     "confidence": "explicit",

@@ -5,5 +5,5 @@
 
 %! acquired_by(Artist, Buyer)
 % Relates an artist to an organisation that purchased some of their work.
-acquired_by(david_hall, arts_council).
+acquired_by(david_hall, arts_council_of_great_britain).
 acquired_by(david_hall, british_council).

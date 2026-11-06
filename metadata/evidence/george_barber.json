@@ -35,7 +35,7 @@
     "page": 1
   },
   {
-    "fact": "educated_at(george_barber, slade).",
+    "fact": "educated_at(george_barber, slade_school_of_fine_art).",
     "source": "george_barber",
     "evidence": "At the time, I was at the Slade. I’d left St Martin’s and found it quite hard.",
     "confidence": "explicit",
@@ -49,7 +49,7 @@
     "page": 1
   },
   {
-    "fact": "organisation(slade).",
+    "fact": "organisation(slade_school_of_fine_art).",
     "source": "george_barber",
     "evidence": "At the time, I was at the Slade.",
     "confidence": "explicit",
@@ -203,14 +203,14 @@
     "page": 2
   },
   {
-    "fact": "organisation(arts_council).",
+    "fact": "organisation(arts_council_of_great_britain).",
     "source": "george_barber",
     "evidence": "...you could only get so much off the Arts Council or the BFI.",
     "confidence": "explicit",
     "page": 3
   },
   {
-    "fact": "organisation(bfi).",
+    "fact": "organisation(british_film_institute).",
     "source": "george_barber",
     "evidence": "...you could only get so much off the Arts Council or the BFI.",
     "confidence": "explicit",
@@ -294,14 +294,14 @@
     "page": 5
   },
   {
-    "fact": "applied_to(george_barber, arts_council).",
+    "fact": "applied_to(george_barber, arts_council_of_great_britain).",
     "source": "george_barber",
     "evidence": "I  carried on making work, but the moment passed and like everyone else, I  ended up applying to the Arts Council, the BFI, and it seemed to be really only those, I can’t really remember anyone else.",
     "confidence": "explicit",
     "page": 4
   },
   {
-    "fact": "applied_to(george_barber, bfi).",
+    "fact": "applied_to(george_barber, british_film_institute).",
     "source": "george_barber",
     "evidence": "I  carried on making work, but the moment passed and like everyone else, I  ended up applying to the Arts Council, the BFI, and it seemed to be really only those, I can’t really remember anyone else.",
     "confidence": "explicit",
@@ -854,7 +854,7 @@
     "page": 14
   },
   {
-    "fact": "funded_by(film_and_video_umbrella, arts_council).",
+    "fact": "funded_by(film_and_video_umbrella, arts_council_of_great_britain).",
     "source": "george_barber",
     "evidence": "Yes, although I think that it was Arts Council money in the end. Everything goes back to them.",
     "confidence": "explicit",
@@ -973,7 +973,7 @@
     "page": 17
   },
   {
-    "fact": "received_funding_from(george_barber, arts_council).",
+    "fact": "received_funding_from(george_barber, arts_council_of_great_britain).",
     "source": "george_barber",
     "evidence": "we couldn’t because of Arts Council funding and the threat of\nbeing sued.",
     "confidence": "explicit",

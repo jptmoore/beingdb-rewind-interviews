@@ -147,7 +147,7 @@
     "page": 1
   },
   {
-    "fact": "organisation(royal_college).",
+    "fact": "organisation(royal_college_of_art).",
     "source": "judith_goddard",
     "evidence": "Peter Cardier who was my head of department at the Royal College.",
     "confidence": "explicit",
@@ -161,7 +161,7 @@
     "page": 1
   },
   {
-    "fact": "employed_by(peter_cardier, royal_college).",
+    "fact": "employed_by(peter_cardier, royal_college_of_art).",
     "source": "judith_goddard",
     "evidence": "Peter Cardier who was my head of department at the Royal College.",
     "confidence": "explicit",
@@ -322,14 +322,14 @@
     "page": null
   },
   {
-    "fact": "organisation(arts_council).",
+    "fact": "organisation(arts_council_of_great_britain).",
     "source": "judith_goddard",
     "evidence": "I’ve had funding from the Arts Council 2 or 3 times",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "organisation(slade).",
+    "fact": "organisation(slade_school_of_fine_art).",
     "source": "judith_goddard",
     "evidence": "I have used the editing at the Slade since I started to edit again.",
     "confidence": "explicit",
@@ -441,14 +441,14 @@
     "page": null
   },
   {
-    "fact": "funded_by(judith_goddard, arts_council).",
+    "fact": "funded_by(judith_goddard, arts_council_of_great_britain).",
     "source": "judith_goddard",
     "evidence": "I’ve had funding from the Arts Council 2 or 3 times",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "edited_at(judith_goddard, slade).",
+    "fact": "edited_at(judith_goddard, slade_school_of_fine_art).",
     "source": "judith_goddard",
     "evidence": "I have used the editing at the Slade since I started to edit again.",
     "confidence": "explicit",
@@ -560,7 +560,7 @@
     "page": null
   },
   {
-    "fact": "distributed_by(judith_goddard, london_video_arts_lva).",
+    "fact": "distributed_by(judith_goddard, london_video_arts).",
     "source": "judith_goddard",
     "evidence": "Yes, LVA distributed my single screen work from the early 80’s onwards.",
     "confidence": "explicit",
@@ -574,7 +574,7 @@
     "page": null
   },
   {
-    "fact": "educated_at(judith_goddard, royal_college).",
+    "fact": "educated_at(judith_goddard, royal_college_of_art).",
     "source": "judith_goddard",
     "evidence": "When I was at the Royal College I had a book...",
     "confidence": "explicit",
@@ -686,7 +686,7 @@
     "page": null
   },
   {
-    "fact": "organisation(london_video_arts_lva).",
+    "fact": "organisation(london_video_arts).",
     "source": "judith_goddard",
     "evidence": "LVA distributed my single screen work from the early 80’s onwards.",
     "confidence": "explicit",

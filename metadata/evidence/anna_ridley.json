@@ -413,7 +413,7 @@
     "page": null
   },
   {
-    "fact": "organisation(arts_council).",
+    "fact": "organisation(arts_council_of_great_britain).",
     "source": "anna_ridley",
     "evidence": "Going through funding bodies like the Arts Council and the British Film Institute for that matter could give seed money.",
     "confidence": "explicit",

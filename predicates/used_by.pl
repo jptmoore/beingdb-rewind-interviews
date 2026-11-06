@@ -5,4 +5,4 @@
 
 %! used_by(Premises, Organisation)
 % Relates premises to an organisation that used them.
-used_by(little_newport_street_soho, london_video_arts_lva).
+used_by(little_newport_street_soho, london_video_arts).

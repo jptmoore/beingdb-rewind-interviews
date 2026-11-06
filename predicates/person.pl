@@ -15,7 +15,6 @@ person(alistair_macintosh).
 person(alvin_lucier).
 person(ann_bean).
 person(anna_ridley).
-person(anna).
 person(anne_whitehurst).
 person(anne_wilson).
 person(annie_lennox).
@@ -79,7 +78,6 @@ person(dudu_pakwana).
 person(duvet_brothers).
 person(eddie_berg).
 person(elsa_stansfield).
-person(elsa).
 person(eve_arnold).
 person(fast_forward_paul_wilson).
 person(flann_obrien).

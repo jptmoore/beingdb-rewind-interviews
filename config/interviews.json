@@ -11,14 +11,24 @@
     "name": "Madelon Hooykaas",
     "url": "https://rewind.ac.uk/rewind/wp-content/uploads/sites/146/2021/03/ESMH510.pdf",
     "documentId": "rewind_madelon_hooykaas_interview",
-    "personId": "madelon_hooykaas"
+    "personId": "madelon_hooykaas",
+    "idOverrides": {
+      "Elsa": "elsa_stansfield",
+      "Time-based Arts": "time_based_arts_in_amsterdam",
+      "Time Based Arts": "time_based_arts_in_amsterdam",
+      "Foundation Time-based Arts": "time_based_arts_in_amsterdam"
+    }
   },
   {
     "id": "mike_stubbs",
     "name": "Mike Stubbs",
     "url": "https://rewind.ac.uk/rewind/wp-content/uploads/sites/146/2021/03/MS510.pdf",
     "documentId": "rewind_mike_stubbs_interview",
-    "personId": "mike_stubbs"
+    "personId": "mike_stubbs",
+    "idOverrides": {
+      "Time-Based Arts": "hull_time_based_arts",
+      "Chapter": "chapter_arts_centre"
+    }
   },
   {
     "id": "david_hall",
@@ -32,7 +42,10 @@
     "name": "Rose Garrard",
     "url": "https://rewind.ac.uk/rewind/wp-content/uploads/sites/146/2021/03/RG510.pdf",
     "documentId": "rewind_rose_garrard_interview",
-    "personId": "rose_garrard"
+    "personId": "rose_garrard",
+    "idOverrides": {
+      "Anna": "anna_ridley"
+    }
   },
   {
     "id": "george_barber",

@@ -14,10 +14,10 @@ affiliated_with(david_critchley, coventry).
 affiliated_with(david_critchley, film_makers_coop).
 affiliated_with(david_critchley, london_video_arts).
 affiliated_with(david_critchley, norwich_film_coop).
-affiliated_with(david_critchley, royal_college).
+affiliated_with(david_critchley, royal_college_of_art).
 affiliated_with(david_critchley, wolverhampton).
-affiliated_with(de_appel_foundation, franklin_furnace).
-affiliated_with(elsa, jan_van_eyck_academy).
+affiliated_with(de_appel, franklin_furnace).
+affiliated_with(elsa_stansfield, jan_van_eyck_academy).
 affiliated_with(jan_van_eyck_academy, maastricht).
 affiliated_with(lesley_greene, public_art_department_trust).
 affiliated_with(mike_stubbs, cardiff_art_college).
@@ -29,5 +29,5 @@ affiliated_with(peter_donebauer, diverse).
 affiliated_with(peter_donebauer, royal_college_of_art).
 affiliated_with(richard_monkhouse, ems).
 affiliated_with(rose_garrard, girls_school_in_bow).
-affiliated_with(vivian_lovell, ikon).
+affiliated_with(vivian_lovell, ikon_gallery_birmingham).
 affiliated_with(vivian_lovell, public_art_commissions_agency_paca).

@@ -47,13 +47,10 @@ uses_medium(motion_parallax, black_and_white).
 uses_medium(motion_parallax, film).
 uses_medium(museum_of_memory_1, monitor).
 uses_medium(one_of_these_days, dutch_language).
-uses_medium(running_time_1979, black_and_white_video).
-uses_medium(running_time_1979, linen).
-uses_medium(running_time_1979, photographic_images).
-uses_medium(running_time_1979, sound).
 uses_medium(running_time, black_and_white_video).
 uses_medium(running_time, linen).
 uses_medium(running_time, photographic_images).
+uses_medium(running_time, sound).
 uses_medium(sphere, mirror_polished_stainless_steel).
 uses_medium(sphere, video).
 uses_medium(sweatlodge, super_8_film_camera).

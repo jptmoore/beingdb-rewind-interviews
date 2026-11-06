@@ -5,5 +5,5 @@
 
 %! applied_to(Applicant, Funder)
 % Relates a person to an organisation they applied to for funding.
-applied_to(george_barber, arts_council).
-applied_to(george_barber, bfi).
+applied_to(george_barber, arts_council_of_great_britain).
+applied_to(george_barber, british_film_institute).

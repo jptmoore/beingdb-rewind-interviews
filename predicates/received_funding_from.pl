@@ -5,4 +5,4 @@
 
 %! received_funding_from(Recipient, Funder)
 % Relates a person to an organisation from which they received funding.
-received_funding_from(george_barber, arts_council).
+received_funding_from(george_barber, arts_council_of_great_britain).

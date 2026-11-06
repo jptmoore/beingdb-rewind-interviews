@@ -5,7 +5,7 @@
 
 %! year_created(Work, Year)
 % Records the year in which a work was created; also used for the year an exhibition, event or organisation began.
-year_created(about_time_at_the_ica_1980, @1980).
+year_created(about_time, @1980).
 year_created(brewing, @1984).
 year_created(celtic_in_mind, @1989).
 year_created(changing, @1973).
@@ -27,7 +27,6 @@ year_created(motion_parallax, @1968).
 year_created(move_towards_the_verticality_of_the_horizon, @1975).
 year_created(move_towards_the_verticality_of_the_horizon, @1976).
 year_created(not_just_another_art_show, @1981).
-year_created(running_time_1979, @1979).
 year_created(running_time, @1979).
 year_created(scratch_video_volume_1, @1985).
 year_created(special_video_art_issue_may_1976, @1976).

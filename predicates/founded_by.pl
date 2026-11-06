@@ -7,5 +7,5 @@
 % Relates an organisation to a person who founded or co-founded it.
 founded_by(association_of_video_artists_in_the_netherlands, elsa_stansfield).
 founded_by(association_of_video_artists_in_the_netherlands, madelon_hooykaas).
-founded_by(london_video_arts_lva, david_hall).
+founded_by(london_video_arts, david_hall).
 founded_by(malvern_spa_association, rose_garrard).

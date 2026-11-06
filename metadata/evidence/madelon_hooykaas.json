@@ -21,7 +21,7 @@
     "page": 1
   },
   {
-    "fact": "venue(maidstone_college).",
+    "fact": "venue(maidstone_college_of_art).",
     "source": "madelon_hooykaas",
     "evidence": "video bursary at Maidstone College in 1979",
     "confidence": "explicit",
@@ -147,7 +147,7 @@
     "page": 1
   },
   {
-    "fact": "made_at(running_time, maidstone_college).",
+    "fact": "made_at(running_time, maidstone_college_of_art).",
     "source": "madelon_hooykaas",
     "evidence": "The work was actually shot in the North of England and was finished at Maidstone College, using their facilities.",
     "confidence": "explicit",
@@ -266,14 +266,14 @@
     "page": 2
   },
   {
-    "fact": "educated_at(elsa_stansfield, ealing_school).",
+    "fact": "educated_at(elsa_stansfield, ealing_school_of_art).",
     "source": "madelon_hooykaas",
     "evidence": "After studying at Ealing School, Elsa started to make her own films.",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "educated_at(elsa_stansfield, slade_school_of_art).",
+    "fact": "educated_at(elsa_stansfield, slade_school_of_fine_art).",
     "source": "madelon_hooykaas",
     "evidence": "Then she studied at the Slade. She did film studies, so her background was far more in film than mine.",
     "confidence": "explicit",
@@ -378,35 +378,35 @@
     "page": null
   },
   {
-    "fact": "curated_by(whitechapel_art_gallery, jasia_reichardt).",
+    "fact": "curated_by(whitechapel_gallery, jasia_reichardt).",
     "source": "madelon_hooykaas",
     "evidence": "We were also invited to make a piece by Jasia Reichardt, who was the director of the Whitechapel Art Gallery then.",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "exhibited_at(whitechapel_art_gallery, madelon_hooykaas).",
+    "fact": "exhibited_at(whitechapel_gallery, madelon_hooykaas).",
     "source": "madelon_hooykaas",
     "evidence": "we made a five-tape installation work for the Whitechapel Art Gallery.",
     "confidence": "supported",
     "page": null
   },
   {
-    "fact": "exhibited_at(de_appel_foundation, madelon_hooykaas).",
+    "fact": "exhibited_at(de_appel, madelon_hooykaas).",
     "source": "madelon_hooykaas",
     "evidence": "because of that show in the Whitechapel Art Gallery, we got a show in the Netherlands, at De Appel Foundation.",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "exhibited_at(sea_of_light, chapter_art_centre).",
+    "fact": "exhibited_at(sea_of_light, chapter_arts_centre).",
     "source": "madelon_hooykaas",
     "evidence": "It is called Sea of Light. We made it using the four galleries there, but also using the surroundings of Cardiff near the sea.",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "made_at(sea_of_light, chapter_art_centre).",
+    "fact": "made_at(sea_of_light, chapter_arts_centre).",
     "source": "madelon_hooykaas",
     "evidence": "It is called Sea of Light. We made it using the four galleries there, but also using the surroundings of Cardiff near the sea.",
     "confidence": "explicit",
@@ -434,21 +434,21 @@
     "page": null
   },
   {
-    "fact": "organisation(ealing_school).",
+    "fact": "organisation(ealing_school_of_art).",
     "source": "madelon_hooykaas",
     "evidence": "After studying at Ealing School, Elsa started to make her own films.",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "organisation(slade_school_of_art).",
+    "fact": "organisation(slade_school_of_fine_art).",
     "source": "madelon_hooykaas",
     "evidence": "Then she studied at the Slade. She did film studies, so her background was far more in film than mine.",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "organisation(arts_council).",
+    "fact": "organisation(arts_council_of_great_britain).",
     "source": "madelon_hooykaas",
     "evidence": "we were able to borrow a Portapak from the Arts Council. It was their first Portapak.",
     "confidence": "explicit",
@@ -497,21 +497,21 @@
     "page": null
   },
   {
-    "fact": "venue(whitechapel_art_gallery).",
+    "fact": "venue(whitechapel_gallery).",
     "source": "madelon_hooykaas",
     "evidence": "Whitechapel Art Gallery",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "organisation(de_appel_foundation).",
+    "fact": "organisation(de_appel).",
     "source": "madelon_hooykaas",
     "evidence": "at De Appel Foundation",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "venue(chapter_art_centre).",
+    "fact": "venue(chapter_arts_centre).",
     "source": "madelon_hooykaas",
     "evidence": "It is called Sea of Light. We made it using the four galleries there",
     "confidence": "explicit",
@@ -553,7 +553,7 @@
     "page": 6
   },
   {
-    "fact": "created_by(the_wind_works, elsa).",
+    "fact": "created_by(the_wind_works, elsa_stansfield).",
     "source": "madelon_hooykaas",
     "evidence": "I would say that The Wind works were key works ...",
     "confidence": "explicit",
@@ -581,7 +581,7 @@
     "page": 6
   },
   {
-    "fact": "created_by(inside_outside, elsa).",
+    "fact": "created_by(inside_outside, elsa_stansfield).",
     "source": "madelon_hooykaas",
     "evidence": "In 1982 we made a work Inside/Outside...",
     "confidence": "explicit",
@@ -630,7 +630,7 @@
     "page": 6
   },
   {
-    "fact": "created_by(compass, elsa).",
+    "fact": "created_by(compass, elsa_stansfield).",
     "source": "madelon_hooykaas",
     "evidence": "In 1984, we showed another version called Compass.",
     "confidence": "explicit",
@@ -644,7 +644,7 @@
     "page": 6
   },
   {
-    "fact": "exhibited_at(luminous_image, stedelijk_museum_of_modern_art_in_amsterdam).",
+    "fact": "exhibited_at(luminous_image, stedelijk_museum_amsterdam).",
     "source": "madelon_hooykaas",
     "evidence": "in the Stedelijk Museum of Modern Art in Amsterdam.",
     "confidence": "explicit",
@@ -658,7 +658,7 @@
     "page": 6
   },
   {
-    "fact": "created_by(on_boundaries, elsa).",
+    "fact": "created_by(on_boundaries, elsa_stansfield).",
     "source": "madelon_hooykaas",
     "evidence": "we made works like On Boundaries, using that line.",
     "confidence": "explicit",
@@ -672,7 +672,7 @@
     "page": 6
   },
   {
-    "fact": "created_by(magnetic_north, elsa).",
+    "fact": "created_by(magnetic_north, elsa_stansfield).",
     "source": "madelon_hooykaas",
     "evidence": "we made Magnetic North in Umeå, in the far North of Sweden, in 1982.",
     "confidence": "explicit",
@@ -728,7 +728,7 @@
     "page": 6
   },
   {
-    "fact": "created_by(video_void, elsa).",
+    "fact": "created_by(video_void, elsa_stansfield).",
     "source": "madelon_hooykaas",
     "evidence": "The work what was called Video Void. It was work that we actually made in Wapping when we had our studio there.",
     "confidence": "explicit",
@@ -749,14 +749,14 @@
     "page": 6
   },
   {
-    "fact": "collaborated_with(de_appel_foundation, franklin_furnace).",
+    "fact": "collaborated_with(de_appel, franklin_furnace).",
     "source": "madelon_hooykaas",
     "evidence": "De Appel Foundation in Amsterdam had an exchange with Franklin Furnace in New York.",
     "confidence": "explicit",
     "page": 6
   },
   {
-    "fact": "person(elsa).",
+    "fact": "person(elsa_stansfield).",
     "source": "madelon_hooykaas",
     "evidence": "With being a duo at the time, we worked in a way where Elsa would concentrate on some things, and then I would concentrate on other projects. So she was very involved in the conservation of that work.",
     "confidence": "explicit",
@@ -812,7 +812,7 @@
     "page": 6
   },
   {
-    "fact": "venue(stedelijk_museum_of_modern_art_in_amsterdam).",
+    "fact": "venue(stedelijk_museum_amsterdam).",
     "source": "madelon_hooykaas",
     "evidence": "in the Stedelijk Museum of Modern Art in Amsterdam.",
     "confidence": "explicit",
@@ -938,7 +938,7 @@
     "page": 7
   },
   {
-    "fact": "organisation(ealing).",
+    "fact": "organisation(ealing_school_of_art).",
     "source": "madelon_hooykaas",
     "evidence": "Elsa had been an assistant to John Latham when she was very young before she even went to Ealing.",
     "confidence": "explicit",
@@ -1260,7 +1260,7 @@
     "page": null
   },
   {
-    "fact": "organisation(time_based_arts).",
+    "fact": "organisation(time_based_arts_in_amsterdam).",
     "source": "madelon_hooykaas",
     "evidence": "It later became Time-based Arts, which existed until 1993.",
     "confidence": "explicit",
@@ -1309,7 +1309,7 @@
     "page": null
   },
   {
-    "fact": "organisation(london_video_arts_lva).",
+    "fact": "organisation(london_video_arts).",
     "source": "madelon_hooykaas",
     "evidence": "So how did you get involved with LVA?",
     "confidence": "explicit",
@@ -1323,21 +1323,21 @@
     "page": null
   },
   {
-    "fact": "employed_by(madelon_hooykaas, london_video_arts_lva).",
+    "fact": "employed_by(madelon_hooykaas, london_video_arts).",
     "source": "madelon_hooykaas",
     "evidence": "So how did you get involved with LVA?",
     "confidence": "supported",
     "page": null
   },
   {
-    "fact": "organisation(museum_of_modern_art_moma).",
+    "fact": "organisation(museum_of_modern_art_new_york).",
     "source": "madelon_hooykaas",
     "evidence": "it was a very important visit in the art context. It was important to go to New York with De Appel Foundation because that's where we met people from the Museum of Modern Art who invited us later in 1988 to do a piece there.",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "exhibited_at(madelon_hooykaas, museum_of_modern_art_moma).",
+    "fact": "exhibited_at(madelon_hooykaas, museum_of_modern_art_new_york).",
     "source": "madelon_hooykaas",
     "evidence": "...people from the Museum of Modern Art who invited us later in 1988 to do a piece there.",
     "confidence": "explicit",
@@ -1491,14 +1491,14 @@
     "page": null
   },
   {
-    "fact": "worked_at(josine_van_droffelaar, de_appel_foundation).",
+    "fact": "worked_at(josine_van_droffelaar, de_appel).",
     "source": "madelon_hooykaas",
     "evidence": "She was one of the people who worked also at De Appel Foundation.",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "exhibited_at(hooykaas_stansfield, whitechapel).",
+    "fact": "exhibited_at(hooykaas_stansfield, whitechapel_gallery).",
     "source": "madelon_hooykaas",
     "evidence": "It was like when we had our first show in the Whitechapel or in the Museum of Modern Art",
     "confidence": "explicit",
@@ -1561,21 +1561,21 @@
     "page": null
   },
   {
-    "fact": "renamed_as(association_of_video_artists_in_the_netherlands, time_based_arts).",
+    "fact": "renamed_as(association_of_video_artists_in_the_netherlands, time_based_arts_in_amsterdam).",
     "source": "madelon_hooykaas",
     "evidence": "which later came to be known as Time Based Arts",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "original_name_of(association_of_video_artists_in_the_netherlands, foundation_time_based_arts).",
+    "fact": "original_name_of(association_of_video_artists_in_the_netherlands, time_based_arts_in_amsterdam).",
     "source": "madelon_hooykaas",
     "evidence": "At first, we wanted to create an association, which was the Association of Video Makers in the Netherlands. Then, because we wanted to get funding, we needed to become a Foundation. So, we called it, the Foundation Time-based Arts.",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "exhibited_at(hooykaas_stansfield, stedelijk_museum).",
+    "fact": "exhibited_at(hooykaas_stansfield, stedelijk_museum_amsterdam).",
     "source": "madelon_hooykaas",
     "evidence": "We had the first exhibition in the Stedelijk Museum when they started a video space.",
     "confidence": "explicit",
@@ -1631,21 +1631,21 @@
     "page": null
   },
   {
-    "fact": "organisation(foundation_time_based_arts).",
+    "fact": "organisation(time_based_arts_in_amsterdam).",
     "source": "madelon_hooykaas",
     "evidence": "So, we called it, the Foundation Time-based Arts.",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "organisation(time_based_arts).",
+    "fact": "organisation(time_based_arts_in_amsterdam).",
     "source": "madelon_hooykaas",
     "evidence": "which later came to be known as Time Based Arts",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "venue(whitechapel).",
+    "fact": "venue(whitechapel_gallery).",
     "source": "madelon_hooykaas",
     "evidence": "It was like when we had our first show in the Whitechapel or in the Museum of Modern Art",
     "confidence": "explicit",
@@ -1673,7 +1673,7 @@
     "page": null
   },
   {
-    "fact": "venue(stedelijk_museum).",
+    "fact": "venue(stedelijk_museum_amsterdam).",
     "source": "madelon_hooykaas",
     "evidence": "We had the first exhibition in the Stedelijk Museum when they started a video space.",
     "confidence": "explicit",
@@ -1834,21 +1834,21 @@
     "page": 17
   },
   {
-    "fact": "organisation(stedelijk_museum).",
+    "fact": "organisation(stedelijk_museum_amsterdam).",
     "source": "madelon_hooykaas",
     "evidence": "Another important curator for our work was Dorine Mignot, from the Stedelijk Museum who gave us our first show there in 1981.",
     "confidence": "explicit",
     "page": 17
   },
   {
-    "fact": "curated_by(stedelijk_museum, dorine_mignot).",
+    "fact": "curated_by(stedelijk_museum_amsterdam, dorine_mignot).",
     "source": "madelon_hooykaas",
     "evidence": "Dorine Mignot, from the Stedelijk Museum who gave us our first show there in 1981.",
     "confidence": "explicit",
     "page": 17
   },
   {
-    "fact": "collaborated_with(madelon_hooykaas, elsa).",
+    "fact": "collaborated_with(madelon_hooykaas, elsa_stansfield).",
     "source": "madelon_hooykaas",
     "evidence": "I finished the work and it's dedicated to her but they were both really art works made for television.",
     "confidence": "supported",
@@ -2009,21 +2009,21 @@
     "page": 18
   },
   {
-    "fact": "affiliated_with(elsa, jan_van_eyck_academy).",
+    "fact": "affiliated_with(elsa_stansfield, jan_van_eyck_academy).",
     "source": "madelon_hooykaas",
     "evidence": "When  Elsa  was  at  the  Jan  van  Eyck  Academy,  she  wasn’t  really  seen  as  a  teacher",
     "confidence": "explicit",
     "page": 18
   },
   {
-    "fact": "year_joined(elsa, @1980).",
+    "fact": "year_joined(elsa_stansfield, @1980).",
     "source": "madelon_hooykaas",
     "evidence": "She started officially in December 1980 and she left in 1991-’92.",
     "confidence": "explicit",
     "page": 18
   },
   {
-    "fact": "year_left(elsa, @1991).",
+    "fact": "year_left(elsa_stansfield, @1991).",
     "source": "madelon_hooykaas",
     "evidence": "She started officially in December 1980 and she left in 1991-’92.",
     "confidence": "explicit",
@@ -2058,7 +2058,7 @@
     "page": 19
   },
   {
-    "fact": "created_by(day_for_night, elsa).",
+    "fact": "created_by(day_for_night, elsa_stansfield).",
     "source": "madelon_hooykaas",
     "evidence": "The piece we made, which we started here in Dundee called Day for Night, we actually showed for the first time in a Botanical garden in Montreal.",
     "confidence": "explicit",
@@ -2086,7 +2086,7 @@
     "page": null
   },
   {
-    "fact": "organisation(glasgow_art_school).",
+    "fact": "organisation(glasgow_school_of_art).",
     "source": "madelon_hooykaas",
     "evidence": "I think she was 16 when she went to Glasgow Art School.",
     "confidence": "explicit",
@@ -2100,7 +2100,7 @@
     "page": null
   },
   {
-    "fact": "studied_at(elsa_stansfield, glasgow_art_school).",
+    "fact": "studied_at(elsa_stansfield, glasgow_school_of_art).",
     "source": "madelon_hooykaas",
     "evidence": "I think she was 16 when she went to Glasgow Art School.",
     "confidence": "explicit",
