@@ -12,7 +12,12 @@
  * run is also logged to metadata/consolidation.json with the rationale for
  * each merge, so a diff can be understood later without re-deriving it.
  *
- *   npm run consolidate
+ *   npm run consolidate                       -- the model proposes groups
+ *   npm run consolidate -- --plan <file.json> -- apply reviewed groups, no model
+ *
+ * A plan file has the model's output shape:
+ * { "groups": [{ "canonical", "members", "rationale" }] }. Its groups go
+ * through the same validation and are logged the same way.
  */
 import * as fs from "node:fs";
 import * as path from "node:path";
@@ -142,6 +147,20 @@ async function proposeConsolidation(
   return JSON.parse(content) as ConsolidationProposal;
 }
 
+/** Reads a reviewed consolidation plan (the model's output shape); throws on a malformed file. */
+export function loadPlan(filePath: string): ConsolidationProposal {
+  const plan = JSON.parse(fs.readFileSync(filePath, "utf8")) as unknown;
+  const groups = (plan as { groups?: unknown })?.groups;
+  if (!Array.isArray(groups)) throw new Error(`${filePath}: expected { "groups": [...] }`);
+  groups.forEach((g, i) => {
+    const { canonical, members, rationale } = (g ?? {}) as Record<string, unknown>;
+    if (typeof canonical !== "string" || typeof rationale !== "string" || !Array.isArray(members) || !members.every((m) => typeof m === "string")) {
+      throw new Error(`${filePath}: group ${i + 1} needs a string canonical, a string array members and a string rationale`);
+    }
+  });
+  return plan as ConsolidationProposal;
+}
+
 export type GroupValidation = { ok: true } | { ok: false; reason: string };
 
 /** Structural/safety validation of one proposed group before it is ever applied. */
@@ -251,10 +270,17 @@ function loadAliasMap(): AliasMap {
 async function main() {
   loadDotEnv(path.join(ROOT, ".env"));
   loadDeclarationsFor(PREDICATES_DIR); // fail fast on an invalid config/predicate-declarations.json, before any model calls
+  const planIndex = process.argv.indexOf("--plan");
+  const planFile = planIndex >= 0 ? process.argv[planIndex + 1] : undefined;
+  if (planIndex >= 0 && !planFile) {
+    console.error("consolidate: --plan needs a file");
+    process.exitCode = 1;
+    return;
+  }
   const apiKey = process.env.OPENAI_API_KEY;
-  const model = process.env.OPENAI_MODEL;
-  if (!apiKey || !model) {
-    console.error("consolidate: OPENAI_API_KEY/OPENAI_MODEL are not set. Copy .env.example to .env and fill it in.");
+  const model = planFile ? `plan:${path.relative(ROOT, path.resolve(planFile))}` : (process.env.OPENAI_MODEL ?? "");
+  if (!planFile && (!apiKey || !model)) {
+    console.error("consolidate: OPENAI_API_KEY/OPENAI_MODEL are not set. Copy .env.example to .env and fill it in, or pass --plan <file>.");
     process.exitCode = 1;
     return;
   }
@@ -265,10 +291,15 @@ async function main() {
     return;
   }
 
-  console.log(`Scanning ${catalog.length} predicates for semantic duplicates using ${model}...`);
-  const client = new OpenAI({ apiKey });
-  const proposal = await proposeConsolidation(client, model, catalog);
-  console.log(`Model proposed ${proposal.groups.length} candidate group(s).\n`);
+  let proposal: ConsolidationProposal;
+  if (planFile) {
+    proposal = loadPlan(planFile);
+    console.log(`Applying ${proposal.groups.length} group(s) from ${model.slice("plan:".length)}.\n`);
+  } else {
+    console.log(`Scanning ${catalog.length} predicates for semantic duplicates using ${model}...`);
+    proposal = await proposeConsolidation(new OpenAI({ apiKey }), model, catalog);
+    console.log(`Model proposed ${proposal.groups.length} candidate group(s).\n`);
+  }
 
   const catalogByName = new Map(catalog.map((c) => [c.name, c]));
   const resolver = new EntityResolver({ aliases: loadAliasMap() });

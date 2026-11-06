@@ -413,7 +413,7 @@
     "page": 6
   },
   {
-    "fact": "active_in(mike_stubbs, miners_campaign_tapes).",
+    "fact": "involved_in(mike_stubbs, miners_campaign_tapes).",
     "source": "mike_stubbs",
     "evidence": "Certainly, I was active and I encouraged it and I shot some and edited some and went to the miners’ meetings and documented.",
     "confidence": "explicit",

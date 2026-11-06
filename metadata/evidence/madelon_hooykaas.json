@@ -175,7 +175,7 @@
     "page": 1
   },
   {
-    "fact": "length_minutes(running_time, 6).",
+    "fact": "duration_minutes(running_time, 6).",
     "source": "madelon_hooykaas",
     "evidence": "This work is a 6-minute long piece of a figure running in the landscape.",
     "confidence": "explicit",
@@ -245,7 +245,7 @@
     "page": 2
   },
   {
-    "fact": "music_by(one_of_these_days, delia_derbyshire).",
+    "fact": "soundtrack_by(one_of_these_days, delia_derbyshire).",
     "source": "madelon_hooykaas",
     "evidence": "with music by Delia Derbyshire. We gave her a composition possibility, to make a new soundtrack.",
     "confidence": "explicit",
@@ -1484,14 +1484,14 @@
     "page": null
   },
   {
-    "fact": "contributed_text(josine_van_droffelaar, audio_video_installations_catalogue).",
+    "fact": "wrote_for(josine_van_droffelaar, audio_video_installations_catalogue).",
     "source": "madelon_hooykaas",
     "evidence": "the text by Josine van Droffelaar in the Audio Video Installations catalogue",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "worked_at(josine_van_droffelaar, de_appel).",
+    "fact": "employed_by(josine_van_droffelaar, de_appel).",
     "source": "madelon_hooykaas",
     "evidence": "She was one of the people who worked also at De Appel Foundation.",
     "confidence": "explicit",
@@ -1568,7 +1568,7 @@
     "page": null
   },
   {
-    "fact": "original_name_of(association_of_video_artists_in_the_netherlands, time_based_arts_in_amsterdam).",
+    "fact": "renamed_as(association_of_video_artists_in_the_netherlands, time_based_arts_in_amsterdam).",
     "source": "madelon_hooykaas",
     "evidence": "At first, we wanted to create an association, which was the Association of Video Makers in the Netherlands. Then, because we wanted to get funding, we needed to become a Foundation. So, we called it, the Foundation Time-based Arts.",
     "confidence": "explicit",
@@ -2100,7 +2100,7 @@
     "page": null
   },
   {
-    "fact": "studied_at(elsa_stansfield, glasgow_school_of_art).",
+    "fact": "educated_at(elsa_stansfield, glasgow_school_of_art).",
     "source": "madelon_hooykaas",
     "evidence": "I think she was 16 when she went to Glasgow Art School.",
     "confidence": "explicit",

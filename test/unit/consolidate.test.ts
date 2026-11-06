@@ -3,7 +3,7 @@ import assert from "node:assert/strict";
 import * as fs from "node:fs";
 import * as path from "node:path";
 import * as os from "node:os";
-import { applyGroup, buildCatalog, validateGroup } from "../../src/consolidate.js";
+import { applyGroup, buildCatalog, loadPlan, validateGroup } from "../../src/consolidate.js";
 import { readExistingPropositions } from "../../src/serialize.js";
 import type { ConsolidationGroup, PredicateCatalogEntry } from "../../src/types.js";
 
@@ -142,5 +142,19 @@ test("applyGroup updates evidence sidecars for merged-away predicates", () => {
 
     const evidence = JSON.parse(fs.readFileSync(path.join(evidenceDir, "kevin_atherton.json"), "utf8"));
     assert.equal(evidence[0].fact, "employed_by(kevin_atherton, chelsea).");
+  });
+});
+
+test("loadPlan reads a reviewed plan and rejects malformed groups", () => {
+  withTempDir((dir) => {
+    const good = path.join(dir, "good.json");
+    fs.writeFileSync(good, JSON.stringify({ groups: [{ canonical: "taught_at", members: ["taught_at", "teaching_at"], rationale: "same relation" }] }));
+    assert.deepEqual(loadPlan(good).groups[0]!.members, ["taught_at", "teaching_at"]);
+
+    const bad = path.join(dir, "bad.json");
+    fs.writeFileSync(bad, JSON.stringify({ groups: [{ canonical: "taught_at", members: "teaching_at" }] }));
+    assert.throws(() => loadPlan(bad), /group 1/);
+    fs.writeFileSync(bad, JSON.stringify([]));
+    assert.throws(() => loadPlan(bad), /expected/);
   });
 });

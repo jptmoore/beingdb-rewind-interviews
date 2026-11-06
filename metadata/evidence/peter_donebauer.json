@@ -651,7 +651,7 @@
     "page": null
   },
   {
-    "fact": "music_by(mandala, mike_ray).",
+    "fact": "soundtrack_by(mandala, mike_ray).",
     "source": "peter_donebauer",
     "evidence": "Mike Ray...who edited and did the music on Mandala.",
     "confidence": "explicit",

@@ -4,7 +4,10 @@
 % The %! declaration below is maintained in config/predicate-declarations.json.
 
 %! reviewed_in(WorkOrArtist, Publication)
-% Relates a work, or an artist, to a publication in which it was reviewed.
+% Relates a work, or an artist, to a publication in which it was reviewed or discussed.
 reviewed_in(between_the_lines, the_sunday_times).
 reviewed_in(david_critchley, art_and_artists).
+reviewed_in(david_critchley, independent_media).
+reviewed_in(david_critchley, readings_magazine).
 reviewed_in(david_critchley, studio_international).
+reviewed_in(david_critchley, the_kitchen).

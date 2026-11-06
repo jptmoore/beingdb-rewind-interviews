@@ -7,3 +7,4 @@
 % Relates a person to an organisation they approached with a proposal.
 approached(alistair_macintosh, scottish_television).
 approached(david_hall, scottish_television).
+approached(rose_garrard, malvern_town_council).

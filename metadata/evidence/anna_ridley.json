@@ -497,7 +497,7 @@
     "page": null
   },
   {
-    "fact": "set_up_at(the_other_side, de_la_warr_pavilion).",
+    "fact": "installed_at(the_other_side, de_la_warr_pavilion).",
     "source": "anna_ridley",
     "evidence": "commissioned by the De La Warr Pavilion in Bexhill-on-Sea where it was set-up for its premiere.",
     "confidence": "explicit",

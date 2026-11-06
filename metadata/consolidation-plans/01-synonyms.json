@@ -1,0 +1,164 @@
+{
+  "_comment": "Reviewed synonym merges (same arity and argument order). Applied with: npm run consolidate -- --plan metadata/consolidation-plans/01-synonyms.json",
+  "groups": [
+    {
+      "canonical": "educated_at",
+      "members": [
+        "educated_at",
+        "studied_at"
+      ],
+      "rationale": "Both relate a person to an institution where they studied, with the same argument order."
+    },
+    {
+      "canonical": "taught_at",
+      "members": [
+        "taught_at",
+        "teaching_at"
+      ],
+      "rationale": "Both relate a person to an institution where they taught, with the same argument order."
+    },
+    {
+      "canonical": "employed_by",
+      "members": [
+        "employed_by",
+        "worked_at"
+      ],
+      "rationale": "Both relate a person to an organisation they worked for; employed_by is the established name with more facts."
+    },
+    {
+      "canonical": "duration_minutes",
+      "members": [
+        "duration_minutes",
+        "length_minutes"
+      ],
+      "rationale": "Both record a work's running time in minutes."
+    },
+    {
+      "canonical": "soundtrack_by",
+      "members": [
+        "soundtrack_by",
+        "music_by",
+        "provided_soundtrack"
+      ],
+      "rationale": "All relate a work to the person who made its music or soundtrack."
+    },
+    {
+      "canonical": "broadcast_by",
+      "members": [
+        "broadcast_by",
+        "broadcast_on"
+      ],
+      "rationale": "Both relate a work to the broadcaster or channel that transmitted it."
+    },
+    {
+      "canonical": "filmed_at",
+      "members": [
+        "filmed_at",
+        "shot_in"
+      ],
+      "rationale": "Both relate a work to a location where its footage was filmed."
+    },
+    {
+      "canonical": "installed_at",
+      "members": [
+        "installed_at",
+        "set_up_at"
+      ],
+      "rationale": "Both relate an installation work to the place where it was installed."
+    },
+    {
+      "canonical": "funded_by",
+      "members": [
+        "funded_by",
+        "received_funding_from",
+        "awarded_grant"
+      ],
+      "rationale": "All relate a recipient to an organisation that funded it, in the same argument order."
+    },
+    {
+      "canonical": "influenced_by",
+      "members": [
+        "influenced_by",
+        "inspired_by"
+      ],
+      "rationale": "Both relate an artist to a person whose work influenced or inspired them."
+    },
+    {
+      "canonical": "performed_in",
+      "members": [
+        "performed_in",
+        "performed_work"
+      ],
+      "rationale": "Both relate a performer to a work they performed in."
+    },
+    {
+      "canonical": "invited_to",
+      "members": [
+        "invited_to",
+        "invited_by"
+      ],
+      "rationale": "invited_by's second argument is already the event a person was invited to, as in invited_to."
+    },
+    {
+      "canonical": "renamed_as",
+      "members": [
+        "renamed_as",
+        "original_name_of"
+      ],
+      "rationale": "Both relate an organisation's earlier form to its later name, in the same argument order."
+    },
+    {
+      "canonical": "involved_in",
+      "members": [
+        "involved_in",
+        "involved_with",
+        "active_in",
+        "participated_in"
+      ],
+      "rationale": "All relate a person to an organisation, project, programme or activity they took part in."
+    },
+    {
+      "canonical": "wrote_for",
+      "members": [
+        "wrote_for",
+        "contributed_text"
+      ],
+      "rationale": "Both relate a writer to a publication they wrote for."
+    },
+    {
+      "canonical": "reviewed_in",
+      "members": [
+        "reviewed_in",
+        "work_discussed_in"
+      ],
+      "rationale": "Both relate a work or artist to a publication that reviewed or discussed it."
+    },
+    {
+      "canonical": "approached",
+      "members": [
+        "approached",
+        "made_proposal_to"
+      ],
+      "rationale": "Both relate a person to an organisation they approached with a proposal."
+    },
+    {
+      "canonical": "made_at",
+      "members": [
+        "made_at",
+        "used_facilities"
+      ],
+      "rationale": "Both relate a work to the institution or place where it was made."
+    },
+    {
+      "canonical": "exhibited_at",
+      "members": [
+        "exhibited_at",
+        "showed_at",
+        "uses_venue",
+        "work_shown_in",
+        "selected_for"
+      ],
+      "rationale": "All relate a work or artist to a venue or exhibition where work was shown, in the same argument order."
+    }
+  ]
+}

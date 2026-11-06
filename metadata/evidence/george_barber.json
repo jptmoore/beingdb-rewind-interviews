@@ -287,7 +287,7 @@
     "page": 5
   },
   {
-    "fact": "broadcast_on(upside_down_minutiae, channel_4).",
+    "fact": "broadcast_by(upside_down_minutiae, channel_4).",
     "source": "george_barber",
     "evidence": "I was on one for 4 minutes with Upside Down Minutiae.",
     "confidence": "explicit",
@@ -973,7 +973,7 @@
     "page": 17
   },
   {
-    "fact": "received_funding_from(george_barber, arts_council_of_great_britain).",
+    "fact": "funded_by(george_barber, arts_council_of_great_britain).",
     "source": "george_barber",
     "evidence": "we couldn’t because of Arts Council funding and the threat of\nbeing sued.",
     "confidence": "explicit",

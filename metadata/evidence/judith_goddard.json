@@ -581,14 +581,14 @@
     "page": null
   },
   {
-    "fact": "inspired_by(judith_goddard, william_blake).",
+    "fact": "influenced_by(judith_goddard, william_blake).",
     "source": "judith_goddard",
     "evidence": "I was brought up with Songs of Innocence by William Blake. That experience and Blake had always been part of my childhood landscape.",
     "confidence": "explicit",
     "page": null
   },
   {
-    "fact": "inspired_by(judith_goddard, t_s_eliot).",
+    "fact": "influenced_by(judith_goddard, t_s_eliot).",
     "source": "judith_goddard",
     "evidence": "Later, I read The Wasteland. I could probably still recite The Burial of the Dead by T.S. Eliot because I learnt it when I was 15 or 16. So, T.S. Eliot’s London became part of my kind of imagined landscape before I ever lived here.",
     "confidence": "explicit",
@@ -833,7 +833,7 @@
     "page": null
   },
   {
-    "fact": "uses_venue(silver_lining, tate_liverpool).",
+    "fact": "exhibited_at(silver_lining, tate_liverpool).",
     "source": "judith_goddard",
     "evidence": "I did a piece for Tate Liverpool, which was a Video Wall commission, called Silver Lining.",
     "confidence": "explicit",
@@ -910,7 +910,7 @@
     "page": null
   },
   {
-    "fact": "uses_venue(reservoir, southampton).",
+    "fact": "exhibited_at(reservoir, southampton).",
     "source": "judith_goddard",
     "evidence": "Reservoir, which was originally commissioned for Southampton and went to Portugal, was also shown at Tate Liverpool.",
     "confidence": "explicit",

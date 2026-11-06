@@ -4,5 +4,6 @@
 % The %! declaration below is maintained in config/predicate-declarations.json.
 
 %! broadcast_by(Work, Broadcaster)
-% Relates a work to the broadcaster or station that transmitted it.
+% Relates a work to the broadcaster, station or channel that transmitted it.
 broadcast_by(lighthouse, community_radio).
+broadcast_by(upside_down_minutiae, channel_4).

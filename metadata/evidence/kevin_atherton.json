@@ -336,7 +336,7 @@
     "page": null
   },
   {
-    "fact": "studied_at(kevin_atherton, leeds_college_of_art).",
+    "fact": "educated_at(kevin_atherton, leeds_college_of_art).",
     "source": "kevin_atherton",
     "evidence": "I worked with film at Leeds College of Art where I made films",
     "confidence": "explicit",
@@ -728,7 +728,7 @@
     "page": 13
   },
   {
-    "fact": "selected_for(kevin_atherton, british_art_show).",
+    "fact": "exhibited_at(kevin_atherton, british_art_show).",
     "source": "kevin_atherton",
     "evidence": "who selected me for the British Art Show, with the Coronation Street piece,",
     "confidence": "explicit",
@@ -917,7 +917,7 @@
     "page": 15
   },
   {
-    "fact": "participated_in(kevin_atherton, video_artists_on_tour).",
+    "fact": "involved_in(kevin_atherton, video_artists_on_tour).",
     "source": "kevin_atherton",
     "evidence": "There were good schemes like Video Artists’ on Tour. I was on that.",
     "confidence": "explicit",
@@ -973,7 +973,7 @@
     "page": null
   },
   {
-    "fact": "performed_work(kevin_atherton, an_audience_s_new_clothes).",
+    "fact": "performed_in(kevin_atherton, an_audience_s_new_clothes).",
     "source": "kevin_atherton",
     "evidence": "The piece was called An Audience’s New Clothes",
     "confidence": "explicit",

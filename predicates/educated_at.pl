@@ -18,6 +18,7 @@ educated_at(george_barber, slade_school_of_fine_art).
 educated_at(george_barber, st_martins).
 educated_at(judith_goddard, royal_college_of_art).
 educated_at(kevin_atherton, leeds_college_of_art).
+educated_at(madelon_hooykaas, ealing_school_of_art).
 educated_at(mike_stubbs, cardiff_art_college).
 educated_at(mike_stubbs, royal_college_of_art).
 educated_at(peter_donebauer, royal_college_of_art).

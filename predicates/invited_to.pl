@@ -4,10 +4,11 @@
 % The %! declaration below is maintained in config/predicate-declarations.json.
 
 %! invited_to(Person, Host)
-% Relates a person to an institution or event they were invited to visit or take part in.
+% Relates a person to an institution, exhibition or event they were invited to visit or take part in.
 invited_to(bridget_riley, jan_van_eyck_academy).
 invited_to(david_hall, locations_edinburgh).
 invited_to(joan_jonas, jan_van_eyck_academy).
 invited_to(john_latham, jan_van_eyck_academy).
 invited_to(marina_abramovich, jan_van_eyck_academy).
+invited_to(mick_hartney, video_manifestation).
 invited_to(ulrike_rosenbach, jan_van_eyck_academy).

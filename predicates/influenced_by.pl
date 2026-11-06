@@ -4,7 +4,9 @@
 % The %! declaration below is maintained in config/predicate-declarations.json.
 
 %! influenced_by(Artist, Influence)
-% Relates an artist to a person who influenced their work.
+% Relates an artist to a person, such as an artist or writer, who influenced or inspired their work.
+influenced_by(judith_goddard, t_s_eliot).
+influenced_by(judith_goddard, william_blake).
 influenced_by(peter_donebauer, hans_jenning).
 influenced_by(peter_donebauer, kandinsky).
 influenced_by(peter_donebauer, turner).

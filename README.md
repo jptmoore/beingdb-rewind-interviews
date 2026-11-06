@@ -17,7 +17,7 @@ with nothing to install.
 ## What's here
 
 ```
-predicates/          the facts: one file per predicate (168 files)
+predicates/          the facts: one file per predicate (142 files)
 config/predicate-declarations.json   argument roles and descriptions for each predicate
 metadata/evidence/   the interview quote behind each fact, per artist
 site/beingdb.json    the browser site's title, description and example queries
@@ -79,6 +79,20 @@ Edit the files in `predicates/` directly:
 To change a predicate's argument roles or description, edit it in
 `config/predicate-declarations.json`, then run `npm install` (once) and
 `npm run declarations` to update the `%!` lines in `predicates/`.
+
+To merge predicates that record the same relation, list them in a plan file
+like [`metadata/consolidation-plans/01-synonyms.json`](metadata/consolidation-plans/01-synonyms.json)
+(the members must have the same number of arguments in the same order) and run
+`npm run consolidate -- --plan <file>`. It merges the facts, updates the
+evidence in `metadata/` and logs each merge in `metadata/consolidation.json`.
+Then remove the merged-away predicates from
+`config/predicate-declarations.json` and run `npm run declarations`.
+
+To merge two atoms for the same thing, run
+`npm run reconcile -- old_atom=new_atom`, and add the name to
+`config/entity-aliases.json` (or, for a name that means different things in
+different interviews, to that interview's `idOverrides` in
+`config/interviews.json`) so future extractions use the same atom.
 
 ## Build a new output
 

@@ -483,7 +483,7 @@
     "page": 11
   },
   {
-    "fact": "teaching_at(rose_garrard, corydon).",
+    "fact": "taught_at(rose_garrard, corydon).",
     "source": "rose_garrard",
     "evidence": "For a time at Corydon, I ran the video department, which had been set up about 10 or 15 years before, so it was very out of date when I got there.",
     "confidence": "explicit",
@@ -518,7 +518,7 @@
     "page": 11
   },
   {
-    "fact": "teaching_at(rose_garrard, dartington).",
+    "fact": "taught_at(rose_garrard, dartington).",
     "source": "rose_garrard",
     "evidence": "I think my best year ever was the year that I was invited to Dartington for the first time.",
     "confidence": "explicit",
@@ -602,7 +602,7 @@
     "page": 14
   },
   {
-    "fact": "made_proposal_to(rose_garrard, malvern_town_council).",
+    "fact": "approached(rose_garrard, malvern_town_council).",
     "source": "rose_garrard",
     "evidence": "I made a proposal to Malvern Town Council in response to an appeal in the paper from them for ideas to regenerate Malvern, which had been my hometown.",
     "confidence": "explicit",

@@ -5,4 +5,5 @@
 
 %! performed_in(Performer, Work)
 % Relates a person to a work in which they performed or appeared.
+performed_in(kevin_atherton, an_audience_s_new_clothes).
 performed_in(richard_baker, this_is_a_television_receiver).

@@ -4,5 +4,6 @@
 % The %! declaration below is maintained in config/predicate-declarations.json.
 
 %! installed_at(Work, Location)
-% Relates a work to the location where it is installed.
+% Relates an installation work to the place or venue where it was installed or set up.
 installed_at(spout_sculpture, belle_vue_island).
+installed_at(the_other_side, de_la_warr_pavilion).
