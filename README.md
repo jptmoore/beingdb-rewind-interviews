@@ -72,9 +72,20 @@ Edit the files in `predicates/` directly:
 - Use the same atom for the same thing everywhere, so facts join up across
   predicates: `created_by(tape_tape, kevin_atherton)` and
   `year_created(tape_tape, @1975)` together say when Kevin Atherton made
-  *Tape*.
-- A new predicate is a new file, `predicates/<name>.pl`.
+  *Tape*. Use the full name (`slade_school_of_fine_art`, not `slade`), so
+  short forms and first names don't become separate entities.
+- Before adding a predicate, look for an existing one that records the same
+  relation (`educated_at`, not a new `studied_at`), and keep its argument
+  order. A new predicate is a new file, `predicates/<name>.pl`, with a
+  declaration in `config/predicate-declarations.json`.
+- Keep one kind of value per argument: if a position holds atoms, don't add
+  text there (a query matches only one kind).
 - Lines starting with `%` are comments.
+
+`npm run lint` checks these conventions: it fails on a predicate a
+consolidation plan merged away, a predicate without roles or a description,
+or an argument mixing atoms and text, and lists single-fact predicates and
+atoms that may be duplicates for review.
 
 To change a predicate's argument roles or description, edit it in
 `config/predicate-declarations.json`, then run `npm install` (once) and
@@ -107,6 +118,7 @@ cloned next to this repository:
 ```bash
 git clone https://github.com/jptmoore/beingdb-wasm.git ../beingdb-wasm   # once
 
+npm run lint
 npm run build-site
 git add predicates docs
 git commit -m "Update facts"
